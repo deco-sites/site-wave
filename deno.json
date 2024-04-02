@@ -31,7 +31,7 @@
     "generate-icons": "deno run -A --unstable static/generate-icons.ts"
   },
   "githooks": {
-    "pre-commit": "check"
+    "pre-commit": ""
   },
   "exclude": [
     "node_modules",

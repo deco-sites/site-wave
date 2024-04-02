@@ -417,7 +417,7 @@ export const colorClasses = {
   "Primary": "bg-primary text-primary-content",
   "Secondary": "bg-secondary text-secondary-content",
   "Tertiary": "bg-accent text-accent-content",
-  "Base": "bg-base-100 text-base-content",
+  "Base": "bg-black text-white",
   "Base inverted": "bg-base-content text-base-100",
 };
 
@@ -427,7 +427,7 @@ export const borderColorClasses = {
   "Primary": "border-primary-content",
   "Secondary": "border-secondary-content",
   "Tertiary": "border-accent-content",
-  "Base": "border-base-content",
+  "Base": "bg-black text-white",
   "Base inverted": "border-base-100",
 };
 

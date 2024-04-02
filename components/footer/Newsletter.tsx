@@ -47,7 +47,7 @@ function Newsletter(
     <div
       class={clx(
         "flex flex-col gap-4",
-        tiled && "lg:flex-row lg:w-full lg:justify-between",
+        tiled && "lg:w-full lg:justify-between",
       )}
     >
       <div class="flex flex-col gap-4">
