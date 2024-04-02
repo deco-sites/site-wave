@@ -1,4 +1,3 @@
-import Form from "deco-sites/site-wave/components/ui/FormComponents.tsx";
 
 interface Props {
   text: string;
