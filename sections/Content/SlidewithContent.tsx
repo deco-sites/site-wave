@@ -1,4 +1,5 @@
 import type { ImageWidget } from "apps/admin/widgets.ts";
+import Button from "deco-sites/site-wave/components/ui/Button.tsx";
 
 interface Image {
   image?: ImageWidget;
@@ -68,16 +69,16 @@ export default function SlidewithContent(card: Card) {
           <h5 className="text-white lg:text-start text-[30px] font-bold leading-[35px] text-center">
             {title}
           </h5>
-          <p className="lg:text-start text-white mt-3 text-base text-center">
+          <p className="lg:text-start text-white my-3 text-base text-center">
             {subtitle}
           </p>
           <div>
-            <button
+            <Button
               className="btn-brand px-5 py-2 text-white mt-4 text-center"
               href={href}
             >
               {ctaLabel}
-            </button>
+            </Button>
           </div>
         </div>
       </div>

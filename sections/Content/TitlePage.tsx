@@ -11,7 +11,7 @@ const TitlePage = (
   return (
     <div class="bg-black">
       <p
-        class={`text-[30px] text-white font-bold text-center px-[30px] py-[70px] ${
+        class={`text-[29px] text-white font-bold text-center px-[30px] py-[70px] ${
           columnReversed
             ? "flex flex-col-reverse lg:flex-row-reverse lg:justify-center"
             : ""

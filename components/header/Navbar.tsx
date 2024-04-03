@@ -6,6 +6,7 @@ import Image from "apps/website/components/Image.tsx";
 import NavItem from "./NavItem.tsx";
 import { navbarHeight } from "./constants.ts";
 import { Logo } from "../../components/header/Header.tsx";
+import Button from "deco-sites/site-wave/components/ui/Button.tsx";
 
 // Make it sure to render it on the server only. DO NOT render it on an island
 function Navbar(
@@ -94,9 +95,9 @@ function Navbar(
       </ul>
       <ul>
         <li>
-          <a class="btn-brand px-8 py-2" href="/contato">
-            Entre em <b>Contato</b>
-          </a>
+          <Button href="/contato">
+            Entre em Contato
+          </Button>
         </li>
       </ul>
     </div>

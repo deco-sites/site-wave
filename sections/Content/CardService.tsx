@@ -1,4 +1,5 @@
 import type { ImageWidget } from "apps/admin/widgets.ts";
+import Button from "deco-sites/site-wave/components/ui/Button.tsx";
 
 interface Card {
   content?: string;
@@ -21,20 +22,19 @@ const CardService = ({ cards }: Props) => {
             key={index}
             className="bg-[#0A0A0A] rounded-lg flex py-[40px] mb-5 lg:justify-between lg:max-w-[522px]"
           >
-            <div className="ml-10 flex flex-col w-full">
+            <div className="ml-10 flex flex-col w-full justify-between">
               {card.isEmptyBrand && (
                 <span className="visual-brand my-3 w-[61px]"></span>
               )}
               <p className="text-[26px] text-white my-5 lg:my-0 leading-[35px] font-bold">
                 {card.content}
               </p>
-              <a
+              <Button
                 style={`width:fit-content;`}
-                className="text-white btn-brand py-1 px-6 mt-5 text-sm lg:w-fit "
                 href={card.link}
               >
                 {card.label}
-              </a>
+              </Button>
             </div>
             <div class="mr-10">
               <img

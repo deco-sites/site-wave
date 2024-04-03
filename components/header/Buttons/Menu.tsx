@@ -6,7 +6,7 @@ export default function MenuButton() {
   const { displayMenu } = useUI();
 
   return (
-    <Button
+    <button
       class="btn btn-circle md:btn-sm btn-xs btn-ghost"
       aria-label="open menu"
       onClick={() => {
@@ -14,6 +14,6 @@ export default function MenuButton() {
       }}
     >
       <Icon id="Bars3" class="text-white" size={20} strokeWidth={0.01} />
-    </Button>
+    </button>
   );
 }
