@@ -58,7 +58,9 @@ function Newsletter(
             {content?.title}
           </h4>
         )}
-        {content?.description && <div class="lg:max-w-[274px]">{content?.description}</div>}
+        {content?.description && (
+          <div class="lg:max-w-[274px]">{content?.description}</div>
+        )}
       </div>
       <div class="flex flex-col gap-4">
         <form
