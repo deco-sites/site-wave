@@ -125,7 +125,6 @@
   }
 
   .scroll-container{
-    max-width: 600px;
     mask-image: linear-gradient(90deg, transparent, white 20%, white 80%, transparent);
     overflow: hidden;
     margin: 0 auto;

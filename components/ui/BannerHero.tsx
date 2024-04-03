@@ -53,9 +53,9 @@ export default function BannerHero({
           <span className="text-white text-xs mt-[60px]">
             <b>{label}</b>
           </span>
-          <div className="flex items-center">
+          <div className="flex items-center ">
             <ul
-              class="scroll-container"
+              class="scroll-container max-w-[200px] lg:max-w-[600px]"
               style="--animation-direction: normal; --animation-time: 25s; margin:0;"
             >
               <li class="scroll-items">
