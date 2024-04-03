@@ -1,5 +1,5 @@
 import { AnalyticsItem } from "apps/commerce/types.ts";
-import Button from "../../../../components/ui/Button.tsx";
+import Button from "deco-sites/site-wave/components/ui/Button.tsx";
 import Icon from "../../../../components/ui/Icon.tsx";
 import { sendEvent } from "../../../../sdk/analytics.tsx";
 import { useUI } from "../../../../sdk/useUI.ts";

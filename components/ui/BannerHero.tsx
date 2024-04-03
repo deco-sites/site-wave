@@ -37,13 +37,13 @@ export default function BannerHero({
   return (
     <a
       id={id}
-      href={action?.href ?? '#'}
+      href={action?.href ?? "#"}
       aria-label={action?.label}
       className="relative overflow-y-hidden w-full"
     >
       {action && (
         <div className="absolute top-[180px] md:bottom-0 bottom-1/2 lg:left-[138px] left-0 right-0 sm:right-auto lg:max-w-[612px] flex flex-col justify-center gap-4 pl-8 py-12">
-          <span className={`${isEmptyBrand ? 'visual-brand w-[70px]' : ''}`} />
+          <span className={`${isEmptyBrand ? "visual-brand w-[70px]" : ""}`} />
           <span className="text-[21px] lg:text-[50px] font-bold text-white max-w-[260px] lg:max-w-[580px]">
             {action.title}
           </span>
@@ -54,8 +54,10 @@ export default function BannerHero({
             <b>{label}</b>
           </span>
           <div className="flex items-center">
-            <ul class="scroll-container"
-              style="--animation-direction: normal; --animation-time: 25s; margin:0;">
+            <ul
+              class="scroll-container"
+              style="--animation-direction: normal; --animation-time: 25s; margin:0;"
+            >
               <li class="scroll-items">
                 {icon &&
                   icon.map((item, index) => (
@@ -72,13 +74,13 @@ export default function BannerHero({
       )}
       <img
         className="object-cover w-full h-full hidden lg:block"
-        loading={lcp ? 'eager' : 'lazy'}
+        loading={lcp ? "eager" : "lazy"}
         src={desktop}
         alt={alt}
       />
       <img
         className="object-cover lg:hidden"
-        loading={lcp ? 'eager' : 'lazy'}
+        loading={lcp ? "eager" : "lazy"}
         src={mobile}
         alt={alt}
       />

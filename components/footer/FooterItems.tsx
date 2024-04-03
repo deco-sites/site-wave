@@ -19,9 +19,8 @@ export default function FooterItems(
         <>
           {/* Tablet and Desktop view */}
           <ul
-            class={`hidden md:flex flex-row gap-6 lg:gap-10 ${
-              justify && "lg:justify-between"
-            }`}
+            class={`hidden md:flex flex-row gap-6 lg:gap-10 ${justify && "lg:justify-between"
+              }`}
           >
             {sections.map((section) => (
               <li>
@@ -32,7 +31,7 @@ export default function FooterItems(
                   <ul class={`flex flex-col gap-2 flex-wrap text-sm`}>
                     {section.items?.map((item) => (
                       <li>
-                        <a href={item.href} class="block py-1 link link-hover">
+                        <a href={item.href} class="block py-1 link link-hover text-[#757575]">
                           {item.label}
                         </a>
                       </li>
@@ -44,33 +43,22 @@ export default function FooterItems(
           </ul>
 
           {/* Mobile view */}
-          <ul class="flex flex-col md:hidden gap-4">
+          <ul class="flex-col md:hidden gap-4 mt-10 grid grid-cols-2">
             {sections.map((section) => (
-              <li>
-                <div class="collapse collapse-arrow ">
-                  <input id={section.label} type="checkbox" class="min-h-[0]" />
-                  <label
-                    htmlFor={section.label}
-                    class="collapse-title min-h-[0] !p-0 flex gap-2"
-                  >
-                    <span>{section.label}</span>
-                  </label>
-                  <div class="collapse-content">
-                    <ul
-                      class={`flex flex-col gap-1 pl-5 pt-2`}
-                    >
-                      {section.items?.map((item) => (
-                        <li>
-                          <a
-                            href={item.href}
-                            class="block py-1 link link-hover"
-                          >
-                            {item.label}
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </div>
+              <li class="fit">
+                <div class="flex flex-col gap-2">
+                  <span class="font-medium text-lg">
+                    {section.label}
+                  </span>
+                  <ul class={`flex flex-col gap-2 flex-wrap text-sm`}>
+                    {section.items?.map((item) => (
+                      <li>
+                        <a href={item.href} class="block py-1 link link-hover text-[#757575]">
+                          {item.label}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
                 </div>
               </li>
             ))}
