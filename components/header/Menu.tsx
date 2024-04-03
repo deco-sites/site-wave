@@ -11,7 +11,8 @@ function MenuItem({ item }: { item: SiteNavigationElement }) {
   return (
     <div class="collapse">
       <input type="checkbox" />
-      <div class="collapse-title text-white flex flex-row justify-between items-center">{item.name}
+      <div class="collapse-title text-white flex flex-row justify-between items-center">
+        {item.name}
         <svg
           xmlns="http://www.w3.org/2000/svg"
           width="15"
