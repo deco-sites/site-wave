@@ -51,9 +51,7 @@ function Navbar(
         <div class="w-2/5">
           <ul>
             <li class="flex">
-              <Button
-                href="/contato"
-              >
+              <Button href="/contato">
                 Entre em <b>Contato</b>
               </Button>
             </li>

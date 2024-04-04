@@ -6,7 +6,6 @@ import Loading from "deco-sites/site-wave/components/ui/Loading.tsx";
 import Button from "deco-sites/site-wave/components/ui/Button.tsx";
 import Depoiment from "deco-sites/site-wave/sections/Institutionals/Depoiment.tsx";
 
-
 interface Subject {
   label: string;
 }
@@ -25,8 +24,8 @@ interface FormCardProps {
    */
   plataform: Subject[];
   /**
-  * @title Recomendação
-  */
+   * @title Recomendação
+   */
   recommendation: Subject[];
 }
 
@@ -71,10 +70,10 @@ export default function FormCard(
     const name = get<HTMLInputElement>("[name=atendimento-name]").value;
     const phone = get<HTMLInputElement>("[name=atendimento-tel]").value;
     const email = get<HTMLInputElement>("[name=atendimento-email]").value;
-    const plataform = get<HTMLInputElement>("[name=atendimento-plataform]").value;
-    const recommendation = get<HTMLInputElement>("[name=atendimento-recommendation]").value;
-
-
+    const plataform =
+      get<HTMLInputElement>("[name=atendimento-plataform]").value;
+    const recommendation =
+      get<HTMLInputElement>("[name=atendimento-recommendation]").value;
 
     const message =
       get<HTMLTextAreaElement>("[name=atendimento-message]").value;
@@ -105,7 +104,6 @@ export default function FormCard(
 
     if (file) {
       data.fileName = fileName;
-
     }
 
     try {
@@ -175,8 +173,6 @@ export default function FormCard(
           />
         </div>
         <div class="px-3 lg:px-0">
-
-
           <form
             class="flex w-full flex-col gap-6 bg-[#0A0A0A] p-6 rounded-3xl"
             onSubmit={async (e) => {
@@ -211,7 +207,6 @@ export default function FormCard(
                 <Form.Input.Label>E-mail Corporativo*</Form.Input.Label>
               </Form.Input.Container>
 
-
               <Form.Input.Container>
                 <Form.Input.Input
                   type="tel"
@@ -237,8 +232,6 @@ export default function FormCard(
                 />
                 <Form.Input.Label>Telefone/Whatsapp*</Form.Input.Label>
               </Form.Input.Container>
-
-
 
               <Form.Input.Container class="">
                 <Form.Input.Input
@@ -268,7 +261,9 @@ export default function FormCard(
                   pattern="^\S+@\S+\.\S+$"
                   required
                 />
-                <Form.Input.Label>Qual o faturamento mensal da sua empresa?*</Form.Input.Label>
+                <Form.Input.Label>
+                  Qual o faturamento mensal da sua empresa?*
+                </Form.Input.Label>
               </Form.Input.Container>
 
               <Form.Select
@@ -317,22 +312,25 @@ export default function FormCard(
                   name="atendimento-message"
                   required
                 />
-                <Form.TextArea.Label>Como podemos ajudar? *</Form.TextArea.Label>
+                <Form.TextArea.Label>
+                  Como podemos ajudar? *
+                </Form.TextArea.Label>
               </Form.TextArea.Container>
             </div>
 
             <Form.Checkbox.Container>
               <Form.Checkbox.Input required name="privacy" />
               <div class="text-sm font-medium text-dark leading-4">
-                Gostaria de receber nossos e-mails com estratégias e materiais sobre marketing digital?*
+                Gostaria de receber nossos e-mails com estratégias e materiais
+                sobre marketing digital?*
                 <a
                   href="/politicas/privacidade"
                   class="font-bold underline"
                 >
-                </a>{" "}
+                </a>
+                {" "}
               </div>
             </Form.Checkbox.Container>
-
 
             <Button
               type="submit"
