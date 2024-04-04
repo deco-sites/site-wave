@@ -92,9 +92,9 @@ function Navbar(
       </ul>
       <ul>
         <li>
-          <Button href="/contato">
+          <a href="/contato">
             Entre em Contato
-          </Button>
+          </a>
         </li>
       </ul>
     </div>
