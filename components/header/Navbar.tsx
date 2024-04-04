@@ -51,12 +51,11 @@ function Navbar(
         <div class="w-2/5">
           <ul>
             <li class="flex">
-              <a
+              <Button
                 href="/contato"
-                class="btn-brand w-full px-2 py-1 text-center text-sm"
               >
                 Entre em <b>Contato</b>
-              </a>
+              </Button>
             </li>
           </ul>
         </div>
