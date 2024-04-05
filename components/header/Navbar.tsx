@@ -60,9 +60,9 @@ function Navbar(
         <div class="w-2/5">
           <ul>
             <li class="flex">
-              <Button href="/contato">
+              <a href="/contato">
                 Entre em <b>Contato</b>
-              </Button>
+              </a>
             </li>
           </ul>
         </div>
@@ -105,7 +105,9 @@ function Navbar(
       </ul>
       <ul>
         <li>
-          <a href="/contato">
+          <a
+          class=" bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white px-5 py-1" 
+          href="/contato">
             Entre em Contato
           </a>
         </li>
