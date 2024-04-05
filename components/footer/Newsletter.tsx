@@ -67,7 +67,7 @@ function Newsletter(
           class="form-control"
           onSubmit={handleSubmit}
         >
-          <div class="flex flex-wrap border border-[#404040] lg:fit rounded-[33px]">
+          <div class="flex border border-[#404040] lg:fit rounded-[33px]">
             <input
               name="email"
               class="flex-auto md:flex-none bg-transparent input-bordered md:w-80 text-base-content pl-8"

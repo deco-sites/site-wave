@@ -22,9 +22,7 @@ export default function Social(
       {content && content.items && content.items.length > 0 && (
         <div class="flex flex-col gap-4">
           <ul
-            class={`flex gap-4 ${
-              vertical ? "lg:flex-col lg:items-start" : "flex-wrap items-center"
-            }`}
+            class={`flex gap-4`}
           >
             {content.items.map((item) => {
               return (
