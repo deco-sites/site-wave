@@ -1,11 +1,12 @@
 import Icon from "../../components/ui/Icon.tsx";
 import type { SiteNavigationElement } from "apps/commerce/types.ts";
+import type { INavItem } from "deco-sites/site-wave/components/header/NavItem.tsx";
 
 export interface Props {
-  items: SiteNavigationElement[];
+  items: INavItem[];
 }
 
-function MenuItem({ item }: { item: SiteNavigationElement }) {
+function MenuItem({ item }: { item: INavItem }) {
   const { url, name, children } = item;
 
   return (

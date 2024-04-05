@@ -2,65 +2,87 @@ import type { SiteNavigationElement } from "apps/commerce/types.ts";
 import Image from "apps/website/components/Image.tsx";
 import { headerHeight } from "./constants.ts";
 import Icon from "deco-sites/site-wave/components/ui/Icon.tsx";
+import type { ImageWidget } from "apps/admin/widgets.ts";
 
-function NavItem({ item }: { item: SiteNavigationElement }) {
+/** @titleBy name */
+export interface Children {
+  title?: string;
+  name: string;
+  subtitle: string;
+  url: string;
+  icon: ImageWidget;
+  isBold?: boolean;
+}
+
+/** @titleBy name */
+export interface INavItem {
+  /** @title Texto */
+  name: string;
+  /** @title Link */
+  url: string;
+  /** @title Filhos */
+  children?: Children[];
+  /** @title Imagem */
+  image?: {
+    src: ImageWidget;
+    alt: string;
+  };
+}
+
+interface Props {
+  item: INavItem;
+}
+
+function NavItem({ item }: Props) {
   const { url, name, children } = item;
 
   return (
-    <li class="group flex items-center">
-      <a href={url} class="py-6">
-        <span class="text-base font-thin text-white flex items-center gap-1">
+    <li className="group flex items-center">
+      <a href={url} className="py-6">
+        <span className="text-base font-thin text-white flex items-center gap-1">
           {name}
           {children && children.length > 0 && (
             <Icon
               id="ChevronDown"
               size={20}
-              class="text-white group-first:text-white group-hover:text-red group-hover:rotate-180 duration-300 hidden md:block"
+              className="text-white group-first:text-white group-hover:text-red group-hover:rotate-180 duration-300 hidden md:block"
             />
           )}
         </span>
       </a>
 
-      {children && children.length > 0 &&
-        (
-          <div
-            class="fixed hidden hover:flex group-hover:flex bg-black z-50 w-screen"
-            style={{ top: "0px", left: "0px", marginTop: headerHeight }}
-          >
-            <ul class="block items-start justify-start gap-6 container pb-[50px]">
-              <p className="text-base py-6 uppercase font-extrabold text-[#B1B1B1] border-b border-[#B1B1B1]">
-                {item?.identifier}
-              </p>
+      {children && children.length > 0 && (
+        <div
+          className="fixed hidden hover:flex group-hover:flex bg-black z-50 w-screen"
+          style={{ top: "0px", left: "0px", marginTop: headerHeight }}
+        >
+          <ul className="block items-start justify-start gap-6 container pb-[50px]">
+            <p className="text-base py-6 uppercase font-extrabold text-[#B1B1B1] border-b border-[#B1B1B1]">
+              {children[0].title}
+            </p>
 
-              <div class="flex flex-wrap gap-[80px]">
-                {children.map((node) => (
-                  <li class="py-6">
-                    <a class=" flex gap-3" href={node.url}>
-                      <img src="" />
-                      <div class="max-w-[300px]">
-                        <p class="text-base text-white font-bold hover:text-[#0066e4]">
+            <div className="flex flex-wrap gap-5">
+              {children.map((node, index) => (
+                <li key={index} className="py-6">
+                  <a className="flex gap-3" href={node.url}>
+                    <div class="max-w-[300px]">
+                      <div className="flex items-center gap-2">
+                        <img src={node.icon} alt={node.name} />
+                        <p className="text-base text-white font-bold hover:text-[#0066e4]">
                           {node.name}
                         </p>
-                        <p class="text-[#757575]">{node?.identifier}</p>
                       </div>
-                    </a>
-
-                    <ul class="flex flex-col gap-1 mt-4">
-                      {node.children?.map((leaf) => (
-                        <li>
-                          <a class="hover:underline" href={leaf.url}>
-                            <span class="text-xs">{leaf.name}</span>
-                            <p>{leaf?.identifier}</p>
-                          </a>
-                        </li>
-                      ))}
-                    </ul>
-                  </li>
-                ))}
-              </div>
-            </ul>
-          </div>
-        )}
+                      <div className="flex items-center gap-1">
+                        <p className="text-[#757575]">{node?.subtitle}</p>
+                      </div>
+                    </div>
+                  </a>
+                </li>
+              ))}
+            </div>
+          </ul>
+        </div>
+      )}
     </li>
   );
 }

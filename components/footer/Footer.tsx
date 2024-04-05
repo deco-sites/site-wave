@@ -1,17 +1,11 @@
-import BackToTop from "../../components/footer/BackToTop.tsx";
 import Divider from "../../components/footer/Divider.tsx";
-import ExtraLinks from "../../components/footer/ExtraLinks.tsx";
 import FooterItems from "../../components/footer/FooterItems.tsx";
 import Logo from "../../components/footer/Logo.tsx";
-import MobileApps from "../../components/footer/MobileApps.tsx";
-import PaymentMethods from "../../components/footer/PaymentMethods.tsx";
-import RegionSelector from "../../components/footer/RegionSelector.tsx";
-import Social from "../../components/footer/Social.tsx";
 import Newsletter from "../../islands/Newsletter.tsx";
 import { clx } from "../../sdk/clx.ts";
-import PoweredByDeco from "apps/website/components/PoweredByDeco.tsx";
+import Social from "../../components/footer/Social.tsx";
 import Localizations from "deco-sites/site-wave/components/footer/Localizations.tsx";
-import type { HTMLWidget, ImageWidget } from "apps/admin/widgets.ts";
+import type { ImageWidget } from "apps/admin/widgets.ts";
 
 export type Item = {
   label: string;
@@ -25,12 +19,9 @@ export type Section = {
 
 export interface SocialItem {
   label:
-  | "Discord"
-  | "Facebook"
-  | "Instagram"
-  | "Linkedin"
-  | "Tiktok"
-  | "Twitter";
+    | "Instagram"
+    | "Youtube"
+    | "Linkedin";
   link: string;
 }
 
@@ -39,9 +30,7 @@ export interface PaymentItem {
 }
 
 export interface MobileApps {
-  /** @description Link to the app */
   apple?: string;
-  /** @description Link to the app */
   android?: string;
 }
 
@@ -59,23 +48,22 @@ export interface RegionOptions {
 export interface NewsletterForm {
   placeholder?: string;
   buttonText?: string;
-  /** @format html */
   helpText?: string;
 }
 
 export interface Layout {
   backgroundColor?:
-  | "Primary"
-  | "Secondary"
-  | "Accent"
-  | "Base 100"
-  | "Base 100 inverted";
+    | "Primary"
+    | "Secondary"
+    | "Accent"
+    | "Base 100"
+    | "Base 100 inverted";
   variation?:
-  | "Variation 1"
-  | "Variation 2"
-  | "Variation 3"
-  | "Variation 4"
-  | "Variation 5";
+    | "Variation 1"
+    | "Variation 2"
+    | "Variation 3"
+    | "Variation 4"
+    | "Variation 5";
   hide?: {
     logo?: boolean;
     newsletter?: boolean;
@@ -97,15 +85,11 @@ export interface Props {
   };
   newsletter?: {
     title?: string;
-    /** @format textarea */
     description?: string;
     form?: NewsletterForm;
   };
   sections?: Section[];
-  social?: {
-    title?: string;
-    items: SocialItem[];
-  };
+  social?: SocialItem[];
   payments?: {
     title?: string;
     items: PaymentItem[];
@@ -131,6 +115,7 @@ const LAYOUT = {
 
 function Footer({
   logo,
+  social,
   newsletter = {
     title: "Newsletter",
     description: "",
@@ -169,10 +154,6 @@ function Footer({
       },
     ],
   }],
-  social = {
-    title: "Redes sociais",
-    items: [{ label: "Instagram", link: "/" }, { label: "Tiktok", link: "/" }],
-  },
   payments = {
     title: "Formas de pagamento",
     items: [{ label: "Mastercard" }, { label: "Visa" }, { label: "Pix" }],
@@ -213,9 +194,6 @@ function Footer({
         layout?.variation == "Variation 3"}
     />
   );
-  const _social = layout?.hide?.socialLinks
-    ? <></>
-    : <Social content={social} vertical={layout?.variation == "Variation 3"} />;
 
   const _local = layout?.hide?.local
     ? <></>
@@ -247,7 +225,7 @@ function Footer({
                   {_logo}
                 </div>
                 <div class="lg:mt-10">
-                  {_social}
+                  <Social content={social} />
                 </div>
               </div>
               <div class="mt-10">

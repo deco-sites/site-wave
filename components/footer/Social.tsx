@@ -1,44 +1,65 @@
-import Icon, { AvailableIcons } from "../../components/ui/Icon.tsx";
+import {
+  IconInstagram,
+  IconLinkedin,
+  IconYoutube,
+} from "deco-sites/site-wave/components/ui/CustomIcons.tsx";
+import type { JSX } from "preact";
 
+// Definindo a interface SocialItem
 export interface SocialItem {
-  label:
-    | "Discord"
-    | "Facebook"
-    | "Instagram"
-    | "Linkedin"
-    | "Tiktok"
-    | "Twitter";
+  label: "Instagram" | "Youtube" | "Linkedin";
   link: string;
 }
 
+// Função Social
 export default function Social(
   { content, vertical = false }: {
-    content?: { title?: string; items?: SocialItem[] };
+    content?: SocialItem[];
     vertical?: boolean;
   },
 ) {
   return (
     <>
-      {content && content.items && content.items.length > 0 && (
-        <div class="flex flex-col gap-4">
+      {content && content && content.length > 0 && (
+        <div className="flex flex-col gap-4 items-center m-[auto 0] py-6 lg:py-0 lg:items-end">
           <ul
-            class={`flex gap-4`}
+            className={`flex gap-4 ${
+              vertical ? "lg:flex-col lg:items-start" : "items-center"
+            }`}
           >
-            {content.items.map((item) => {
+            {content.map((item) => {
+              let iconComponent: JSX.Element | null = null;
+
+              switch (item.label) {
+                case "Instagram":
+                  iconComponent = <IconInstagram />;
+                  break;
+                case "Linkedin":
+                  iconComponent = <IconLinkedin />;
+                  break;
+                case "Youtube":
+                  iconComponent = <IconYoutube />;
+                  break;
+                default:
+                  iconComponent = null;
+              }
+
               return (
-                <li>
+                <li key={item.label}>
                   <a
                     href={item.link}
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label={`${item.label} Logo`}
-                    class="flex gap-2 items-center"
+                    className="flex gap-2 items-center"
                   >
-                    <span class="block p-1 border rounded-full">
-                      <Icon size={24} id={item.label} />
+                    <span className="block p-1">
+                      {iconComponent}
                     </span>
                     {vertical && (
-                      <div class="text-sm hidden lg:block">{item.label}</div>
+                      <div className="text-sm hidden lg:block">
+                        {item.label}
+                      </div>
                     )}
                   </a>
                 </li>

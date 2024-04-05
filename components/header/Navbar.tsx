@@ -3,15 +3,24 @@ import { MenuButton, SearchButton } from "../../islands/Header/Buttons.tsx";
 import { usePlatform } from "../../sdk/usePlatform.tsx";
 import type { SiteNavigationElement } from "apps/commerce/types.ts";
 import Image from "apps/website/components/Image.tsx";
-import NavItem from "./NavItem.tsx";
 import { navbarHeight } from "./constants.ts";
 import { Logo } from "../../components/header/Header.tsx";
 import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import NavItem, {
+  type INavItem,
+} from "deco-sites/site-wave/components/header/NavItem.tsx";
 
 // Make it sure to render it on the server only. DO NOT render it on an island
+
+export interface Props {
+  items?: INavItem[];
+  logo?: Logo;
+  logoPosition?: "left" | "center";
+}
+
 function Navbar(
   { items, logo, device }: {
-    items: SiteNavigationElement[];
+    items?: INavItem[];
     logo?: Logo;
     logoPosition?: "left" | "center";
     device: "mobile" | "desktop" | "tablet";
@@ -85,10 +94,14 @@ function Navbar(
       </div>
 
       <ul
-        class={`flex gap-10  justify-start" 
-          }`}
+        class={`flex gap-5  justify-start`}
       >
-        {items.map((item) => <NavItem item={item} />)}
+        {items?.map((item) => (
+          <>
+            <NavItem item={item} />
+            <li class="last:hidden list-none benefitdot" />
+          </>
+        ))}
       </ul>
       <ul>
         <li>
