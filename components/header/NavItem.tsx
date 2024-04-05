@@ -67,7 +67,12 @@ function NavItem({ item }: Props) {
                   <a className="flex gap-3" href={node.url}>
                     <div class="max-w-[300px]">
                       <div className="flex items-center gap-2">
-                        <img src={node.icon} width={18} height={11} alt={node.name} />
+                        <img
+                          src={node.icon}
+                          width={18}
+                          height={11}
+                          alt={node.name}
+                        />
                         <p className="text-base text-white font-bold hover:text-[#0066e4]">
                           {node.name}
                         </p>

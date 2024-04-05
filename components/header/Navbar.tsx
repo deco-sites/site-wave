@@ -60,8 +60,11 @@ function Navbar(
         <div class="w-2/5">
           <ul>
             <li class="flex">
-              <a href="/contato">
-                Entre em <b>Contato</b>
+              <a
+                class=" bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white px-5 py-1"
+                href="/contato"
+              >
+                Entre em Contato
               </a>
             </li>
           </ul>
@@ -106,8 +109,9 @@ function Navbar(
       <ul>
         <li>
           <a
-          class=" bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white px-5 py-1" 
-          href="/contato">
+            class=" bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white px-5 py-1"
+            href="/contato"
+          >
             Entre em Contato
           </a>
         </li>
