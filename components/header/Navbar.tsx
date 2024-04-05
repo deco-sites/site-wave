@@ -59,7 +59,7 @@ function Navbar(
 
         <div class="w-2/5">
           <ul>
-            <li class="flex">
+            <li class="flex justify-center">
               <a
                 class=" bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white px-[0.25rem] text-sm py-1"
                 href="/contato"

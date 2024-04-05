@@ -133,7 +133,6 @@
     width: max-content;
     display: flex;
     flex-wrap: nowrap;
-    gap: 1rem;
     animation: animate-scroll-infinite var(--animation-time) var(--animation-direction) linear infinite;
   }
   .scroll-items> li{
