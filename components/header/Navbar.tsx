@@ -61,7 +61,7 @@ function Navbar(
           <ul>
             <li class="flex">
               <a
-                class=" bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white px-5 py-1"
+                class=" bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white px-[0.25rem] text-sm py-1"
                 href="/contato"
               >
                 Entre em Contato

@@ -4,12 +4,9 @@ import Icon from "deco-sites/site-wave/components/ui/Icon.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import Image from "apps/website/components/Image.tsx";
 
-
-
 export interface Props {
   items: INavItem[];
 }
-
 
 function Menu({ items }: Props) {
   const itemsWithChildren = items.filter((item) =>
@@ -38,7 +35,10 @@ function Menu({ items }: Props) {
                 {!!navItem.children &&
                   navItem.children.map((children, itemIndex) => (
                     <div>
-                      <a class="text-white flex gap-2 py-2 w-full px-4 rounded-[20px] font-bold" href={children.url}>
+                      <a
+                        class="text-white flex gap-2 py-2 w-full px-4 rounded-[20px] font-bold"
+                        href={children.url}
+                      >
                         <img
                           src={children.icon}
                           width={18}
@@ -47,7 +47,9 @@ function Menu({ items }: Props) {
                         />
                         {children.name}
                       </a>
-                      <p className="text-[#757575] px-4">{children?.subtitle}</p>
+                      <p className="text-[#757575] px-4">
+                        {children?.subtitle}
+                      </p>
                     </div>
                   ))}
               </div>
@@ -56,7 +58,12 @@ function Menu({ items }: Props) {
         ))}
         {itemsWithoutChildren.map((item) => (
           <div class="flex px-5 my-2">
-            <a class="bg-[#0a0a0a] flex items-center space-between px-5 py-2 rounded-[20px] w-full text-white" href={item.url}>{item.name}</a>
+            <a
+              class="bg-[#0a0a0a] flex items-center space-between px-5 py-2 rounded-[20px] w-full text-white"
+              href={item.url}
+            >
+              {item.name}
+            </a>
           </div>
         ))}
       </div>
