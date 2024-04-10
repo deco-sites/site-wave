@@ -1,12 +1,14 @@
-import type { ImageWidget } from "apps/admin/widgets.ts";
+import Partners from "deco-sites/site-wave/components/ui/Partners.tsx";
+import Props from "deco-sites/site-wave/components/ui/Partners.tsx";
 import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import type { ImageWidget } from "apps/admin/widgets.ts";
 
-interface Image {
+export interface Image {
   image?: ImageWidget;
   label?: string;
 }
 
-interface Card {
+export interface Card {
   hasImage?: Image[];
   title?: string;
   subtitle?: string;
@@ -26,39 +28,23 @@ export default function SlidewithContent(card: Card) {
     cta: { href = "#", label: ctaLabel = "Confira nossos Parceiros" },
   } = card;
 
-  const images = hasImage.map((item, index) => (
-    <img
-      key={index}
-      className="w-[139px] h-[139px] bg-[#D9D9D9] rounded-lg object-contain px-3"
-      src={item.image}
-      alt={item.label || ""}
-    />
-  ));
+  const images = hasImage.map((item, index) => ({
+    image: item.image,
+    altText: item.label || "",
+  }));
 
   return (
-    <div className="bg-black">
-      <div className="container flex flex-col lg:flex-row py-[89px]">
-        <div class="flex items-center max-w-[758px] overflow-hidden wrapperTrack ">
+    <div className="bg-black pt-[50px] pb-[20px] lg:py-0">
+      <div className="container flex flex-col lg:flex-row pt-0 pb-[50px] lg:py-[89px]">
+        <div class="flex items-center max-w-[758px] overflow-hidden wrapperTrack  w-full">
           {images.length > 0 && (
             <div>
-              <div class="absolute slide-rounded-bg h-[200px] z-[1] -mt-7">
-              </div>
-              <div>
-                <div
-                  className="scroll-container"
-                  style="--animation-direction: normal; --animation-time: 25s;"
-                >
-                  <ul class="scroll-items">
-                    <li class="flex gap-3">{images}</li>
-                  </ul>
+              <div class="slide-rounded-bg lg:w-3/4">
+                <div>
+                  <Partners rowImages={[{ colImages: images }]} />
                 </div>
-                <div
-                  className="scroll-container"
-                  style="--animation-direction: reverse; --animation-time: 25s; margin-top:5px;"
-                >
-                  <ul class="scroll-items">
-                    <li class="flex gap-3">{images}</li>
-                  </ul>
+                <div style="--animation-direction: reverse; --animation-time: 25s; margin-top:1.25rem;">
+                  <Partners rowImages={[{ colImages: images }]} />
                 </div>
               </div>
             </div>

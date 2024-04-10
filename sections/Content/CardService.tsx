@@ -26,7 +26,7 @@ const CardService = ({ cards }: Props) => {
               {card.isEmptyBrand && (
                 <span className="visual-brand my-3 w-[61px]"></span>
               )}
-              <p className="text-[26px] text-white my-5 lg:my-0 leading-[35px] font-bold">
+              <p className="text-[28px] text-white my-5 lg:my-0 leading-[35px] font-bold">
                 {card.content}
               </p>
               <Button
@@ -36,7 +36,7 @@ const CardService = ({ cards }: Props) => {
                 {card.label}
               </Button>
             </div>
-            <div class="mr-10">
+            <div class="lg:mr-10">
               <img
                 class="max-w-[160px] h-[160px]"
                 src={card.image}

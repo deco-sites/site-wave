@@ -25,7 +25,12 @@ function Menu({ items }: Props) {
               <div class="flex items-center space-between px-5">
                 <div class="bg-[#0a0a0a] flex items-center space-between px-5 rounded-[20px] w-full">
                   <span class="text-white py-2 ">{navItem.name}</span>
-                  <Icon   class={`rotate-0 group-open:rotate-90 transition-all ease-in-out duration-[400ms] ` }  style="color: white;" id="ChevronRight" size={16} />
+                  <Icon
+                    class={`rotate-0 group-open:rotate-90 transition-all ease-in-out duration-[400ms] `}
+                    style="color: white;"
+                    id="ChevronRight"
+                    size={16}
+                  />
                 </div>
               </div>
             }

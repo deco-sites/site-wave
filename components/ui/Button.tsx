@@ -19,7 +19,7 @@ const Button = forwardRef<HTMLButtonElement, Props>(({
 }, ref) => (
   <button
     {...props}
-    className={`btn bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white ${_class}`}
+    className={`flex py-[5px] px-[10px] gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white ${_class}`}
     style="border-color: #0066e4; width:fit-content; height:fit-content"
     disabled={disabled}
     aria-label={ariaLabel || props["aria-label"]}

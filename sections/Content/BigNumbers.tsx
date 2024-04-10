@@ -14,17 +14,19 @@ export interface Props {
 
 function NumberComponents({ NewNumber }: Props) {
   return (
-    <div class="flex justify-center gap-9 bg-black">
-      {NewNumber &&
-        NewNumber.map((number, index) => (
-          <BigNumbers
-            key={index}
-            iconPlus={number.iconPlus || ""}
-            title={number.title || ""}
-            subtitle={number.subtitle}
-            targetNumber={number.targetNumber}
-          />
-        ))}
+    <div class="bg-black">
+      <div class="container p-5 gap-9 grid grid-cols-2 lg:grid-cols-4 justify-center fit">
+        {NewNumber &&
+          NewNumber.map((number, index) => (
+            <BigNumbers
+              key={index}
+              iconPlus={number.iconPlus || ""}
+              title={number.title || ""}
+              subtitle={number.subtitle}
+              targetNumber={number.targetNumber}
+            />
+          ))}
+      </div>
     </div>
   );
 }

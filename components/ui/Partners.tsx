@@ -8,7 +8,6 @@ export interface Image {
 
 export interface Props {
   title?: string;
-
   rowImages?: ColumnImages[];
 }
 
@@ -31,34 +30,33 @@ const IMAGES = [
 
 function Partners(props: Props) {
   const {
-    title,
-    rowImages,
+    title = "",
+    rowImages = [],
   } = props;
-  const list = useMemo(
-    () =>
-      rowImages && rowImages.length > 0
-        ? rowImages
-        : [{ colImages: Array(20).fill(null).map((_, i) => IMAGES[i % 2]) }],
-    [],
-  );
+
+  const list = rowImages && rowImages.length > 0
+    ? rowImages
+    : [{ colImages: Array(20).fill(null).map((_, i) => IMAGES[i % 2]) }];
 
   return (
-    <div class="w-full pb-16">
-      <div class="flex flex-col gap-10 lg:gap-16">
-        {title && <p class="text-[18px] font-bold text-center">{title}</p>}
+    <div className="w-full bg-black">
+      <div className="flex flex-col gap-10 lg:gap-16">
+        {title && <p className="text-[18px] font-bold text-center">{title}</p>}
 
-        <div class="w-full text-center items-center relative">
-          <div class="overflow-hidden pt-2 px-1">
+        <div className="w-full text-center items-center relative">
+          <div className="overflow-hidden px-1">
             {list.map(({ colImages }, index) => (
               <div
-                class={`flex flex-row flex-nowrap w-full animate-walk text-white ${
-                  index > 0 && index < list.length - 1 ? "py-6" : "py-2"
-                } items-center gap-24`}
-                style={`animation-delay: ${300 * index}ms`}
+                className={`flex flex-row flex-nowrap w-full animate-walk text-white ${
+                  index > 0 && index < list.length - 1 ? "py-6" : ""
+                } items-center gap-[1.25rem] scroll-items`}
+                style={{ animationDelay: `${300 * index}ms` }}
+                key={index}
               >
-                {colImages.map((item: Image) => (
+                {colImages.map((item: Image, idx) => (
                   <img
-                    key={index}
+                    className="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
+                    key={idx}
                     src={item.image}
                     alt={item.altText || ""}
                   />
@@ -66,8 +64,6 @@ function Partners(props: Props) {
               </div>
             ))}
           </div>
-          <div class="gradient-right" />
-          <div class="gradient-left" />
         </div>
       </div>
     </div>

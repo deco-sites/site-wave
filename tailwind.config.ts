@@ -8,7 +8,7 @@ export default {
     container: { center: true },
     extend: {
       animation: {
-        sliding: "sliding 15s linear infinite",
+        sliding: "sliding 30s linear infinite",
       },
       keyframes: {
         sliding: {

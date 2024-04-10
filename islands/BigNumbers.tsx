@@ -44,14 +44,14 @@ const BigNumbers = ({ title, subtitle, targetNumber, iconPlus }: Props) => {
   }, [targetNumber]);
 
   return (
-    <div class="flex flex-col items-start text-start">
-      <div class="font-bold text-[50px] flex items-center ml-4 custom-border text-white">
+    <div class="flex flex-col items-start text-start fit">
+      <div class="font-bold text-[30px] lg:text-[50px] flex items-center ml-4 custom-border text-white">
         <span>{iconPlus}</span>
         <p>
-          {currentNumber} <span class="ml-1">{title}</span>
+          {currentNumber} <span class="lg:ml-1">{title}</span>
         </p>
       </div>
-      <p class="text-base ml-[0.95rem] max-w-[140px] leading-normal text-white">
+      <p class=" text-[15px] lg:text-base ml-[0.95rem] max-w-[140px] leading-normal text-white">
         {subtitle}
       </p>
     </div>

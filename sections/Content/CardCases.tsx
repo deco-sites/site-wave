@@ -36,7 +36,7 @@ const CardCases = ({ cards }: Props) => {
                 </p>
               )}
             </div>
-            <div class="border-gradient h-16 content absolute bottom-0 w-full">
+            <div class="border-gradient h-[10rem] content absolute bottom-0 w-full">
             </div>
           </a>
         ))}
