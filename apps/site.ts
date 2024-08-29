@@ -9,6 +9,20 @@ import { Section } from "deco/blocks/section.ts";
 import type { App as A, AppContext as AC } from "deco/mod.ts";
 import { rgb24 } from "std/fmt/colors.ts";
 import manifest, { Manifest } from "../manifest.gen.ts";
+import type { AvailableIcons } from "../components/ui/Icon.tsx";
+
+/**
+ * @titleBy text
+ */
+export interface ServiceOption {
+  /**
+   * @format icon-select
+   * @options deco-sites/site-wave/loaders/availableIcons.ts
+   */
+  icon: AvailableIcons;
+  text: string;
+  url: string;
+}
 
 export type Props = {
   /**
@@ -18,6 +32,10 @@ export type Props = {
    */
   platform: Platform;
   theme?: Section;
+  /**
+   * @title Opções do seletor de Páginas de Serviço
+   */
+  servicesSelector?: ServiceOption[];
 } & CommerceProps;
 
 export type Platform =

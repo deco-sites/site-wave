@@ -3,8 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-
-  body{
+  body {
     background-color: black;
   }
 
@@ -18,8 +17,8 @@
   }
 
   /** Remove default styles from input[type=number] */
-  input[type=number]::-webkit-inner-spin-button,
-  input[type=number]::-webkit-outer-spin-button {
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
     -webkit-appearance: none;
     margin: 0;
   }
@@ -46,21 +45,20 @@
 }
 
 .group:disabled .group-disabled\:animate-progress {
-  animation: progress-frame ease normal
+  animation: progress-frame ease normal;
 }
 
 @keyframes progress-frame {
   0% {
-    --dot-progress: 0%
+    --dot-progress: 0%;
   }
 
   to {
-    --dot-progress: 100%
+    --dot-progress: 100%;
   }
 }
 
 @layer utilities {
-
   :root {
     --animation-time: 40s;
     --animation-direction: forwards;
@@ -71,7 +69,7 @@
   }
 
   .btn-brand {
-    background-color: #0066E4;
+    background-color: #0066e4;
     color: white;
     border-radius: 30px;
     transition: box-shadow 0.3s ease;
@@ -80,16 +78,15 @@
   }
 
   .btn-brand:hover {
-    box-shadow: inset -10px 0 0px 0px rgba(0, 0, 1, 0.5)
+    box-shadow: inset -10px 0 0px 0px rgba(0, 0, 1, 0.5);
   }
 
   .bg-transparent {
     background-color: transparent;
-
   }
 
   .bg-card {
-    background-color: #0A0A0A;
+    background-color: #0a0a0a;
   }
 
   .fit {
@@ -106,16 +103,16 @@
   }
 
   .custom-border::before {
-    content: '';
+    content: "";
     position: absolute;
     top: 20px;
     left: 0;
     width: 4px;
     height: 60%;
-    background-color: #0066E4;
+    background-color: #0066e4;
   }
   @media (max-width: 767px) {
-    .custom-border::before{
+    .custom-border::before {
       top: 5px;
       height: 80%;
     }
@@ -127,7 +124,7 @@
 
   .visual-brand {
     height: 4px;
-    background-color: #0066E4;
+    background-color: #0066e4;
     display: block;
   }
 
@@ -144,24 +141,43 @@
     width: max-content;
     display: flex;
     flex-wrap: nowrap;
-    animation: animate-scroll-infinite var(--animation-time) var(--animation-direction) linear infinite;
+    animation: animate-scroll-infinite var(--animation-time)
+      var(--animation-direction) linear infinite;
   }
 
-  .scroll-items>li {
+  .scroll-items > li {
     padding: 1em 2em;
   }
 
-
   @keyframes animate-scroll-infinite {
     to {
-      transform: translateX(calc(-50% - .5em));
+      transform: translateX(calc(-50% - 0.5em));
     }
-
-
   }
 
   .border-gradient {
-    background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0.00) 100%);
+    background: linear-gradient(0deg, #000 0%, rgba(0, 0, 0, 0) 100%);
+  }
+
+  .services-title {
+    strong {
+      color: #0066e4;
+    }
+  }
+
+  .services-list {
+    li {
+      gap: 12px;
+      color: #717171;
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 20px;
+      &::before {
+        content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='10' viewBox='0 0 15 10' fill='none'%3E%3Cpath d='M13.9555 0.948849L4.91845 9.83708C4.866 9.88873 4.8037 9.9297 4.73514 9.95766C4.66657 9.98561 4.59307 10 4.51885 10C4.44462 10 4.37112 9.98561 4.30255 9.95766C4.23399 9.9297 4.17169 9.88873 4.11924 9.83708L0.165523 5.94848C0.0595403 5.84424 0 5.70286 0 5.55545C0 5.40804 0.0595403 5.26666 0.165523 5.16242C0.271505 5.05819 0.415248 4.99963 0.56513 4.99963C0.715012 4.99963 0.858755 5.05819 0.964738 5.16242L4.51885 8.65869L13.1563 0.162796C13.2623 0.0585594 13.406 -1.09831e-09 13.5559 0C13.7058 1.09832e-09 13.8495 0.0585594 13.9555 0.162796C14.0615 0.267034 14.121 0.40841 14.121 0.555823C14.121 0.703236 14.0615 0.844612 13.9555 0.948849Z' fill='%230066E4'/%3E%3C/svg%3E");
+      }
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
 }
-

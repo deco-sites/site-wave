@@ -52,7 +52,7 @@ function Header({
           menu={{ items }}
           platform={platform}
         >
-          <div class="bg-black fixed w-full z-[2]">
+          <div class="bg-black fixed w-full z-50">
             <Navbar
               device={device}
               items={items}

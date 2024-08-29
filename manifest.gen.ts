@@ -61,9 +61,16 @@ import * as $$$$$$49 from "./sections/Product/ProductShelfTabbed.tsx";
 import * as $$$$$$50 from "./sections/Product/SearchResult.tsx";
 import * as $$$$$$51 from "./sections/Product/ShelfWithImage.tsx";
 import * as $$$$$$52 from "./sections/Product/Wishlist.tsx";
-import * as $$$$$$53 from "./sections/Social/InstagramPosts.tsx";
-import * as $$$$$$54 from "./sections/Social/WhatsApp.tsx";
-import * as $$$$$$55 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$53 from "./sections/Services/Card1.tsx";
+import * as $$$$$$54 from "./sections/Services/Card2.tsx";
+import * as $$$$$$55 from "./sections/Services/Card3.tsx";
+import * as $$$$$$56 from "./sections/Services/Card4.tsx";
+import * as $$$$$$57 from "./sections/Services/Cards.tsx";
+import * as $$$$$$58 from "./sections/Services/Hero.tsx";
+import * as $$$$$$59 from "./sections/Services/Selector.tsx";
+import * as $$$$$$60 from "./sections/Social/InstagramPosts.tsx";
+import * as $$$$$$61 from "./sections/Social/WhatsApp.tsx";
+import * as $$$$$$62 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "loaders": {
@@ -128,9 +135,16 @@ const manifest = {
     "deco-sites/site-wave/sections/Product/SearchResult.tsx": $$$$$$50,
     "deco-sites/site-wave/sections/Product/ShelfWithImage.tsx": $$$$$$51,
     "deco-sites/site-wave/sections/Product/Wishlist.tsx": $$$$$$52,
-    "deco-sites/site-wave/sections/Social/InstagramPosts.tsx": $$$$$$53,
-    "deco-sites/site-wave/sections/Social/WhatsApp.tsx": $$$$$$54,
-    "deco-sites/site-wave/sections/Theme/Theme.tsx": $$$$$$55,
+    "deco-sites/site-wave/sections/Services/Card1.tsx": $$$$$$53,
+    "deco-sites/site-wave/sections/Services/Card2.tsx": $$$$$$54,
+    "deco-sites/site-wave/sections/Services/Card3.tsx": $$$$$$55,
+    "deco-sites/site-wave/sections/Services/Card4.tsx": $$$$$$56,
+    "deco-sites/site-wave/sections/Services/Cards.tsx": $$$$$$57,
+    "deco-sites/site-wave/sections/Services/Hero.tsx": $$$$$$58,
+    "deco-sites/site-wave/sections/Services/Selector.tsx": $$$$$$59,
+    "deco-sites/site-wave/sections/Social/InstagramPosts.tsx": $$$$$$60,
+    "deco-sites/site-wave/sections/Social/WhatsApp.tsx": $$$$$$61,
+    "deco-sites/site-wave/sections/Theme/Theme.tsx": $$$$$$62,
   },
   "apps": {
     "deco-sites/site-wave/apps/decohub.ts": $$$$$$$$$$$0,
