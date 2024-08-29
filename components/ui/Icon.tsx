@@ -2,6 +2,13 @@ import { asset } from "$fresh/runtime.ts";
 import type { JSX } from "preact";
 
 export type AvailableIcons =
+  | "DigitalPerformance"
+  | "SEO"
+  | "EcommerceCart"
+  | "Marketplace"
+  | "DigitalContent"
+  | "Design"
+  | "EcommerceBasket"
   | "ArrowsPointingOut"
   | "Bars3"
   | "ChevronLeft"
