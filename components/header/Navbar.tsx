@@ -5,10 +5,10 @@ import type { SiteNavigationElement } from "apps/commerce/types.ts";
 import Image from "apps/website/components/Image.tsx";
 import { navbarHeight } from "./constants.ts";
 import { Logo } from "../../components/header/Header.tsx";
-import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import Button from "site/components/ui/Button.tsx";
 import NavItem, {
   type INavItem,
-} from "deco-sites/site-wave/components/header/NavItem.tsx";
+} from "site/components/header/NavItem.tsx";
 
 // Make it sure to render it on the server only. DO NOT render it on an island
 

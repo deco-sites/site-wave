@@ -1,8 +1,8 @@
-import Header from "deco-sites/site-wave/components/ui/SectionHeader.tsx";
-import { useId } from "deco-sites/site-wave/sdk/useId.ts";
+import Header from "site/components/ui/SectionHeader.tsx";
+import { useId } from "site/sdk/useId.ts";
 import Image from "apps/website/components/Image.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
-import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import Button from "site/components/ui/Button.tsx";
 
 export interface CategoryGridProps {
   href?: string;

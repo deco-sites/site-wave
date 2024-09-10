@@ -25,7 +25,7 @@ interface Images {
 interface LabelTop {
     /**
      * @format icon-select
-     * @options deco-sites/site-wave/loaders/availableIcons.ts
+     * @options site/loaders/availableIcons.ts
      */
     icon?: AvailableIcons;
     text: string;
@@ -34,7 +34,7 @@ interface LabelTop {
 interface LabelBottom {
     /**
      * @format icon-select
-     * @options deco-sites/site-wave/loaders/availableIcons.ts
+     * @options site/loaders/availableIcons.ts
      */
     icon?: AvailableIcons;
     text: string;

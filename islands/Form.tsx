@@ -1,6 +1,6 @@
 import { useState } from "preact/hooks";
-import Loading from "deco-sites/site-wave/components/ui/Loading.tsx";
-import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import Loading from "site/components/ui/Loading.tsx";
+import Button from "site/components/ui/Button.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 
 interface Imagem {

@@ -1,5 +1,5 @@
 import type { JSX } from "preact";
-import { clx } from "deco-sites/site-wave/sdk/clx.ts";
+import { clx } from "site/sdk/clx.ts";
 
 export default function (props: JSX.IntrinsicElements["span"]) {
   return (

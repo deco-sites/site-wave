@@ -1,4 +1,4 @@
-import Icon from "deco-sites/site-wave/components/ui/Icon.tsx";
+import Icon from "site/components/ui/Icon.tsx";
 import type { ServiceOption } from "../../apps/site.ts";
 
 export interface SelectorProps {

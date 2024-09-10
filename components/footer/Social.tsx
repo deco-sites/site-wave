@@ -2,7 +2,7 @@ import {
   IconInstagram,
   IconLinkedin,
   IconYoutube,
-} from "deco-sites/site-wave/components/ui/CustomIcons.tsx";
+} from "site/components/ui/CustomIcons.tsx";
 import type { JSX } from "preact";
 
 // Definindo a interface SocialItem

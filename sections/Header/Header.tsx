@@ -1,4 +1,4 @@
 export {
   default,
   loader,
-} from "deco-sites/site-wave/components/header/Header.tsx";
+} from "site/components/header/Header.tsx";

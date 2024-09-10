@@ -2,7 +2,7 @@ import { invoke } from "../../runtime.ts";
 import { clx } from "../../sdk/clx.ts";
 import { useSignal } from "@preact/signals";
 import type { JSX } from "preact";
-import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import Button from "site/components/ui/Button.tsx";
 
 export interface Form {
   placeholder?: string;

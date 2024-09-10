@@ -17,7 +17,7 @@ import type { AvailableIcons } from "../components/ui/Icon.tsx";
 export interface ServiceOption {
   /**
    * @format icon-select
-   * @options deco-sites/site-wave/loaders/availableIcons.ts
+   * @options site/loaders/availableIcons.ts
    */
   icon: AvailableIcons;
   text: string;
