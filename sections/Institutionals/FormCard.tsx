@@ -1,6 +1,6 @@
-import Depoiment from "deco-sites/site-wave/sections/Institutionals/Depoiment.tsx";
-import Partners from "deco-sites/site-wave/components/ui/Partners.tsx";
-import Form from "deco-sites/site-wave/islands/Form.tsx";
+import Depoiment from "site/sections/Institutionals/Depoiment.tsx";
+import Partners from "site/components/ui/Partners.tsx";
+import Form from "site/islands/Form.tsx";
 
 interface Image {
   image: string;

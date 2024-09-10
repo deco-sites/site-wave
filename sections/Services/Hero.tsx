@@ -23,21 +23,21 @@ interface Images {
 }
 
 interface LabelTop {
-  /**
-   * @format icon-select
-   * @options deco-sites/site-wave/loaders/availableIcons.ts
-   */
-  icon?: AvailableIcons;
-  text: string;
+    /**
+     * @format icon-select
+     * @options site/loaders/availableIcons.ts
+     */
+    icon?: AvailableIcons;
+    text: string;
 }
 
 interface LabelBottom {
-  /**
-   * @format icon-select
-   * @options deco-sites/site-wave/loaders/availableIcons.ts
-   */
-  icon?: AvailableIcons;
-  text: string;
+    /**
+     * @format icon-select
+     * @options deco-sites/site-wave/loaders/availableIcons.ts
+     */
+    icon?: AvailableIcons;
+    text: string;
 }
 
 interface Props {

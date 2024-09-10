@@ -8,7 +8,7 @@ import type { SectionProps } from "deco/types.ts";
 import Alert from "./Alert.tsx";
 import Navbar from "./Navbar.tsx";
 import { headerHeight } from "./constants.ts";
-import type { INavItem } from "deco-sites/site-wave/components/header/NavItem.tsx";
+import type { INavItem } from "site/components/header/NavItem.tsx";
 
 export interface Logo {
   src: ImageWidget;
