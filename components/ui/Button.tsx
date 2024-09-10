@@ -6,12 +6,14 @@ export type Props =
   & {
     loading?: boolean;
     ariaLabel?: string;
+    primary?: boolean;
   };
 
 const Button = forwardRef<HTMLButtonElement, Props>(({
   type = "button",
   class: _class = "",
   loading,
+  primary,
   disabled,
   ariaLabel,
   children,
@@ -19,16 +21,16 @@ const Button = forwardRef<HTMLButtonElement, Props>(({
 }, ref) => (
   <button
     {...props}
-    className={`flex py-[5px] px-[10px] gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white ${_class}`}
+    class={`${primary && 'px-5'} flex py-[5px] ${!primary && 'px-[10px]'}  gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white ${_class}`}
     style="border-color: #0066e4; width:fit-content; height:fit-content"
     disabled={disabled}
     aria-label={ariaLabel || props["aria-label"]}
     type={type}
     ref={ref}
   >
-    {loading ? <span className="loading loading-spinner" /> : children}
+    {loading ? <span class="loading loading-spinner" /> : children}
     <svg
-      className="opacity-0 group-hover:opacity-100"
+      class={`${!primary && 'opacity-0'} group-hover:opacity-100 ${primary && 'opacity-100'}`}
       xmlns="http://www.w3.org/2000/svg"
       width="15"
       height="10"

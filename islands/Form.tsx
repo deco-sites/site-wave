@@ -111,7 +111,7 @@ export default function Formulario(
 
       if (resposta.ok) {
         if (dados.success) {
-          console.log("Formulário enviado:", valoresFormulario);
+        //  console.log("Formulário enviado:", valoresFormulario);
           setValoresFormulario({
             nome: "",
             email: "",
