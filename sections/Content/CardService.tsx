@@ -1,5 +1,5 @@
 import type { ImageWidget } from "apps/admin/widgets.ts";
-import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import Button from "site/components/ui/Button.tsx";
 
 interface Card {
   content?: string;

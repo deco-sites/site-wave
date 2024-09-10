@@ -1,5 +1,5 @@
-import { clx } from "deco-sites/site-wave/sdk/clx.ts";
-import { useId } from "deco-sites/site-wave/sdk/useId.ts";
+import { clx } from "site/sdk/clx.ts";
+import { useId } from "site/sdk/useId.ts";
 import type { JSX } from "preact";
 
 /**

@@ -1,6 +1,6 @@
-import Partners from "deco-sites/site-wave/components/ui/Partners.tsx";
-import Props from "deco-sites/site-wave/components/ui/Partners.tsx";
-import Button from "deco-sites/site-wave/components/ui/Button.tsx";
+import Partners from "site/components/ui/Partners.tsx";
+import Props from "site/components/ui/Partners.tsx";
+import Button from "site/components/ui/Button.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 
 export interface Image {

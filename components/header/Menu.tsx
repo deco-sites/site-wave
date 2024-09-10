@@ -1,6 +1,6 @@
 import type { INavItem } from "./NavItem.tsx";
-import Collapsable from "deco-sites/site-wave/components/ui/Collapsable.tsx";
-import Icon from "deco-sites/site-wave/components/ui/Icon.tsx";
+import Collapsable from "site/components/ui/Collapsable.tsx";
+import Icon from "site/components/ui/Icon.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 import Image from "apps/website/components/Image.tsx";
 

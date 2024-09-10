@@ -4,7 +4,7 @@ import Logo from "../../components/footer/Logo.tsx";
 import Newsletter from "../../islands/Newsletter.tsx";
 import { clx } from "../../sdk/clx.ts";
 import Social from "../../components/footer/Social.tsx";
-import Localizations from "deco-sites/site-wave/components/footer/Localizations.tsx";
+import Localizations from "site/components/footer/Localizations.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
 
 export type Item = {
