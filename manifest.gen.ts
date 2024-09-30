@@ -2,8 +2,9 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$$$$$$$$$0 from "./apps/decohub.ts";
-import * as $$$$$$$$$$$1 from "./apps/site.ts";
+import * as $$$$$$$$$$$0 from "./apps/deco/records.ts";
+import * as $$$$$$$$$$$1 from "./apps/decohub.ts";
+import * as $$$$$$$$$$$2 from "./apps/site.ts";
 import * as $$$2 from "./loaders/availableIcons.ts";
 import * as $$$3 from "./loaders/icons.ts";
 import * as $$$0 from "./loaders/Layouts/ProductCard.tsx";
@@ -84,11 +85,9 @@ const manifest = {
   "sections": {
     "site/sections/Animation/Animation.tsx": $$$$$$0,
     "site/sections/Cards/IconCardsCarousel.tsx": $$$$$$1,
-    "site/sections/Cards/IconCardsCarouselWithImage.tsx":
-      $$$$$$2,
+    "site/sections/Cards/IconCardsCarouselWithImage.tsx": $$$$$$2,
     "site/sections/Cards/ImageCardsCarousel.tsx": $$$$$$3,
-    "site/sections/Cards/ImageCardsCarouselWithImage.tsx":
-      $$$$$$4,
+    "site/sections/Cards/ImageCardsCarouselWithImage.tsx": $$$$$$4,
     "site/sections/Category/CategoryBanner.tsx": $$$$$$5,
     "site/sections/Category/CategoryGrid.tsx": $$$$$$6,
     "site/sections/Category/CategoryList.tsx": $$$$$$7,
@@ -149,8 +148,9 @@ const manifest = {
     "site/sections/Theme/Theme.tsx": $$$$$$62,
   },
   "apps": {
-    "site/apps/decohub.ts": $$$$$$$$$$$0,
-    "site/apps/site.ts": $$$$$$$$$$$1,
+    "site/apps/deco/records.ts": $$$$$$$$$$$0,
+    "site/apps/decohub.ts": $$$$$$$$$$$1,
+    "site/apps/site.ts": $$$$$$$$$$$2,
   },
   "name": "site",
   "baseUrl": import.meta.url,
