@@ -1,0 +1,55 @@
+{
+  "link": "/",
+  "cards": [
+    {
+      "link": "/performance",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/46c5e727-aa81-48a6-a06b-2c8ecddd924c",
+      "label": "Saiba mais",
+      "content": "Performance Digital",
+      "isEmptyBrand": true
+    },
+    {
+      "link": "/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c7f8e38b-ad3f-49af-ad2d-7e63e4eca988",
+      "label": "Saiba mais",
+      "content": "SEO para E- commerce",
+      "isEmptyBrand": true
+    },
+    {
+      "link": "/",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4bcf2a8b-f71d-42a3-a952-247c884ea08a",
+      "label": "Saiba mais",
+      "content": "Estruturação de E-commerce",
+      "isEmptyBrand": true
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/dc229494-0884-4e08-873f-30e65ae4b286",
+      "label": "Saiba mais",
+      "content": "Conteúdo Digital",
+      "isEmptyBrand": true
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/8ca0b4cd-1007-4f64-9888-3aa50fbb1915",
+      "label": "Saiba mais",
+      "content": "Criação e Design",
+      "isEmptyBrand": true
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a2e869d9-9086-49d3-86e8-89335f4a2cdc",
+      "label": "Saiba mais",
+      "content": "E-commerce nos EUA",
+      "isEmptyBrand": true
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e005eede-5ad7-4bdf-931c-bb9110b64eaa",
+      "label": "Saiba mais",
+      "content": "Marketplace",
+      "isEmptyBrand": true
+    }
+  ],
+  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/02a68dbd-6d13-45c6-8020-5499d0cfc09b",
+  "label": "Saiba mais",
+  "content": "Performance Digital",
+  "isEmptyBrand": true,
+  "__resolveType": "site/sections/Content/CardService.tsx"
+}

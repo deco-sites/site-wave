@@ -9,6 +9,7 @@ export interface Image {
 export interface Props {
   title?: string;
   rowImages?: ColumnImages[];
+   imageClass?: string;
 }
 
 export interface ColumnImages {
@@ -29,40 +30,32 @@ const IMAGES = [
 ];
 
 function Partners(props: Props) {
-  const {
-    title = "",
-    rowImages = [],
-  } = props;
+  const { title = "", rowImages = [], imageClass } = props;
 
   const list = rowImages && rowImages.length > 0
     ? rowImages
     : [{ colImages: Array(20).fill(null).map((_, i) => IMAGES[i % 2]) }];
 
-  return (
-    <div className="w-full bg-black">
-      <div className="flex flex-col gap-10 lg:gap-16">
-        {title && <p className="text-[18px] font-bold text-center">{title}</p>}
+  const infiniteImages = useMemo(() => [...list, ...list], [list]);
 
-        <div className="w-full text-center items-center relative">
-          <div className="overflow-hidden px-1">
-            {list.map(({ colImages }, index) => (
-              <div
-                className={`flex flex-row flex-nowrap w-full animate-walk text-white ${
-                  index > 0 && index < list.length - 1 ? "py-6" : ""
-                } items-center gap-[1.25rem] scroll-items`}
-                style={{ animationDelay: `${300 * index}ms` }}
-                key={index}
-              >
-                {colImages.map((item: Image, idx) => (
-                  <img
-                    className="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
-                    key={idx}
-                    src={item.image}
-                    alt={item.altText || ""}
-                  />
-                ))}
-              </div>
-            ))}
+  return (
+    <div class="w-full bg-black">
+      <div class="flex flex-col gap-10 lg:gap-16">
+        {title && <p class="text-[18px] font-bold text-center">{title}</p>}
+
+        <div class="w-full text-center items-center relative">
+          <div class=" px-1">
+            {/* Container de animação com rolagem infinita */}
+            <div class="flex flex-row flex-nowrap animate-infinite-scroll gap-[1.25rem]">
+              {infiniteImages[0].colImages.map((item: Image, idx) => (
+                <img
+                  class={imageClass}
+                  key={idx}
+                  src={item.image}
+                  alt={item.altText || ""}
+                />
+              ))}
+            </div>
           </div>
         </div>
       </div>

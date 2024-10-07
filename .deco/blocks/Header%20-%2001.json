@@ -1,1 +1,123 @@
-{"cart":{"freeShippingObjectiveQuantity":600},"logo":{"alt":"Logo Wave Commerce","src":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d855008d-bc13-4a97-bf7d-b34b917ceb74","width":120,"height":20},"alerts":["Use this template to create your store at deco.cx"],"contact":{"link":"contato","label":"entre em sss"},"navItems":[{"url":"/sobre","name":"Sobre","children":[]},{"url":"/solucoes","name":"Soluções","children":[{"url":"/performance-digital","icon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/642bb27c-8c75-4d13-8d55-f805954d18d3","name":"Performance Digital","title":"soluções para o seu negócio","subtitle":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"},{"url":"/estruturação-de-ecommerce","icon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142","name":"Estruturação de E-commerce","title":"soluções para o seu negócio","subtitle":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"},{"url":"/conteudo-digital","icon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/ce07b227-be78-4aac-affc-5dd3c3571f74","name":"Conteúdo Digital","subtitle":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"},{"url":"/ecommerce-eua","icon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d7a74e3c-18e7-427b-a1fa-b032fe439d81","name":"E-commerce nos EUA","subtitle":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"},{"url":"/seo","icon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4a54479b-e41e-420c-9072-da91328ae078","name":"SEO","subtitle":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"},{"url":"/marketplace","icon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/6b15122f-174d-4d6f-9dae-3b79145a0944","name":"Marketplace","subtitle":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"},{"url":"/criacao-e-design","icon":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4208db50-dd47-440a-89fe-b58448896f93","name":"Criação e Design","subtitle":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"}]},{"url":"/parceiros","name":"Parceiros","children":[]},{"url":"/cases","name":"Cases","children":[]},{"url":"/ebooks-e-guias","name":"E-books e Guias","children":[]},{"url":"/vagas","name":"Vagas","children":[]},{"url":"/blog","name":"Blog","children":[]}],"products":[],"searchbar":{"name":"q","action":"/s","loader":{"data":{"count":4,"__resolveType":"vtex/loaders/intelligentSearch/suggestions.ts"},"__resolveType":"resolved"},"placeholder":"What are you looking for?"},"suggestions":{"products":[],"searches":[]},"logoPosition":"center","__resolveType":"site/sections/Header/Header.tsx"}
+{
+  "cart": {
+    "freeShippingObjectiveQuantity": 600
+  },
+  "logo": {
+    "alt": "Logo Wave Commerce",
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d855008d-bc13-4a97-bf7d-b34b917ceb74",
+    "width": 120,
+    "height": 20
+  },
+  "alerts": [
+    "Use this template to create your store at deco.cx"
+  ],
+  "contact": {
+    "link": "contato",
+    "label": "entre em sss"
+  },
+  "navItems": [
+    {
+      "url": "/quem-somos",
+      "name": "Sobre",
+      "children": []
+    },
+    {
+      "url": "/solucoes",
+      "name": "Soluções",
+      "children": [
+        {
+          "url": "/performance-digital",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/642bb27c-8c75-4d13-8d55-f805954d18d3",
+          "name": "Performance Digital",
+          "title": "soluções para o seu negócio",
+          "subtitle": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"
+        },
+        {
+          "url": "/estruturação-de-ecommerce",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142",
+          "name": "Estruturação de E-commerce",
+          "title": "soluções para o seu negócio",
+          "subtitle": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"
+        },
+        {
+          "url": "/conteudo-digital",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/ce07b227-be78-4aac-affc-5dd3c3571f74",
+          "name": "Conteúdo Digital",
+          "subtitle": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"
+        },
+        {
+          "url": "/ecommerce-eua",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d7a74e3c-18e7-427b-a1fa-b032fe439d81",
+          "name": "E-commerce nos EUA",
+          "subtitle": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"
+        },
+        {
+          "url": "/seo",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4a54479b-e41e-420c-9072-da91328ae078",
+          "name": "SEO",
+          "subtitle": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"
+        },
+        {
+          "url": "/marketplace",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/6b15122f-174d-4d6f-9dae-3b79145a0944",
+          "name": "Marketplace",
+          "subtitle": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"
+        },
+        {
+          "url": "/criacao-e-design",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4208db50-dd47-440a-89fe-b58448896f93",
+          "name": "Criação e Design",
+          "subtitle": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum"
+        }
+      ]
+    },
+    {
+      "url": "/parceiros",
+      "name": "Parceiros",
+      "children": []
+    },
+    {
+      "url": "/cases",
+      "name": "Cases",
+      "children": []
+    },
+    {
+      "url": "/ebooks-e-guias",
+      "name": "E-books e Guias",
+      "children": []
+    },
+    {
+      "url": "/vagas",
+      "name": "Vagas",
+      "children": []
+    },
+    {
+      "url": "/blog",
+      "name": "Blog",
+      "children": []
+    }
+  ],
+  "products": [],
+  "searchbar": {
+    "name": "q",
+    "action": "/s",
+    "loader": {
+      "data": {
+        "count": 4,
+        "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts"
+      },
+      "__resolveType": "resolved"
+    },
+    "placeholder": "What are you looking for?"
+  },
+  "suggestions": {
+    "products": [],
+    "searches": []
+  },
+  "logoPosition": "center",
+  "__resolveType": "site/sections/Header/Header.tsx",
+  "cta": {
+    "link": "/contato",
+    "label": "Entre em Contato"
+  }
+}

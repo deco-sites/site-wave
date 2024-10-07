@@ -1,11 +1,8 @@
 import { AppContext } from "../../apps/site.ts";
-import type { Props as SearchbarProps } from "../../components/search/Searchbar.tsx";
 import Drawers from "../../islands/Header/Drawers.tsx";
 import { usePlatform } from "../../sdk/usePlatform.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
-import type { SiteNavigationElement } from "apps/commerce/types.ts";
 import type { SectionProps } from "deco/types.ts";
-import Alert from "./Alert.tsx";
 import Navbar from "./Navbar.tsx";
 import { headerHeight } from "./constants.ts";
 import type { INavItem } from "site/components/header/NavItem.tsx";
@@ -17,6 +14,11 @@ export interface Logo {
   height?: number;
 }
 
+export interface CTA {
+  label?: string;
+  link?: string;
+}
+
 export interface Props {
   /**
    * @title Navigation items
@@ -24,11 +26,14 @@ export interface Props {
    */
   navItems: INavItem[];
 
+  cta: CTA;
+
   /** @title Logo */
   logo?: Logo;
 
   logoPosition?: "left" | "center";
 }
+
 
 function Header({
   navItems = [],
@@ -39,7 +44,9 @@ function Header({
     height: 16,
     alt: "Logo",
   },
+  cta,
   logoPosition = "center",
+
   device,
 }: SectionProps<typeof loader>) {
   const platform = usePlatform();
@@ -58,6 +65,7 @@ function Header({
               items={items}
               logo={logo}
               logoPosition={logoPosition}
+              cta={cta}
             />
           </div>
         </Drawers>

@@ -1,0 +1,79 @@
+{
+  "name": "Vagas",
+  "path": "/vagas",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header - 01"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "large"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Titles.tsx",
+        "contentTitle": "<p style=\"text-align: center\"><span style=\"color: rgb(250, 250, 250); font-size: 14pt\">VAGAS</span><span style=\"color: rgb(250, 250, 250)\"><br></span><strong><span style=\"color: rgb(250, 250, 250); font-size: 24pt\">Be the change, make a Wave with us.</span></strong></p>",
+        "isLine": false
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "large"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/jobList.tsx",
+        "jobs": [
+          {
+            "area": "Designer",
+            "title": "Assistente de Criação",
+            "workModel": "Home Office",
+            "cta": {
+              "label": "saiba mais"
+            }
+          },
+          {
+            "area": "Designer",
+            "title": "Assistente de Criação",
+            "workModel": "Home Office",
+            "cta": {
+              "label": "saiba mais"
+            }
+          },
+          {
+            "area": "Designer",
+            "title": "Assistente de Criação",
+            "workModel": "Home Office",
+            "cta": {
+              "label": "saiba mais"
+            }
+          }
+        ],
+        "filterOptions": {
+          "title": "<p><span style=\"font-size: 16pt\">Confira as </span><strong><span style=\"font-size: 16pt\">vagas abertas </span></strong><span style=\"font-size: 16pt\">na agência:</span></p>"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer - 04"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -165,6 +165,33 @@
     }
   }
 
+  .animation-right {
+    animation: slide-right 50s linear infinite;
+  }
+  
+  .animation-left {
+    animation: slide-right 50s linear infinite reverse; 
+  }
+  
+  @keyframes slide-right {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  @keyframes slide-left {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+
   .services-list {
     li {
       gap: 12px;
@@ -180,4 +207,24 @@
       }
     }
   }
+}
+
+
+.radio-custom {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #3b82f6; /* Borda azul */
+  border-radius: 50%; /* Bordas arredondadas */
+  background-color: transparent; /* Fundo transparente quando não selecionado */
+  transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+}
+
+input[type="radio"]:checked + .radio-custom {
+  background-color: #3b82f6; /* Fundo azul quando selecionado */
+  border-color: #3b82f6; /* Borda azul quando selecionado */
+}
+
+.radio-custom:hover {
+  border-color: #2563eb; /* Efeito hover na borda */
 }

@@ -1,0 +1,139 @@
+{
+  "name": "Detalhes da vaga",
+  "path": "/vaga-detalhe",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header - 01"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xxlarge"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/contactGrid.tsx",
+        "firstColumn": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/Texts.tsx",
+              "text": "<h2><strong><span style=\"color: rgb(248, 247, 247); font-size: 20pt\">Sobre a Wave</span></strong></h2><p><br><span style=\"color: rgb(248, 247, 247); font-size: 16pt\">Somos a Wave Commerce,&nbsp;</span><strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\">agência especializada em<br>e-commerce e marketplace!</span></strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\">&nbsp;Somos reconhecidos como<br>a </span><strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\">2º melhor agência de performance do Brasil,</span></strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\"> segundo o prêmio da Associação Brasileira de Comércio Eletrônico – ABCOMM. <br>Nossa cultura é baseada em valores sólidos que orientam nossa equipe em direção ao sucesso.&nbsp;</span><strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\">Valorizamos o cliente em primeiro lugar,</span></strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\"> buscamos constantemente melhorias, somos resilientes, criativos e valorizamos a inteligência emocional. Além disso, temos muito orgulho em compartilhar que ganhamos o prêmio&nbsp;</span><strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\">“Great Place to Work”</span></strong><span style=\"color: rgb(248, 247, 247); font-size: 16pt\">&nbsp;pelo quarto ano consecutivo.&nbsp; <br>Temos o compromisso de transformar negócios de médias e grandes empresas em prol de maior assertividade e aumento nas vendas por meio digital.</span></p>"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/Texts.tsx",
+              "text": "<p><strong><span style=\"color: #0066e4; font-size: 20pt\">Sobre a Vaga</span></strong><br><br><span style=\"color: #ffffff; font-size: 16pt\">Buscamos uma pessoa que tenha vivência na área Criativa, mas que principalmente queira aprender. Lorem ipsum dolor set ist lorem ipsum lorem ipsum lorem ipsum. Lorem ipsum dolor set ist lorem ipsum lorem ipsum lorem ipsum.</span></p>"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/Checklist.tsx",
+              "checklists": [
+                {
+                  "texts": "Contas a pagar e receber"
+                },
+                {
+                  "texts": "Conciliação bancária"
+                },
+                {
+                  "texts": "Relatórios financeiros"
+                },
+                {
+                  "texts": "Orçamento e previsão"
+                },
+                {
+                  "texts": "Estornos, reembolsos e cancelamentos"
+                },
+                {
+                  "texts": "Gestão e documentos financeiros"
+                },
+                {
+                  "texts": "Relacionamento com fornecedeores e clientes"
+                }
+              ],
+              "title": "Responsabilidades:"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/Checklist.tsx",
+              "checklists": [
+                {
+                  "texts": "Cursando contabilidade, finanças, administração ou área relacionada"
+                },
+                {
+                  "texts": "Habilidade avançada em planilhas do Excel, incluindo fórmulas, gráficos e análise de dados"
+                },
+                {
+                  "texts": "Conhecimento em gestão de fluxo de caixa"
+                },
+                {
+                  "texts": "Conhecimento em processamento de contas a pagar e contas a receber"
+                },
+                {
+                  "texts": "Habilidade em análise de dados financeiros para auxiliar na tomada de decisões"
+                },
+                {
+                  "texts": "Compreensão de índices financeiros e métricas de desempenho"
+                },
+                {
+                  "texts": "Precisão e Atenção aos Detalhes"
+                },
+                {
+                  "texts": "Organização e Planejamento"
+                },
+                {
+                  "texts": "Resolução de problemas "
+                }
+              ],
+              "title": "Requisitos Técnicos e Comportamentais"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/benefits.tsx",
+              "benefits": {
+                "remoteWork": true,
+                "commercial": true,
+                "mealVoucher": true,
+                "healthPlan": true,
+                "personalDevelopmentPlan": true
+              },
+              "title": "Mais informações e benefícios"
+            }
+          }
+        ],
+        "secondColumn": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/candidateForm.tsx"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer - 04"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -13,10 +13,12 @@ export default function Card4({ title, description }: Props) {
         class="services-title text-white text-2xl md:text-[40px] md:leading-[40px] font-bold mb-5"
         dangerouslySetInnerHTML={{ __html: title }}
       />
-      <div
-        class="text-white"
-        dangerouslySetInnerHTML={{ __html: description }}
-      />
+      {description &&
+        <div
+          class="text-white"
+          dangerouslySetInnerHTML={{ __html: description }}
+        />
+      }
     </div>
   );
 }

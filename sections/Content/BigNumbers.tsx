@@ -15,7 +15,7 @@ export interface Props {
 function NumberComponents({ NewNumber }: Props) {
   return (
     <div class="bg-black">
-      <div class="container p-5 gap-9 grid grid-cols-2 lg:grid-cols-4 justify-center fit">
+      <div class="container gap-9 grid grid-cols-2 lg:grid-cols-4 justify-center fit">
         {NewNumber &&
           NewNumber.map((number, index) => (
             <BigNumbers

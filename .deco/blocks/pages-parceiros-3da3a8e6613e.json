@@ -1,1 +1,60 @@
-{"name":"Parceiros","path":"/parceiros","sections":[{"__resolveType":"Header - 01"},{"label":"Clientes","title":"Clientes que confiam em nosso trabalho.","brands":[{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7d823df2-5003-4ef5-8e90-6c390b0dda61/ramarim.png"},{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5f858718-8a14-4860-96a8-72e9af04eb4a/comfortflex.png"},{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6f2ea94c-04f1-4c1e-a9f0-e8f1b8b04541/1000px-Amazon_logo-1.png"},{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7d823df2-5003-4ef5-8e90-6c390b0dda61/ramarim.png"},{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5f858718-8a14-4860-96a8-72e9af04eb4a/comfortflex.png"},{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6f2ea94c-04f1-4c1e-a9f0-e8f1b8b04541/1000px-Amazon_logo-1.png"},{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7d823df2-5003-4ef5-8e90-6c390b0dda61/ramarim.png"}],"__resolveType":"site/sections/Institutionals/brands.tsx"},{"image":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/ffd5c1e1-46a5-45d0-ac89-e9fe8b707ba1/Rectangle-170.png","title":"True Source","button":{"link":"/cases","label":"Saiba mais"},"subtitle":"Revolução no E-commerce após migração para Deco CX","imageDesktop":"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png","__resolveType":"site/sections/Institutionals/InfoCard.tsx"},{"__resolveType":"Footer - 04"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "Parceiros",
+  "path": "/parceiros",
+  "sections": [
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "title": "Conheça os nossos parceiros.",
+      "brands": [
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7d823df2-5003-4ef5-8e90-6c390b0dda61/ramarim.png"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5f858718-8a14-4860-96a8-72e9af04eb4a/comfortflex.png"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6f2ea94c-04f1-4c1e-a9f0-e8f1b8b04541/1000px-Amazon_logo-1.png"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7d823df2-5003-4ef5-8e90-6c390b0dda61/ramarim.png"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5f858718-8a14-4860-96a8-72e9af04eb4a/comfortflex.png"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6f2ea94c-04f1-4c1e-a9f0-e8f1b8b04541/1000px-Amazon_logo-1.png"
+        },
+        {
+          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7d823df2-5003-4ef5-8e90-6c390b0dda61/ramarim.png"
+        }
+      ],
+      "__resolveType": "site/sections/Institutionals/brands.tsx",
+      "label": "Parceiros"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "large"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/ffd5c1e1-46a5-45d0-ac89-e9fe8b707ba1/Rectangle-170.png",
+      "title": "Vtex",
+      "button": {
+        "link": "/vtex",
+        "label": "Conheça nossa parceria"
+      },
+      "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8f1f315e-10a9-4d3b-9a2a-2c9d337cad48/home-2-3-4.jpg",
+      "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/0622ca69-737d-424f-bdb0-f90d1e7618b9/Rectangle-170-m.png",
+      "type": "second"
+    },
+    {
+      "__resolveType": "Footer - 04"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -18,7 +18,7 @@ function Menu({ items }: Props) {
 
   return (
     <div class="overflow-y-scroll no-scrollbar group">
-      <div>
+      <div class="mt-7">
         {itemsWithChildren.map((navItem, index) => (
           <Collapsable
             title={

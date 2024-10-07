@@ -1,19 +1,18 @@
 import { forwardRef } from "preact/compat";
 import type { JSX } from "preact";
 
+
 export type Props =
   & Omit<JSX.IntrinsicElements["button"], "loading">
   & {
     loading?: boolean;
     ariaLabel?: string;
-    primary?: boolean;
   };
 
 const Button = forwardRef<HTMLButtonElement, Props>(({
   type = "button",
   class: _class = "",
   loading,
-  primary,
   disabled,
   ariaLabel,
   children,
@@ -21,9 +20,7 @@ const Button = forwardRef<HTMLButtonElement, Props>(({
 }, ref) => (
   <button
     {...props}
-    class={`${primary && "px-5"} flex py-[5px] ${
-      !primary && "px-[10px]"
-    }  gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white ${_class}`}
+    class={` flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white transition duration-350 ease-in hover:ease-out ${_class}`}
     style="border-color: #0066e4; width:fit-content; height:fit-content"
     disabled={disabled}
     aria-label={ariaLabel || props["aria-label"]}
@@ -32,9 +29,6 @@ const Button = forwardRef<HTMLButtonElement, Props>(({
   >
     {loading ? <span class="loading loading-spinner" /> : children}
     <svg
-      class={`${!primary && "opacity-0"} group-hover:opacity-100 ${
-        primary && "opacity-100"
-      }`}
       xmlns="http://www.w3.org/2000/svg"
       width="15"
       height="10"

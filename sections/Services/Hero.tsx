@@ -23,21 +23,21 @@ interface Images {
 }
 
 interface LabelTop {
-    /**
-     * @format icon-select
-     * @options site/loaders/availableIcons.ts
-     */
-    icon?: AvailableIcons;
-    text: string;
+  /**
+   * @format icon-select
+   * @options site/loaders/availableIcons.ts
+   */
+  icon?: AvailableIcons;
+  text?: string;
 }
 
 interface LabelBottom {
-    /**
-     * @format icon-select
-     * @options deco-sites/site-wave/loaders/availableIcons.ts
-     */
-    icon?: AvailableIcons;
-    text: string;
+  /**
+   * @format icon-select
+   * @options deco-sites/site-wave/loaders/availableIcons.ts
+   */
+  icon?: AvailableIcons;
+  text?: string;
 }
 
 interface Props {
@@ -49,7 +49,7 @@ interface Props {
   /**
    * @title Título da Seção
    */
-  title: string;
+  title?: string;
   /**
    * @title Subtítulo
    */
@@ -76,7 +76,7 @@ export default function Hero({
   },
   title = "Sua marca em evidência.",
   subtitle =
-    "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
+  "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
   cta,
   labelBottom = {
     text: "",
@@ -99,14 +99,12 @@ export default function Hero({
     <div
       class="bg-cover bg-center bg-no-repeat relative flex items-center justify-start"
       style={{
-        height: `${
-          isMobile
+        height: `${isMobile
             ? mobileHeight === 0 ? desktopHeight : mobileHeight
             : desktopHeight
-        }px`,
-        backgroundImage: `url(${
-          isMobile ? srcMobile === "" ? srcDesktop : srcMobile : srcDesktop
-        })`,
+          }px`,
+        backgroundImage: `url(${isMobile ? srcMobile === "" ? srcDesktop : srcMobile : srcDesktop
+          })`,
       }}
     >
       <div
@@ -143,7 +141,9 @@ export default function Hero({
             {labelBottom.icon && (
               <Icon id={labelBottom.icon} size={16} class="text-[#717171]" />
             )}
-            <p class="text-[#717171] text-sm">{labelBottom.text}</p>
+            {labelBottom?.text &&
+              <p class="text-[#717171] text-sm">{labelBottom.text}</p>
+            }
           </div>
         )}
       </div>

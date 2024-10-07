@@ -1,12 +1,7 @@
 import { useState } from "preact/hooks";
 import Loading from "site/components/ui/Loading.tsx";
 import Button from "site/components/ui/Button.tsx";
-import type { ImageWidget } from "apps/admin/widgets.ts";
 
-interface Imagem {
-  imagem: ImageWidget;
-  descricao?: string;
-}
 
 interface ValoresFormulario {
   nome: string;
@@ -26,11 +21,10 @@ interface ValoresFormulario {
 interface PropsFormulario {
   botao: string;
   titulo: string;
-  temImagens?: Imagem[];
 }
 
 export default function Formulario(
-  { temImagens, titulo, botao }: PropsFormulario,
+  { titulo, botao }: PropsFormulario,
 ) {
   const [valoresFormulario, setValoresFormulario] = useState<ValoresFormulario>(
     {
@@ -49,10 +43,6 @@ export default function Formulario(
     },
   );
 
-  const imagens = temImagens?.map((item, index) => ({
-    imagem: item.imagem,
-    descricao: item.descricao || "",
-  }));
 
   const [carregando, setCarregando] = useState(false);
   const [mensagem, setMensagem] = useState<
@@ -150,10 +140,10 @@ export default function Formulario(
   }
 
   return (
-    <div class="bg-black">
-      <div class="px-3 xl:px-0">
+    <div>
+      <div>
         <form
-          class="flex w-full flex-col gap-6 bg-transparent p-6"
+          class="flex w-full flex-col gap-6 bg-transparent"
           onSubmit={lidarSubmit}
         >
           <div class="grid grid-cols-1 lg:grid-cols-2 gap-x-4 gap-y-2">
@@ -426,8 +416,8 @@ export default function Formulario(
                 </label>
               </div>
             </div>
-            <div class="flex flex-row">
-              <Button type="submit">{botao}</Button>
+            <div class="flex flex-row w-full mt-5">
+              <Button class="w-full justify-center" type="submit">{botao}</Button>
               {carregando && <Loading />}
             </div>
           </div>

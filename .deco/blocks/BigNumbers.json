@@ -1,0 +1,25 @@
+{
+  "NewNumber": [
+    {
+      "title": "bilhao",
+      "iconPlus": "+",
+      "subtitle": "de faturamento no e-commerce",
+      "targetNumber": 1
+    },
+    {
+      "iconPlus": "+",
+      "subtitle": "cases de sucesso construídos",
+      "targetNumber": 10
+    },
+    {
+      "subtitle": "países atendidos",
+      "targetNumber": 7
+    },
+    {
+      "iconPlus": "+",
+      "subtitle": "anos de experiência no mercado",
+      "targetNumber": 6
+    }
+  ],
+  "__resolveType": "site/sections/Content/BigNumbers.tsx"
+}
