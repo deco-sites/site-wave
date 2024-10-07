@@ -5,8 +5,13 @@
 import * as $$$$$$$$$$$0 from "./apps/deco/records.ts";
 import * as $$$$$$$$$$$1 from "./apps/decohub.ts";
 import * as $$$$$$$$$$$2 from "./apps/site.ts";
+<<<<<<< HEAD
 import * as $$$3 from "./loaders/availableIcons.ts";
 import * as $$$4 from "./loaders/icons.ts";
+=======
+import * as $$$2 from "./loaders/availableIcons.ts";
+import * as $$$3 from "./loaders/icons.ts";
+>>>>>>> a3fd2246c2635ff8b01d4e9aa89117a32c4a35f0
 import * as $$$0 from "./loaders/Layouts/ProductCard.tsx";
 import * as $$$1 from "./loaders/List/Sections.tsx";
 import * as $$$2 from "./loaders/ProductLoader.ts";
