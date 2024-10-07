@@ -54,57 +54,72 @@
       "__resolveType": "site/sections/Images/BannerHero.tsx"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
+      "contentTitle": "<p>Somos a escolha certa para a sua <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">jornada digital.</span></p>",
+      "__resolveType": "site/sections/Institutionals/Titles.tsx"
     },
     {
-      "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p style=\"text-align: center\"><strong><span style=\"color: #ffffff; font-size: 20pt\">Somos a escolha certa para a sua </span><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">jornada digital.</span></strong></p>",
-      "isLine": false
+      "NewNumber": [
+        {
+          "title": "bilhao",
+          "iconPlus": "+",
+          "subtitle": "de faturamento no e-commerce",
+          "targetNumber": 1
+        },
+        {
+          "iconPlus": "+",
+          "subtitle": "cases de sucesso construídos",
+          "targetNumber": 10
+        },
+        {
+          "subtitle": "países atendidos",
+          "targetNumber": 7
+        },
+        {
+          "iconPlus": "+",
+          "subtitle": "anos de experiência no mercado",
+          "targetNumber": 6
+        }
+      ],
+      "__resolveType": "site/sections/Content/BigNumbers.tsx"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
-      }
+      "cta": {
+        "href": "/",
+        "label": "Conheça os nossos cases."
+      },
+      "title": "Clientes que confiam em nosso trabalho.",
+      "hasImage": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/64db0d6f-785b-4f5d-a8f7-f151dee7d388"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1ebe0e4e-8cb0-42e9-86b8-a3f9a7546b73"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
+        }
+      ],
+      "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
+      "isEmptyBrand": true,
+      "__resolveType": "site/sections/Content/SlidewithContent.tsx"
     },
     {
-      "__resolveType": "BigNumbers"
+      "contentTitle": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Digital Experts:</span> estratégias de sucesso.</p>",
+      "__resolveType": "site/sections/Institutionals/Titles.tsx"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
-    },
-    {
-      "__resolveType": "Slide infinito com cta"
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
-    },
-    {
-      "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p style=\"text-align: center\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Digital Experts:</span><span style=\"font-size: 20pt\"> </span><span style=\"color: #ffffff; font-size: 20pt\">estratégias de sucesso.</span></strong></p>"
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
-      }
-    },
-    {
-      "__resolveType": "site/sections/Content/CardService.tsx",
       "link": "/",
       "cards": [
         {
@@ -112,104 +127,91 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/46c5e727-aa81-48a6-a06b-2c8ecddd924c",
           "label": "Saiba mais",
           "content": "Performance Digital",
-          "isEmptyBrand": true,
-          "button": {
-            "label": "Saiba mais"
-          }
+          "isEmptyBrand": true
         },
         {
           "link": "/",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c7f8e38b-ad3f-49af-ad2d-7e63e4eca988",
           "label": "Saiba mais",
           "content": "SEO para E- commerce",
-          "isEmptyBrand": true,
-          "button": {
-            "label": "Saiba mais"
-          }
+          "isEmptyBrand": true
         },
         {
           "link": "/",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4bcf2a8b-f71d-42a3-a952-247c884ea08a",
           "label": "Saiba mais",
           "content": "Estruturação de E-commerce",
-          "isEmptyBrand": true,
-          "button": {
-            "label": "Saiba mais"
-          }
+          "isEmptyBrand": true
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/dc229494-0884-4e08-873f-30e65ae4b286",
           "label": "Saiba mais",
           "content": "Conteúdo Digital",
-          "isEmptyBrand": true,
-          "button": {
-            "label": "Saiba mais"
-          }
+          "isEmptyBrand": true
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/8ca0b4cd-1007-4f64-9888-3aa50fbb1915",
           "label": "Saiba mais",
           "content": "Criação e Design",
-          "isEmptyBrand": true,
-          "button": {
-            "label": "Saiba mais"
-          }
+          "isEmptyBrand": true
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a2e869d9-9086-49d3-86e8-89335f4a2cdc",
           "label": "Saiba mais",
           "content": "E-commerce nos EUA",
-          "isEmptyBrand": true,
-          "button": {
-            "label": "Saiba mais"
-          }
+          "isEmptyBrand": true
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e005eede-5ad7-4bdf-931c-bb9110b64eaa",
           "label": "Saiba mais",
           "content": "Marketplace",
-          "isEmptyBrand": true,
-          "button": {
-            "label": "Saiba mais"
-          }
+          "isEmptyBrand": true
         }
       ],
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/02a68dbd-6d13-45c6-8020-5499d0cfc09b",
       "label": "Saiba mais",
       "content": "Performance Digital",
       "isEmptyBrand": true,
-      "variation": "grid-cols-3"
+      "__resolveType": "site/sections/Content/CardService.tsx"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
+      "cta": {
+        "href": "/",
+        "label": "Confira nossos Parceiros"
+      },
+      "title": "Conheça os nossos parceiros.",
+      "hasImage": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/64db0d6f-785b-4f5d-a8f7-f151dee7d388"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1ebe0e4e-8cb0-42e9-86b8-a3f9a7546b73"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
+        }
+      ],
+      "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
+      "isEmptyBrand": true,
+      "__resolveType": "site/sections/Content/SlidewithContent.tsx"
     },
     {
-      "__resolveType": "slideInfinito"
+      "contentTitle": "<p>Nossas Histórias de <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Sucesso.</span></p>",
+      "__resolveType": "site/sections/Institutionals/Titles.tsx"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
-    },
-    {
-      "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p style=\"text-align: center\"><strong><span style=\"color: #ececec; font-size: 20pt\">Nossas Histórias de</span><span style=\"font-size: 20pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Sucesso.</span></strong></p>"
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
-      }
-    },
-    {
-      "__resolveType": "site/sections/Content/CardCases.tsx",
       "cards": [
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/9aba44e7-f166-4cfb-bd16-6be70afd1594",
@@ -217,7 +219,8 @@
           "title": "Safira",
           "content": "Safira",
           "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/safira"
         },
         {
           "link": "/",
@@ -273,7 +276,8 @@
           "title": "Termolar",
           "isEmptyBrand": true
         }
-      ]
+      ],
+      "__resolveType": "site/sections/Content/CardCases.tsx"
     },
     {
       "__resolveType": "Footer - 04"
