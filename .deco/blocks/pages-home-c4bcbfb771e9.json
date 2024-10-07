@@ -175,6 +175,11 @@
       "__resolveType": "site/sections/Content/CardService.tsx"
     },
     {
+      "__resolveType": "site/sections/Institutionals/Titles.tsx",
+      "contentTitle": "<p>Nossas Histórias de <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Sucesso.</span></p>"
+    },
+    {
+      "__resolveType": "site/sections/Content/SlidewithContent.tsx",
       "cta": {
         "href": "/",
         "label": "Confira nossos Parceiros"
@@ -204,14 +209,14 @@
         }
       ],
       "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
-      "isEmptyBrand": true,
-      "__resolveType": "site/sections/Content/SlidewithContent.tsx"
+      "isEmptyBrand": true
     },
     {
-      "contentTitle": "<p>Nossas Histórias de <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Sucesso.</span></p>",
-      "__resolveType": "site/sections/Institutionals/Titles.tsx"
+      "__resolveType": "site/sections/Institutionals/Titles.tsx",
+      "contentTitle": "<p>Nossas Histórias de <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Sucesso.</span></p>"
     },
     {
+      "__resolveType": "site/sections/Content/CardCases.tsx",
       "cards": [
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/9aba44e7-f166-4cfb-bd16-6be70afd1594",
@@ -276,8 +281,7 @@
           "title": "Termolar",
           "isEmptyBrand": true
         }
-      ],
-      "__resolveType": "site/sections/Content/CardCases.tsx"
+      ]
     },
     {
       "__resolveType": "Footer - 04"
