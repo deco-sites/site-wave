@@ -23,14 +23,19 @@
           }
         },
         "labelTop": {
-          "icon": "ChevronLeft"
+          "icon": "ChevronLeft",
+          "text": "/"
         },
-        "title": "True Source",
         "subtitle": "Revolução no E-commerce após migração para Deco.cx",
         "labelBottom": {
           "titulo": "soluções",
           "text": "Front-end, Migração de Plataforma"
-        }
+        },
+        "cta": {
+          "href": "/",
+          "text": "<p>Conheça</p>"
+        },
+        "title": "True Source"
       }
     },
     {
