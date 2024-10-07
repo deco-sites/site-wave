@@ -12,3 +12,6 @@ export const profiles = sqliteTable("profiles", {
   email: text("email"),
 });
 */
+
+
+// dsalkdçsa,dçlds
