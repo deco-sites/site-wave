@@ -217,10 +217,11 @@
           "title": "Safira",
           "content": "Safira",
           "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/safira"
         },
         {
-          "link": "/",
+          "link": "/safira",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5c1decb7-9427-4b8b-b0f6-25f7c4a76dec",
           "title": "Hocks",
           "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
