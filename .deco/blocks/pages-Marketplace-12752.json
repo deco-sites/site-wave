@@ -1,0 +1,50 @@
+{
+  "name": "Marketplace",
+  "path": "/Marketplace",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "title": "Sua marca em evidência.",
+      "bgImage": {
+        "mobile": {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b85f1b84-54a1-47b3-b3f3-476c0186bea2",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d403f18f-c992-4302-b900-3cbff65b2a17",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "Performance Digital"
+      },
+      "subtitle": "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre Performance Digital"
+      },
+      "__resolveType": "site/sections/Services/Hero.tsx"
+    },
+    {
+      "__resolveType": "Cards de Serviço 2"
+    },
+    {
+      "__resolveType": "Cards de Serviço 1"
+    },
+    {
+      "__resolveType": "Footer - 04"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

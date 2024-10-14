@@ -54,10 +54,25 @@
       "__resolveType": "site/sections/Images/BannerHero.tsx"
     },
     {
-      "contentTitle": "<p>Somos a escolha certa para a sua <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">jornada digital.</span></p>",
-      "__resolveType": "site/sections/Institutionals/Titles.tsx"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
     },
     {
+      "__resolveType": "site/sections/Institutionals/Titles.tsx",
+      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: #fffafa; font-size: 22pt\">Somos a escolha certa para a sua</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">jornada digital.</span></p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/BigNumbers.tsx",
       "NewNumber": [
         {
           "title": "bilhao",
@@ -79,10 +94,17 @@
           "subtitle": "anos de experiência no mercado",
           "targetNumber": 6
         }
-      ],
-      "__resolveType": "site/sections/Content/BigNumbers.tsx"
+      ]
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/SlidewithContent.tsx",
       "cta": {
         "href": "/",
         "label": "Conheça os nossos cases."
@@ -112,14 +134,28 @@
         }
       ],
       "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
-      "isEmptyBrand": true,
-      "__resolveType": "site/sections/Content/SlidewithContent.tsx"
+      "isEmptyBrand": true
     },
     {
-      "contentTitle": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Digital Experts:</span> estratégias de sucesso.</p>",
-      "__resolveType": "site/sections/Institutionals/Titles.tsx"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
     },
     {
+      "__resolveType": "site/sections/Institutionals/Titles.tsx",
+      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Digital Experts:</span><span style=\"font-size: 22pt\"> </span><span style=\"color: #f2f2f2; font-size: 22pt\">estratégias de sucesso.</span></p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Content/CardService.tsx",
       "link": "/",
       "cards": [
         {
@@ -171,12 +207,25 @@
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/02a68dbd-6d13-45c6-8020-5499d0cfc09b",
       "label": "Saiba mais",
       "content": "Performance Digital",
-      "isEmptyBrand": true,
-      "__resolveType": "site/sections/Content/CardService.tsx"
+      "isEmptyBrand": true
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p>Nossas Histórias de <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Sucesso.</span></p>"
+      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: #f0efef; font-size: 22pt\">Nossas Histórias de</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Sucesso.</span></p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
     },
     {
       "__resolveType": "site/sections/Content/SlidewithContent.tsx",
@@ -212,8 +261,22 @@
       "isEmptyBrand": true
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
+    },
+    {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p>Nossas Histórias de <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Sucesso.</span></p>"
+      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: #f5f5f5; font-size: 22pt\">Nossas Histórias de</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Sucesso.</span></p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
     },
     {
       "__resolveType": "site/sections/Content/CardCases.tsx",
@@ -282,6 +345,13 @@
           "isEmptyBrand": true
         }
       ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
     },
     {
       "__resolveType": "Footer - 04"
