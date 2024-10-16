@@ -92,7 +92,7 @@
         {
           "iconPlus": "+",
           "subtitle": "anos de experiência no mercado",
-          "targetNumber": 6
+          "targetNumber": 7
         }
       ]
     },
@@ -218,7 +218,7 @@
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: #f0efef; font-size: 22pt\">Nossas Histórias de</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Sucesso.</span></p>"
+      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: rgb(240, 239, 239); font-size: 22pt\">Parceiros de</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Sucesso </span><span style=\"color: #ffffff; font-size: 22pt\">que confiamos para seu projeto</span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">.</span></p>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
