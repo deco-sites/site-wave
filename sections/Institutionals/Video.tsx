@@ -4,14 +4,15 @@ import { useDevice } from "deco/hooks/useDevice.ts";
 
 export interface Props {
   video: Video;
+  hideVideo?: boolean;
 }
 
-const AppVideo = ({ video }: Props) => {
+const AppVideo = ({ video, hideVideo = true }: Props) => {
   const device = useDevice()
   return (
     <div
       class="container px-5 lg:px-0 justify-center lg:justify-start">
-      {video &&
+      {hideVideo  &&
         <>
           {device === 'desktop' &&
             <iframe
@@ -28,7 +29,7 @@ const AppVideo = ({ video }: Props) => {
           }
         </>
       }
-      {video &&
+      {hideVideo &&
         <>
           {device === 'mobile' && video &&
             <iframe

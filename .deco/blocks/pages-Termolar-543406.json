@@ -14,11 +14,11 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3f65fa3f-6f45-4382-9d20-2bc686e1047f/home-2-3-4d.jpg",
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/9192e495-27c0-4556-96e9-93e1bcb49200/termolar-case-site.jpg",
             "height": 730
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d8e7205-197c-4dac-b06b-a1d5129faf20/home-2-3-4.jpg",
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/9192e495-27c0-4556-96e9-93e1bcb49200/termolar-case-site.jpg",
             "height": 500
           }
         },
@@ -439,22 +439,27 @@
           }
         ],
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6f2bb273-9cef-430d-b7ee-cbf40b6b5fab/Logo.png"
+          "logo": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/fa0e64f9-4bc4-46fa-834e-169163e24432"
         },
         "services": [
           {
             "titleColor": "primary",
-            "paragraph": "mIGRAÇÃO DE PLATAFORMA",
+            "paragraph": "SEO",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
           },
           {
             "titleColor": "primary",
-            "paragraph": "mIGRAÇÃO DE PLATAFORMA",
+            "paragraph": "E-MAIL MARKETING",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
           },
           {
             "titleColor": "primary",
-            "paragraph": "mIGRAÇÃO DE PLATAFORMA",
+            "paragraph": "BLOG",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "MÍDIA PAGA",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
           }
         ]
