@@ -109,7 +109,7 @@
         "href": "/",
         "label": "Conheça os nossos cases."
       },
-      "title": "Clientes que confiam em nosso trabalho.",
+      "title": "<p>Clientes que confiam em nosso trabalho.</p>",
       "hasImage": [
         {
           "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
@@ -131,7 +131,8 @@
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
-        }
+        },
+        {}
       ],
       "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
       "isEmptyBrand": true
@@ -177,7 +178,11 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4bcf2a8b-f71d-42a3-a952-247c884ea08a",
           "label": "Saiba mais",
           "content": "Estruturação de E-commerce",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "button": {
+            "link": "/estruturacao-de-ecommerce",
+            "label": "saiba mais"
+          }
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/dc229494-0884-4e08-873f-30e65ae4b286",
@@ -295,7 +300,7 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5c1decb7-9427-4b8b-b0f6-25f7c4a76dec",
           "title": "Hocks",
           "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "isEmptyBrand": true
+          "isEmptyBrand": false
         },
         {
           "link": "Expansão de vendas para todo o Brasil com Omnichannel",
