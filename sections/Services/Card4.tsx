@@ -1,8 +1,16 @@
-import { HTMLWidget as HTML } from "apps/admin/widgets.ts";
-
 interface Props {
-  title: HTML;
-  description: HTML;
+  /**
+* @format rich-text
+* @default Click Oferecer produtos veganos no seu estabelecimento nunca foi tão fácil!
+Com a linha Vida Veg Chef, você contará com:.
+*/
+  title: string;
+  /**
+* @format rich-text
+* @default Click Oferecer produtos veganos no seu estabelecimento nunca foi tão fácil!
+Com a linha Vida Veg Chef, você contará com:.
+*/
+  description: string;
 }
 
 export default function Card4({ title, description }: Props) {
