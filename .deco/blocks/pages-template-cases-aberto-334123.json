@@ -1,0 +1,137 @@
+{
+  "name": "template-cases-aberto",
+  "path": "/TCA",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header - 01"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 40px\">Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.</span></strong></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: medium\">Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser e saúde que nasceu a True Source. A marca de suplementos </span><strong>valoriza os ingredientes naturais e a formulação limpa,</strong><span style=\"color: rgb(255, 255, 255); font-size: medium\"> sem abrir mão de qualidade e sabor.</span><br><br><span style=\"color: rgb(255, 255, 255); font-size: medium\">Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para </span><strong>proporcionar a suplementação perfeita</strong><span style=\"color: rgb(255, 255, 255); font-size: medium\"> para sua dieta e aumentar o desempenho dos seus treinos.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
+        "sections": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+              "settings": {
+                "alignment": "start",
+                "addTitle": false
+              },
+              "services": [
+                {
+                  "titleColor": "primary",
+                  "title": "mIGRAÇÃO DE PLATAFORMA",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "title": "mIGRAÇÃO DE PLATAFORMA",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "title": "mIGRAÇÃO DE PLATAFORMA",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                }
+              ],
+              "title": "Soluções",
+              "brand": {
+                "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card1.tsx",
+              "title": "<p>A Wave Commerce ajudou a True Source a superar esses desafios construindo soluções personalizadas, <strong>reformulando todo o front-end do site e otimizando sua performance com a Deco CX.</strong> A migração para a nova plataforma foi um sucesso, com ajustes pontuais realizados após a virada, garantindo a satisfação total do cliente.</p><p><br></p>",
+              "description": "<p></p>"
+            }
+          }
+        ],
+        "layoutSettings": {
+          "layoutType": "grid",
+          "columnLayout": "primary"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
+        "depoiments": {
+          "text": "<p><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">“Conhecimento avançado sobre a plataforma VTEX, principalmente para complexas e projetos grandes são muito eficientes.</span><span style=\"font-size: 20pt\"> </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Ficamos bem satisfeitos com o resultado.”</span></strong></p><p style=\"text-align: start\"></p><p><br></p>",
+          "author": "Adriano Rabelo",
+          "office": "Diretor de E-commerce da True Source"
+        },
+        "icon": {
+          "width": 60,
+          "height": 44
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">Desde a implementação das melhorias,</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">está </span><span style=\"color: rgb(0, 102, 228)\">constantemente acima de 2%</span>, um<br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">marco importante que reflete o sucesso</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">das estratégias aplicadas.</span></strong></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">Desde a implementação das melhorias,</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">está </span><span style=\"color: rgb(0, 102, 228)\">constantemente acima de 2%</span>, um<br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">marco importante que reflete o sucesso</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">das estratégias aplicadas.</span></strong></p>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer - 04"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

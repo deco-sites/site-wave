@@ -3,7 +3,9 @@
   "path": "/termolar",
   "sections": [
     {
-      "__resolveType": "website/sections/Seo/Seo.tsx"
+      "__resolveType": "website/sections/Seo/Seo.tsx",
+      "title": "Histórias de Sucesso Wave Commerce e Termolar ",
+      "description": "Descubra como a parceria entre Wave Commerce e Termolar transformou Desafios em Sucesso com Estratégias Digitais Inovadoras ✔ Resultados Incríveis ✔"
     },
     {
       "__resolveType": "Header - 01"
@@ -28,14 +30,16 @@
         },
         "subtitle": "Como em 1 ano de parceria a empresa aumentou todos os seus indicadores",
         "labelBottom": {
-          "titulo": "soluções",
-          "text": "SEO, E-mail Marketing, Blog, Mídia Paga"
+          "titulo": "Histórias de Sucesso",
+          "text": "SEO | Design | Mídia Paga | CRM | Conteúdo | Marketplace | E-commerce | Atendimento"
         },
         "cta": {
           "href": "/",
-          "text": "<p>Conheça</p>"
+          "text": "<p>Conheça</p>",
+          "label": "Tudo que é Bom Dura Mais",
+          "url": "/case-de-sucesso-termolar"
         },
-        "title": "Termolar"
+        "title": "TERMOLAR"
       }
     },
     {
@@ -62,7 +66,7 @@
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
               "title": "<p>A Termolar foi fundada em 1958, na cidade de Porto Alegre.</p>",
-              "description": "<p>A Termolar foi fundada em 1958, na cidade de Porto Alegre, pelos uruguaios Jorge Ardrizzo (1929-2016) e Leon Spalter (1931-2014). Seu intuito, desde o primeiro dia, era produzir e oferecer soluções térmicas para seus clientes.</p><p>Daí em diante, os produtos Termolar viraram populares nas casas de gaúchos, brasileiros, e atualmente também são consumidos em diversos países do exterior. E em todo esse tempo, uma coisa que nunca se perdeu na empresa foi a inovação: é a&nbsp;<strong>primeira do seu ramo a vender diretamente ao cliente</strong> pela internet, tendo começado há 9 anos.</p>"
+              "description": "<p style=\"text-align: justify\">A Termolar foi fundada em 1958, na cidade de Porto Alegre, pelos uruguaios Jorge Ardrizzo (1929-2016) e Leon Spalter (1931-2014). Seu intuito, desde o primeiro dia, era produzir e oferecer soluções térmicas para seus clientes.</p><p style=\"text-align: justify\"></p><p style=\"text-align: justify\"></p><p style=\"text-align: justify\">Daí em diante, os produtos Termolar viraram populares nas casas de gaúchos, brasileiros, e atualmente também são consumidos em diversos países do exterior. E em todo esse tempo, uma coisa que nunca se perdeu na empresa foi a inovação: é a&nbsp;<strong>primeira do seu ramo a vender diretamente ao cliente</strong> pela internet, tendo começado há 9 anos.</p>"
             }
           },
           {
@@ -97,40 +101,9 @@
                 {
                   "__resolveType": "website/sections/Rendering/Lazy.tsx",
                   "section": {
-                    "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
-                    "services": [
-                      {
-                        "titleColor": "primary",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
-                        "paragraph": "SEO"
-                      },
-                      {
-                        "titleColor": "primary",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
-                        "paragraph": "E-mail Marketing"
-                      },
-                      {
-                        "titleColor": "primary",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
-                        "paragraph": "BLOG"
-                      },
-                      {
-                        "titleColor": "primary",
-                        "paragraph": "Mídia Paga",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
-                      }
-                    ],
-                    "settings": {
-                      "alignment": "start"
-                    }
-                  }
-                },
-                {
-                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
-                  "section": {
                     "__resolveType": "site/sections/Services/Card1.tsx",
                     "title": "<p></p>",
-                    "description": "<p>Depois de um período de crescimento da Termolar e do E-commerce como um todo durante a pandemia, a empresa se viu estagnada em 2022. Em busca de novas alternativas que se firmou a parceria entre Termolar e Wave Commerce. Foram contratados serviços de<strong> SEO, Design, Mídia Paga, E-mail Marketing, Conteúdo, Marketplace, E-commerce e Atendimento</strong>.</p>"
+                    "description": "<p style=\"text-align: center\">Depois de um período de crescimento da Termolar e do E-commerce como um todo durante a pandemia, a empresa se viu estagnada em 2022. Em busca de novas alternativas que se firmou a parceria entre Termolar e Wave Commerce. Foram contratados serviços de<strong> SEO, Design, Mídia Paga, E-mail Marketing, Conteúdo, Marketplace, E-commerce e Atendimento</strong>.</p>"
                   }
                 }
               ],
@@ -405,7 +378,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Institutionals/Video.tsx",
-              "video": "https://youtu.be/HU6uUk_xKP4?feature=shared"
+              "video": "https://www.youtube.com/watch?v=HU6uUk_xKP4"
             }
           },
           {
@@ -419,7 +392,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">“Eu encontro na Wave hoje um sentimento de dono” – <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Roberto Wickert</span></span></p>"
+              "title": "<h2 style=\"text-align: center\"><strong><span style=\"color: #ffffff; font-size: 25pt\">“Eu encontro na Wave hoje um sentimento de dono” – Roberto Wickert.</span></strong></h2>"
             }
           },
           {
@@ -444,23 +417,31 @@
         "services": [
           {
             "titleColor": "primary",
-            "paragraph": "SEO",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
+            "paragraph": "SEO"
           },
           {
             "titleColor": "primary",
-            "paragraph": "E-MAIL MARKETING",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
+            "paragraph": "Marketplace"
           },
           {
             "titleColor": "primary",
-            "paragraph": "BLOG",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
+            "paragraph": "E-commerce"
           },
           {
             "titleColor": "primary",
-            "paragraph": "MÍDIA PAGA",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
+            "paragraph": "E-MAIL MARKETING"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "BLOG"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "MÍDIA PAGA"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "Atendimento"
           }
         ]
       }

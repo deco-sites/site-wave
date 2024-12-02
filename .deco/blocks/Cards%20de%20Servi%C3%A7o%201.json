@@ -2,13 +2,13 @@
   "title": "<p>Por que a Wave é a <strong>melhor opção</strong> para cuidar <span id=\"_mce_caret\" data-mce-bogus=\"1\" data-mce-type=\"format-caret\">﻿</span>da Mídia Paga do seu e-commerce?</p>",
   "sections": [
     {
-      "title": "<p>Google Ads para E-commerce:</p>",
-      "description": "<p>As mídias pagas possibilitam diversos formatos de anúncios e campanhas. Porém, nem todos são ideais para o momento do seu E-commerce. Ao contratar os serviços de mídia paga, você garantirá <strong>economia de tempo e dinheiro ao assegurar que as campanhas sejam planejadas e executadas por profissionais da área</strong> de forma mais assertiva para o seu negócio.</p>",
+      "title": "<p>SEO On-Page:</p>",
+      "description": "<p>O SEO On-Page refere-se à otimização direta dos elementos dentro de uma página web, como <strong>palavras-chave, titles e descriptions, semântica HTML, alt tag de imagens</strong>, para melhorar a visibilidade nos sites de busca, atraindo tráfego qualificado por meio de uma estratégia focada no conteúdo.</p><p>O <strong>conteúdo é um dos 3 principais fatores de classificação do Google</strong>. O objetivo do buscador é apresentar os melhores resultados para uma determinada pesquisa, então um conteúdo ruim dificilmente tem um bom desempenho nas SERPs (página de resultados do Google). Por isso, priorizamos a criação de conteúdo de qualidade, que corresponda à intenção de busca do usuário.</p>",
       "__resolveType": "site/sections/Services/Card1.tsx"
     },
     {
-      "title": "<p>Google Ads para E-commerce:</p>",
-      "description": "<p>As mídias pagas possibilitam diversos formatos de anúncios e campanhas. Porém, nem todos são ideais para o momento do seu E-commerce. Ao contratar os serviços de mídia paga, você garantirá <strong>economia de tempo e dinheiro ao assegurar que as campanhas sejam planejadas e executadas por profissionais da área</strong> de forma mais assertiva para o seu negócio.</p>",
+      "title": "<p>SEO Técnico:</p>",
+      "description": "<p>O SEO técnico concentra-se na otimização dos aspectos técnicos de um site, incluindo a <strong>estrutura, velocidade de carregamento, a indexação e outros elementos</strong>, para garantir uma experiência eficiente para os motores de busca, melhorando a classificação e a visibilidade online.</p>",
       "__resolveType": "site/sections/Services/Card1.tsx"
     },
     {
