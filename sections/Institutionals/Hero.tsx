@@ -107,7 +107,7 @@ export default function Hero({
         })`,
       }}
     >
-      <div class="container px-5 md:px-16 lg:px-36 py-10 relative z-20 w-full sm:w-2/3 lg:w-1/2 ml-0 mr-auto">
+      <div class="container px-5 lg:p-0 relative z-20 lg:w-full sm:w-2/3 m-auto">
         <Selector options={options} />
         <h1 class="text-white text-[30px] leading-[30px] md:text-[50px] md:leading-[50px] mb-5 mt-10 font-bold">
           {title}
