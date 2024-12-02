@@ -3,11 +3,11 @@
   "path": "/",
   "sections": [
     {
-      "noIndexing": false,
-      "__resolveType": "website/sections/Seo/Seo.tsx"
+      "__resolveType": "Header - 01"
     },
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "website/sections/Seo/Seo.tsx",
+      "noIndexing": false
     },
     {
       "id": "/",

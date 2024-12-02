@@ -49,7 +49,7 @@
       }
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "footer-fixo"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
