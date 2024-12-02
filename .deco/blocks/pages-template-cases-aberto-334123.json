@@ -63,7 +63,8 @@
               "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
               "settings": {
                 "alignment": "start",
-                "addTitle": false
+                "addTitle": false,
+                "sticky": true
               },
               "services": [
                 {
@@ -92,7 +93,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<p>A Wave Commerce ajudou a True Source a superar esses desafios construindo soluções personalizadas, <strong>reformulando todo o front-end do site e otimizando sua performance com a Deco CX.</strong> A migração para a nova plataforma foi um sucesso, com ajustes pontuais realizados após a virada, garantindo a satisfação total do cliente.</p><p><br></p>",
+              "title": "<p>A Wave Commerce ajudou a True Source a superar esses desafios construindo soluções personalizadas, reformulando todo o front-end do site e otimizando sua performance com a Deco CX. A migração para a nova plataforma foi um sucesso, com ajustes pontuais realizados após a virada, garantindo a satisfação total do cliente.</p><p><br></p>",
               "description": "<p></p>"
             }
           }
@@ -114,7 +115,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Deco CX. + True Source</span></strong></h2><p></p><p><span style=\"color: #ffffff\">No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\"><span style=\"color: #ffffff\">Deco.cx trouxe </span></a><strong><span style=\"color: #ffffff\">melhorias significativas que impactaram diretamente na performance e usabilidade do site</span></strong><span style=\"color: #ffffff\">.<br><br>Em </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\"><span style=\"color: #ffffff\">Deco.cx</span></a><span style=\"color: #ffffff\">, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o </span><strong><span style=\"color: #ffffff\">site mais rápido</span></strong><span style=\"color: #ffffff\"> em comparação a outros players.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -151,7 +152,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Deco CX. + True Source</span></strong></h2><p><span style=\"color: #f5f5f5; font-size: 14pt\">No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\"><span style=\"color: #f5f5f5; font-size: 14pt\">Deco.CX</span></a><span style=\"color: #f5f5f5; font-size: 14pt\"> trouxe melhorias significativas que impactaram diretamente na performance e usabilidade do site.<br><br>Em </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\"><span style=\"color: #f5f5f5; font-size: 14pt\">Deco.CX</span></a><span style=\"color: #f5f5f5; font-size: 14pt\">, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o site mais rápido em comparação a outros players</span><strong><span style=\"font-size: 14pt\">.</span></strong></p>",
         "description": "<p></p>"
       }
     },
@@ -179,7 +180,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">Desde a implementação das melhorias,</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">está </span><span style=\"color: rgb(0, 102, 228)\">constantemente acima de 2%</span>, um<br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">marco importante que reflete o sucesso</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">das estratégias aplicadas.</span></strong></p>",
+        "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">Desde a implementação das melhorias,</span><span style=\"font-size: 18pt\"><br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">a&nbsp;taxa de conversão do site da True Source</span><span style=\"font-size: 18pt\"><br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">está </span><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">constantemente acima de 2%</span><span style=\"font-size: 18pt\">, um<br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">marco importante que reflete o sucesso</span><span style=\"font-size: 18pt\"><br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">das estratégias aplicadas.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -194,7 +195,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Junte-se à Onda</span></strong></h2><p>A Wave Commerce é uma agência especializada em <a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\">performance para E-commerce</a>, oferecendo soluções completas que vão desde o <strong>desenvolvimento de sites até tudo que envolve o marketing digital.</strong><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;<strong>gerar resultados, aumentar o faturamento e visibilidade da sua marca.</strong><br><br>Junte-se à onda!</p>",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p style=\"text-align: start\"></p><p><span style=\"color: #f5f5f5; font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"color: #f5f5f5; font-size: 14pt\">performance para E-commerce</span></a><span style=\"color: #f5f5f5; font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"color: #f5f5f5; font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"color: #f5f5f5; font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"color: #f5f5f5; font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"color: #f5f5f5; font-size: 14pt\"><br><br>Junte-se à onda!</span></p>",
         "description": "<p></p>"
       }
     },
