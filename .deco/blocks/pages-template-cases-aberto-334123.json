@@ -14,10 +14,12 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png"
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png",
+            "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/32f7f8f5-2a19-47d2-92f0-f1326de64a2f/Rectangle-168.png"
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/32f7f8f5-2a19-47d2-92f0-f1326de64a2f/Rectangle-168.png",
+            "height": 700
           }
         },
         "title": "True Source",
@@ -32,7 +34,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "large"
       }
     },
     {
@@ -112,7 +114,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>"
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>",
+        "description": "<p></p>"
       }
     },
     {
@@ -148,7 +151,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>"
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></strong></h2><p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.</p>",
+        "description": "<p></p>"
       }
     },
     {
@@ -175,7 +179,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">Desde a implementação das melhorias,</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">está </span><span style=\"color: rgb(0, 102, 228)\">constantemente acima de 2%</span>, um<br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">marco importante que reflete o sucesso</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">das estratégias aplicadas.</span></strong></p>"
+        "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">Desde a implementação das melhorias,</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">está </span><span style=\"color: rgb(0, 102, 228)\">constantemente acima de 2%</span>, um<br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">marco importante que reflete o sucesso</span><br><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">das estratégias aplicadas.</span></strong></p>",
+        "description": "<p></p>"
       }
     },
     {
