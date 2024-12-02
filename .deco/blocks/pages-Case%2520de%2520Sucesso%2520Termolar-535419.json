@@ -1,6 +1,6 @@
 {
-  "name": "True-Source",
-  "path": "/true-source",
+  "name": "Case de Sucesso Termolar",
+  "path": "/cases-de-sucesso-termolar",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",

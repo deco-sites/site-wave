@@ -1,12 +1,9 @@
 {
-  "name": "True-Source",
-  "path": "/true-source",
+  "name": "Safira",
+  "path": "/safira",
   "sections": [
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "website/sections/Seo/SeoV2.tsx"
-      }
+      "__resolveType": "website/sections/Seo/Seo.tsx"
     },
     {
       "__resolveType": "Header - 01"
@@ -65,7 +62,7 @@
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
               "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.</p>",
-              "description": "<p>A marca de suplementos <strong>valoriza os ingredientes naturais e a formulação limpa,</strong> sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para <strong>proporcionar a suplementação perfeita</strong> para sua dieta e aumentar o desempenho dos seus treinos.</p>"
+              "description": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser e saúde que nasceu a True Source. A marca de suplementos <strong>valoriza os ingredientes naturais e a formulação limpa,</strong> sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para <strong>proporcionar a suplementação perfeita</strong> para sua dieta e aumentar o desempenho dos seus treinos.</p>"
             }
           },
           {
@@ -409,8 +406,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">Desde a implementação das melhorias,</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">está <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">constantemente acima de 2%</span>, um</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">marco importante que reflete o sucesso</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">das estratégias aplicadas.</span></p>",
-              "description": "<p><br data-mce-bogus=\"1\"></p>"
+              "title": "<p><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">Desde a implementação das melhorias,</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">está <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">constantemente acima de 2%</span>, um</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">marco importante que reflete o sucesso</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">das estratégias aplicadas.</span></p>"
             }
           },
           {
@@ -424,7 +420,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<p><strong><span style=\"color: rgb(0, 102, 228)\">Junte-se à Onda</span></strong></p>",
+              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\"><strong>Junte-se à Onda</strong></span></p>",
               "description": "<p>A Wave Commerce é uma agência especializada em <a data-mce-href=\"../../../serviços/performance\" href=\"../../../serviços/performance\" title=\"performance\" target=\"_blank\" rel=\"noopener\" data-mce-selected=\"inline-boundary\">performance para E-commerce</a>, oferecendo soluções completas que vão desde o <strong>desenvolvimento de sites até tudo que envolve o marketing digital.</strong><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;<strong>gerar resultados, aumentar o faturamento e visibilidade da sua marca.</strong><br><br>Junte-se à onda!</p>"
             }
           }
@@ -435,7 +431,7 @@
         "services": [
           {
             "titleColor": "primary",
-            "paragraph": "plataforma",
+            "paragraph": "mIGRAÇÃO DE PLATAFORMA",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
           },
           {

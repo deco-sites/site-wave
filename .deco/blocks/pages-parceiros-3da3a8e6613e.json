@@ -34,6 +34,14 @@
       "__resolveType": "site/sections/Institutionals/brands.tsx"
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
       "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/ffd5c1e1-46a5-45d0-ac89-e9fe8b707ba1/Rectangle-170.png",
       "title": "True Source",
       "button": {
@@ -41,8 +49,7 @@
         "label": "Saiba mais"
       },
       "subtitle": "Revolução no E-commerce após migração para Deco CX",
-      "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png",
-      "__resolveType": "site/sections/Institutionals/InfoCard.tsx"
+      "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png"
     },
     {
       "__resolveType": "Footer - 04"

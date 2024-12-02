@@ -58,6 +58,14 @@
             "cta": {
               "label": "saiba mais"
             }
+          },
+          {
+            "workModel": "Hibrido",
+            "area": "SEO",
+            "title": "Seo",
+            "cta": {
+              "href": "/assistente-seo"
+            }
           }
         ],
         "filterOptions": {

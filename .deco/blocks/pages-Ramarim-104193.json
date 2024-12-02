@@ -1,6 +1,6 @@
 {
-  "name": "True-Source",
-  "path": "/true-source",
+  "name": "Ramarim",
+  "path": "/ramarim",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -29,7 +29,6 @@
           "icon": "ChevronLeft",
           "text": "/"
         },
-        "subtitle": "Revolução no E-commerce após migração para Deco.cx",
         "labelBottom": {
           "titulo": "soluções",
           "text": "Front-end, Migração de Plataforma"
@@ -38,7 +37,8 @@
           "href": "/",
           "text": "<p>Conheça</p>"
         },
-        "title": "True Source"
+        "title": "Ramarim",
+        "subtitle": "Primeiro marketplace feito em Deco CX. Notas do PageSpeed aumentaram para 61 e 97 em dispositivos móveis e desktop"
       }
     },
     {
@@ -64,8 +64,8 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.</p>",
-              "description": "<p>A marca de suplementos <strong>valoriza os ingredientes naturais e a formulação limpa,</strong> sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para <strong>proporcionar a suplementação perfeita</strong> para sua dieta e aumentar o desempenho dos seus treinos.</p>"
+              "title": "<p>O grupo Ramarim tem quase 60 anos de história no mercado calçadista brasileiro e mundial.</p>",
+              "description": "<div class=\"elementor-element elementor-element-1a47f3e elementor-widget elementor-widget-heading\" data-id=\"1a47f3e\" data-element_type=\"widget\" data-widget_type=\"heading.default\"><div class=\"elementor-widget-container\"><p class=\"elementor-heading-title elementor-size-medium\">Atualmente, é composto pelas marcas Ramarim e ComfortFlex. Pioneiro em pesquisa, moda, tecnologia do conforto e inovação no Brasil, reconhecido no mundo inteiro por sua qualidade e design inovadores, o grupo tem equipe de representantes em todo o país e mais de 60 países.</p></div></div><div class=\"elementor-element elementor-element-d392771 elementor-widget elementor-widget-text-editor\" data-id=\"d392771\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\"><div class=\"elementor-widget-container\"><p>O trabalho entre Wave Commerce e Ramarim iniciou em abril de 2023, com serviços de&nbsp;<strong>Social ADS, SEO, E-commerce, mídia paga e CRM</strong>. Durante essa jornada, sentimos juntos a necessidade de inovar o marketplace de Ramarim para se tornar ainda mais rápido e eficiente, transformando a experiência do cliente.</p></div></div>"
             }
           },
           {
@@ -121,14 +121,6 @@
                     "settings": {
                       "alignment": "start"
                     }
-                  }
-                },
-                {
-                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
-                  "section": {
-                    "__resolveType": "site/sections/Services/Card1.tsx",
-                    "title": "<p></p>",
-                    "description": "<p>A Wave Commerce ajudou a True Source a superar esses desafios construindo soluções personalizadas, <strong>reformulando todo o front-end do site e otimizando sua performance com a Deco CX.</strong> A migração para a nova plataforma foi um sucesso, com ajustes pontuais realizados após a virada, garantindo a satisfação total do cliente.</p>"
                   }
                 }
               ],

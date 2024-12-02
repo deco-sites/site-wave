@@ -1,0 +1,270 @@
+{
+  "name": "Wake",
+  "path": "/wake",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8f1f315e-10a9-4d3b-9a2a-2c9d337cad48/home-2-3-4.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d8e7205-197c-4dac-b06b-a1d5129faf20/home-2-3-4.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira VTEX",
+        "subtitle": "Especialista em performance digital e gerenciamento de e-commerce, com soluções estratégicas para potencializar os resultados de vendas do seu negócio.",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/ContainerCases.tsx",
+        "settings": {
+          "hasBg": true,
+          "hasLogo": true,
+          "addTitle": false,
+          "alignment": "start",
+          "sticky": true
+        },
+        "firstColumn": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "medium"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card4.tsx",
+              "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.</p>",
+              "description": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser e saúde que nasceu a True Source. A marca de suplementos <strong>valoriza os ingredientes naturais e a formulação limpa,</strong> sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para <strong>proporcionar a suplementação perfeita</strong> para sua dieta e aumentar o desempenho dos seus treinos.</p>"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "medium"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "medium"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/Titles.tsx",
+              "isLine": false,
+              "alignment": "start",
+              "contentTitle": "Soluções",
+              "color": "third"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "small"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
+              "sections": [
+                {
+                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
+                  "section": {
+                    "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+                    "services": [
+                      {
+                        "titleColor": "secondary",
+                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+                        "title": "Omnichannel: ",
+                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
+                      },
+                      {
+                        "titleColor": "secondary",
+                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+                        "title": "Omnichannel: ",
+                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
+                      },
+                      {
+                        "titleColor": "secondary",
+                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+                        "title": "Omnichannel: ",
+                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
+                      },
+                      {
+                        "titleColor": "secondary",
+                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+                        "title": "Omnichannel: ",
+                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
+                      }
+                    ],
+                    "settings": {
+                      "alignment": "start"
+                    }
+                  }
+                }
+              ],
+              "layoutSettings": {
+                "layoutType": "grid",
+                "columnLayout": "primary"
+              }
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "small"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card4.tsx",
+              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Deco CX. + True Source</span></p>",
+              "description": "<p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e Deco.CX trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em Deco.CX, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.<br></p>"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card4.tsx",
+              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Resultados alcançados</span></p>",
+              "description": "<p>Após a implementação das soluções pela Wave Commerce, a True Source observou melhorias significativas em vários aspectos:</p>"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+              "services": [
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f17e44a-10d6-401d-ba13-b29c80fcd57e/8129a298-4e21-4079-91f6-9530e9915154.png",
+                  "paragraph": "A usabilidade do site foi aprimorada."
+                },
+                {
+                  "titleColor": "primary",
+                  "paragraph": "A velocidade do site aumentou consideravelmente.",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a22039eb-3f18-4bb2-940f-07c63cf580d6/dbb57264-6a22-40a0-bb09-0f0527004bb3.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c093d5d2-0d52-460e-a674-28313b8302e8/1af63458-23f3-41d3-bbff-5112678e0c94.png",
+                  "paragraph": "As vitrines inteligentes foram otimizadas, proporcionando uma experiência de compra mais agradável."
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "medium"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/Video.tsx",
+              "video": "https://www.youtube.com/watch?v=Q0YYA8hSV8g"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "medium"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card4.tsx",
+              "title": "<p><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">Desde a implementação das melhorias,</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">está <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">constantemente acima de 2%</span>, um</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">marco importante que reflete o sucesso</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">das estratégias aplicadas.</span></p>"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "medium"
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card1.tsx",
+              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\"><strong>Junte-se à Onda</strong></span></p>",
+              "description": "<p>A Wave Commerce é uma agência especializada em <a data-mce-href=\"../../../serviços/performance\" href=\"../../../serviços/performance\" title=\"performance\" target=\"_blank\" rel=\"noopener\" data-mce-selected=\"inline-boundary\">performance para E-commerce</a>, oferecendo soluções completas que vão desde o <strong>desenvolvimento de sites até tudo que envolve o marketing digital.</strong><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;<strong>gerar resultados, aumentar o faturamento e visibilidade da sua marca.</strong><br><br>Junte-se à onda!</p>"
+            }
+          }
+        ],
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/aedddf29-41b0-4658-b1b6-2859379bd850/Group.svg"
+        },
+        "services": [
+          {
+            "titleColor": "primary",
+            "paragraph": "Vtex express",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "migração para vtex",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "Projeto personalizado",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "Footer - 04"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

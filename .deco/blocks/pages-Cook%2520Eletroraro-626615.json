@@ -1,12 +1,9 @@
 {
-  "name": "True-Source",
-  "path": "/true-source",
+  "name": "Cook Eletroraro",
+  "path": "/cook-eletroraro",
   "sections": [
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "website/sections/Seo/SeoV2.tsx"
-      }
+      "__resolveType": "website/sections/Seo/Seo.tsx"
     },
     {
       "__resolveType": "Header - 01"
@@ -17,7 +14,7 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3f65fa3f-6f45-4382-9d20-2bc686e1047f/home-2-3-4d.jpg",
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/b3d5f135-487f-47a6-9445-4cc67ca44128/Topo-Cookeletroraro.png",
             "height": 730
           },
           "mobile": {
@@ -29,16 +26,16 @@
           "icon": "ChevronLeft",
           "text": "/"
         },
-        "subtitle": "Revolução no E-commerce após migração para Deco.cx",
+        "subtitle": "Como o E-commerce bateu recordes de faturamento",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "Front-end, Migração de Plataforma"
+          "text": "SEO, CRM, Migração para VTEX IO"
         },
         "cta": {
           "href": "/",
           "text": "<p>Conheça</p>"
         },
-        "title": "True Source"
+        "title": "Cook Eletroraro"
       }
     },
     {
@@ -64,8 +61,8 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.</p>",
-              "description": "<p>A marca de suplementos <strong>valoriza os ingredientes naturais e a formulação limpa,</strong> sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para <strong>proporcionar a suplementação perfeita</strong> para sua dieta e aumentar o desempenho dos seus treinos.</p>"
+              "title": "<p>Destaque no mercado com uma grande variedade de produtos sofisticados das mais conceituadas marcas nacionais e importadas.</p>",
+              "description": "<p>Fundada em 1973, a COOK, inicialmente especializada na criação de cozinhas, despensas, banhos e áreas planejadas, evoluiu para <strong>COZINHAS COOK ELETRORARO</strong>, que é a soma da empresa original com o comércio de eletrodomésticos de primeira linha.<br><br>É uma <strong>grande variedade de produtos sofisticados das mais conceituadas marcas nacionais e importadas.</strong> Tudo isso faz da Cook um referencial de compras pela internet para tornar a sua casa ainda mais especial.<br></p>"
             }
           },
           {
@@ -128,7 +125,7 @@
                   "section": {
                     "__resolveType": "site/sections/Services/Card1.tsx",
                     "title": "<p></p>",
-                    "description": "<p>A Wave Commerce ajudou a True Source a superar esses desafios construindo soluções personalizadas, <strong>reformulando todo o front-end do site e otimizando sua performance com a Deco CX.</strong> A migração para a nova plataforma foi um sucesso, com ajustes pontuais realizados após a virada, garantindo a satisfação total do cliente.</p>"
+                    "description": "<p>A parceria entre Wave e Cook Eletroraro começou no dia 4 de abril de 2023, com contrato para as áreas de mídia paga, SEO e CRM. Após um faturamento crescente nos meses de maio, junho e julho, em agosto o E-commerce bateu recorde absoluto de faturamento pela internet, aumentando quase 50% em relação ao mês anterior – e com ótimas projeções para os meses seguintes.</p>"
                   }
                 }
               ],
@@ -149,7 +146,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Deco CX. + True Source</span></p>",
+              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Cook Eletroraro. + Wave Commerce</span></p>",
               "description": "<p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e Deco.CX trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em Deco.CX, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.<br></p>"
             }
           },
@@ -345,9 +342,9 @@
                 "height": 44
               },
               "depoiments": {
-                "text": "<p><span style=\"color: #717171; font-size: 20pt\">“Conhecimento avançado sobre a plataforma VTEX, principalmente para complexas e projetos grandes são muito eficientes.</span><span style=\"font-size: 20pt\"> </span><strong><span style=\"color: #ffffff; font-size: 20pt\">Ficamos bem satisfeitos com o resultado.”</span></strong></p>",
-                "author": "Adriano Rabelo",
-                "office": "Diretor de E-commerce da True Source"
+                "text": "<p><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">“A equipe o tempo todo está disposta a nos ajudar com estratégias novas, novos insights. Experiência muito boa!” – Destacando o </span><strong><span style=\"color: #ffffff; font-size: 20pt\">engajamento entre as equipes da Wave na busca por resultados</span></strong><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">.</span></p>",
+                "author": "André",
+                "office": "Gestor da Cook Eletroraro"
               },
               "variation": "SecondVariation"
             }
@@ -394,8 +391,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Institutionals/Video.tsx",
-              "video": "https://www.youtube.com/watch?v=Q0YYA8hSV8g",
-              "hideVideo": false
+              "video": "https://www.youtube.com/watch?v=Q0YYA8hSV8g"
             }
           },
           {
@@ -409,8 +405,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">Desde a implementação das melhorias,</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">está <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">constantemente acima de 2%</span>, um</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">marco importante que reflete o sucesso</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">das estratégias aplicadas.</span></p>",
-              "description": "<p><br data-mce-bogus=\"1\"></p>"
+              "title": "<p><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">Desde a implementação das melhorias,</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">está <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">constantemente acima de 2%</span>, um</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">marco importante que reflete o sucesso</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">das estratégias aplicadas.</span></p>"
             }
           },
           {
@@ -424,7 +419,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<p><strong><span style=\"color: rgb(0, 102, 228)\">Junte-se à Onda</span></strong></p>",
+              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\"><strong>Junte-se à Onda</strong></span></p>",
               "description": "<p>A Wave Commerce é uma agência especializada em <a data-mce-href=\"../../../serviços/performance\" href=\"../../../serviços/performance\" title=\"performance\" target=\"_blank\" rel=\"noopener\" data-mce-selected=\"inline-boundary\">performance para E-commerce</a>, oferecendo soluções completas que vão desde o <strong>desenvolvimento de sites até tudo que envolve o marketing digital.</strong><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;<strong>gerar resultados, aumentar o faturamento e visibilidade da sua marca.</strong><br><br>Junte-se à onda!</p>"
             }
           }
@@ -435,17 +430,27 @@
         "services": [
           {
             "titleColor": "primary",
-            "paragraph": "plataforma",
+            "paragraph": "MIGRAÇÃO DE PLATAFORMA",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
           },
           {
             "titleColor": "primary",
-            "paragraph": "mIGRAÇÃO DE PLATAFORMA",
+            "paragraph": "DESENVOLVIMENTO FRONT-END",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
           },
           {
             "titleColor": "primary",
-            "paragraph": "mIGRAÇÃO DE PLATAFORMA",
+            "paragraph": "MÍDIA PAGA",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "CRM",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
+          },
+          {
+            "titleColor": "primary",
+            "paragraph": "Conteúdos de categorias para SEO",
             "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e417bdaa-36a3-470b-8b59-00954b09377f/a38ce42c-3077-4ddb-b380-ab48567fdb10.png"
           }
         ]

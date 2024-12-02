@@ -3,6 +3,7 @@ import { useDevice } from "deco/hooks/useDevice.ts";
 
 export interface Props {
   video: Video;
+  hideVideo?: boolean;
 }
 
 const AppVideo = ({ video }: Props) => {
