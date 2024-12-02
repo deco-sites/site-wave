@@ -1,1 +1,17 @@
-{"options":[{"url":"#","icon":"DigitalPerformance","text":"Performance Digital"},{"url":"#","icon":"SEO","text":"SEO"},{"url":"#","icon":"EcommerceCart","text":"Estruturação de E-commerce"},{"url":"#","icon":"Marketplace","text":"Marketplace"},{"url":"#","icon":"DigitalContent","text":"Conteúdo Digital"},{"url":"#","icon":"Design","text":"Criação e Design"},{"url":"#","icon":"EcommerceBasket","text":"E-commerce nos EUA"}],"buttonText":"Todas as Soluções","__resolveType":"site/sections/Services/Selector.tsx"}
+{
+  "options": [
+    { "url": "#", "icon": "DigitalPerformance", "text": "Performance Digital" },
+    { "url": "#", "icon": "SEO", "text": "SEO" },
+    {
+      "url": "#",
+      "icon": "EcommerceCart",
+      "text": "Estruturação de E-commerce"
+    },
+    { "url": "#", "icon": "Marketplace", "text": "Marketplace" },
+    { "url": "#", "icon": "DigitalContent", "text": "Conteúdo Digital" },
+    { "url": "#", "icon": "Design", "text": "Criação e Design" },
+    { "url": "#", "icon": "EcommerceBasket", "text": "E-commerce nos EUA" }
+  ],
+  "buttonText": "Todas as Soluções",
+  "__resolveType": "site/sections/Services/Selector.tsx"
+}

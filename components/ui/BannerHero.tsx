@@ -63,7 +63,8 @@ export default function BannerHero({
                 <Partners
                   rowImages={[
                     {
-                      colImages: Array.from({ length: 20 }, (_, i) => icon[i % icon.length]),
+                      colImages: Array.from({ length: 20 }, (_, i) =>
+                        icon[i % icon.length]),
                     },
                   ]}
                 />

@@ -9,7 +9,7 @@ export interface Image {
 export interface Props {
   title?: string;
   rowImages?: ColumnImages[];
-   imageClass?: string;
+  imageClass?: string;
 }
 
 export interface ColumnImages {

@@ -33,7 +33,8 @@ export default function SlidewithContent(card: Props) {
     <div class="container">
       <div class="flex flex-col lg:flex-row justify-evenly">
         <div class="relative flex items-center overflow-hidden w-full lg:w-3/5">
-          <div class="absolute inset-0 bg-gradient-to-r from-black via-transparent to-transparent z-10"></div>
+          <div class="absolute inset-0 bg-gradient-to-r from-black via-transparent to-transparent z-10">
+          </div>
           <div class="relative z-0">
             {images.length > 0 && (
               <div class="slide-rounded-bg">
@@ -41,12 +42,17 @@ export default function SlidewithContent(card: Props) {
                 <div
                   class="animation-right"
                   style={{
-                    "--animation-time": "5000s", 
+                    "--animation-time": "5000s",
                   }}
                 >
-                  <Partners 
-                  imageClass="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3" 
-                  rowImages={[{ colImages: Array(20).fill(null).map((_, i) => images[i % images.length]) }]} />
+                  <Partners
+                    imageClass="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
+                    rowImages={[{
+                      colImages: Array(20).fill(null).map((_, i) =>
+                        images[i % images.length]
+                      ),
+                    }]}
+                  />
                 </div>
 
                 <div
@@ -55,14 +61,20 @@ export default function SlidewithContent(card: Props) {
                     "--animation-time": "5000s",
                   }}
                 >
-                  <Partners 
-                  imageClass="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3" 
-                  rowImages={[{ colImages: Array(20).fill(null).map((_, i) => images[i % images.length]) }]} />
+                  <Partners
+                    imageClass="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
+                    rowImages={[{
+                      colImages: Array(20).fill(null).map((_, i) =>
+                        images[i % images.length]
+                      ),
+                    }]}
+                  />
                 </div>
               </div>
             )}
           </div>
-          <div class="absolute inset-0 bg-gradient-to-l from-black via-transparent to-transparent z-10"></div>
+          <div class="absolute inset-0 bg-gradient-to-l from-black via-transparent to-transparent z-10">
+          </div>
         </div>
 
         {/* Conteúdo textual à direita */}

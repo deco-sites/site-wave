@@ -3,23 +3,19 @@ import { RichText } from "apps/admin/widgets.ts";
 import Icon from "../../components/ui/Icon.tsx";
 
 interface Title {
-
-
   /**
- * @title Icone
- */
+   * @title Icone
+   */
   icon: IconProps;
   /**
-* @title Depoimento
-*/
+   * @title Depoimento
+   */
   depoiments: DepoimentProps;
-
-
 }
 interface DepoimentProps {
   /**
- * @title Escreva aqui o depoimento
- */
+   * @title Escreva aqui o depoimento
+   */
   text: RichText;
 
   /**
@@ -34,16 +30,14 @@ interface DepoimentProps {
 
 interface IconProps {
   /**
-* @title Largura do icone?
-*/
+   * @title Largura do icone?
+   */
   width?: number;
   /**
-* @title Altura do icone?
-*/
+   * @title Altura do icone?
+   */
   height?: number;
-
 }
-
 
 export default function Depoiment(
   { depoiments, icon }: Title,
@@ -51,9 +45,15 @@ export default function Depoiment(
   return (
     <div class="bg-black ">
       <div class="container">
-        <div class={`py-10 flex justify-center flex-col items-start lg:max-w-[543px]`}>
+        <div
+          class={`py-10 flex justify-center flex-col items-start lg:max-w-[543px]`}
+        >
           {icon && (
-            <Icon id={"doubleQuotes"} width={icon?.width} height={icon?.height} />
+            <Icon
+              id={"doubleQuotes"}
+              width={icon?.width}
+              height={icon?.height}
+            />
           )}
 
           <p
@@ -66,5 +66,5 @@ export default function Depoiment(
         </div>
       </div>
     </div>
-  )
+  );
 }

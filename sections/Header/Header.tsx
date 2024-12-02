@@ -1,4 +1,1 @@
-export {
-  default,
-  loader,
-} from "site/components/header/Header.tsx";
+export { default, loader } from "site/components/header/Header.tsx";

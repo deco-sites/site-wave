@@ -1,1 +1,26 @@
-{"title":"<p>Por que a Wave é a <strong>melhor opção</strong> para cuidar <span id=\"_mce_caret\" data-mce-bogus=\"1\" data-mce-type=\"format-caret\">﻿</span>da Mídia Paga do seu e-commerce?</p>","sections":[{"title":"<p>Google Ads para E-commerce:</p>","description":"<p>As mídias pagas possibilitam diversos formatos de anúncios e campanhas. Porém, nem todos são ideais para o momento do seu E-commerce. Ao contratar os serviços de mídia paga, você garantirá <strong>economia de tempo e dinheiro ao assegurar que as campanhas sejam planejadas e executadas por profissionais da área</strong> de forma mais assertiva para o seu negócio.</p>","__resolveType":"site/sections/Services/Card1.tsx"},{"title":"<p>Google Ads para E-commerce:</p>","description":"<p>As mídias pagas possibilitam diversos formatos de anúncios e campanhas. Porém, nem todos são ideais para o momento do seu E-commerce. Ao contratar os serviços de mídia paga, você garantirá <strong>economia de tempo e dinheiro ao assegurar que as campanhas sejam planejadas e executadas por profissionais da área</strong> de forma mais assertiva para o seu negócio.</p>","__resolveType":"site/sections/Services/Card1.tsx"},{"title":"<p><strong>Anúncios via Ads</strong> para <br>Performance em mídias pagas:</p>","description":"<ul><li>Campanhas Google, Facebook, Instagram, Linkedin, Bing, Pinterest mídia programática e afiliados.</li><li>Tagueamento do site.</li></ul>","__resolveType":"site/sections/Services/Card2.tsx"},{"title":"<p><strong>SEO para <br>e-commerce</strong></p>","description":"<ul><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li></ul>","__resolveType":"site/sections/Services/Card2.tsx"}],"__resolveType":"site/sections/Services/Cards.tsx"}
+{
+  "title": "<p>Por que a Wave é a <strong>melhor opção</strong> para cuidar <span id=\"_mce_caret\" data-mce-bogus=\"1\" data-mce-type=\"format-caret\">﻿</span>da Mídia Paga do seu e-commerce?</p>",
+  "sections": [
+    {
+      "title": "<p>Google Ads para E-commerce:</p>",
+      "description": "<p>As mídias pagas possibilitam diversos formatos de anúncios e campanhas. Porém, nem todos são ideais para o momento do seu E-commerce. Ao contratar os serviços de mídia paga, você garantirá <strong>economia de tempo e dinheiro ao assegurar que as campanhas sejam planejadas e executadas por profissionais da área</strong> de forma mais assertiva para o seu negócio.</p>",
+      "__resolveType": "site/sections/Services/Card1.tsx"
+    },
+    {
+      "title": "<p>Google Ads para E-commerce:</p>",
+      "description": "<p>As mídias pagas possibilitam diversos formatos de anúncios e campanhas. Porém, nem todos são ideais para o momento do seu E-commerce. Ao contratar os serviços de mídia paga, você garantirá <strong>economia de tempo e dinheiro ao assegurar que as campanhas sejam planejadas e executadas por profissionais da área</strong> de forma mais assertiva para o seu negócio.</p>",
+      "__resolveType": "site/sections/Services/Card1.tsx"
+    },
+    {
+      "title": "<p><strong>Anúncios via Ads</strong> para <br>Performance em mídias pagas:</p>",
+      "description": "<ul><li>Campanhas Google, Facebook, Instagram, Linkedin, Bing, Pinterest mídia programática e afiliados.</li><li>Tagueamento do site.</li></ul>",
+      "__resolveType": "site/sections/Services/Card2.tsx"
+    },
+    {
+      "title": "<p><strong>SEO para <br>e-commerce</strong></p>",
+      "description": "<ul><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li></ul>",
+      "__resolveType": "site/sections/Services/Card2.tsx"
+    }
+  ],
+  "__resolveType": "site/sections/Services/Cards.tsx"
+}

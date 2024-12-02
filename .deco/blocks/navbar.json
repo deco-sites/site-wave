@@ -1,1 +1,74 @@
-{"items":[{"url":"/Sobre","name":"Sobre","image":[],"children":[],"identifier":"Sobre","additionalType":"Sobre"},{"url":"/Soluções","name":"Soluções","image":[],"children":[{"url":"/Performance Digital","name":"Performance Digital","image":[{"url":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/9562d9f7-a1e8-472d-a504-0be3b35fbdef"}],"children":[],"identifier":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum","additionalType":"Performance Digital"},{"url":"/SEO","name":"SEO","image":[],"children":[],"identifier":"Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum","additionalType":"SEO"}],"identifier":"Soluções para o seu negócio","additionalType":"Soluções"},{"url":"/Parceiros","name":"Parceiros","image":[],"children":[],"identifier":"Parceiros","additionalType":"Parceiros"},{"url":"/Cases","name":"Cases","image":[],"children":[],"identifier":"Cases","additionalType":"Cases"},{"url":"/Ebooks-e-Guias","name":"E-books e Guias","image":[],"children":[],"identifier":"E-books e Guias","additionalType":"E-books e Guias"},{"url":"/Blog","name":"Blog","image":[],"children":[],"identifier":"Blog","additionalType":"Blog"}],"__resolveType":"commerce/loaders/navbar.ts"}
+{
+  "items": [
+    {
+      "url": "/Sobre",
+      "name": "Sobre",
+      "image": [],
+      "children": [],
+      "identifier": "Sobre",
+      "additionalType": "Sobre"
+    },
+    {
+      "url": "/Soluções",
+      "name": "Soluções",
+      "image": [],
+      "children": [
+        {
+          "url": "/Performance Digital",
+          "name": "Performance Digital",
+          "image": [
+            {
+              "url": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/9562d9f7-a1e8-472d-a504-0be3b35fbdef"
+            }
+          ],
+          "children": [],
+          "identifier": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum",
+          "additionalType": "Performance Digital"
+        },
+        {
+          "url": "/SEO",
+          "name": "SEO",
+          "image": [],
+          "children": [],
+          "identifier": "Lorem ipsum dolor est Lorem Ipsum Lorem ipsum dolor est Lorem Ipsum",
+          "additionalType": "SEO"
+        }
+      ],
+      "identifier": "Soluções para o seu negócio",
+      "additionalType": "Soluções"
+    },
+    {
+      "url": "/Parceiros",
+      "name": "Parceiros",
+      "image": [],
+      "children": [],
+      "identifier": "Parceiros",
+      "additionalType": "Parceiros"
+    },
+    {
+      "url": "/Cases",
+      "name": "Cases",
+      "image": [],
+      "children": [],
+      "identifier": "Cases",
+      "additionalType": "Cases"
+    },
+    {
+      "url": "/Ebooks-e-Guias",
+      "name": "E-books e Guias",
+      "image": [],
+      "children": [],
+      "identifier": "E-books e Guias",
+      "additionalType": "E-books e Guias"
+    },
+    {
+      "url": "/Blog",
+      "name": "Blog",
+      "image": [],
+      "children": [],
+      "identifier": "Blog",
+      "additionalType": "Blog"
+    }
+  ],
+  "__resolveType": "commerce/loaders/navbar.ts"
+}

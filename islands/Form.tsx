@@ -2,7 +2,6 @@ import { useState } from "preact/hooks";
 import Loading from "site/components/ui/Loading.tsx";
 import Button from "site/components/ui/Button.tsx";
 
-
 interface ValoresFormulario {
   nome: string;
   email: string;
@@ -42,7 +41,6 @@ export default function Formulario(
       receberEmails: false,
     },
   );
-
 
   const [carregando, setCarregando] = useState(false);
   const [mensagem, setMensagem] = useState<
@@ -417,7 +415,9 @@ export default function Formulario(
               </div>
             </div>
             <div class="flex flex-row w-full mt-5">
-              <Button class="w-full justify-center" type="submit">{botao}</Button>
+              <Button class="w-full justify-center" type="submit">
+                {botao}
+              </Button>
               {carregando && <Loading />}
             </div>
           </div>

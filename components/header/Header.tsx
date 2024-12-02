@@ -34,7 +34,6 @@ export interface Props {
   logoPosition?: "left" | "center";
 }
 
-
 function Header({
   navItems = [],
   logo = {

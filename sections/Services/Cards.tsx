@@ -36,10 +36,13 @@ export default function Cards({
 }: Props) {
   return (
     <div class="container px-5 lg:px-0 py-10">
-      <h2
-        dangerouslySetInnerHTML={{ __html: title }}
-        class="services-title text-white text-center text-2xl md:text-[40px] md:leading-[40px] font-bold mb-10 max-w-[950px] mx-auto"
-      />
+      {title &&
+        (
+          <h2
+            dangerouslySetInnerHTML={{ __html: title }}
+            class="services-title text-white text-center text-2xl md:text-[40px] md:leading-[40px] font-bold mb-10 max-w-[950px] mx-auto"
+          />
+        )}
       <div class="grid md:grid-cols-2 items-start gap-8 w-full">
         {sections && sections.map(renderSection)}
       </div>

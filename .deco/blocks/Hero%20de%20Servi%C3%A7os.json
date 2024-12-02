@@ -1,1 +1,12 @@
-{"title":"Sua marca em evidência.","bgImage":{"desktop":{"alt":"Tecnologia Wave","src":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d403f18f-c992-4302-b900-3cbff65b2a17","height":820}},"subtitle":"Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.","__resolveType":"site/sections/Services/Hero.tsx"}
+{
+  "title": "Sua marca em evidência.",
+  "bgImage": {
+    "desktop": {
+      "alt": "Tecnologia Wave",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d403f18f-c992-4302-b900-3cbff65b2a17",
+      "height": 820
+    }
+  },
+  "subtitle": "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
+  "__resolveType": "site/sections/Services/Hero.tsx"
+}

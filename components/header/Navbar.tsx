@@ -4,14 +4,11 @@ import { usePlatform } from "../../sdk/usePlatform.tsx";
 import type { SiteNavigationElement } from "apps/commerce/types.ts";
 import Image from "apps/website/components/Image.tsx";
 import { navbarHeight } from "./constants.ts";
-import { Logo, CTA } from "../../components/header/Header.tsx";
+import { CTA, Logo } from "../../components/header/Header.tsx";
 import Button from "site/components/ui/Button.tsx";
-import NavItem, {
-  type INavItem,
-} from "site/components/header/NavItem.tsx";
+import NavItem, { type INavItem } from "site/components/header/NavItem.tsx";
 
 // Make it sure to render it on the server only. DO NOT render it on an island
-
 
 export interface Props {
   items?: INavItem[];
@@ -55,8 +52,8 @@ function Navbar({ items, logo, device, cta }: Props) {
           <div>
             <Button
               class="text-xs"
-
-              href={cta.link}>
+              href={cta.link}
+            >
               {cta?.label}
             </Button>
           </div>
@@ -100,7 +97,8 @@ function Navbar({ items, logo, device, cta }: Props) {
       </ul>
       <div>
         <Button
-          href={cta.link}>
+          href={cta.link}
+        >
           {cta?.label}
         </Button>
       </div>

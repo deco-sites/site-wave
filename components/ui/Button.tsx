@@ -1,7 +1,6 @@
 import { forwardRef } from "preact/compat";
 import type { JSX } from "preact";
 
-
 export type Props =
   & Omit<JSX.IntrinsicElements["button"], "loading">
   & {
