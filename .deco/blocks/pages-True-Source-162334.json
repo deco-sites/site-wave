@@ -110,12 +110,12 @@
                       {
                         "titleColor": "primary",
                         "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
-                        "paragraph": "mIGRAÇÃO DE PLATAFORMA"
+                        "paragraph": "Desenvolvimento do layout"
                       },
                       {
                         "titleColor": "primary",
                         "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
-                        "paragraph": "mIGRAÇÃO DE PLATAFORMA"
+                        "paragraph": "Suporte e evolução"
                       }
                     ],
                     "settings": {
@@ -149,7 +149,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Deco CX. + True Source</span></p>",
+              "title": "<p><span style=\"color: rgb(0, 102, 228)\">Deco CX. + True Source</span></p>",
               "description": "<p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e Deco.CX trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em Deco.CX, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.<br></p>"
             }
           },

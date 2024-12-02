@@ -27,17 +27,25 @@
       },
       "labelTop": {
         "icon": "DigitalPerformance",
-        "text": "Performance Digital"
+        "text": "Serviços de SEO"
       },
-      "subtitle": "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
       "labelBottom": {
         "icon": "ChevronDown",
-        "text": "Saiba mais sobre Performance Digital"
+        "text": "Saiba mais sobre Serviços de SEO"
       },
-      "__resolveType": "site/sections/Services/Hero.tsx"
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "subtitle": "Coloque seu negócio no topo das pesquisas do Google e aumente seu faturamento orgânico."
     },
     {
       "__resolveType": "Cards de Serviço 2"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><strong>SEO e Conteúdo</strong> Andam Lado a Lado</p>",
+        "description": "<p>Imagine a relação entre estratégia de SEO e a criação de conteúdo semelhante à <strong>relação entre uma orquestra e suas partituras</strong>. O <strong>SEO funciona como a partitura</strong>, fornecendo a estrutura e as orientações para um bom desempenho. Ele define as notas principais, indicando a direção para alcançar uma boa música.<br></p><p>Por outro lado, a <strong>criação de conteúdo corresponde à execução dos músicos</strong>, onde cada blogpost, artigo e peça de conteúdo é como uma nota bem executada. Esses elementos individuais contribuem para a totalidade da música, que é o <strong>crescimento da sua autoridade e conversão orgânica</strong>. A qualidade do desempenho depende não apenas de uma boa partitura (SEO) mas também da interpretação persuasiva e cativante (criação de conteúdo).<br></p><p>Assim como uma orquestra precisa de uma partitura sólida e músicos habilidosos para criar uma obra-prima, uma <strong>estratégia digital eficaz exige uma base robusta de SEO e uma execução criativa por meio da criação de conteúdo</strong>. Ambos desempenham papéis cruciais, convergindo para alcançar um resultado expressivo para seu negócio.</p>"
+      }
     },
     {
       "__resolveType": "Cards de Serviço 1"
