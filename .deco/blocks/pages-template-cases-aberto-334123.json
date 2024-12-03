@@ -180,7 +180,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">Desde a implementação das melhorias,</span><span style=\"font-size: 18pt\"><br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">a&nbsp;taxa de conversão do site da True Source</span><span style=\"font-size: 18pt\"><br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">está </span><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">constantemente acima de 2%</span><span style=\"font-size: 18pt\">, um<br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">marco importante que reflete o sucesso</span><span style=\"font-size: 18pt\"><br></span><span style=\"color: rgb(255, 255, 255); font-size: 18pt\">das estratégias aplicadas.</span></p>",
+        "title": "<h5><span style=\"color: #f5efef; font-size: 18pt\">Desde a implementação das melhorias,<br>a&nbsp;taxa de conversão do site da True Source<br>está </span><span style=\"color: #0066e4; font-size: 18pt\">constantemente acima de 2%</span><span style=\"color: #f5efef; font-size: 18pt\">, um<br>marco importante que reflete o sucesso<br>das estratégias aplicadas.</span></h5>",
         "description": "<p></p>"
       }
     },
