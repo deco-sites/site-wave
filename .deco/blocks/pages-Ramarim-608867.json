@@ -44,6 +44,44 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Images/BannerGridCases.tsx",
+        "title": "Um titulo",
+        "description": "Ramarim",
+        "subsection": [
+          {
+            "subsection": [
+              {
+                "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/21b6893e-cef4-4c97-81cb-7299e35b17e7/mobile-antes.jpeg",
+                "srcImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/21b6893e-cef4-4c97-81cb-7299e35b17e7/mobile-antes.jpeg"
+              },
+              {
+                "img": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/21b6893e-cef4-4c97-81cb-7299e35b17e7/mobile-antes.jpeg",
+                "srcImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/21b6893e-cef4-4c97-81cb-7299e35b17e7/mobile-antes.jpeg"
+              }
+            ],
+            "image": true,
+            "video": false
+          }
+        ],
+        "image": true,
+        "video": false
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/InfocardCases.tsx",
+        "title": "<p><span style=\"color: rgb(241, 238, 238); font-size: 14pt\">O grupo Ramarim</span></p>",
+        "content": "<p><span style=\"color: #f1eeee; font-size: 14pt\">O grupo Ramarim tem </span><strong><span style=\"color: #f1eeee; font-size: 14pt\">quase 60 anos de história no mercado calçadista brasileiro e mundial</span></strong><span style=\"color: #f1eeee; font-size: 14pt\">. Atualmente, é composto pelas marcas Ramarim e ComfortFlex. Pioneiro em pesquisa, moda, tecnologia do conforto e inovação no Brasil, reconhecido no mundo inteiro por sua qualidade e design inovadores, o grupo tem equipe de representantes em todo o país e mais de 60 países.</span></p>",
+        "image": {
+          "srcImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/9268037f-671e-4946-9979-7e24b8f95b99/case-ramarim-site.png",
+          "image": true
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "medium"
       }
