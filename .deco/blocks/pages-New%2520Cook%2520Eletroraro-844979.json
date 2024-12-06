@@ -1,6 +1,6 @@
 {
-  "name": "template-cases-aberto",
-  "path": "/TCA",
+  "name": "Cook Eletroraro",
+  "path": "/Cook Eletroraro",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -14,18 +14,18 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "Front-end, Migração de Plataforma"
+          "text": "Seo, Crm, Mídia paga, Front-End"
         },
-        "subtitle": "Revolução no E-commerce após migração para Deco.cx",
-        "title": "True Source",
+        "subtitle": "Como o E-commerce bateu recordes de faturamento",
+        "title": "Cook Eletroraro",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/10d9aa4a-8cc7-4402-a3d5-f4d5aa9f9354/Rectangle-170.png",
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/981a6971-7c37-411e-8100-04a974e4cc6e/desk-cookeletroraro.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d8e7205-197c-4dac-b06b-a1d5129faf20/home-2-3-4.jpg",
-            "height": 700
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5a463a27-dcb7-45d8-ba31-83623b6299b3/mob-cookeletroraro.jpg",
+            "height": 500
           }
         }
       }
@@ -34,8 +34,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.<br><br></p>",
-        "description": "<p>A marca de suplementos valoriza os ingredientes naturais e a formulação limpa, sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para proporcionar a suplementação perfeita para sua dieta e aumentar o desempenho dos seus treinos.</p>"
+        "title": "<h2><span style=\"color: #ffffff; font-size: 14pt\">Fundada em 1973, a COOK, inicialmente especializada na criação de cozinhas, despensas, banhos e áreas planejadas, evoluiu para </span><strong><span style=\"color: #ffffff; font-size: 14pt\">COZINHAS COOK ELETRORARO</span></strong><span style=\"color: #ffffff; font-size: 14pt\">, que é a soma da empresa original com o comércio de eletrodomésticos de primeira linha.</span></h2>",
+        "description": "<p><span style=\"font-size: 14pt\">É uma </span><strong><span style=\"font-size: 14pt\">grande variedade de produtos sofisticados das mais conceituadas marcas nacionais e importadas</span></strong><span style=\"font-size: 14pt\">. Tudo isso faz da Cook um referencial de compras pela internet para tornar a sua casa ainda mais especial.</span></p><p><span style=\"font-size: 14pt\"><br></span></p>"
       }
     },
     {
@@ -55,12 +55,17 @@
                 },
                 {
                   "titleColor": "primary",
-                  "title": "Desenvolvimento de layout",
+                  "title": "Conteúdos de categorias para SEO",
                   "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
                 },
                 {
                   "titleColor": "primary",
-                  "title": "Desenvolvimento de layout",
+                  "title": "Mídia paga eficiente",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "title": "CRM",
                   "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
                 }
               ]
@@ -70,7 +75,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<p>A Wave Commerce ajudou a True Source a superar esses desafios construindo soluções personalizadas, <strong>reformulando todo o front-end do site e otimizando sua performance com a Deco CX.</strong> A migração para a nova plataforma foi um sucesso, com ajustes pontuais realizados após a virada, garantindo a satisfação total do cliente.</p>",
+              "title": "<h2><span style=\"color: #ffffff; font-size: 14pt\">A parceria entre Wave e Cook Eletroraro começou no dia 4 de abril de 2023, com contrato para as áreas de mídia paga, SEO e CRM. Após um faturamento crescente nos meses de maio, junho e julho, em agosto o E-commerce bateu recorde absoluto de faturamento pela internet, </span><strong><span style=\"color: #ffffff; font-size: 14pt\">aumentando quase 50% em relação ao mês anterior</span></strong><span style=\"color: #ffffff; font-size: 14pt\"> – e com ótimas projeções para os meses seguintes.</span></h2><h2></h2>",
               "description": "<p></p>"
             }
           }
@@ -78,27 +83,6 @@
         "layoutSettings": {
           "layoutType": "grid",
           "columnLayout": "primary"
-        }
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Deco CX. + True Source</span></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
-        "depoiments": {
-          "text": "<p><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">“Conhecimento avançado sobre a plataforma VTEX, principalmente para complexas e projetos grandes são muito eficientes.</span><span style=\"font-size: 20pt\"> </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Ficamos bem satisfeitos com o resultado.”</span></strong></p>",
-          "author": "Adriano Rabelo"
-        },
-        "icon": {
-          "width": 60,
-          "height": 44
         }
       }
     },
@@ -137,8 +121,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"font-size: 18pt\">Desde a implementação das melhorias,</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">a&nbsp;taxa de conversão do site da True Source</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">está </span><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">constantemente acima de 2%</span><span style=\"font-size: 18pt\">, um<br></span><span style=\"font-size: 18pt\">marco importante que reflete o sucesso</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">das estratégias aplicadas.</span></p>",
-        "description": "<p></p>"
+        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 18pt\">VTEX IO</span></strong></h2>",
+        "description": "<h2><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">No início de maio, a empresa passou por uma </span><strong><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">migração de VTEX CMS para VTEX IO</span></strong><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">, período que pode ser complicado. No entanto, a adaptação foi rápida. A partir de um estudo de VTEX IO personalizado para Cook Eletroraro, em que foi possível entender onde melhorias poderiam ser implementadas, o site passou por um processo de “relayout” (mudança da disposição dos elementos visuais da página).</span></h2><h2><span style=\"color: rgb(245, 245, 245); font-size: 14pt\"><br></span></h2>"
       }
     },
     {

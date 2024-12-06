@@ -1,6 +1,6 @@
 {
-  "name": "template-cases-aberto",
-  "path": "/TCA",
+  "name": "True-source",
+  "path": "/true-source",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -20,12 +20,12 @@
         "title": "True Source",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/10d9aa4a-8cc7-4402-a3d5-f4d5aa9f9354/Rectangle-170.png",
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/162c0ec6-ec42-4378-a0ee-79c99b6ab780/desk-truesource.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d8e7205-197c-4dac-b06b-a1d5129faf20/home-2-3-4.jpg",
-            "height": 700
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/216d9436-164c-4e49-b577-620de3abff63/mob-truesource.jpg",
+            "height": 500
           }
         }
       }
@@ -55,13 +55,13 @@
                 },
                 {
                   "titleColor": "primary",
-                  "title": "Desenvolvimento de layout",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Migração de Plataforma"
                 },
                 {
                   "titleColor": "primary",
-                  "title": "Desenvolvimento de layout",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Suporte e Evolução"
                 }
               ]
             }
@@ -105,6 +105,13 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/eRECC1xCMUk?si=1zjCQ3O9c6Rep4WU\" title=\"YouTube video player"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Resultados alcançados</span></p>",
         "description": "<p>Após a implementação das soluções pela Wave Commerce, a True Source observou melhorias significativas em vários aspectos:</p>"
@@ -139,6 +146,14 @@
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"font-size: 18pt\">Desde a implementação das melhorias,</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">a&nbsp;taxa de conversão do site da True Source</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">está </span><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">constantemente acima de 2%</span><span style=\"font-size: 18pt\">, um<br></span><span style=\"font-size: 18pt\">marco importante que reflete o sucesso</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">das estratégias aplicadas.</span></p>",
         "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Deco CX. + True Source</span></p>",
+        "description": "<p> No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe melhorias significativas que impactaram diretamente na performance e usabilidade do site.</p><p>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o site mais rápido em comparação a outros players.</p>"
       }
     },
     {

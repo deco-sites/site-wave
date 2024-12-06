@@ -1,0 +1,111 @@
+{
+  "name": "Safira",
+  "path": "/safira",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "labelBottom": {
+          "titulo": "soluções",
+          "text": "Mídia Paga"
+        },
+        "subtitle": "Expansão de vendas para todo Brasil com Omnichannel",
+        "title": "Safira",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/dd0a0852-21f3-41d2-ac44-721c2117964f/desk-safira.jpg",
+            "height": 700
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/300d2e63-e688-4e52-afaf-3a3daa99f68d/mob-safira.jpg",
+            "height": 500
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><span style=\"color: #fafafa; font-size: 18px\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor</span><span style=\"color: #fafafa\"><br></span><span style=\"color: #fafafa; font-size: 18px\">experiência de compra.<br></span><span style=\"color: #fafafa\"><br></span><span style=\"color: #fafafa; font-size: 18px\">A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 227); font-size: 18pt\">Grande diferencial da Wave</span></strong></h3><p></p>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 18pt\">Diferenciais da Wave:</span></strong></h2><p></p><p></p>",
+        "description": "<p></p><p><span style=\"font-size: 14pt\">– Especialização no varejo: Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br></span><span style=\"font-size: 14pt\"><br></span><span style=\"font-size: 14pt\">– Equipe capacitada: Wave preocupada em ter uma equipe atualizada com&nbsp;as principais tendências de mercado para proporcionar os melhores&nbsp;resultados.</span></p><p><span style=\"font-size: 14pt\">&nbsp;</span></p><p><span style=\"font-size: 14pt\">– Aumento de faturamento expressivo com pouco crescimento do&nbsp;investimento, resultando num maior retorno e margem</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
+        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

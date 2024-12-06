@@ -47,8 +47,8 @@
           ],
           "subTitle": "Quando se trata de e-commerce e marketplace, somos reconhecidos como autoridade no mercado."
         },
-        "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/11e7411d-f7d2-4f24-820a-ac7fdffd6d76",
-        "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/241c0acf-09c9-4d68-8915-5c696bf5e763",
+        "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5a9a23bc-da2e-4b61-b305-b0fca7516749/mob-full-home.jpg",
+        "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/230f2f66-c057-421d-9589-2cc0b54af071/desk-full-home.jpg",
         "isEmptyBrand": true
       },
       "__resolveType": "site/sections/Images/BannerHero.tsx"
