@@ -9,10 +9,14 @@ export interface CTA {
 }
 
 export interface Props {
-  /**
-   * @format html
-   */
+   /**
+    * @format rich-text
+    */
   title: string;
+     /**
+    * @title Titulo do card
+    * @format rich-text
+    */
   description: string;
   image?: ImageWidget;
   placement: "left" | "right";
@@ -33,7 +37,7 @@ export default function HeroFlats({
 }: Props) {
   return (
     <div>
-      <div class="mx-auto flex flex-col items-center gap-8">
+      <div class="mx-auto flex flex-col items-center gap-8 text-white">
         <div
           class={`flex w-full xl:container xl:mx-auto py-20 mx-5 md:mx-10 z-10 ${
             image
@@ -60,7 +64,7 @@ export default function HeroFlats({
             }`}
           >
             <div
-              class="inline-block text-[80px] leading-[100%] font-medium tracking-[-2.4px]"
+              class="inline-block text-[80px] leading-[100%] font-medium tracking-[-2.4px] text-white"
               dangerouslySetInnerHTML={{
                 __html: title,
               }}

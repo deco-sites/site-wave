@@ -1,4 +1,6 @@
 import commerce, { Props as CommerceProps } from "apps/commerce/mod.ts";
+import blog from "apps/blog/mod.ts";
+import website from "apps/website/mod.ts";
 import { color as shopify } from "apps/shopify/mod.ts";
 import { color as vnda } from "apps/vnda/mod.ts";
 import { color as vtex } from "apps/vtex/mod.ts";
@@ -10,6 +12,9 @@ import type { App as A, AppContext as AC } from "deco/mod.ts";
 import { rgb24 } from "std/fmt/colors.ts";
 import manifest, { Manifest } from "../manifest.gen.ts";
 import type { AvailableIcons } from "../components/ui/Icon.tsx";
+
+type WebsiteApp = ReturnType<typeof website>;
+type BlogApp = ReturnType<typeof blog>;
 
 /**
  * @titleBy text
@@ -77,7 +82,11 @@ let firstRun = true;
 
 export default function Site(
   { theme, ...state }: Props,
-): A<Manifest, Props, [ReturnType<typeof commerce>]> {
+): A<Manifest, Props, [
+  ReturnType<typeof commerce>,
+  WebsiteApp,
+  BlogApp,
+]> {
   _platform = state.platform || state.commerce?.platform || "custom";
 
   // Prevent console.logging twice
@@ -98,8 +107,13 @@ export default function Site(
         ...state,
         global: theme ? [...(state.global ?? []), theme] : state.global,
       }),
+      website(state),
+      blog(state),
     ],
   };
 }
+
+export type SiteApp = ReturnType<typeof Site>;
+export type AppContext = AC<SiteApp>;
 
 export { onBeforeResolveProps, Preview } from "apps/website/mod.ts";

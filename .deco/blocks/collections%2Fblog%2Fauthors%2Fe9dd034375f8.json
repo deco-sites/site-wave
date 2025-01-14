@@ -1,0 +1,10 @@
+{
+  "name": "collections/blog/authors/e9dd034375f8",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Kesia Ramires",
+    "email": "kesia.ramires@wavecommerce.com.br",
+    "jobTitle": "Analista de SEO",
+    "company": "wave commerce"
+  }
+}

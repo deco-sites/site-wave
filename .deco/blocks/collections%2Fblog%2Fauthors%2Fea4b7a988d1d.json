@@ -1,0 +1,11 @@
+{
+  "name": "collections/blog/authors/ea4b7a988d1d",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Tiago Heineck",
+    "email": "tiago.heineck@wavecommerce.com.br",
+    "jobTitle": "Tiago Heineck, 22 anos, graduando em Publicidade e Propaganda pela UFRGS. Já trabalhei como copywriter e redator, tendo experiência em agências tradicionais e de marketing digital. Atualmente, trabalho com redação de conteúdo para SEO na Wave Commerce.",
+    "company": "Wave Commerce",
+    "avatar": "https://data.decoassets.com/site-wave/d674c4fe-d4eb-4b40-9adf-97f21915fe88/tiago.jpg"
+  }
+}
