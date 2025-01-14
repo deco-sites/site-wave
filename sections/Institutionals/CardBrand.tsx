@@ -1,5 +1,6 @@
-import type { ImageWidget } from "apps/admin/widgets.ts";
+import Image from "apps/website/components/Image.tsx";
 import { useDevice } from "deco/hooks/useDevice.ts";
+import type { ImageWidget } from "apps/admin/widgets.ts";
 
 export interface Logo {
   logo?: ImageWidget;
@@ -82,7 +83,7 @@ const CardBrand = ({ brand, services, settings }: Props) => {
                 } flex items-center justify-center`}
               >
                 {service?.icon && (
-                  <img class="h-auto" width={24} src={service.icon} />
+                  <Image src={service.icon} width={24} height={24} />
                 )}
               </div>
               <div class="flex items-center">

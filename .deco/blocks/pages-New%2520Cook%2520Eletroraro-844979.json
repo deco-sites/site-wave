@@ -1,6 +1,6 @@
 {
   "name": "Cook Eletroraro",
-  "path": "/Cook Eletroraro",
+  "path": "/cook-eletroraro",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -14,7 +14,7 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "Seo, Crm, Mídia paga, Front-End"
+          "text": "SEO, CRM, Mídia paga, Front-End"
         },
         "subtitle": "Como o E-commerce bateu recordes de faturamento",
         "title": "Cook Eletroraro",
@@ -34,7 +34,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: #ffffff; font-size: 14pt\">Fundada em 1973, a COOK, inicialmente especializada na criação de cozinhas, despensas, banhos e áreas planejadas, evoluiu para </span><strong><span style=\"color: #ffffff; font-size: 14pt\">COZINHAS COOK ELETRORARO</span></strong><span style=\"color: #ffffff; font-size: 14pt\">, que é a soma da empresa original com o comércio de eletrodomésticos de primeira linha.</span></h2>",
+        "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">Fundada em 1973, a COOK, inicialmente especializada na criação de cozinhas, despensas, banhos e áreas planejadas, evoluiu para </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">COZINHAS COOK ELETRORARO</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">, que é a soma da empresa original com o comércio de eletrodomésticos de primeira linha.</span></p>",
         "description": "<p><span style=\"font-size: 14pt\">É uma </span><strong><span style=\"font-size: 14pt\">grande variedade de produtos sofisticados das mais conceituadas marcas nacionais e importadas</span></strong><span style=\"font-size: 14pt\">. Tudo isso faz da Cook um referencial de compras pela internet para tornar a sua casa ainda mais especial.</span></p><p><span style=\"font-size: 14pt\"><br></span></p>"
       }
     },
@@ -75,7 +75,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<h2><span style=\"color: #ffffff; font-size: 14pt\">A parceria entre Wave e Cook Eletroraro começou no dia 4 de abril de 2023, com contrato para as áreas de mídia paga, SEO e CRM. Após um faturamento crescente nos meses de maio, junho e julho, em agosto o E-commerce bateu recorde absoluto de faturamento pela internet, </span><strong><span style=\"color: #ffffff; font-size: 14pt\">aumentando quase 50% em relação ao mês anterior</span></strong><span style=\"color: #ffffff; font-size: 14pt\"> – e com ótimas projeções para os meses seguintes.</span></h2><h2></h2>",
+              "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">A parceria entre Wave e Cook Eletroraro começou no dia 4 de abril de 2023, com contrato para as áreas de mídia paga, SEO e CRM. Após um faturamento crescente nos meses de maio, junho e julho, em agosto o E-commerce bateu recorde absoluto de faturamento pela internet, </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">aumentando quase 50% em relação ao mês anterior</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 14pt\"> – e com ótimas projeções para os meses seguintes.</span></p><p></p>",
               "description": "<p></p>"
             }
           }
@@ -90,8 +90,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Resultados alcançados</span></p>",
-        "description": "<p>Após a implementação das soluções pela Wave Commerce, a True Source observou melhorias significativas em vários aspectos:</p>"
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></h2>",
+        "description": "<p><span style=\"font-size: 14pt\">Em menos de um 1 ano de trabalho...</span></p>"
       }
     },
     {
@@ -101,18 +101,21 @@
         "services": [
           {
             "titleColor": "primary",
-            "title": "usabilidade do site foi aprimorada",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f17e44a-10d6-401d-ba13-b29c80fcd57e/8129a298-4e21-4079-91f6-9530e9915154.png"
+            "title": "SEO:",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f17e44a-10d6-401d-ba13-b29c80fcd57e/8129a298-4e21-4079-91f6-9530e9915154.png",
+            "paragraph": "Aumento de 25% nas sessões orgânicas em relação ao período antes da Wave Commerce e Recorde de sessões orgânicas em um único mês (nov/2023) "
           },
           {
             "titleColor": "primary",
-            "title": "A velocidade do site aumentou consideravelmente",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a22039eb-3f18-4bb2-940f-07c63cf580d6/dbb57264-6a22-40a0-bb09-0f0527004bb3.png"
+            "title": "CRM:",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a22039eb-3f18-4bb2-940f-07c63cf580d6/dbb57264-6a22-40a0-bb09-0f0527004bb3.png",
+            "paragraph": "Cupom “10% para próxima compra” gerou números inéditos em vendas para o e-mail marketing, com um crescimento de aproximadamente 4000% em 6 meses"
           },
           {
             "titleColor": "primary",
-            "title": "as vitrines inteligentes foram otimizadas, proporcionando uma experiencia de compra mais agradável.",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c093d5d2-0d52-460e-a674-28313b8302e8/1af63458-23f3-41d3-bbff-5112678e0c94.png"
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c093d5d2-0d52-460e-a674-28313b8302e8/1af63458-23f3-41d3-bbff-5112678e0c94.png",
+            "title": "FATURAMENTO:",
+            "paragraph": "Recorde histórico de faturamento, aumentando 50% em relação ao mês anterior"
           }
         ]
       }
@@ -121,15 +124,38 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 18pt\">VTEX IO</span></strong></h2>",
-        "description": "<h2><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">No início de maio, a empresa passou por uma </span><strong><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">migração de VTEX CMS para VTEX IO</span></strong><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">, período que pode ser complicado. No entanto, a adaptação foi rápida. A partir de um estudo de VTEX IO personalizado para Cook Eletroraro, em que foi possível entender onde melhorias poderiam ser implementadas, o site passou por um processo de “relayout” (mudança da disposição dos elementos visuais da página).</span></h2><h2><span style=\"color: rgb(245, 245, 245); font-size: 14pt\"><br></span></h2>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 14pt\">Em nossa participação no Fórum do E-commerce Brasil de 2024, o André, gestor da Cook Eletroraro, comentou sobre o trabalho com a Wave Commerce!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(248, 247, 247)\">“A equipe o tempo todo está disposta a nos ajudar com </span><span style=\"color: rgb(0, 91, 205)\">estratégias </span><span style=\"color: rgb(0, 92, 206)\">novas, novos insights</span><span style=\"color: rgb(248, 247, 247)\">. Experiência muito boa!”</span></p>",
+        "description": "<h2>Destacando o engajamento entre as equipes da Wave na busca por resultados.</h2>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/hB6u_da_eWo?si=H9Gp7b3Bw3vHbuVj"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></strong></h2>",
+        "description": "<p><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">No início de maio, a empresa passou por uma </span><strong><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">migração de VTEX CMS para VTEX IO</span></strong><span style=\"color: rgb(245, 245, 245); font-size: 14pt\">, período que pode ser complicado. No entanto, a adaptação foi rápida. A partir de um estudo de VTEX IO personalizado para Cook Eletroraro, em que foi possível entender onde melhorias poderiam ser implementadas, o site passou por um processo de “relayout” (mudança da disposição dos elementos visuais da página). </span><span style=\"font-size: 14pt\">Com os aplicativos personalizados e o site editor da VTEX IO, o site teve uma melhora enorme em sua acessibilidade e facilitou a gestão de conteúdo, resultando em avanços expressivos para performance. Além disso, o SEO do site se tornou muito mais simples e eficiente. Isso foi um fator determinante para os recordes alcançados.</span></p><p></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
         "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
       }
     },

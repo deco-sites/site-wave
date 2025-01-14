@@ -1,0 +1,228 @@
+{
+  "name": "Parceiros - Amazon",
+  "path": "/amazon",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/d8ec8a84-45dc-4c28-8249-c4c72807e65d/desk-amazon.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/219c224b-c6c9-41db-81ad-800d400a29f9/mob-amazon.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira Amazon spn",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "Somos uma agência parceira oficial da Amazon. Especialista em performance digital e gerenciamento de marketplace e e-commerce, possuímos soluções estratégicas para potencializar os resultados de vendas do seu negócio dentro de um dos maiores marketplaces do mundo, a Amazon US. E sua conta ainda pode contar com um gerente dentro da própria Amazon."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p>A Amazon é a empresa mais focada no consumidor em todo o mundo. Negócios de todos os tamanhos podem aproveitar o marketplace de forma simples e eficiente. Oferecem mais de 30 categorias de produtos, incluindo bebidas, móveis para casa e cozinha, e calçados e moda. Os clientes passam a encontrar os produtos na Amazon assim que são publicados dentro do canal.</p><p></p><p>Quando você começa a vender na Amazon, você se junta a vendedores de todos os tipos que vendem online, desde empresas internacionais a empreendedores individuais. Todos eles vendem na Amazon pelo mesmo motivo: oferecer seus produtos para os milhões de clientes que visitam o site da Amazon diariamente.</p>",
+        "title": "<p><strong>Sobre a Amazon</strong><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Amazon spn</span></strong></h2>",
+        "description": "<p><span style=\"color: #fcfcfc; font-size: 18px\">A </span><strong><span style=\"color: #fcfcfc\">Amazon spn</span></strong><span style=\"color: #fcfcfc; font-size: 18px\"> oferece uma </span><strong><span style=\"color: #fcfcfc\">Rede de Prestadores de Serviço</span></strong><span style=\"color: #fcfcfc; font-size: 18px\"> (SPN) de confiança da Amazon que auxilia os lojistas em diversas etapas das configurações de conta, integrações de produtos, além de melhorar a performance dentro da Amazon BR e Amazon US. Veja abaixo algumas </span><strong><span style=\"color: #fcfcfc\">soluções oferecidas</span></strong><span style=\"color: #fcfcfc; font-size: 18px\">:</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Suporte para configuração da conta de vendedor:",
+            "paragraph": "criação e configuração da sua conta no Seller Central."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Revisão de atributos de catálogo:",
+            "paragraph": "checagem de títulos, descrições e imagens dos seus produtos antes da listagem."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Listagem de produtos:",
+            "paragraph": "upload dos seus produtos no inventário dentro do Seller Central e integração com a sua plataforma de gerenciamento."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Registro de marca:",
+            "paragraph": "caso necessário, um especialista solicitará e cadastrará sua marca dentro da Amazon."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Configuração de frete:",
+            "paragraph": "configuração de automação de preço e prazos de entrega."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Precificação automática:",
+            "paragraph": "defina a sua margem e deixe que um especialista configure a automação de preços."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Nós fazemos parte do ecossistema de parceiros da Amazon</span></strong></h2>",
+        "description": "<p>Nós fazemos parte da Rede de Prestadores de Serviços oficiais da Amazon, oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.&nbsp;</p><p>O time Wave está preparado para entregar atendimento personalizado, acompanhamento de projetos, além de uma extensão de suporte e relacionamento com os lojistas.</p><p><strong>Somos o parceiro certo para o seu negócio!</strong> Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados pela Amazon.&nbsp;</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Nossas Soluções</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Catalogação e otimização de catálogo: ",
+            "paragraph": "ajudamos você a ofertar seus produtos seguindo as boas práticas do canal e a otimizar seu catálogo atual seguindo as diretrizes da Amazon."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Edição de imagem:",
+            "paragraph": "editamos as fotos dos seus produtos para aumentar as visualizações e melhorar a experiência dos usuários com imagens de qualidade que seguem as diretrizes da Amazon."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Otimização de publicidade:",
+            "paragraph": "receba ajuda especializada para aumentar suas vendas por meio de publicidade para produtos da Amazon. Criamos anúncios estratégicos para o seu negócio e realizamos a gestão de campanhas - análise de resultados, otimização e controle de investimento. Com isso, ajudamos a aumentar a visibilidade dos seus produtos, o volume de vendas e o faturamento da sua loja."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Gerenciamento de contas:",
+            "paragraph": "realizamos o gerenciamento de contas oferecendo suporte prático para as operações diárias do Seller Central, além de informações que podem ajudá-lo a expandir os seus negócios na Amazon."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Conteúdo aprimorado da marca: ",
+            "paragraph": "criamos conteúdo aprimorado da sua marca, adicionando descrições detalhadas e recursos avançados de produtos que podem levar a melhores conversões, incluindo diversas imagens e banners."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Treinamento:",
+            "paragraph": "entenda melhor como aumentar suas vendas na Amazon. Oferecemos treinamento sobre como otimizar a precificação automática e ganhar a Buy Box, utilizar os Lightning Deals e outras promoções, aumentar a relevância de ofertas adicionando palavras-chave nas descrições, promover campanhas de Sponsored Products para aumentar os cliques e utilizar relatórios de negócios para desenvolver estratégias."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

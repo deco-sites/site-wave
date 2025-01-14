@@ -1,0 +1,106 @@
+{
+  "name": "Casa e Casa",
+  "path": "/casa-e-casa",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "labelBottom": {
+          "titulo": "soluções",
+          "text": "Performance em Marketplace"
+        },
+        "subtitle": "Como casa e casa faturou mais de 1,4 milhão na black friday",
+        "title": "Casa e Casa",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/59bf1509-b092-4304-9d21-392b4fe1db43/desk-casaecasa.jpg",
+            "height": 700
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3383833e-ea37-4857-af06-d9e333ff9fef/mob-casaecasa.jpg",
+            "height": 500
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">A história da&nbsp;</span><strong><span style=\"color: #ffffff\">Casa e Casa</span></strong><span style=\"color: #ffffff; font-size: 18px\">&nbsp;é de longa data, a empresa iniciou em 1985 e vem se solidificando no mercado desde então. Atuando no segmento de&nbsp;</span><strong><span style=\"color: #ffffff\">Casa</span></strong><span style=\"color: #ffffff; font-size: 18px\">,&nbsp;</span><strong><span style=\"color: #ffffff\">Móveis&nbsp;</span></strong><span style=\"color: #ffffff; font-size: 18px\">e&nbsp;</span><strong><span style=\"color: #ffffff\">Decoração</span></strong><span style=\"color: #ffffff; font-size: 18px\">, oferece variedades de produtos da melhor qualidade para seus clientes. Atualmente, possui 6 lojas físicas, além de atuar nos&nbsp;</span><strong><span style=\"color: #ffffff\">maiores marketplaces</span></strong><span style=\"color: #ffffff; font-size: 18px\">&nbsp;do Brasil, como Americanas, Mercado Livre, Magalu, Via, entre outros.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
+        "sections": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+              "services": [
+                {
+                  "titleColor": "primary",
+                  "title": "Performance em Marketplace",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Atendimento Personalizado"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card1.tsx",
+              "title": "<p><span style=\"color: #ffffff; font-size: 18px\">Em outubro de 2021, o Gestor de Marketplace da Casa e Casa,&nbsp;</span><span style=\"color: #ffffff\">Robson</span><span style=\"color: #ffffff; font-size: 18px\">, procurou a Wave para iniciar uma parceria, com o objetivo de potencializar suas vendas dentro dos canais de Marketplaces. Com o início da parceria, os resultados positivos logo foram percebidos pelo cliente. Atuando de maneira estratégica e assertiva, a Wave conseguiu triplicar o faturamento de Casa e Casa no primeiro mês de serviço,&nbsp;</span><span style=\"color: #ffffff\">resultado 173% maior</span><span style=\"color: #ffffff; font-size: 18px\">&nbsp;em relação ao mês anterior.</span></p>",
+              "description": "<p></p>"
+            }
+          }
+        ],
+        "layoutSettings": {
+          "layoutType": "grid",
+          "columnLayout": "primary"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Estratégia de sucesso</span></p>",
+        "description": "<p>Durante o mês do maior evento de vendas do comércio online, a Black Friday, o time de profissionais da Wave conseguiu alcançar resultados incríveis de faturamento, chegando a<strong>&nbsp;R$ 1,4 milhão em vendas</strong>, através de um trabalho concentrado em estratégia de estoque, preço, frete e publicidade paga em produtos chaves dentro de canais como Mercado Livre, Americanas, Submarino, Shoptime e Magazine Luiza.</p><p>O conjunto de estratégias de performance orgânica bem estruturada e o investimento assertivo aplicado em advertising nas contas de Casa e Casa, foram essenciais para escalar as vendas durante a Black Friday. Outro fator fundamental para triplicar a receita no mês de novembro foi o alinhamento entre a equipe de profissionais da Wave em relação às expectativas do lojista, além do trabalho executado em conjunto, entre a agência e o cliente.</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
+        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Hocks",
+  "path": "/hocks",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "labelBottom": {
+          "titulo": "soluções",
+          "text": "Mídia Paga, CRM e Design"
+        },
+        "subtitle": "Como a Hocks atingiu um faturamento recorde na Black Friday",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/93230f55-72e6-45ca-89f1-7bdc5e4242a8/desk-hocks.jpg",
+            "height": 700
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/75bd8dab-ffce-4bdb-8749-47917bc2b25e/mob-hocks.jpg",
+            "height": 500
+          }
+        },
+        "title": "Hocks"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"font-size: 25pt\">Conheça as estratégias que impactaram nesse resultado<br></span><br></p>",
+        "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A história da </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Hocks </span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">começou em 2002 quando Cristiano Senra, skatista e sócio-fundador, começou a desenvolver os produtos e, desde então, vem se consolidando como uma das maiores marcas de streetwear do mercado brasileiro. Atuando no segmento de vestuário e acessórios, a marca oferece produtos com materiais de alta qualidade e ótimo custo benefício para os consumidores.&nbsp; Inicialmente, as vendas eram feitas apenas B2B, atendendo lojistas do Rio Grande do Sul e atualmente está presente em vários estados do Brasil com mais de 500 pontos de vendas.</span></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Em 2019, perceberam a necessidade de criar novos produtos e </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">expandir as vendas</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para regiões onde a marca ainda não estava presente. Foi quando decidiram digitalizar a Hocks lançando um </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">e-commerce</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para trabalhar as vendas B2C com entrega para todos os lugares do Brasil.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
+        "sections": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+              "services": [
+                {
+                  "titleColor": "primary",
+                  "title": "Mídia Paga para E-commerce",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "E-mail marketing"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Criativos de Performance"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card1.tsx",
+              "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Em fevereiro de 2021, os profissionais de Marketing da Hocks, Felipe e Alex, procuraram a Wave para iniciar uma parceria, com o objetivo de aumentar o faturamento da empresa e ampliar a visibilidade em outras regiões do Brasil.&nbsp;</span></p>",
+              "description": "<p></p>"
+            }
+          }
+        ],
+        "layoutSettings": {
+          "layoutType": "grid",
+          "columnLayout": "primary"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Crescimento exponencial da marca</span></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Os resultados se mostraram promissores logo nos primeiros meses. O trabalho realizado pelo nosso time de profissionais, deu </span><strong><span style=\"font-size: 15pt\">maior ênfase para a marca frente ao mercado</span></strong><span style=\"font-size: 15pt\">, o que,&nbsp; consequentemente, aumentou gradativamente o faturamento do e-commerce, cumprindo com o propósito e expectativas do cliente. Ao longo de um ano e meio de um trabalho feito a quatro mãos, o resultado foi um </span><strong><span style=\"font-size: 15pt\">aumento de 300%</span></strong><span style=\"font-size: 15pt\"> em cima do faturamento que vinham realizando anteriormente. E hoje, a Hocks segue colhendo os resultados do crescimento das vendas online e da expansão da marca em regiões onde ainda não era conhecida.</span></p><p></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/1S576o463Pg?si=InIHa71_rDs9FzOo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h3><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Superando as expectativas na Black Friday</span></h3>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Durante a Black Friday de 2021 não foi diferente. O trabalho realizado pela equipe de especialistas da Wave levou a Hocks a um recorde de faturamento na data, com um crescimento de 68,45% a mais em relação ao mesmo período de 2020. Esses números foram obtidos através das estratégias traçadas em torno do mapeamento da curva ABC. A partir dessas informações, construímos campanhas em Google Ads, Meta e Pinterest Ads, com objetivo de aumentar o número de pedidos, com cupons de desconto, desconto via pix, os criativos com copy e ofertas bem definidas, além de e-mail marketing com ofertas atrativas que auxiliaram no aumento do valor total.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Outro elemento importante para aumentar a receita no mês de novembro, foi o alinhamento entre os especialistas da Wave e as expectativas da Hocks, posicionando o planejamento de trabalho do cliente e da agência para uma execução mais assertiva das estratégias.</span></p>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><u><span style=\"font-size: 15pt\">performance para E-commerce</span></u></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -1,0 +1,209 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/192c4515-c51d-4af5-83c8-a57971d0acfb/desk-linx.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/9b40d5fe-291f-4303-94da-78eea448523e/mob-linx.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira Linx",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "Somos uma agência certificada Linx Digital Partner, especialista em performance digital e gerenciamento de e-commerce, com soluções estratégicas para potencializar os resultados de vendas do seu negócio."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">A Linx é uma plataforma digital especialista em tecnologia para o varejo. Focada em ampliar a eficiência de implantação e o alcance de soluções de plataforma e omnichannel, gerando novos negócios e transformando todo o mercado. </span><span style=\"color: rgb(255, 255, 255); font-size: 18px\">Líder no mercado de software de gestão, na Linx a jornada de compra é transformada em insights fundamentais para atingir o que os varejistas mais esperam: fidelizar seus consumidores e atingir resultados concretos e relevantes.</span></p>",
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Sobre a Linx</span></h2>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Leve a melhor experiência do varejo digital para o consumidor final, através de uma plataforma de e-commerce adaptada para os mais diversos cenários. Confira mais abaixo:</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Omnichannel:",
+            "paragraph": "checkout e fluxos do e-commerce totalmente adaptados."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "B2C:",
+            "paragraph": "experiência otimizada para aumento de conversão (checkout intuitivo, módulo de promoções, layout 100% customizável e responsivo)."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "B2B:",
+            "paragraph": "experiência otimizada para atender grandes compras de maneira ágil e segura (área logada, preço mínimo, venda assistida, gestão de cadastro, gestão de políticas comerciais)."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "HUB:",
+            "paragraph": "integração nativa com os principais marketplaces do Brasil."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Marketplace:",
+            "paragraph": "venda de produtos de terceiros dentro de seu e-commerce."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência Parceira Linx</span></strong></h2>",
+        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Nós fazemos parte do novo </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">ecossistema de parcerias</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\"> da Linx Digital, oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet. Através deste novo cenário, a Linx Digital abre novas </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">estratégias inovadoras</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\"> com as soluções de plataforma de e-commerce, integrador de marketplaces, impulsionamento da performance e conversão digital e omnichannel.<br><br>O time Wave está preparado para entregar novas formas de atendimento, acompanhamento comercial e de projetos, além de uma extensão de suporte e relacionamento com os lojistas. </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados pela Linx Digital.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Marketing Digital</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Estruturação de E-commerce:",
+            "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Performance:",
+            "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Conteúdo:",
+            "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Criativo:",
+            "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Marketplace:",
+            "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "name": "Parceiros - Linx",
+  "path": "/linx"
+}

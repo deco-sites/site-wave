@@ -43,78 +43,189 @@
     "backgroundColor": "Primary"
   },
   "social": [
-    { "link": "/instagram", "label": "Instagram" },
-    { "link": "/youtube", "label": "Youtube" },
-    { "link": "/linkedin", "label": "Linkedin" }
+    {
+      "link": "www.instagram.com/wavecommerceoficial/",
+      "label": "Instagram"
+    },
+    {
+      "link": "www.youtube.com/channel/UCUNkI5Tygiky01A3md_ejEA",
+      "label": "Youtube"
+    },
+    {
+      "link": "https://br.linkedin.com/company/wavecommerce-agencia",
+      "label": "Linkedin"
+    }
   ],
   "payments": {
     "items": [
-      { "label": "Elo" },
-      { "label": "Mastercard" },
-      { "label": "Pix" },
-      { "label": "Visa" }
+      {
+        "label": "Elo"
+      },
+      {
+        "label": "Mastercard"
+      },
+      {
+        "label": "Pix"
+      },
+      {
+        "label": "Visa"
+      }
     ],
     "title": "Formas de pagamento"
   },
   "sections": [
     {
       "items": [
-        { "href": "/performance", "label": "Performance" },
-        { "href": "/seo", "label": "Seo" },
-        { "href": "/ecommerce", "label": "Estruturação de E-commerce" },
-        { "href": "/marketplace", "label": "Marketplace" },
-        { "href": "/conteudo-digital", "label": "Conteúdo Digital" },
-        { "href": "/criacao-designer", "label": "Criação e Design" },
-        { "href": "/ecommerce-nos-eua", "label": "E-commerce nos EUA" }
+        {
+          "href": "/performance",
+          "label": "Performance"
+        },
+        {
+          "href": "/seo",
+          "label": "Seo"
+        },
+        {
+          "href": "/implementacao-de-ecommerce",
+          "label": "Estruturação de E-commerce"
+        },
+        {
+          "href": "/marketplace",
+          "label": "Marketplace"
+        },
+        {
+          "href": "/conteudo-digital",
+          "label": "Conteúdo Digital"
+        },
+        {
+          "href": "/criacao-designer",
+          "label": "Criação e Design"
+        },
+        {
+          "href": "/ecommerce-nos-eua",
+          "label": "E-commerce nos EUA"
+        },
+        {
+          "label": "Fulfillment",
+          "href": "/fulfillment"
+        }
       ],
       "label": "Serviços"
     },
     {
       "items": [
-        { "href": "/amazon", "label": "Amazon" },
-        { "href": "/vtex", "label": "VTEX" },
-        { "href": "/deco-cx", "label": "Deco.cx" },
-        { "href": "/shopify", "label": "Shopify" },
-        { "href": "/linx", "label": "Linx" },
-        { "href": "/parceiros", "label": "Ver todos" }
+        {
+          "href": "/amazon",
+          "label": "Amazon"
+        },
+        {
+          "href": "/vtex",
+          "label": "VTEX"
+        },
+        {
+          "href": "/deco-cx",
+          "label": "Deco.cx"
+        },
+        {
+          "href": "/shopify",
+          "label": "Shopify"
+        },
+        {
+          "href": "/linx",
+          "label": "Linx"
+        },
+        {
+          "href": "/parceiros",
+          "label": "Ver todos"
+        }
       ],
       "label": "Parceiros",
       "children": [
-        { "href": "/quemsomos", "label": "Quem somos" },
+        {
+          "href": "/quemsomos",
+          "label": "Quem somos"
+        },
         {
           "href": "/privacidadeeseguranca",
           "label": "Privacidade e segurança"
         },
-        { "href": "/termosdeuso", "label": "Termos de uso" },
-        { "href": "/trabalheconosco", "label": "Trabalhe conosco" }
+        {
+          "href": "/termosdeuso",
+          "label": "Termos de uso"
+        },
+        {
+          "href": "/trabalheconosco",
+          "label": "Trabalhe conosco"
+        }
       ]
     },
     {
       "items": [
-        { "href": "/cases/termolar", "label": "termolar" },
-        { "href": "/cases/cook-eletroraro", "label": "Cook Eletroraro" },
-        { "href": "/cases/sex-shop-atacadao", "label": "Sex Shop Atacadão" },
-        { "href": "/cases/safira", "label": "Safira" },
-        { "href": "/cases", "label": "ver todos" }
+        {
+          "href": "/termolar",
+          "label": "Termolar"
+        },
+        {
+          "href": "/cook-eletroraro",
+          "label": "Cook Eletroraro"
+        },
+        {
+          "href": "/sex-shop-atacadao",
+          "label": "Sex Shop Atacadão"
+        },
+        {
+          "href": "/safira",
+          "label": "Safira"
+        },
+        {
+          "href": "/cases",
+          "label": "ver todos"
+        }
       ],
       "label": "Cases",
       "children": [
-        { "href": "/centraldeatendimento", "label": "Central de atendimento" },
-        { "href": "/whatsapp", "label": "Fale conosco pelo WhatsApp" },
-        { "href": "/trocaedevolucao", "label": "Troca e devolução" }
+        {
+          "href": "/centraldeatendimento",
+          "label": "Central de atendimento"
+        },
+        {
+          "href": "/whatsapp",
+          "label": "Fale conosco pelo WhatsApp"
+        },
+        {
+          "href": "/trocaedevolucao",
+          "label": "Troca e devolução"
+        }
       ]
     },
     {
       "items": [
-        { "href": "/vagas", "label": "Vagas" },
-        { "href": "/blog", "label": "Blog" },
-        { "href": "/quem somos", "label": "Quem somos" },
-        { "href": "/contato", "label": "Contato" }
+        {
+          "href": "/vagas",
+          "label": "Vagas"
+        },
+        {
+          "label": "Blog",
+          "href": "www.wavecommerce.com.br/blog/"
+        },
+        {
+          "href": "/quem-somos",
+          "label": "Quem somos"
+        },
+        {
+          "href": "/contato",
+          "label": "Contato"
+        }
       ],
       "label": "institucional",
       "children": [
-        { "href": "/loginecadastro", "label": "Login e cadastro" },
-        { "href": "/meuspedidos", "label": "Meus pedidos" }
+        {
+          "href": "/loginecadastro",
+          "label": "Login e cadastro"
+        },
+        {
+          "href": "/meuspedidos",
+          "label": "Meus pedidos"
+        }
       ]
     }
   ],
@@ -139,18 +250,32 @@
       "helpText": "<p>Ao se inscrever, você está aceitando nossa <a href=\"/\" class=\"link\">Política de Privacidade</a>.</p>"
     },
     "title": "Newsletter",
-    "description": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum."
+    "description": "Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados."
   },
-  "backToTheTop": { "text": "Voltar ao topo" },
+  "backToTheTop": {
+    "text": "Voltar ao topo"
+  },
   "__resolveType": "site/sections/Footer/Footer.tsx",
   "regionOptions": {
     "currency": [
-      { "href": "/", "label": "Brasil BRL" },
-      { "href": "/", "label": "United Stated USD" }
+      {
+        "href": "/",
+        "label": "Brasil BRL"
+      },
+      {
+        "href": "/",
+        "label": "United Stated USD"
+      }
     ],
     "language": [
-      { "href": "/", "label": "PT" },
-      { "href": "/", "label": "EN" }
+      {
+        "href": "/",
+        "label": "PT"
+      },
+      {
+        "href": "/",
+        "label": "EN"
+      }
     ]
   }
 }

@@ -9,35 +9,88 @@
     "titleTemplate": "%s | deco.cx",
     "descriptionTemplate": "%s | Deco.cx"
   },
-  "theme": { "__resolveType": "Fashion theme" },
+  "theme": {
+    "__resolveType": "Fashion theme"
+  },
   "global": [
     {
       "__resolveType": "website/sections/Analytics/Analytics.tsx",
-      "dangerouslyRunOnMainThread": true
+      "dangerouslyRunOnMainThread": true,
+      "trackingIds": [
+        "GTM-WJ52ZNV"
+      ],
+      "googleAnalyticsIds": [
+        "G-Z5CM54GC95"
+      ]
     },
-    { "__resolveType": "algolia/sections/Analytics/Algolia.tsx" },
-    { "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx" }
+    {
+      "__resolveType": "algolia/sections/Analytics/Algolia.tsx"
+    },
+    {
+      "__resolveType": "analytics/sections/Analytics/DecoAnalytics.tsx"
+    }
   ],
   "routes": [
-    { "__resolveType": "website/loaders/pages.ts" },
-    { "__resolveType": "website/loaders/redirects.ts" }
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    },
+    {
+      "__resolveType": "website/loaders/redirects.ts"
+    }
   ],
-  "caching": { "directives": [] },
-  "commerce": { "platform": "other" },
+  "caching": {
+    "directives": []
+  },
+  "commerce": {
+    "platform": "other"
+  },
   "platform": "vtex",
   "__resolveType": "site/apps/site.ts",
   "servicesSelector": [
-    { "url": "#", "icon": "DigitalPerformance", "text": "Performance Digital" },
-    { "url": "#", "icon": "SEO", "text": "SEO" },
+    {
+      "url": "#",
+      "icon": "DigitalPerformance",
+      "text": "Performance Digital"
+    },
+    {
+      "url": "#",
+      "icon": "SEO",
+      "text": "SEO"
+    },
     {
       "url": "#",
       "icon": "EcommerceCart",
       "text": "Estruturação de E-commerce"
     },
-    { "url": "#", "icon": "Marketplace", "text": "Marketplace" },
-    { "url": "#", "icon": "DigitalContent", "text": "Conteúdo Digital" },
-    { "url": "#", "icon": "Design", "text": "Criação e Design" },
-    { "url": "#", "icon": "EcommerceBasket", "text": "E-commerce nos EUA" }
+    {
+      "url": "#",
+      "icon": "Marketplace",
+      "text": "Marketplace"
+    },
+    {
+      "url": "#",
+      "icon": "DigitalContent",
+      "text": "Conteúdo Digital"
+    },
+    {
+      "url": "#",
+      "icon": "Design",
+      "text": "Criação e Design"
+    },
+    {
+      "url": "#",
+      "icon": "EcommerceBasket",
+      "text": "E-commerce nos EUA"
+    }
   ],
-  "firstByteThresholdMS": true
+  "firstByteThresholdMS": true,
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    }
+  },
+  "flavor": {
+    "framework": "fresh"
+  }
 }

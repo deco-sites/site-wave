@@ -6,44 +6,105 @@
       "__resolveType": "website/sections/Seo/Seo.tsx"
     },
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
     },
     {
+      "__resolveType": "site/sections/Services/Hero.tsx",
       "cta": {
         "href": "#",
         "text": "<p>Entre em <strong>contato</strong></p>"
       },
-      "title": "Sua marca em evidência.",
+      "title": "Conteúdo Digital",
       "bgImage": {
         "mobile": {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b85f1b84-54a1-47b3-b3f3-476c0186bea2",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/89f7ca51-0066-4fac-9d68-b19bc8d8e85c/mob-conteudo.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d403f18f-c992-4302-b900-3cbff65b2a17",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e059b2f9-5ca5-41ca-8177-5cbe8de31ba8/desk-conteudo.jpg",
           "height": 820
         }
       },
       "labelTop": {
         "icon": "DigitalPerformance",
-        "text": "Performance Digital"
+        "text": "Conteúdo Digital"
       },
-      "subtitle": "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
       "labelBottom": {
         "icon": "ChevronDown",
         "text": "Saiba mais sobre Performance Digital"
       },
-      "__resolveType": "site/sections/Services/Hero.tsx"
+      "subtitle": "Aproxime-se de seus clientes demonstrando o que o seu negócio oferece por meio de conteúdos digitais."
     },
     {
-      "__resolveType": "Cards de Serviço 2"
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "cta": {},
+      "sections": [
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">A produção de conteúdo digital </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">ajuda a atrair mais consumidores em potencial, trazendo conteúdos que demonstram autoridade no segmento de atuação da sua empresa</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">, consolidando sua imagem e sua notoriedade. Assim, o consumidor enxerga o seu negócio como uma referência na área.</span></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">Contamos com uma equipe de profissionais focados e qualificados em produção de conteúdo digital, que sabem identificar as melhores técnicas e ferramentas habilitadas para potencializar as ações do seu blog, e-book e e-mail marketing.</span></p><p><br></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li>Criação de Conteúdo Alinhado às Diretrizes do Google para SEO</li><li>Equipe com Expertise em Marketing de Conteúdo</li><li>Domínio de Ferramentas de Análise e Gestão de Conteúdo</li><li>Foco em Diversidade e Qualidade</li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ]
     },
     {
-      "__resolveType": "Cards de Serviço 1"
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 23pt\">Criação de Persona:</span></h3>",
+          "description": "<p><span style=\"font-size: 14pt\">A criação de personas permite compreender profundamente seu público-alvo, criando perfis semifictícios baseados em dados reais sobre comportamentos, necessidades e desafios dos clientes. Isso garante que todas as estratégias sejam mais personalizadas e eficazes, aumentando o engajamento e as conversões.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #fffafa; font-size: 23pt\">Funil de Marketing:</span></h3>",
+          "description": "<p><span style=\"font-size: 14pt\">Desenvolver um funil de marketing é essencial para mapear a jornada do cliente, desde a descoberta até a compra. Ele ajuda a identificar as melhores ações e conteúdos para cada etapa, otimizando o processo de atração, nutrição e conversão de leads.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 23pt\">Calendário de Marketing:</span></h3>",
+          "description": "<p><span style=\"font-size: 14pt\">Um calendário de marketing bem estruturado organiza as campanhas e conteúdos ao longo do ano, garantindo consistência e eficiência. Com ele, é possível planejar ações estratégicas para aproveitar sazonalidades, aumentar o impacto e otimizar os resultados.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 23pt\">E-mail Marketing:</span></h3>",
+          "description": "<p><span style=\"font-size: 14pt\">O e-mail marketing é uma ferramenta poderosa para se conectar diretamente com seu público. Enviando mensagens personalizadas e relevantes, você pode nutrir leads, fidelizar clientes e impulsionar vendas, sempre de forma mensurável e estratégica.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 23pt\">Blog:</span></h3>",
+          "description": "<p><span style=\"font-size: 14pt\">Um blog é um canal valioso para atrair e engajar sua audiência, oferecendo conteúdos relevantes e educativos. Além de fortalecer a autoridade da marca, ele contribui diretamente para o SEO, aumentando o tráfego orgânico do seu site.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 23pt\">E-book:</span></h3>",
+          "description": "<p><span style=\"font-size: 14pt\">Criar e-books é uma estratégia eficaz para educar o público e gerar leads qualificados. Com materiais ricos e bem produzidos, você demonstra autoridade no mercado, oferece valor ao cliente e coleta informações valiosas para futuras interações.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {},
+      "title": "<p>Por que a Wave é a <strong>melhor opção</strong> para cuidar ﻿do conteúdo do seu e-commerce?</p>"
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
+        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

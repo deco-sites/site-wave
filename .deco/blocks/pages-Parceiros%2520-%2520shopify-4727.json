@@ -1,0 +1,221 @@
+{
+  "name": "Parceiros - shopify",
+  "path": "/shopify",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/52a86f9f-5d31-4a78-8d4f-02040489bef7/desk-shopify.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/bc3f5723-8929-457f-ab89-fc8c7eb6b397/mob-shopify.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência Parceira Shopify",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "Somos uma agência com selo Shopify Experts, especialista em performance digital e gerenciamento de e-commerce, com soluções estratégicas para potencializar os resultados de vendas do seu negócio."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><span style=\"font-size: 15pt\">A Shopify é a plataforma escolhida por mais de 1.700.000 lojas no mundo todo. Uma plataforma confiável que conta com todos os recursos de e-commerce e pontos de venda necessários para você começar, gerenciar e expandir o seu negócio.</span></p><p></p><p><span style=\"font-size: 15pt\">Com a missão de tornar o comércio melhor para todos, Shopify ajuda as pessoas a conquistar independência.</span></p><p><span style=\"font-size: 15pt\">O futuro do comércio conta com mais vozes, não menos pluralidade. Por isso, diminuem os obstáculos para que as pessoas tenham o próprio negócio, tornando o comércio melhor para todos.</span></p>",
+        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 25pt\">O que é a Shopify?</span></strong></h2><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Trilhe o melhor caminho rumo ao futuro com a plataforma Shopify!</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Abra uma loja virtual:",
+            "paragraph": "abra um negócio, seja para dar vida a uma ideia inédita ou se você está em busca de novas formas de ganhar dinheiro."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Traga a sua empresa para a internet:",
+            "paragraph": "transforme sua loja física em uma loja virtual e continue atendendo clientes sem perder tempo."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Migre para a Shopify:",
+            "paragraph": "traga a sua empresa para a Shopify, não importa qual plataforma de e-commerce você usa no momento."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Contrate um especialista da Shopify:",
+            "paragraph": "deixe a configuração da sua loja nas mãos de um freelancer de confiança do Marketplace de Especialistas da Shopify."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Venda em qualquer lugar:",
+            "paragraph": "use uma plataforma para vender produtos onde e para quem você quiser: pessoalmente, com o Ponto de venda, e virtualmente, com o seu site, redes sociais e em marketplaces online."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Divulgue seu negócio:",
+            "paragraph": "chega de pautar suas ações em achismos: aproveite nossas ferramentas integradas que ajudam a criar, executar e analisar campanhas de marketing digital."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Gerencie todas as informações:",
+            "paragraph": "obtenha os insights necessários para crescer: use um único painel para gerenciar pedidos, fretes e pagamentos aonde quer que você vá."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência Shopify Parceira</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Nós fazemos parte do ecossistema&nbsp;</span><strong><span style=\"font-size: 15pt\">agência Shopify Partner</span></strong><span style=\"font-size: 15pt\">(</span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.shopify.com/partners/directory/partner/wave-commerce\"><span style=\"font-size: 15pt\">confira aqui</span></a><span style=\"font-size: 15pt\">), oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.&nbsp;</span></p><p><span style=\"font-size: 15pt\">O time Wave está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online.&nbsp;<br><br></span><strong><span style=\"font-size: 15pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"font-size: 15pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados como&nbsp;</span><strong><span style=\"font-size: 15pt\">especialistas Shopify</span></strong><span style=\"font-size: 15pt\">.&nbsp;</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Marketing Digital</span></strong></h3>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Estruturação de E-commerce:",
+            "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Performance:",
+            "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Conteúdo:",
+            "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Criativo:",
+            "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Marketplace:",
+            "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><u><span style=\"font-size: 15pt\">performance para E-commerce</span></u></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

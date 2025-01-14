@@ -29,6 +29,8 @@ export default defineApp(async (_req, ctx) => {
 
         {/* Web Manifest */}
         <link rel="manifest" href={asset("/site.webmanifest")} />
+
+        <meta name="google-site-verification" content="Bn4C3hB64aXz_z2aVUX04Ez1-ElCTJNGgQtEuQ3TNf8" />
       </Head>
 
       {/* Rest of Preact tree */}

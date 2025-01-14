@@ -1,0 +1,189 @@
+{
+  "name": "Parceiros",
+  "path": "/parceiros",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/brands.tsx",
+        "title": "Conheça os nossos parceiros",
+        "label": "Parceiros",
+        "brands": [
+          {
+            "image": "https://data.decoassets.com/site-wave/c7346c51-82f3-4ace-bed7-43a0e6a7d4b0/logo-moovin.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/c195c104-dfc2-49b9-b7ec-8f5bd1c2dffa/logo-dinamize.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/b4366ad7-6d33-466f-bd43-f8398480efa9/logo-appmax.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/d4d72c61-66fd-47e8-8b8a-4a6d58004e8d/logo-mailbiz.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/ca3b0338-411b-45b2-a8df-7e58a8e49384/logo-conectala.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/c9d1c325-a694-4e45-a7b7-67f30be0c20b/logo-cws.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/ab67cc31-9349-4e30-9b15-b3fb1adea4a4/logo-amazonspn.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/e7d605f6-68bb-42b6-945e-18e36185926a/logo-linx.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/8e3bac54-849e-437a-8326-4fe80d0f505a/logo-shopify.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/3f019ebe-3e79-4117-9fb8-28e10c0e0ff3/logo-deco.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/4bae1587-7153-4f01-bd5c-50d2d74929cf/logo-vtex.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/29843b8e-4d3f-4bc5-9ae4-576a365342f4/logo-wake.png"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/443f9f14-18da-4451-b514-b9fd79d407c9/desk-vtex-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/a3f9d874-3acd-4fbb-a6ec-3f9f7baa9977/mob-safira-case.jpg",
+        "title": "VTEX",
+        "button": {
+          "link": "/vtex",
+          "label": "Conheça nossa parceria"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/bf6d0934-9d7e-4302-847f-5a427d6d1282/desk-deco-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/96753fec-6cc4-4bb4-aa88-e65880114ea1/mob-termolar-case.jpg",
+        "button": {
+          "link": "/deco-cx",
+          "label": "Saiba mais"
+        },
+        "title": "DECO.CX"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/a45e628f-a99e-43dc-a0e8-32a88306ef46/desk-shopify-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/be523205-f516-43fd-8477-dd5809c44daa/mob-shopify-case.jpg",
+        "button": {
+          "link": "/shopify",
+          "label": "Saiba mais"
+        },
+        "title": "Shopify"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/c49be5b1-b0a8-4b68-b5e8-c5447e7d4c8a/desk-wake-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/349c252c-169f-4d95-986e-c8c2b0682406/mob-wake-case.jpg",
+        "button": {
+          "link": "/wake",
+          "label": "Saiba mais"
+        },
+        "title": "Wake"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/b598b3a1-7a7c-4030-b83a-6d679f632152/desk-amazon-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/5819bf32-e88d-463b-a1a6-3aafb44c3c81/mob-truesource-case.jpg",
+        "button": {
+          "link": "/amazon",
+          "label": "Saiba mais"
+        },
+        "title": "Amazon spn"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/2d7f22a6-6b0f-4495-8330-dc3d0cda235f/desk-linx-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/4d641309-17fb-43ec-9385-fdb480d10e75/mob-ramarim-case.jpg",
+        "button": {
+          "link": "/linx",
+          "label": "Saiba mais"
+        },
+        "title": "Linx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/3ace8d90-784f-4ec3-b495-d423cb489618/desk-moovin-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/01ee98bc-edea-4e17-9c62-91a0766e4c18/mob-moovin-case.jpg",
+        "button": {
+          "link": "/moovin",
+          "label": "Saiba mais"
+        },
+        "title": "Moovin"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/02fffacc-f659-4668-935e-ed1591ec5548/desk-stoom-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/cc006b11-8137-4870-945b-373b5e17c41d/mob-stoom-case.jpg",
+        "button": {
+          "link": "/stoom",
+          "label": "Saiba mais"
+        },
+        "title": "Stoom"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/a62e3792-912c-4917-8eb1-80e268e4ac75/desk-moovin-parceiro-1.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/6d6543ed-f13f-425c-8012-77df9840c88d/mob-vnda-olist.jpg",
+        "button": {
+          "link": "/vnda",
+          "label": "Saiba mais"
+        },
+        "title": "Olist Vnda"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

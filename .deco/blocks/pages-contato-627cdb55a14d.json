@@ -3,7 +3,10 @@
   "path": "/contato",
   "sections": [
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -35,7 +38,7 @@
             "section": {
               "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
               "depoiments": {
-                "text": "<p><span>“O grande diferencial da Wave é a visão de dono do negócio, fazendo parte da empresa e trabalhando em&nbsp;sinergia para obter os melhores resultados”.</span></p>",
+                "text": "<p><span style=\"color: #ffffff\">“O grande diferencial da Wave é a visão de dono do negócio, fazendo parte da empresa e trabalhando em&nbsp;sinergia para obter os melhores resultados”</span>.</p>",
                 "author": "Lúcia Fraga ",
                 "office": "Gerente E-commerce da Safira"
               },
@@ -50,7 +53,37 @@
           {
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
-              "__resolveType": "Slide infinito com cta"
+              "__resolveType": "site/sections/Content/SlidewithContent.tsx",
+              "cta": {
+                "href": "/cases",
+                "label": "Conheça os nossos cases."
+              },
+              "title": "Clientes que confiam em nosso trabalho.",
+              "hasImage": [
+                {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
+                },
+                {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83",
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
+                },
+                {
+                  "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70",
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d"
+                },
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/64db0d6f-785b-4f5d-a8f7-f151dee7d388"
+                },
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1ebe0e4e-8cb0-42e9-86b8-a3f9a7546b73"
+                },
+                {
+                  "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
+                }
+              ],
+              "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
+              "isEmptyBrand": true
             }
           }
         ],
@@ -72,7 +105,10 @@
       }
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

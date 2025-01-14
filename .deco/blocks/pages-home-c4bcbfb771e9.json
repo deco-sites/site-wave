@@ -3,13 +3,17 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header - 01"
-    },
-    {
       "__resolveType": "website/sections/Seo/Seo.tsx",
       "noIndexing": false
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Images/BannerHero.tsx",
       "id": "/",
       "lcp": false,
       "image": {
@@ -25,7 +29,6 @@
           "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d09952e4-1ee6-4c5d-b3bd-3ac02db65bb3",
           "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1a478762-e3a6-4969-b8da-0cfaae4b0dfa"
         ],
-        "label": "Somos certificados em:",
         "action": {
           "href": "/",
           "icon": [
@@ -50,8 +53,7 @@
         "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5a9a23bc-da2e-4b61-b305-b0fca7516749/mob-full-home.jpg",
         "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/230f2f66-c057-421d-9589-2cc0b54af071/desk-full-home.jpg",
         "isEmptyBrand": true
-      },
-      "__resolveType": "site/sections/Images/BannerHero.tsx"
+      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -75,7 +77,7 @@
       "__resolveType": "site/sections/Content/BigNumbers.tsx",
       "NewNumber": [
         {
-          "title": "bilhao",
+          "title": "bilhão",
           "iconPlus": "+",
           "subtitle": "de faturamento no e-commerce",
           "targetNumber": 1
@@ -106,11 +108,14 @@
     {
       "__resolveType": "site/sections/Content/SlidewithContent.tsx",
       "cta": {
-        "href": "/",
+        "href": "/cases",
         "label": "Conheça os nossos cases."
       },
       "title": "<p>Clientes que confiam em nosso trabalho.</p>",
       "hasImage": [
+        {
+          "image": "https://data.decoassets.com/site-wave/f28c7bac-ff2b-46ff-ad9f-66c38e4f8241/gremio-logo.png"
+        },
         {
           "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
@@ -120,19 +125,33 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
         },
         {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d"
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/64db0d6f-785b-4f5d-a8f7-f151dee7d388"
+          "image": "https://data.decoassets.com/site-wave/05b7f551-7a57-4dde-a70f-a971d53277c3/hocks.png"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1ebe0e4e-8cb0-42e9-86b8-a3f9a7546b73"
+          "image": "https://data.decoassets.com/site-wave/402751c9-315e-41e8-9a37-221eed91c4e0/truesource.png"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
+          "image": "https://data.decoassets.com/site-wave/a41688e0-c91d-4fcd-bd5b-c792d634bd7e/cookeletroraro.png"
         },
-        {}
+        {
+          "image": "https://data.decoassets.com/site-wave/35bd708e-df49-4557-8a67-dca9bd3a0437/ramarim.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/3e781fe9-40e1-442b-ad4e-a300f0ef44c1/sexshop.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/2c13bce3-d7eb-4ee6-9f6b-175e533faa7a/dufrio.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/1bcf6b0e-4959-481e-905f-d692c22309b8/arezzo.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/c4c391fc-ebce-45fb-947a-934ec7d189fb/friopecas.png"
+        }
       ],
       "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
       "isEmptyBrand": true
@@ -146,7 +165,7 @@
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Digital Experts:</span><span style=\"font-size: 22pt\"> </span><span style=\"color: #f2f2f2; font-size: 22pt\">estratégias de sucesso.</span></p>"
+      "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Digital Experts:</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(242, 242, 242); font-size: 25pt\">estratégias de sucesso.</span></h2>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -164,14 +183,22 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/46c5e727-aa81-48a6-a06b-2c8ecddd924c",
           "label": "Saiba mais",
           "content": "Performance Digital",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "button": {
+            "link": "/performance",
+            "label": "saiba mais"
+          }
         },
         {
           "link": "/",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c7f8e38b-ad3f-49af-ad2d-7e63e4eca988",
+          "image": "https://data.decoassets.com/site-wave/80c40397-1f45-4f37-8261-41c59a28b55f/seo-site.png",
           "label": "Saiba mais",
           "content": "SEO para E- commerce",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "button": {
+            "link": "/seo",
+            "label": "saiba mais"
+          }
         },
         {
           "link": "/",
@@ -180,7 +207,7 @@
           "content": "Estruturação de E-commerce",
           "isEmptyBrand": true,
           "button": {
-            "link": "/estruturacao-de-ecommerce",
+            "link": "/implementacao-de-ecommerce",
             "label": "saiba mais"
           }
         },
@@ -188,25 +215,49 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/dc229494-0884-4e08-873f-30e65ae4b286",
           "label": "Saiba mais",
           "content": "Conteúdo Digital",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "button": {
+            "label": "saiba mais",
+            "link": "/conteudo-digital"
+          }
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/8ca0b4cd-1007-4f64-9888-3aa50fbb1915",
           "label": "Saiba mais",
           "content": "Criação e Design",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "button": {
+            "label": "saiba mais",
+            "link": "/criacao-e-designer"
+          }
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a2e869d9-9086-49d3-86e8-89335f4a2cdc",
           "label": "Saiba mais",
           "content": "E-commerce nos EUA",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "button": {
+            "label": "saiba mais",
+            "link": "/ecommerce-nos-eua"
+          }
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e005eede-5ad7-4bdf-931c-bb9110b64eaa",
           "label": "Saiba mais",
           "content": "Marketplace",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "button": {
+            "label": "saiba mais",
+            "link": "/marketplace"
+          }
+        },
+        {
+          "button": {
+            "label": "saiba mais",
+            "link": "/fulfillment"
+          },
+          "content": "Fulfillment",
+          "image": "https://data.decoassets.com/site-wave/33b1a9c3-6f5c-40ee-a97c-b6c3e8ad57ad/fulfillment-icon.png"
         }
       ],
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/02a68dbd-6d13-45c6-8020-5499d0cfc09b",
@@ -223,7 +274,7 @@
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: rgb(240, 239, 239); font-size: 22pt\">Parceiros de</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Sucesso </span><span style=\"color: #ffffff; font-size: 22pt\">que confiamos para seu projeto</span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">.</span></p>"
+      "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(240, 239, 239); font-size: 25pt\">Parceiros de</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sucesso </span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">que confiamos para seu projeto</span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">.</span></h2>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -235,31 +286,52 @@
     {
       "__resolveType": "site/sections/Content/SlidewithContent.tsx",
       "cta": {
-        "href": "/",
+        "href": "/parceiros",
         "label": "Confira nossos Parceiros"
       },
       "title": "Conheça os nossos parceiros.",
       "hasImage": [
         {
+          "image": "https://data.decoassets.com/site-wave/26dde817-e55a-47ce-afff-eea015de7efc/vtex-cinza-300x96.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/6dfcd501-41e1-4968-87dc-82ff196273ba/AMAZONSPN-CINZA.png"
+        },
+        {
           "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
+          "image": "https://data.decoassets.com/site-wave/d5b9c6d8-a6c3-497d-9bf7-eee214dd0c68/wake-1024x524.png"
         },
         {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
+          "image": "https://data.decoassets.com/site-wave/6c25da3b-fd31-457e-a336-c60e1d9f695b/Marca_Appmax_VersaoPreferencial_PolicromaticaPositiva-1-1024x211.png",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83"
         },
         {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d"
+          "image": "https://data.decoassets.com/site-wave/e62944de-e3a9-46ce-8917-a7e7d8cdde2d/dinamize-1024x569.png",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/64db0d6f-785b-4f5d-a8f7-f151dee7d388"
+          "image": "https://data.decoassets.com/site-wave/c6b0b665-3ed8-4829-9998-adb1ea65478c/logo-2-x-min-1-12x.png"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1ebe0e4e-8cb0-42e9-86b8-a3f9a7546b73"
+          "image": "https://data.decoassets.com/site-wave/96373d0f-ad77-4175-9568-43eba98a9574/download-1.png"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
+          "image": "https://data.decoassets.com/site-wave/1fdae611-6091-4ad2-97a0-c14bbf18e018/Logo-cor_2x-1024x321.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/f16e2c7a-4251-4317-94a6-bb7a34813996/cws-digital-fundo-branco-1-min.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/99ff9e2b-9987-45d4-8370-3bc61e9a4ed5/logo-client-linx-12x.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/74b77865-bdfa-4108-8732-b0148a92839a/shopify2x.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/38bd2925-e645-4b36-a742-7b9aca5d7707/vnda.png"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/505d8a96-c1d2-4ab4-9140-62675c36bb22/AnyConv.com__stoom.png"
         }
       ],
       "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
@@ -274,7 +346,7 @@
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<p style=\"text-align: center\"><span style=\"color: #f5f5f5; font-size: 22pt\">Nossas Histórias de</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Sucesso.</span></p>"
+      "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(245, 245, 245); font-size: 25pt\">Nossas Histórias de</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sucesso.</span></h2>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -296,58 +368,66 @@
           "link": "/safira"
         },
         {
-          "link": "/safira",
+          "link": "/hocks",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5c1decb7-9427-4b8b-b0f6-25f7c4a76dec",
           "title": "Hocks",
           "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
           "isEmptyBrand": false
         },
         {
-          "link": "Expansão de vendas para todo o Brasil com Omnichannel",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c507bcb2-2214-4581-af26-b3f292ef08c3",
           "title": "Sex Shop Atacadão",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/sex-shop-atacadao"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5f02c222-cfd7-44b1-8d19-0903608be3a4",
           "title": "Start Global Goods",
           "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/start-global-goods"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e3011ea3-5181-4f39-8066-fb3380c8598e",
           "title": "Casa e Casa",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/casa-a-casa"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a63c56c6-5798-438e-b599-3dcd51ed3fb6",
           "title": "Cook Eletroraro",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/cook-eletroraro"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2d530617-5ae2-48c0-86d0-a052074ed4bf",
           "title": "BBDU",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/bbdu"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d7c8ef88-c9fe-42d9-adc9-f25c96a10257",
           "title": "Banca 43",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/banca-43"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
           "title": "O Escafandro",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/escafandro"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d5cc2434-0868-4b7a-8758-4192a74563a6",
           "title": "Dog.u",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/dog.u"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/78e60a0a-4517-428c-addf-8befeaf89e7e",
           "title": "Termolar",
-          "isEmptyBrand": true
+          "isEmptyBrand": true,
+          "link": "/termolar"
         }
       ]
     },
@@ -359,7 +439,10 @@
       }
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

@@ -1,0 +1,107 @@
+{
+  "name": "Implementação de E-commerce",
+  "path": "/implementacao-de-ecommerce",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "title": " Implementação de E-commerce",
+      "bgImage": {
+        "mobile": {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a9751410-3217-48ec-aee9-cf876b900ef6/mob-implementacao.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/76f5b9d0-3013-4d01-96ee-cd00c6dc0f6f/desk-implementacao.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": " Implementação de E-commerce"
+      },
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre Implementação de E-commerce"
+      },
+      "subtitle": "Transforme sua ideia em uma loja virtual de sucesso com nosso serviço de implementação de e-commerce. "
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "cta": {},
+      "sections": [
+        {
+          "title": "<p><span style=\"font-size: 25pt\">Nossa equipe conta com<br></span><strong><span style=\"font-size: 25pt\">profissionais experientes e certificados</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">nas maiores plataformas de e-commerce, como&nbsp;</span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">VTEX&nbsp;</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">,&nbsp;</span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Linx e Shopify</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, preparados para desenvolver e executar as melhores soluções do mercado digital para a sua loja online, com foco em garantir a performance, usabilidade do site e, é claro, resultados de vendas muito satisfatórios. </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nós, como uma das melhores agências de performance do Brasil, proporcionamos uma experiência incrível na jornada de compra dos cliente.</span></strong></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Integração com as Principais Plataformas de E-commerce</span></li><li style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Equipe com Experiência em E-commerce</span></li><li style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Otimização Técnica e Estratégica</span></li><li style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Marketing Digital</span></li><li style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\"><span style=\"font-size: 14pt;\" data-mce-style=\"font-size: 14pt;\">Suporte personalizado</span></li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"font-size: 20pt\">Somos autoridade na estruturação e implantação de e-commerce. A digitalização é um passo importante para o futuro da sua empresa, o e-commerce é um ativo estratégico que garante a expansão e o sucesso do seu negócio</span></p>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<h2><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">Nosso trabalho vai muito além </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">da realização do seu projeto</span></strong></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nossa equipe possui </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">conhecimento e experiência nos melhores canais de Marketing Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, desde a produção de conteúdos para blog e materiais ricos, otimização de investimentos em campanhas de mídia paga, </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wavecommerce.com.br/seo/\"><strong><u><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">SEO para e-commerce</span></u></strong></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> tudo para que o seu e-commerce alcance os melhores resultados de vendas.</span></p>",
+        "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<p>Soluções da Wave</p>",
+      "sections": [
+        {
+          "title": "<p></p>",
+          "description": "<ul><li><p>Escolha de ERP e plataforma</p></li><li><p>Menu, filtros e categorias</p></li><li><p>Cadastro de produtos</p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        },
+        {
+          "title": "<p></p>",
+          "description": "<ul><li><p>Fotografia de produtos</p></li><li><p>Integrações</p></li><li><p>Descrição de produtos</p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 24pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

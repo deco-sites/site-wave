@@ -1,49 +1,98 @@
 {
   "name": "Marketplace",
-  "path": "/Marketplace",
+  "path": "/marketplace",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"
     },
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
     },
     {
+      "__resolveType": "site/sections/Services/Hero.tsx",
       "cta": {
         "href": "#",
         "text": "<p>Entre em <strong>contato</strong></p>"
       },
-      "title": "Sua marca em evidência.",
+      "title": "Marketplace",
       "bgImage": {
         "mobile": {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b85f1b84-54a1-47b3-b3f3-476c0186bea2",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/77d3d369-22f0-4725-91c3-97d1fa0c435c/mob-marketplace.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d403f18f-c992-4302-b900-3cbff65b2a17",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/28951812-4b99-40f3-a279-ab6890d4a277/desk-marketplace.jpg",
           "height": 820
         }
       },
       "labelTop": {
         "icon": "DigitalPerformance",
-        "text": "Performance Digital"
+        "text": "Marketplace"
       },
-      "subtitle": "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
+      "subtitle": "Utilize o marketplace como uma ferramenta para impulsionar as vendas, e dar maior visibilidade para os seus produtos.",
       "labelBottom": {
         "icon": "ChevronDown",
-        "text": "Saiba mais sobre Performance Digital"
-      },
-      "__resolveType": "site/sections/Services/Hero.tsx"
+        "text": "Saiba mais sobre Marketplace"
+      }
     },
     {
-      "__resolveType": "Cards de Serviço 2"
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Marketplace como uma ferramenta para impulsionar as vendas</span></h2>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Grandes Players lançam suas vitrines em shoppings virtuais também conhecidos como marketplace, tendo assim, grande potencial de crescimento e maior visibilidade da sua marca. Aumentando as vendas, o faturamento e a escalabilidade do seu negócio através dos canais. Conte com uma equipe de especialistas certificados e qualificados, com potencial de otimizar suas vendas e aumentar a relevância do seu negócio dentro dos melhores canais de marketplace.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li>Integração com os Principais Marketplaces</li><li>Parcerias Estratégicas com Marketplaces e Ferramentas</li><li>Especialistas em E-commerce e Marketplaces </li><li>Gestão de Avaliações e Reputação</li><li>Campanhas de Publicidade</li><li>Expansão Multicanal Internacional</li></ul><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ],
+      "cta": {}
     },
     {
-      "__resolveType": "Cards de Serviço 1"
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p></p>",
+          "description": "<ul><li><p>Integração e performance</p></li><li><p>Criação de anúncios</p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        },
+        {
+          "title": "<p></p>",
+          "description": "<ul><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        }
+      ],
+      "title": "<h2 style=\"text-align: center\"><span style=\"color: #0066e4; font-size: 25pt\">Nossas soluções de Marketplace</span></h2>",
+      "cta": {}
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Marketing Digital</span></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nosso trabalho vai muito além da realização do seu projeto! Nossa equipe possui conhecimento e experiência nos melhores canais de Marketing Digital, desde a produção de conteúdos para blog e materiais ricos até a otimização de investimentos em campanhas de mídia paga, tudo para que o seu e-commerce alcance os melhores resultados de vendas.</span></p>",
+        "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

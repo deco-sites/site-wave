@@ -44,15 +44,15 @@
   },
   "social": [
     {
-      "link": "/instagram",
+      "link": "https://www.instagram.com/wavecommerceoficial/",
       "label": "Instagram"
     },
     {
-      "link": "/youtube",
+      "link": "https://www.youtube.com/channel/UCUNkI5Tygiky01A3md_ejEA",
       "label": "Youtube"
     },
     {
-      "link": "/linkedin",
+      "link": "https://br.linkedin.com/company/wavecommerce-agencia",
       "label": "Linkedin"
     }
   ],
@@ -85,7 +85,7 @@
           "label": "Seo"
         },
         {
-          "href": "/ecommerce",
+          "href": "/implementacao-de-ecommerce",
           "label": "Estruturação de E-commerce"
         },
         {
@@ -97,12 +97,16 @@
           "label": "Conteúdo Digital"
         },
         {
-          "href": "/criacao-designer",
+          "href": "/criacao-e-designer",
           "label": "Criação e Design"
         },
         {
           "href": "/ecommerce-nos-eua",
           "label": "E-commerce nos EUA"
+        },
+        {
+          "label": "Fulfillment",
+          "href": "/fulfillment"
         }
       ],
       "label": "Serviços"
@@ -246,7 +250,7 @@
       "helpText": "<p>Ao se inscrever, você está aceitando nossa <a href=\"/\" class=\"link\">Política de Privacidade</a>.</p>"
     },
     "title": "Newsletter",
-    "description": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum."
+    "description": "Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados."
   },
   "backToTheTop": {
     "text": "Voltar ao topo"

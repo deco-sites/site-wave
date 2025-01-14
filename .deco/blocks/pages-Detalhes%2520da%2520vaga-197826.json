@@ -5,7 +5,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Header - 01"
+        "__resolveType": "Header-fixo"
       }
     },
     {
@@ -131,7 +131,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Footer - 04"
+        "__resolveType": "footer-fixo"
       }
     }
   ],

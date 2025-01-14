@@ -1,0 +1,214 @@
+{
+  "name": "Parceiros - Deco.CX",
+  "path": "/deco-cx",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a276f488-baa8-45f5-a0f7-2d4a77110995/desk-deco.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8c060c2f-fe37-40d3-967a-8062507c923d/mob-deco.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira DECO.CX",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "A Wave Commerce é uma agência parceira da deco.cx, especialista na plataforma de experiência digital que reúne performance e personalização, com soluções estratégicas para potencializar os resultados de vendas do seu negócio."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><span style=\"color: #fcfcfc; font-size: 18px\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"color: #fcfcfc; font-size: 18px\">deco.cx</span></a><span style=\"color: #fcfcfc; font-size: 18px\"> é uma plataforma de front-end-as-a-service que junta performance e personalização para criar experiências de ecommerce excepcionais. Com um CMS integrado, teste A/B, audiências personalizadas, campanhas e analytics, ela foi projetada para ambos usuários de negócio e devs terem facilidade e agilidade na construção e otimização de lojas com conversão muito acima do esperado.</span></p><p></p>",
+        "title": "<p><strong>O que é a plataforma </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://DECO.cx\"><strong>DECO.cx</strong></a></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Por que escolher a DECO.CX?</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "A deco.cx",
+            "paragraph": "aproveita tecnologias de ponta, como renderização no lado do servidor e infraestrutura global de edge para garantir um desempenho rápido do website."
+          },
+          {
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Page Speeds imbatíveis:",
+            "paragraph": "Ofereça experiências ultra rápidas que vão impulsionar o engajamento, reduzir o bounce rate e aumentar a taxa de conversão do seu e-commerce.",
+            "titleColor": "primary"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Deco.cx",
+            "paragraph": "é integrada com VTEX, Magento, VNDA, Shopify, entre outras grandes plataformas do mercado."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Implementação varia de 2 semanas a 3 meses."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Com uma tecnologia baseada em Deno",
+            "paragraph": "Twind e Fresh. Deno é um runtime seguro de JavaScript e TypeScript, enquanto Twind é uma biblioteca CSS-in- JS que permite a criação de estilos otimizados para a web. Fresh é um moderno framework web server-side construído para Deno. Juntas, essas tecnologias fornecem uma base poderosa e segura para a criação de lojas virtuais de alto desempenho e escaláveis."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "A deco.cx",
+            "paragraph": "não substitui sua plataforma de e-commerce atual. Em vez disso, ela funciona como uma solução frontend headless que se integra perfeitamente à sua plataforma existente, melhorando seu desempenho e experiência do usuário."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Nós fazemos parte do ecossistema de agências parceiras da Deco.cx</span></strong></h2>",
+        "description": "<p>Oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.</p><p>&nbsp;</p><p><span style=\"font-size: 16px\">O time da Wave Commerce está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online. Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e indicados pela </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://DECO.cx\"><span style=\"font-size: 16px\">DECO.cx</span></a><span style=\"font-size: 16px\">.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Marketing Digital</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Estruturação de E-commerce:",
+            "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Performance:",
+            "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Conteúdo:",
+            "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Criativo:",
+            "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Marketplace:",
+            "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

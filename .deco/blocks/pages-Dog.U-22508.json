@@ -1,6 +1,6 @@
 {
   "name": "Dog.U",
-  "path": "/dog.u",
+  "path": "/dog-u",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -17,7 +17,7 @@
           "text": "Front-end, Migração de Plataforma"
         },
         "subtitle": "Migração de plataforma VTEX para Shopify",
-        "title": "Dog U",
+        "title": "Dog.U",
         "bgImage": {
           "desktop": {
             "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1787e903-eec3-4bdd-9671-614ecb369e77/desk-dogu.jpg",
@@ -41,7 +41,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: #ededed; font-size: 14pt\">A Dog U tem como missão apresentar um mundo melhor aos cães e gatos através de produtos que misturam funcionalidade, elegância e segurança. A marca encontrou o equilíbrio perfeito entre seus três pilares e trouxe para o mercado um portfólio de produtos com muita personalidade e diferentes de tudo o que você já viu por aí.</span></h2><h2><span style=\"color: #ededed; font-size: 14pt\"><br></span></h2>",
+        "title": "<p><span style=\"color: rgb(237, 237, 237); font-size: 14pt\">A Dog.U tem como missão apresentar um mundo melhor aos cães e gatos através de produtos que misturam funcionalidade, elegância e segurança. A marca encontrou o equilíbrio perfeito entre seus três pilares e trouxe para o mercado um portfólio de produtos com muita personalidade e diferentes de tudo o que você já viu por aí.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -56,8 +56,23 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: #f0f0f0; font-size: 18pt\">Parceria com a Wave</span></strong></h2><h2><strong><span style=\"color: #f0f0f0; font-size: 18pt\"><br></span></strong></h2>",
-        "description": "<h2><span style=\"color: #ffffff; font-size: 14pt\">Igor Cunha, CEO e fundador da Dog U – marca dedicada a produtos para pet -, procurou o time da Wave para realizar a migração de plataforma do seu novo e-commerce, contando também com o serviço de desenvolvimento de Front-end.&nbsp;</span></h2><h2><span style=\"color: #ffffff; font-size: 14pt\">Igor já sabia que a migração de plataforma seria um período bastante delicado e que as chances de intercorrências eram grandes. Mas, com toda a dedicação e expertise dos profissionais envolvidos no projeto, que planejaram e executaram pensando sempre um passo à frente, foi possível entregar um novo site incrível para o cliente, além de ter tornado o processo de transição o mais tranquilo possível.&nbsp;</span></h2><h2><span style=\"color: #ffffff; font-size: 14pt\">Conheça o&nbsp;</span><a target=\"_blank\" rel=\"noopener\" href=\"https://www.dogu.pet/\"><span style=\"color: #ffffff; font-size: 14pt\">novo e-commerce de Dog U</span></a><span style=\"color: #ffffff; font-size: 14pt\">, que já está no ar, cheio de produtos pet originais e muito fofos para você proporcionar qualidade de vida a quem só doa amor.&nbsp;</span></h2>"
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Parceria com a Wave</span></h2><h2><strong><span style=\"color: rgb(240, 240, 240); font-size: 18pt\"><br></span></strong></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">Igor Cunha, CEO e fundador da Dog.U, marca dedicada a produtos para pet, procurou o time da Wave para realizar a migração de plataforma do seu novo e-commerce, contando também com o serviço de desenvolvimento de Front-end.&nbsp;Igor já sabia que a migração de plataforma seria um período bastante delicado e que as chances de intercorrências eram grandes. </span></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">Mas, com toda a dedicação e expertise dos profissionais envolvidos no projeto, que planejaram e executaram pensando sempre um passo à frente, foi possível entregar um novo site incrível para o cliente, além de ter tornado o processo de transição o mais tranquilo possível.&nbsp;Conheça o&nbsp;</span><a target=\"_blank\" rel=\"noopener\" href=\"https://www.dogu.pet/\"><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">novo e-commerce de Dog.U</span></a><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">, que já está no ar, cheio de produtos pet originais e muito fofos para você proporcionar qualidade de vida a quem só doa amor.&nbsp;</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2></h2><h2><span style=\"color: rgb(237, 237, 237); font-size: 14pt\"><br></span></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/MkvJc9jases?si=XSxVQsu29Tz73Wbt"
       }
     },
     {

@@ -1,0 +1,99 @@
+{
+  "name": "E-commerce nos EUA",
+  "path": "/ecommerce-nos-eua",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "bgImage": {
+        "mobile": {
+          "src": "https://data.decoassets.com/site-wave/e75d5de2-442e-486b-b923-3423c9ff7813/mob-eua.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://data.decoassets.com/site-wave/9165fea5-014e-4c98-95be-100f8e3c13d6/desk-eua.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "E-commerce nos EUA"
+      },
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre E-commerce nos EUA"
+      },
+      "title": "E-commerce nos EUA",
+      "subtitle": "Venda seus produtos nos Estados Unidos, expanda sua operação para o exterior, globalize sua marca e tenha seu faturamento em dólar."
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Expanda sua operação para o exterior</span></h2>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Auxiliamos no planejamento estratégico do seu<br>e-commerce, no marketing digital e na estruturação e integração nos marketplaces. Além disso, acompanhamos todas as etapas do processo, desde a abertura da sua loja até a expedição e entrega dos seus produtos nos Estados Unidos.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li>Proximidade com Google e plataformas;</li><li>Parceiros especializados;</li><li>Profissionais com experiência em E-commerce;</li><li>Profissionais com alto conhecimento das plataformas;</li><li>Profissionais de UX, UI, SEO e Mídia Paga em Google, Facebook, Linkedin, Bing, Pinterest, Criteo, entre outros.</li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Contamos com uma equipe de profissionais qualificados e preparados para levar as melhores práticas do digital para potencializar suas vendas nos Estados Unidos.</span></p>",
+        "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<h2 style=\"text-align: center\"><span style=\"color: #0066e4; font-size: 25pt\">Nossas soluções</span></h2>",
+      "sections": [
+        {
+          "title": "<p></p>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Estruturação de e-commerce</span></p></li><li><p><span style=\"font-size: 15pt\">Integração e performance nos marketplaces</span></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        },
+        {
+          "title": "<p></p>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Marketing digital para e-commerce</span></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

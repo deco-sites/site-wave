@@ -1,0 +1,165 @@
+{
+  "name": "BBDU",
+  "path": "/bbdu",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "labelBottom": {
+          "titulo": "soluções",
+          "text": "Marketplace, Mídia Paga, Marketplace, CRM, Produção de conteúdo para blog"
+        },
+        "subtitle": "Como a BBDU passou por uma das etapas da transformação digital, que é a criação da cultura baseada em dados",
+        "title": "BBDU",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4b2d75d2-bb7a-4356-84d8-49e8163067fd/desk-bbdu.jpg",
+            "height": 700
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/19bacbb2-6001-457d-a0b0-c9c0cab756d7/mob-bbdu.jpg",
+            "height": 500
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: #fdfcfc; font-size: 18px\">No final de 2019, a Juliana Martins – idealizadora da BBDU – procurou a Wave com algumas queixas em relação a sua performance no digital. A má experiência com a agência anterior marcou a ausência de bons resultados e atendimento personalizado. Muitas estratégias foram aplicadas para garantir o sucesso de vendas da BBDU durante esse período: mídia paga – com Face e Google Ads -, e-mail marketing, criação de conteúdo para o blog, integração em marketplace, além de constantes melhorias no site. No entanto, enxergamos na cliente uma necessidade de fazer mais: buscamos entender o momento em que a BBDU estava passando, e como poderíamos contribuir para uma evolução visando não somente o faturamento, mas o crescimento da empresa como um todo. Dessa forma, esse case de sucesso simboliza o que, pra nós, é o mais importante: a parceria com nossos clientes. É um case feito a quatro mãos, como deve ser.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
+        "sections": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+              "services": [
+                {
+                  "titleColor": "primary",
+                  "title": "Planejamento",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Mídia paga"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "E-mail marketing"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Marketplace"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Cultura para o digital"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Produção de conteúdo para blog"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card1.tsx",
+              "title": "<p><span style=\"color: #ffffff; font-size: 18px\">A BBDU foi criada em 2013, pela Juliana Martins, psicóloga e empreendedora. A Ju idealizou a loja online para facilitar a vida das famílias, auxiliando através de soluções inteligentes que respeitam a natureza da criança, de acordo com as diferentes fases e idades, desafios e necessidades do seu desenvolvimento. O e-commerce vende desde etiquetas de identificação até brinquedos e livros de inteligência emocional infantil.</span></p>",
+              "description": "<p></p>"
+            }
+          }
+        ],
+        "layoutSettings": {
+          "layoutType": "grid",
+          "columnLayout": "primary"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Contribuição para a cultura Organizacional</span></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">Como todo bom empreendedor, a Ju conhece muito sobre o seu produto e seu público. No entanto, precisamos alertá-la para que todo esse conhecimento não fosse superior ao maior trunfo proporcionado pelo marketing digital: a análise de dados. A transformação digital acontece em vários eixos: clientes, concorrência, inovação e valor, mas, principalmente, dados. Ou seja, uma empresa somente pode ser considerada de fato digital quando se baseia em dados para as tomadas de decisão. E foi isso que a Ju começou a fazer.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p>Com base nos resultados obtidos e nas comparações realizadas, mostramos para a Ju o quanto poderíamos crescer utilizando mais canais. A partir desse entendimento, a BBDU evoluiu mais a cada dia. Não havia mais nada que não pudesse ser avaliado, testado e compreendido. Com base nos insights captados através dessas análises, conseguimos entender quais eram as melhores movimentações a serem feitas em um contexto de pandemia, que tanto afeta o mercado da BBDU. Mesmo sem previsão de volta às aulas nos meses de janeiro e fevereiro, em que, historicamente, a BBDU possui seus maiores faturamentos por conta da venda de adesivos escolares, a loja conquistou um alto volume de pedidos, batendo recordes.</p><p>De forma geral, a Wave contribuiu para uma análise interna da empresa, que ocasionou modificações em equipe, formato, produto, margem, fabricante, investimento e novos canais de venda. Além de ficarmos orgulhosos pelo crescimento da BBDU, todo esse trabalho serviu para, cada vez mais, confiarmos no poder do marketing digital baseado em dados para uma performance mais assertiva que, nesse caso, gerou bons frutos: o faturamento total da empresa aumentou em 45% comparando 2019 e 2020.</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/2rPRL6VFtRc?si=rDtQXor2iLxvEvdJ"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Investimento em mídia</span></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">Sugerimos, logo no início do trabalho, um investimento maior em mídia, abrangendo mais canais; no entanto, a Ju tinha plena convicção de que o seu público não estava presente neles. Quando fizemos alguns testes, entendemos o quanto essas mídias poderiam ser benéficas ao cliente, e conseguimos, pela apresentação dos dados, esse aumento de escopo. Através de um planejamento sério e uma análise minuciosa, conseguimos provar o potencial deste canal que, em 2020, representou mais de 70% da receita total da BBDU.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Ingresso nos marketplaces</span></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">O mesmo ocorreu para o ingresso nos marketplaces. A melhor forma de entender se a persona da empresa está presente nesses canais é testando. E tem dado resultado: desde o primeiro mês de marketplace, a BBDU já aumentou a receita em 5 vezes. A projeção é que, até o mês de maio de 2021, consigamos chegar ao valor de faturamento de todo o ano de 2020.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">E-mail marketing e conteúdo para o blog</span></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">O serviço de e-mail marketing já era feito de forma interna pela BBDU, pela mesma equipe que cuidava de ações operacionais da loja, como foto dos produtos, descrição, embalagem, ou atendimento ao cliente. A partir da análise dos resultados, a Ju percebeu que, para ter um retorno mais positivo no e-mail marketing, era necessário alguém olhando somente para isso, com a técnica e a experiência de agência. Dessa forma, a Wave assumiu esse canal, quadruplicando o faturamento. Unida a essa estratégia, a produção de conteúdo para o blog passou a fazer parte do escopo, buscando um relacionamento com o cliente através de artigos relevantes para o público.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
+        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

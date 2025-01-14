@@ -6,9 +6,13 @@
       "__resolveType": "website/sections/Seo/Seo.tsx"
     },
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
     },
     {
+      "__resolveType": "site/sections/Services/Hero.tsx",
       "cta": {
         "href": "#",
         "text": "<p>Entre em <strong>contato</strong></p>"
@@ -16,12 +20,12 @@
       "title": "Sua marca em evidência.",
       "bgImage": {
         "mobile": {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b85f1b84-54a1-47b3-b3f3-476c0186bea2",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/aa43e57d-d35c-4210-bf07-507907f5cbc0/mob-performance.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d403f18f-c992-4302-b900-3cbff65b2a17",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/601ee671-b457-4fca-9718-652cb272d380/desk-performance.jpg",
           "height": 820
         }
       },
@@ -29,21 +33,55 @@
         "icon": "DigitalPerformance",
         "text": "Performance Digital"
       },
-      "subtitle": "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
+      "subtitle": "Conte com um time de profissionais de alta performance em: SEO, Marketplace, Mídias Pagas, E-mail Marketing, UX e UI para aumentar o faturamento da sua marca nos mais diversos canais e ferramentas de busca. Melhore sua estruturação de E-commerce e potencialize suas vendas através de otimizações no site e melhorias na experiência de navegação do usuário.",
       "labelBottom": {
         "icon": "ChevronDown",
         "text": "Saiba mais sobre Performance Digital"
-      },
-      "__resolveType": "site/sections/Services/Hero.tsx"
+      }
     },
     {
       "__resolveType": "Cards de Serviço 2"
     },
     {
-      "__resolveType": "Cards de Serviço 1"
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<h2 style=\"text-align: center\"><span style=\"color: #0066e4; font-size: 25pt\">Por que a Wave é a melhor opção para cuidar ﻿da Mídia Paga do seu e-commerce?</span></h2>",
+      "sections": [
+        {
+          "title": "<h3><strong><span style=\"color: rgb(252, 252, 252); font-size: 20pt\">Google Ads para E-commerce:</span></strong></h3>",
+          "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">As mídias pagas possibilitam diversos formatos de anúncios e campanhas. Porém, nem todos são ideais para o momento do seu E-commerce. Por isso, ao contratar os serviços de mídia paga, você garantirá </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">economia de tempo e dinheiro ao assegurar que as campanhas sejam planejadas e executadas por profissionais da área</span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\"> de forma mais assertiva para o seu negócio.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Google Ads: como funciona</span></h3>",
+          "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Em campanhas convencionais de tráfego, geralmente, o objetivo é apenas atrair visitantes, alcance ou leads. Já nas campanhas de Ads voltadas para E-commerce deve-se </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">construir estratégias focadas em diferentes resultados de vendas</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> através do direcionamento dos públicos e etapas do funil.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><strong><span style=\"font-size: 20pt\">Anúncios via Ads</span></strong><span style=\"font-size: 20pt\"> para <br>Performance em mídias pagas:</span></h3>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Campanhas Google, Facebook, Instagram, Linkedin, Bing, Pinterest mídia programática e afiliados.</span></p></li><li><p><span style=\"font-size: 15pt\">Tagueamento do site.</span></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        },
+        {
+          "title": "<h3><strong><span style=\"font-size: 20pt\">SEO para</span></strong></h3><h3><strong><span style=\"font-size: 20pt\"> e-commerce</span></strong></h3>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">SEO on page de conteúdo.</span></p></li><li><p><span style=\"font-size: 15pt\">SEO on page de conteúdo.</span></p></li><li><p><span style=\"font-size: 15pt\">SEO on page de conteúdo.</span></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        }
+      ],
+      "cta": {}
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

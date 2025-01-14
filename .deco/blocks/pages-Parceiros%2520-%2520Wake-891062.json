@@ -1,0 +1,254 @@
+{
+  "name": "Parceiros - Wake",
+  "path": "/wake",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3a7fbed1-ae12-4954-8817-693994ca7d9c/desk-wake.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a236ee83-c014-48df-ace7-6a9e9ea3453d/mob-wake.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira Wake",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "Especialista em performance digital e gerenciamento de e-commerce, oferecemos soluções estratégicas para potencializar os resultados de vendas do seu negócio."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><span style=\"font-size: 13pt\">A Wake Commerce é a plataforma de digital commerce com a </span><strong><span style=\"font-size: 13pt\">melhor performance garantida do mercado</span></strong><span style=\"font-size: 13pt\">, especialmente desenvolvida para negócios de médio e grande porte! </span><strong><span style=\"font-size: 13pt\">Flexibilidade, escalabilidade e segurança</span></strong><span style=\"font-size: 13pt\"> são os pilares que sustentam essa solução robusta e omnichannel, permitindo que as empresas façam a diferença na jornada de resultados. Com a Wake, você pode gerenciar pedidos e estoques, conectar canais de venda físicos e digitais, integrar métodos de pagamentos, e gerir fretes, tudo em uma única plataforma. Se você busca uma plataforma que ofereça total liberdade de customização, alta performance e uma jornada de compra sem interrupções, a Wake Commerce é a escolha ideal.</span></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O que é a Wake Commerce?</span></strong></h2>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que escolher a Wake Commerce?</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Plataforma 100% flexível:",
+            "paragraph": "aproveite a liberdade total para personalizar sua loja, com APIs 100% abertas e documentadas, permitindo uma customização completa."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Omnichannel nativo:",
+            "paragraph": "ofereça uma experiência de compra integrada e sem interrupções, conectando o mundo físico e digital com o OMS nativo da Wake, que reduz a ruptura de estoque."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Alta performance:",
+            "paragraph": "construa sites rápidos e eficientes com o Wake Storefront, garantindo uma experiência de compra superior para seus clientes."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Escalabilidade robusta:",
+            "paragraph": "cresça seu site junto com seu negócio, com a capacidade de suportar grandes volumes de tráfego e transações, garantindo estabilidade e desempenho."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Infraestrutura e segurança:",
+            "paragraph": "confie em um sistema desenvolvido com foco na robustez e na segurança, assegurando o funcionamento confiável de sua loja online."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Atendimento especialista:",
+            "paragraph": "conte com um time qualificado para oferecer suporte e maximizar os resultados do seu negócio."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência parceira Wake Commerce: Nós fazemos parte do ecossistema de parcerias</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Com </span><strong><span style=\"font-size: 15pt\">expertise em soluções personalizadas para impulsionar os resultados do seu negócio</span></strong><span style=\"font-size: 15pt\"> na internet, a equipe da Wave Commerce está preparada para oferecer novas formas de atendimento, desde o acompanhamento de projetos até serviços de marketing digital, visando alavancar suas vendas online. Somos o </span><strong><span style=\"font-size: 15pt\">parceiro certo para o seu negócio</span></strong><span style=\"font-size: 15pt\">! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e recomendados pela Wake Commerce.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Implementação na Wave</span></strong></h3>",
+        "description": "<p><span style=\"color: rgb(247, 247, 247); font-size: 15pt\">Temos diferentes para a implementação da Wake Commerce na sua empresa, conforme a necessidade do cliente:</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Migração para Wake:",
+            "paragraph": "Facilitamos a migração para a tecnologia Wake, independentemente da plataforma do cliente. Durante o processo, importamos todos os dados do site antigo para manter a relevância e o desempenho."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Projeto personalizado:",
+            "paragraph": "Criamos projetos totalmente personalizados, seja para e-commerce ou marketplace (B2C/B2B), com layout adaptado para desktop e mobile. Incluímos SEO, configuração de ferramentas, métodos de pagamento, desenvolvimento de checkout, e textos institucionais."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Oferecemos garantia em todos os sites que desenvolvemos, além de um trabalho contínuo de suporte e evolução para auxiliar nos próximos passos e na resolução de possíveis problemas.</span></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketing Digital</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Estruturação de E-commerce:",
+            "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Performance:",
+            "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Conteúdo:",
+            "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Criativo:",
+            "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Marketplace:",
+            "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

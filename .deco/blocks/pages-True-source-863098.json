@@ -35,7 +35,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.<br><br></p>",
-        "description": "<p>A marca de suplementos valoriza os ingredientes naturais e a formulação limpa, sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para proporcionar a suplementação perfeita para sua dieta e aumentar o desempenho dos seus treinos.</p>"
+        "description": "<p>A marca de suplementos valoriza os ingredientes naturais e a formulação limpa, sem abrir mão de qualidade e sabor. Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para <strong>proporcionar a suplementação perfeita</strong> para sua dieta e aumentar o desempenho dos seus treinos.</p>"
       }
     },
     {
@@ -85,7 +85,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Deco CX. + True Source</span></p>"
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></h2>",
+        "description": "<p>Adriano Rabelo, diretor de E-commerce da True Source, destaca o conhecimento avançado da Wave Commerce sobre a plataforma VTEX como <strong>um dos principais pontos fortes da agência</strong>. Em nossa participação no Fórum do E-commerce Brasil de 2024, o Vitor, da True Source, também comentou um pouquinho sobre o trabalho com a Wave!</p><p></p>"
       }
     },
     {
@@ -94,7 +95,8 @@
         "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
         "depoiments": {
           "text": "<p><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">“Conhecimento avançado sobre a plataforma VTEX, principalmente para complexas e projetos grandes são muito eficientes.</span><span style=\"font-size: 20pt\"> </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Ficamos bem satisfeitos com o resultado.”</span></strong></p>",
-          "author": "Adriano Rabelo"
+          "author": "Adriano Rabelo",
+          "office": "Diretor de E-commerce da True Source"
         },
         "icon": {
           "width": 60,
@@ -113,7 +115,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Resultados alcançados</span></p>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados com a parceria</span></h2>",
         "description": "<p>Após a implementação das soluções pela Wave Commerce, a True Source observou melhorias significativas em vários aspectos:</p>"
       }
     },
@@ -144,7 +146,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"font-size: 18pt\">Desde a implementação das melhorias,</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">a&nbsp;taxa de conversão do site da True Source</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">está </span><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">constantemente acima de 2%</span><span style=\"font-size: 18pt\">, um<br></span><span style=\"font-size: 18pt\">marco importante que reflete o sucesso</span><span style=\"font-size: 18pt\"><br></span><span style=\"font-size: 18pt\">das estratégias aplicadas.</span></p>",
+        "title": "<p><span style=\"font-size: 18pt\">Desde a implementação das melhorias,<br>a&nbsp;taxa de conversão do site da True Source<br>está </span><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">constantemente acima de 2%</span><span style=\"font-size: 18pt\">, um<br>marco importante que reflete o sucesso<br>das estratégias aplicadas.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -152,16 +154,16 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Deco CX. + True Source</span></p>",
-        "description": "<p> No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a> trouxe melhorias significativas que impactaram diretamente na performance e usabilidade do site.</p><p>Em <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.CX\">Deco.CX</a>, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o site mais rápido em comparação a outros players.</p>"
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Deco CX. + True Source</span></h2>",
+        "description": "<p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e Deco.CX trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>. Em Deco.CX, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o site mais rápido em comparação a outros players.</p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
-        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><u><span style=\"font-size: 14pt\">performance para E-commerce</span></u></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital. </span></strong><span style=\"font-size: 14pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
       }
     },
     {

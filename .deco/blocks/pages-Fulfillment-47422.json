@@ -1,0 +1,168 @@
+{
+  "name": "Fulfillment",
+  "path": "/fulfillment",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "title": "Fulfillment",
+      "bgImage": {
+        "mobile": {
+          "src": "https://data.decoassets.com/site-wave/9cb618f8-2ce7-4d97-9c1a-52b0b14b8342/mob-fulfillment.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://data.decoassets.com/site-wave/5d1ed995-7fdd-498c-a505-15030db242e1/desk-fulfillment.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "Fulfillment"
+      },
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre Fulfillment"
+      },
+      "subtitle": "Com o serviço de Fulfillment da Wave Commerce, em colaboração com a Sanco, você garante não só os melhores serviços para E-commerce, mas também a otimização de todo o seu processo logístico."
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "cta": {},
+      "sections": [
+        {
+          "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">A Melhor Agência de Performance do Brasil Agora É Full Commerce</span></h2>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Com o serviço de </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Fulfillment</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> da Wave Commerce, em colaboração com a Sanco, você garante não só os melhores serviços para E-commerce, mas também a otimização de todo o seu processo logístico.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li>Proximidade com Google e plataformas;</li><li>Parceiros especializados;</li><li>Profissionais com experiência em E-commerce;</li><li>Profissionais com alto conhecimento das plataformas;</li><li>Profissionais de UX, UI, SEO e Mídia Paga em Google, Facebook, Linkedin, Bing, Pinterest, Criteo, entre outros.</li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Por Que Optar Pelo Fulfillment da Wave Commerce?</span></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Ao escolher a Wave Commerce e a Sanco, você não está apenas contratando um serviço de logística; você está investindo em uma </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">solução completa</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, que proporciona:</span></p>"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<p></p>",
+      "sections": [
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Eficiência e Agilidade</span></h3>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Com processos otimizados e tecnologia avançada, garantimos que seus pedidos sejam enviados rapidamente, aumentando a satisfação dos seus clientes.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Redução de Custo</span></h3>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nossa proposta visa minimizar despesas com armazenagem e transporte, permitindo que você tenha um melhor controle sobre seus gastos.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Escabilidade</span></h3>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nossa estrutura permite que você adapte o volume de operações conforme as demandas do seu negócio, facilitando o crescimento.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">A Parceria Wave Commerce e Sanco</span></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Sanco é uma empresa de logística especializada em soluções para e-commerce, com uma história de excelência na entrega e suporte ao cliente. Sua experiência é a combinação perfeita para a Wave Commerce.</span></p>",
+        "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Vantagens da parceria:</span></h3>",
+        "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">- Infraestrutura Modern</span></strong><span style=\"font-size: 15pt\">a: Armazéns em Guarulhos e Santa Catarina, com mais de 35.000 m² de área para atender diferentes necessidades logísticas.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Tecnologia Avançada</span></strong><span style=\"font-size: 15pt\">: Utilizamos um sistema de WMS integrado com os principais ERPs do mercado para garantir controle total sobre os estoques.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Serviço ao Cliente</span></strong><span style=\"font-size: 15pt\">: Atendimento ágil e dedicado, sempre pronto para ajudar.</span></p></li></ul>",
+        "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<h2 style=\"text-align: center\"><span style=\"color: #006ce4; font-size: 25pt\">Nossos Processos de Fulfillment</span></h2>",
+      "sections": [
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Recebimento e Armazenamento</span></h3>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Produtos armazenados em condições ideais, garantindo sua integridade até o envio.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Separação e Embalagem</span></h3>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Profissionais especializados garantem que o pedido chegue ao cliente em perfeito estado.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Emissão da Nota Fiscal e Despacho</span></h3><h3><br></h3>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Processos rápidos para a emissão de notas fiscais e envio dos produtos.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Logística Reversa</span></h3><p><br></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Planejamos e executamos o fluxo de devoluções de forma sustentável.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #ffffff; font-size: 20pt\">Envio D-Zero</span></h3>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Entrega no mesmo dia. Com nosso serviço </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Pediu, Chegou!</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, garantimos o envio no mesmo dia, melhorando a reputação da sua marca e aumentando a conversão.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Vantagens Competitivas do Fulfillment</span></h2>",
+        "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">- Sistema RFID</span></strong><span style=\"font-size: 15pt\">: Controle preciso do estoque com tecnologia de identificação por radiofrequência.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Integração Total</span></strong><span style=\"font-size: 15pt\">: Gestão completa dos pedidos integrada às plataformas de e-commerce.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Tabela de Frete Diferenciada</span></strong><span style=\"font-size: 15pt\">: Condições competitivas de frete com transportadoras parceiras.</span></p></li></ul>",
+        "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Diferenciais do Fulfillment da Wave Commerce e Sanco</span></h2>",
+        "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">- Experiência e Especialização</span></strong><span style=\"font-size: 15pt\">: Profissionais com profundo conhecimento do setor de e-commerce.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Flexibilidade e Agilidade</span></strong><span style=\"font-size: 15pt\">: Adaptação rápida às necessidades do cliente, independentemente do tamanho ou complexidade do pedido.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Boas Entregas, Boas Vendas</span></strong><span style=\"font-size: 15pt\">: Com serviços de alta qualidade, nossas entregas resultam em clientes satisfeitos e fidelizados.</span></p></li></ul>",
+        "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

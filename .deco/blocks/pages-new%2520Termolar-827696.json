@@ -21,7 +21,7 @@
         "bgImage": {
           "desktop": {
             "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/63cf73ea-0f95-4a15-ae49-db4524f72341/desk-termolar.jpg",
-            "height": 500
+            "height": 700
           },
           "mobile": {
             "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c50fad34-d909-4ccf-b21f-60a5a80f8d08/mob-termolar.jpg",
@@ -41,7 +41,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: #ffffff; font-size: 14pt\">A Termolar foi fundada em 1958, na cidade de Porto Alegre.</span></strong></h2><h2><span style=\"color: #ffffff; font-size: 14pt\">A Termolar foi fundada em 1958, na cidade de Porto Alegre, pelos uruguaios Jorge Ardrizzo (1929-2016) e Leon Spalter (1931-2014). Seu intuito, desde o primeiro dia, era produzir e oferecer soluções térmicas para seus clientes.</span></h2><h2></h2><h2></h2><h2><span style=\"color: #ffffff; font-size: 14pt\">Daí em diante, os produtos Termolar viraram populares nas casas de gaúchos, brasileiros, e atualmente também são consumidos em diversos países do exterior. E em todo esse tempo, uma coisa que nunca se perdeu na empresa foi a inovação: é a&nbsp;</span><strong><span style=\"color: #ffffff; font-size: 14pt\">primeira do seu ramo a vender diretamente ao cliente</span></strong><span style=\"color: #ffffff; font-size: 14pt\"> pela internet, tendo começado há 9 anos.</span></h2><h2><span style=\"color: #ffffff; font-size: 14pt\"><br></span></h2>",
+        "title": "<p><span style=\"color: #ffffff; font-size: 14pt\">A Termolar foi fundada em 1958, na cidade de Porto Alegre, pelos uruguaios Jorge Ardrizzo (1929-2016) e Leon Spalter (1931-2014). Seu intuito, desde o primeiro dia, era produzir e oferecer soluções térmicas para seus clientes. Daí em diante, os produtos Termolar viraram populares nas casas de gaúchos, brasileiros, e atualmente também são consumidos em diversos países do exterior. E em todo esse tempo, uma coisa que nunca se perdeu na empresa foi a inovação: é a&nbsp;</span><strong><span style=\"color: #ffffff; font-size: 14pt\">primeira do seu ramo a vender diretamente ao cliente</span></strong><span style=\"color: #ffffff; font-size: 14pt\"> pela internet, tendo começado há 9 anos.<br></span></p>",
         "description": "<p></p>"
       }
     },
@@ -56,23 +56,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Termolar + Wave Commerce</span></strong></h2>",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Termolar + Wave Commerce</span></strong></h2>",
         "description": "<p><span style=\"font-size: 14pt\">Depois de um período de crescimento da Termolar e do E-commerce como um todo durante a pandemia, a empresa se viu estagnada em 2022. Em busca de novas alternativas que se firmou a parceria entre Termolar e Wave Commerce. Foram contratados serviços de</span><strong><span style=\"font-size: 14pt\"> SEO, Design, Mídia Paga, E-mail Marketing, Conteúdo, Marketplace, E-commerce e Atendimento</span></strong><span style=\"font-size: 14pt\">.</span></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: #0066e4; font-size: 18pt\">Soluções</span></strong></p>",
-        "description": "<p><span style=\"font-size: 14pt\">Depois de um período de crescimento da Termolar e do E-commerce como um todo durante a pandemia, a empresa se viu estagnada em 2022. Em busca de novas alternativas que se firmou a parceria entre Termolar e Wave Commerce. Foram contratados serviços de</span><strong><span style=\"font-size: 14pt\"> SEO, Design, Mídia Paga, E-mail Marketing, Conteúdo, Marketplace, E-commerce e Atendimento</span></strong><span style=\"font-size: 14pt\">.</span></p><p><span style=\"font-size: 14pt\"><br></span></p>"
       }
     },
     {
@@ -107,8 +92,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Resultados alcançados</span></p>",
-        "description": "<p><span style=\"font-size: 16pt\">Ao longo desta parceria, o e-commerce de Termolar obteve diversas melhorias e resultados positvios como:</span></p><p><span style=\"font-size: 16pt\"><br></span></p>"
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></h2>",
+        "description": "<p><span style=\"font-size: 14pt\">Ao longo desta parceria, o e-commerce de Termolar obteve diversas melhorias e resultados positivos como:<br></span></p>"
       }
     },
     {
@@ -176,8 +161,24 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
-        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+        "title": "<p></p>",
+        "description": "<p><span style=\"font-size: 14pt\">Os especialistas da Wave de todos os setores trabalharam lado a lado com o marketing da Termolar durante esse tempo, </span><strong><span style=\"font-size: 14pt\">resultando em aumentos para TODOS os principais KPIs</span></strong><span style=\"font-size: 14pt\">. E como se fosse uma coroação desse trabalho, a Black Friday de 2023 teve um faturamento 160% maior que o previsto, e 300% maior que o do ano anterior. Tudo isso aconteceu graças ao alinhamento de objetivos entre equipes.</span></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/HU6uUk_xKP4?si=TeClBxkxg4Yraspk",
+        "hideVideo": false
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Transforme seu E-commerce com a Wave</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 14pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em </span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca</span></strong><span style=\"font-size: 14pt\">.</span></p>"
       }
     },
     {

@@ -5,7 +5,61 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Header - 01"
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/brands.tsx",
+        "label": "CLIENTES",
+        "title": "Clientes que confiam em nosso trabalho",
+        "brands": [
+          {
+            "image": "https://data.decoassets.com/site-wave/2f297ed9-ee6a-474e-b54b-b46d750cdd64/logo-friopecas.png",
+            "alt": "friopeças"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/0298b1ef-8ac4-4e26-a334-e6ff250bd266/logo-truesource.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/2c3bc4e2-1610-4841-b7c9-c736f3b8af7f/logo-cookeletroraro.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/ed0329a4-f79b-4d62-b660-5e5c382f1fed/logo-arezzo.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/f613c6f5-e145-4b16-aee6-01d26d96b11f/logo-comfort.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/81b22ea2-ebbd-4921-99d5-54c1a911c235/logo-ramarim.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/099acb5f-0381-4d70-904b-dc1ace7dde47/logo-termolar.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/04066230-5c1a-46c2-b8fb-3dd87072c603/logo-sexshop.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/838d38fb-3c2d-4d84-bece-e800c4cff81e/logo-dufrio.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/be970dff-a1b1-47bd-911e-4fcc9a3322d7/logo-gremio.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/40a51a2f-dfb2-470a-af3b-46b517d68e83/logo-amazon.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/5d1c6a20-3b7c-4401-be91-b7a748b6f1b6/logo-hocks.png"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -13,32 +67,197 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/brands.tsx",
         "label": "Cases de Sucesso",
-        "title": "Nossas Histórias de Sucesso"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
+        "title": "Nossas Histórias de Sucesso",
+        "brands": []
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "title": "True Source",
         "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png",
         "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/32f7f8f5-2a19-47d2-92f0-f1326de64a2f/Rectangle-168.png",
-        "title": "True Source",
-        "subtitle": "Revolução no E-commerce após migração para Deco.cx",
         "button": {
           "link": "/true-source",
           "label": "Saiba mais"
-        }
+        },
+        "subtitle": "Revolução no E-commerce após migração para Deco.cx"
       }
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a5b90107-69e1-43a1-b402-fbbad55a8349/desk-safira-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/846452df-76f6-4091-84b2-6a29cfa5a5c9/mob-safira-case.jpg",
+        "button": {
+          "link": "/safira",
+          "label": "Saiba mais"
+        },
+        "title": "Safira",
+        "subtitle": "Expansão de vendas para todo Brasil com Omnichannel"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/072d5723-faf6-4868-928e-4e0bdb00432d/desk-hocks-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7a3d51a2-d799-47dc-bad9-f1b5cdec17e9/mob-hocks-case.jpg",
+        "button": {
+          "link": "/hocks",
+          "label": "Saiba mais"
+        },
+        "title": "Hocks",
+        "subtitle": "Como a Hocks atingiu um faturamento recorde na Black Friday"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c5c65c47-5b07-432f-b119-eb2e847be8ec/desk-dogu-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5e542815-b499-4984-ba8a-b030ddb7bf04/mob-dogu-case.jpg",
+        "button": {
+          "label": "Saiba mais",
+          "link": "/dog.u"
+        },
+        "title": "Dog U",
+        "subtitle": "Processo de migração da plataforma VTEX para Shopify realizado com sucesso"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/945a17af-5262-4ff7-99cf-decc32149ca4/desk-cookeletroraro-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/43ae0294-7902-4dab-96b1-f18a06d06d03/mob-cookeletroraro-case.jpg",
+        "button": {
+          "link": "/Cook%20Eletroraro",
+          "label": "Saiba mais"
+        },
+        "title": "Cook Eletroraro",
+        "subtitle": "Como o E-commerce bateu recordes de faturamento"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/ef30e968-b74f-42a4-a5a1-ca4b36f9478b/desk-sexshop-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5f76ab9f-0757-440d-aa39-5bac664001fc/mob-sexshop-case.jpg",
+        "button": {
+          "link": "/sex-shop-atacadao",
+          "label": "Saiba mais"
+        },
+        "subtitle": "Parceria atinge marco histórico de faturamento",
+        "title": "Sex Shop Atacadão"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/df2f49c4-1dad-44a7-8a4d-8a83b5e17eb0/desk-escafandro-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a56f1e43-5911-4087-ae8f-a0c4b9886cab/mob-escafandro-case.jpg",
+        "button": {
+          "link": "/escafandro",
+          "label": "Saiba mais"
+        },
+        "title": "Escafandro",
+        "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/b3209434-1410-47fd-9cbb-8dd16c01e485/desk-casaecasa-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e831ae55-869b-4790-bf58-896c6a570957/mob-casaecasa-case.jpg",
+        "button": {
+          "link": "/casa-e-casa",
+          "label": "Saiba mais"
+        },
+        "subtitle": "Como casa e casa faturou mais de 1,4 milhão na black friday",
+        "title": "Casa a Casa"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7c715536-021e-4ebc-a848-3741154bfd02/desk-banca43-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1fdfaede-b8c6-434f-ac02-20f95f410ef7/mob-banca43-case.jpg",
+        "button": {
+          "link": "/banca-43",
+          "label": "Saiba mais"
+        },
+        "title": "Banca 43",
+        "subtitle": "Descubra como a Banca 43 se tornou um case de sucesso online no segmento alimentício"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/0b601cb0-d62c-493f-836e-73a8445cddfe/desk-startglobalgoods-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/975942b2-51f5-4c20-ada8-62c59624f1b9/mob-startglobalgoods-case.jpg",
+        "button": {
+          "link": "/start-global-goods",
+          "label": "Saiba mais"
+        },
+        "title": "Start Global Goods",
+        "subtitle": "Lançamento de e-commerce nos EUA"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/ee6298d8-07a5-43dd-87cc-b006a44136dc/desk-bbdu-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/64165ff5-c41d-4993-9109-f02d1b4d3e2a/mob-bbdu-case.jpg",
+        "button": {
+          "link": "/BBDU",
+          "label": "Saiba mais"
+        },
+        "title": "BBDU",
+        "subtitle": "Como a BBDU passou por uma das etapas da transformação digital, que é a criação da cultura baseada em dados"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/cbb6667f-40c3-475c-a1c2-bdb70764636d/desk-termolar-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/50f4d88c-9905-46ec-bd46-bb2de2f25ab7/mob-termolar-case.jpg",
+        "button": {
+          "link": "/termolar",
+          "label": "Saiba mais"
+        },
+        "title": "Termolar",
+        "subtitle": "Como em 1 ano de parceria a empresa aumentou todos os seus indicadores"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3febd3ce-2b5a-40de-9222-af424e61b50e/desk-ramarim-case.jpg",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/04719289-cd17-49ed-af64-bd9da0cae17f/mob-ramarim-case.jpg",
+        "button": {
+          "link": "/ramarim",
+          "label": "Saiba mais"
+        },
+        "title": "Ramarim",
+        "subtitle": "Primeiro marketplace feito em Deco CX., notas do PageSpeed aumentaram para 61 e 97 em dispositivos móveis e desktop"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

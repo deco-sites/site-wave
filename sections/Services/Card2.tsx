@@ -1,8 +1,8 @@
-import { HTMLWidget as HTML } from "apps/admin/widgets.ts";
-
 interface Props {
-  title: HTML;
-  description: HTML;
+  /** @format rich-text */
+  title: string;
+  /** @format rich-text */
+  description: string;
 }
 
 export default function Card2({ title, description }: Props) {

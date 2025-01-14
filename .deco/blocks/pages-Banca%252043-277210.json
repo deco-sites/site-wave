@@ -1,0 +1,132 @@
+{
+  "name": "Banca 43",
+  "path": "/banca-43",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "labelBottom": {
+          "titulo": "soluções",
+          "text": "Escolha da plataforma, Cadastro de Produtos, Fotos de Produtos, Escolha e integração das transportadoras e gateway de frete"
+        },
+        "subtitle": "Descubra como a Banca 43 se tornou um case de sucesso online no segmento alimentício",
+        "title": "Banca 43",
+        "bgImage": {
+          "desktop": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e79980d1-ef3d-4885-813c-a3e1635d87e7/desk-banca43.jpg",
+            "height": 700
+          },
+          "mobile": {
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/55d88e6a-7646-4be2-86cb-39b835b74f31/mob-banca43.jpg",
+            "height": 500
+          }
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Banca 43 começou sua história em 1949 como uma fiambreria, localizada no Mercado Público de Porto Alegre. Hoje a empresa tornou-se um empório gourmet que conta com mais de duas mil opções em produtos naturais, sem glúten, sem lactose, a granel, especiarias e carnes exóticas, além de vinhos, espumantes, e uma variedade de produtos nacionais e importados.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
+        "sections": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+              "services": [
+                {
+                  "titleColor": "primary",
+                  "title": "Planejamento",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Escolha da plataforma"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Escolha do sistema de pagamento"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Escolha e integração das transportadoras e gateway de frete"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Cadastro e criação das descrições dos produtos"
+                },
+                {
+                  "titleColor": "primary",
+                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "title": "Fotografia dos produtos"
+                }
+              ]
+            }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Services/Card1.tsx",
+              "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Sem presença digital, a Banca 43 contratou a Wave Commerce em agosto de 2017 para desenvolver a loja virtual da empresa. O trabalho foi desde a aquisição do domínio no </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://registro.br\"><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">registro.br</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, escolha da plataforma de e-commerce, gateway de pagamento e frete até a fotografia, cadastro e descrição de produtos. Após a criação do site e colocá-lo no ar, o faturamento cresce mensalmente de forma orgânica.</span></p>",
+              "description": "<p></p>"
+            }
+          }
+        ],
+        "layoutSettings": {
+          "layoutType": "grid",
+          "columnLayout": "primary"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
+        "depoiments": {
+          "text": "<p style=\"text-align: center\"><span style=\"color: rgb(107, 107, 107); font-size: 20pt\">\"Através da Wave Commerce conseguimos nos colocar de forma satisfatória no mercado online. Desde o inicio do site, tivemos todo o suporte necessário, além de pessoas super capacitadas e dedicadas em atingir o melhor resultado. </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 20pt\">Recomendamos os serviços da empresa para todos aqueles que buscam eficiência e excelência</span></strong><span style=\"color: rgb(107, 107, 107); font-size: 20pt\">.\"</span></p>",
+          "author": "Jefferson – Diretor"
+        },
+        "icon": {
+          "width": 60,
+          "height": 44
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

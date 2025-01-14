@@ -1,49 +1,124 @@
 {
-  "name": "Criação e Designer",
-  "path": "/criacao-e-designer",
+  "name": "Criação e Design",
+  "path": "/criacao-e-design",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"
     },
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
     },
     {
+      "__resolveType": "site/sections/Services/Hero.tsx",
       "cta": {
         "href": "#",
         "text": "<p>Entre em <strong>contato</strong></p>"
       },
-      "title": "Sua marca em evidência.",
+      "title": "Criação e Design",
       "bgImage": {
         "mobile": {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b85f1b84-54a1-47b3-b3f3-476c0186bea2",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d4bf755-50c8-4c72-ac29-cc5b64857cd5/mob-design.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d403f18f-c992-4302-b900-3cbff65b2a17",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/db9e9cb8-04da-4cad-bd50-17ee123b5519/desk-design.jpg",
           "height": 820
         }
       },
       "labelTop": {
         "icon": "DigitalPerformance",
-        "text": "Performance Digital"
+        "text": "Criação e Design"
       },
-      "subtitle": "Potencialize os resultados de vendas e aumente o faturamento do seu e-commerce com um time de profissionais qualificados e certificados nas maiores plataformas de mídia paga.",
+      "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos e demandas do seu e-commerce e de suas redes sociais.",
       "labelBottom": {
         "icon": "ChevronDown",
-        "text": "Saiba mais sobre Performance Digital"
-      },
-      "__resolveType": "site/sections/Services/Hero.tsx"
+        "text": "Saiba mais sobre Criação e Design"
+      }
     },
     {
-      "__resolveType": "Cards de Serviço 2"
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "cta": {},
+      "sections": [
+        {
+          "title": "<p>Profissionais qualificados e certificados em design, com potencial de destacar e expandir o seu negócio a partir de produções gráficas.</p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 18px\">O design promove o destaque entre os concorrentes do mercado, proporcionando melhor posicionamento da sua empresa, ajudando e valorizando na construção de uma imagem sólida da marca. Além disso, agrega valor ao seu negócio, gerando empatia com o seu público através de conteúdos visuais que criam conexão, identificação e que são esteticamente agradáveis.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li>Criação de Identidade Visual Exclusiva</li><li>Design Personalizado e Estratégico</li><li>Equipe Criativa Especializada</li><li>Domínio de Ferramentas de Criação Avançadas</li><li>Experiência do Usuário (UX) e Interface (UI)</li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ]
     },
     {
-      "__resolveType": "Cards de Serviço 1"
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<h3><strong><span style=\"color: rgb(255, 250, 250); font-size: 23pt\">Banners para e-commerce:</span></strong></h3>",
+          "description": "<p>Os banners para e-commerce são <strong>peças fundamentais para destacar promoções, lançamentos de produtos e campanhas sazonais na sua loja virtual</strong>. Desenvolvemos banners visualmente atrativos e alinhados à identidade da sua marca, otimizados para proporcionar uma experiência de navegação fluida e estimular a conversão.</p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><strong><span style=\"color: #ffffff; font-size: 23pt\">Banners para e-mail marketing:</span></strong></h3>",
+          "description": "<p><strong>Maximize o impacto das suas campanhas de e-mail marketing com banners personalizados e estrategicamente criados</strong>. Nossas peças capturam a atenção do cliente logo no primeiro clique, garantindo que sua mensagem seja clara, envolvente e compatível com diferentes dispositivos.</p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><strong><span style=\"color: rgb(255, 255, 255); font-size: 23pt\">Conteúdo para redes sociais:</span></strong></h3>",
+          "description": "<p><strong>Engaje seu público com conteúdo criativo e estratégico para redes sociais</strong>. Desenvolvemos textos e visuais que comunicam a essência da sua marca, atraem novos seguidores e incentivam interações, aumentando a relevância e a presença digital do seu negócio.</p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><strong><span style=\"color: rgb(255, 255, 255); font-size: 23pt\">Layout personalizado para e-commerce:</span></strong></h3>",
+          "description": "<p>Eleve o nível da sua loja virtual com um layout personalizado, pensado para destacar a identidade da sua marca e melhorar a experiência de compra. Criamos designs exclusivos e funcionais, que combinam <strong>estética e usabilidade para atrair clientes e aumentar conversões</strong>.</p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<h3><strong><span style=\"color: rgb(255, 255, 255); font-size: 23pt\">Cards para performance:</span></strong></h3>",
+          "description": "<p>Crie <strong>campanhas de alta performance com cards otimizados para anúncios</strong>. Nossas peças são projetadas para capturar a atenção de forma rápida e eficiente, maximizando cliques e gerando melhores resultados em plataformas como Google Ads, Facebook e Instagram.</p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "title": "<p>Por que a Wave é a <strong>melhor opção</strong> para cuidar da parte criativa do seu e-commerce?</p>"
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "title": "<p>Nossas soluções</p>",
+        "sections": [
+          {
+            "title": "<p></p>",
+            "description": "<ul><li><p>Banners para e-commerce </p></li><li><p>Banners para e-mail marketing</p></li><li><p>Conteúdo para redes sociais</p></li></ul>",
+            "__resolveType": "site/sections/Services/Card2.tsx"
+          },
+          {
+            "title": "<p></p>",
+            "description": "<ul><li><p>Layout personalizado para e-commerce</p></li><li><p>Cards para performance</p></li></ul>",
+            "__resolveType": "site/sections/Services/Card2.tsx"
+          }
+        ],
+        "__resolveType": "site/sections/Services/Cards.tsx",
+        "cta": {}
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
+        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"

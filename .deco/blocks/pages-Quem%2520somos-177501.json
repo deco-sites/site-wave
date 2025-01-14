@@ -5,7 +5,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Header - 01"
+        "__resolveType": "Header-fixo"
       }
     },
     {
@@ -34,7 +34,7 @@
           "ImageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/57a72d29-88d1-4bed-a88a-79d3c9183cf0/Rectangle-156.png",
           "ImageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/9795c42b-70f9-4f49-aa03-27798dff13f6/Rectangle-156.png"
         },
-        "text": "<h3><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">A Wave Commerce</span></strong><br></h3><p><span style=\"color: #ffffff; font-size: 14pt\">Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados. É com esta sinergia que criamos estratégias de sucesso, sob medida e em constante otimização para quem busca crescer, vender ou potencializar seu negócio na internet.</span></p><p></p><p><br><strong><span style=\"color: #717171; font-size: 18pt\">Quando se trata de e-commerce e marketplace,</span><span style=\"color: #656161; font-size: 18pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">somos reconhecidos como autoridade no mercado.</span></strong><br><br><span style=\"color: #ffffff; font-size: 14pt\">Buscamos sempre alcançar os objetivos e atingir os&nbsp;melhores resultados&nbsp;para os nossos clientes. Acreditamos no trabalho em equipe, no fazer juntos e no&nbsp;poder de multiplicar.</span><br><br></p>",
+        "text": "<h2><strong><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">A Wave Commerce</span></strong><span style=\"font-size: 25pt\"><br></span></h2><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados. É com esta sinergia que criamos estratégias de sucesso, sob medida e em constante otimização para quem busca crescer, vender ou potencializar seu negócio na internet.</span></p><p></p><p><span style=\"font-size: 15pt\"><br></span><strong><span style=\"color: rgb(113, 113, 113); font-size: 15pt\">Quando se trata de e-commerce e marketplace,</span><span style=\"color: rgb(101, 97, 97); font-size: 15pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">somos reconhecidos como autoridade no mercado.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Buscamos sempre alcançar os objetivos e atingir os&nbsp;melhores resultados&nbsp;para os nossos clientes. Acreditamos no trabalho em equipe, no fazer juntos e no&nbsp;poder de multiplicar.</span><span style=\"font-size: 15pt\"><br></span><br></p>",
         "reverse": true
       }
     },
@@ -53,7 +53,7 @@
           "ImageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/b65bd23c-2bf5-4b5d-94c2-2ce45d44b042/seals.png",
           "ImageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c5a87257-3117-4df7-8c36-522ab9fc0d86/image-1.png"
         },
-        "text": "<p><strong><span style=\"color: rgb(254, 251, 251); font-size: 24pt\">Um time qualificado</span></strong><br><br><span style=\"color: rgb(254, 251, 251); font-size: 14pt\">Oferecemos uma rede de profissionais treinados e certificados nas principais soluções do mercado, como: </span><strong><span style=\"color: rgb(254, 251, 251); font-size: 14pt\">VTEX IO, Linx, Shopify, Google Ads, RDStation,</span></strong><span style=\"color: rgb(254, 251, 251); font-size: 14pt\"> e muitas outras.</span></p>",
+        "text": "<h3><strong><span style=\"color: rgb(254, 251, 251); font-size: 20pt\">Um time qualificado</span></strong></h3><p></p><p><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">Oferecemos uma rede de profissionais treinados e certificados nas principais soluções do mercado, como: </span><strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">VTEX IO, Linx, Shopify, Google Ads, RDStation,</span></strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\"> e muitas outras.</span></p>",
         "reverse": true
       }
     },
@@ -68,7 +68,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/GptwSection.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 24pt\">4x</span><span style=\"color: rgb(255, 255, 255); font-size: 24pt\"> Great Place to Work</span></strong></p>",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">4x</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> Great Place to Work</span></strong></h3>",
         "gptwImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6583b288-1001-4b76-8043-1bd7ec25c4a7/gptw.png",
         "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 16pt\">And right there you got an almighty cloud. Clouds are free. They just float around the sky all day and have fun. </span><strong><span style=\"color: rgb(0, 102, 228); font-size: 16pt\">This is truly an almighty mountain.</span></strong></p>",
         "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/caa00502-8cab-42e2-a2c1-b364f6f0736c/Rectangle-157.png"
@@ -85,7 +85,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/Titles.tsx",
-        "contentTitle": "<p style=\"text-align: center\"><strong><span style=\"color: #ffffff; font-size: 24pt\">somos a escolha certa para a sua</span><span style=\"color: rgb(0, 102, 228); font-size: 24pt\"> jornada digital.</span></strong></p>",
+        "contentTitle": "<h2 style=\"text-align: center\"><strong><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">Somos a escolha certa para a sua</span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\"> jornada digital.</span></strong></h2>",
         "isLine": false
       }
     },
@@ -102,7 +102,7 @@
         "__resolveType": "site/sections/Content/BigNumbers.tsx",
         "NewNumber": [
           {
-            "title": "bilhao",
+            "title": "bilhão",
             "iconPlus": "+",
             "subtitle": "de faturamento no e-commerce",
             "targetNumber": 1
@@ -134,7 +134,37 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "slideInfinito"
+        "__resolveType": "site/sections/Content/SlidewithContent.tsx",
+        "cta": {
+          "href": "/parceiros",
+          "label": "Confira nossos Parceiros"
+        },
+        "title": "Conheça os nossos parceiros.",
+        "hasImage": [
+          {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
+          },
+          {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
+          },
+          {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70",
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d"
+          },
+          {
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/64db0d6f-785b-4f5d-a8f7-f151dee7d388"
+          },
+          {
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1ebe0e4e-8cb0-42e9-86b8-a3f9a7546b73"
+          },
+          {
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
+          }
+        ],
+        "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
+        "isEmptyBrand": true
       }
     },
     {
@@ -148,7 +178,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/Titles.tsx",
-        "contentTitle": "<p style=\"text-align: center\"><strong><span style=\"color: #0066e4; font-size: 24pt\">Digital Experts:</span><span style=\"color: #ffffff; font-size: 24pt\"> estratégias de sucesso.</span></strong></p>",
+        "contentTitle": "<h2 style=\"text-align: center\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Digital Experts:</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> estratégias de sucesso.</span></strong></h2>",
         "isLine": false
       }
     },
@@ -172,17 +202,19 @@
             "content": "Performance Digital",
             "isEmptyBrand": true,
             "button": {
-              "label": "saiba mais"
+              "label": "saiba mais",
+              "link": "/performance"
             }
           },
           {
             "link": "/",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c7f8e38b-ad3f-49af-ad2d-7e63e4eca988",
+            "image": "https://data.decoassets.com/site-wave/80c40397-1f45-4f37-8261-41c59a28b55f/seo-site.png",
             "label": "Saiba mais",
             "content": "SEO para E- commerce",
             "isEmptyBrand": true,
             "button": {
-              "label": "saiba mais"
+              "label": "saiba mais",
+              "link": "/seo"
             }
           },
           {
@@ -192,7 +224,8 @@
             "content": "Estruturação de E-commerce",
             "isEmptyBrand": true,
             "button": {
-              "label": "saiba mais"
+              "label": "saiba mais",
+              "link": "/implementacao-de-ecommerce"
             }
           },
           {
@@ -201,7 +234,48 @@
             "content": "Conteúdo Digital",
             "isEmptyBrand": true,
             "button": {
-              "label": "saiba mais"
+              "label": "saiba mais",
+              "link": "/conteudo-digital"
+            }
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/00991d31-159d-4b22-81e7-d1300310fc67/Criacao.png",
+            "label": "Saiba mais",
+            "content": "Criação e Design",
+            "isEmptyBrand": true,
+            "button": {
+              "label": "saiba mais",
+              "link": "/criacao-e-design"
+            }
+          },
+          {
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a2e869d9-9086-49d3-86e8-89335f4a2cdc",
+            "label": "Saiba mais",
+            "content": "E-commerce nos EUA",
+            "isEmptyBrand": true,
+            "button": {
+              "label": "saiba mais",
+              "link": "/ecommerce-nos-eua"
+            }
+          },
+          {
+            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e005eede-5ad7-4bdf-931c-bb9110b64eaa",
+            "label": "Saiba mais",
+            "content": "Marketplace",
+            "isEmptyBrand": true,
+            "button": {
+              "label": "saiba mais",
+              "link": "/marketplace"
+            }
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/33b1a9c3-6f5c-40ee-a97c-b6c3e8ad57ad/fulfillment-icon.png",
+            "label": "Saiba mais",
+            "content": "Fulfillment",
+            "isEmptyBrand": true,
+            "button": {
+              "label": "saiba mais",
+              "link": "/fulfillment"
             }
           }
         ],
@@ -210,9 +284,7 @@
         "content": "Performance Digital",
         "isEmptyBrand": true,
         "variation": "grid-col-2",
-        "viewMoreButton": {
-          "label": "Veja todos nossos serviços"
-        }
+        "viewMoreButton": {}
       }
     },
     {
@@ -225,7 +297,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Footer - 04"
+        "__resolveType": "footer-fixo"
       }
     }
   ],

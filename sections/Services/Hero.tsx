@@ -109,13 +109,6 @@ export default function Hero({
         })`,
       }}
     >
-      <div
-        class="absolute top-0 left-0 right-0 bottom-0 w-full h-full z-10"
-        style={{
-          background:
-            "linear-gradient(180deg, rgba(0,0,0,0.75) 50%, rgba(0,0,0,1) 100%)",
-        }}
-      />
       <div class="container px-5 md:px-16 lg:px-36 py-10 relative z-20 w-full sm:w-2/3 lg:w-1/2 ml-0 mr-auto">
         <Selector options={options} />
         {labelTop && (

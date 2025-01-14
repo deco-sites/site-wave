@@ -1,0 +1,201 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://data.decoassets.com/site-wave/e121fd84-3ec0-45de-9c1d-6cd7507bb770/desk-vnda-olist.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://data.decoassets.com/site-wave/6d6543ed-f13f-425c-8012-77df9840c88d/mob-vnda-olist.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira Vnda",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "Somos uma agência parceira da Vnda, especialista em performance digital e gerenciamento de e-commerce, com soluções estratégicas para potencializar os resultados de vendas do seu negócio."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><span style=\"font-size: 15pt\">Como se chama uma plataforma de relacionamento, e-commerce e varejo? Olist Vnda! Mais do que uma plataforma de E-commerce, a Olist Vnda é uma plataforma de relacionamento, que ajuda marcas a criar, desenvolver e crescer o seu negócio digital alinhado com seus propósitos.<br><br>Acredita em relações que vão além das transações e contribui com a evolução de negócios do varejo, identificando necessidades e oportunidades e oferecendo soluções eficientes e descomplicadas para os seus clientes.</span></p><p><span style=\"font-size: 15pt\">Uma plataforma única que propõe aliar o online ao offline de forma orgânica e saudável.&nbsp; A Olist Vnda possui tecnologia omnichannel que possibilita a gestão ponta a ponta do seu negócio, seja ele físico ou digital (ou ambos).</span></p>",
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Sobre a Olist Vnda</span></h2><p><span style=\"color: rgb(255, 255, 255)\"><br></span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p></p>",
+        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Por que a Olist Vnda?</span></h2>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Omnichannel:",
+            "paragraph": "tecnologia completa para qualquer negócio do varejo, que une o físico ao digital em uma só solução e que visualiza e organiza a operação de ponta a ponta, garantindo mais eficiência."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Vnda Agentes:",
+            "paragraph": "recurso que promove a realização de vendas por meio de agentes comerciais como vendedores independentes. Mais autonomia e agilidade para quem vende e mais conveniência para quem compra."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Vnda Direta:",
+            "paragraph": "sistema de vendas diretas com a possibilidade de realizar pedidos através da plataforma com envio por whatsapp ou outros canais de forma prática e rápida."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Indique e Ganhe:",
+            "paragraph": "nada melhor do que tornar os próprios clientes propagadores da marca. Uma ferramenta que potencializa as vendas, ao mesmo tempo que promove maior exposição da marca."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Vnda Bônus:",
+            "paragraph": "ferramenta de ação promocional que promove fidelização de clientes e potencializa as vendas. Recurso que estimula a recorrência de compra através da disponibilização de crédito em caráter de bônus."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Dashboard:",
+            "paragraph": "visão geral de dados e indicadores do E-commerce a qualquer hora. Acompanhamento do negócio em tempo real, por meio de um painel único, com layout que pode ser customizado pelo próprio administrador quando desejar."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência parceira Vnda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Uma das maiores plataformas digitais da atualidade que acredita no potencial dos nossos serviços! Somos parceiros da Vnda e assim como eles, acreditamos em relações que vão além das transações, oferecendo soluções personalizadas para desenvolver e potencializar o seu negócio na internet. O time Wave está preparado para entregar novas formas de atendimento, acompanhamento comercial e de projetos, além de outros serviços, sob medida, para alavancar suas vendas no digital.<br><br></span><strong><span style=\"font-size: 15pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"font-size: 15pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e indicados pela Vnda.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Marketing Digital</span></strong></h3>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Estruturação de E-commerce:",
+            "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Performance:",
+            "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Conteúdo:",
+            "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Criativo:",
+            "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Marketplace:",
+            "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><h2><br></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "name": "Parceiros - Vnda",
+  "path": "/vnda"
+}

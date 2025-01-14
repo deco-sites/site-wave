@@ -3,10 +3,13 @@
   "path": "/vtex",
   "sections": [
     {
-      "__resolveType": "website/sections/Seo/Seo.tsx"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
     },
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "website/sections/Seo/Seo.tsx"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -14,11 +17,11 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8f1f315e-10a9-4d3b-9a2a-2c9d337cad48/home-2-3-4.jpg",
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/174eaa69-1930-4612-b705-d0ff1cdc8953/desk-vtex.jpg",
             "height": 730
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d8e7205-197c-4dac-b06b-a1d5129faf20/home-2-3-4.jpg",
+            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6b69adb3-4e82-4f52-bef4-358dc8b30775/mob-vtex.jpg",
             "height": 500
           }
         },
@@ -45,222 +48,237 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Institutionals/ContainerCases.tsx",
-        "settings": {
-          "hasBg": true,
-          "hasLogo": true,
-          "addTitle": false,
-          "alignment": "start",
-          "sticky": true
-        },
-        "firstColumn": [
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "medium"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.</p>",
-              "description": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser e saúde que nasceu a True Source. A marca de suplementos <strong>valoriza os ingredientes naturais e a formulação limpa,</strong> sem abrir mão de qualidade e sabor.<br><br>Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para <strong>proporcionar a suplementação perfeita</strong> para sua dieta e aumentar o desempenho dos seus treinos.</p>"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "medium"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "medium"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Institutionals/Titles.tsx",
-              "isLine": false,
-              "alignment": "start",
-              "contentTitle": "Soluções",
-              "color": "third"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "small"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
-              "sections": [
-                {
-                  "__resolveType": "website/sections/Rendering/Lazy.tsx",
-                  "section": {
-                    "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
-                    "services": [
-                      {
-                        "titleColor": "secondary",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
-                        "title": "Omnichannel: ",
-                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
-                      },
-                      {
-                        "titleColor": "secondary",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
-                        "title": "Omnichannel: ",
-                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
-                      },
-                      {
-                        "titleColor": "secondary",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
-                        "title": "Omnichannel: ",
-                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
-                      },
-                      {
-                        "titleColor": "secondary",
-                        "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
-                        "title": "Omnichannel: ",
-                        "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra;"
-                      }
-                    ],
-                    "settings": {
-                      "alignment": "start"
-                    }
-                  }
-                }
-              ],
-              "layoutSettings": {
-                "layoutType": "grid",
-                "columnLayout": "primary"
-              }
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "small"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Deco CX. + True Source</span></p>",
-              "description": "<p>No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e Deco.CX trouxe <strong>melhorias significativas que impactaram diretamente na performance e usabilidade do site</strong>.<br><br>Em Deco.CX, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o <strong>site mais rápido</strong> em comparação a outros players.<br></p>"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">Resultados alcançados</span></p>",
-              "description": "<p>Após a implementação das soluções pela Wave Commerce, a True Source observou melhorias significativas em vários aspectos:</p>"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
-              "services": [
-                {
-                  "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f17e44a-10d6-401d-ba13-b29c80fcd57e/8129a298-4e21-4079-91f6-9530e9915154.png",
-                  "paragraph": "A usabilidade do site foi aprimorada."
-                },
-                {
-                  "titleColor": "primary",
-                  "paragraph": "A velocidade do site aumentou consideravelmente.",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a22039eb-3f18-4bb2-940f-07c63cf580d6/dbb57264-6a22-40a0-bb09-0f0527004bb3.png"
-                },
-                {
-                  "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c093d5d2-0d52-460e-a674-28313b8302e8/1af63458-23f3-41d3-bbff-5112678e0c94.png",
-                  "paragraph": "As vitrines inteligentes foram otimizadas, proporcionando uma experiência de compra mais agradável."
-                }
-              ]
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "medium"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Institutionals/Video.tsx",
-              "video": "https://www.youtube.com/watch?v=Q0YYA8hSV8g"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "medium"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Services/Card4.tsx",
-              "title": "<p><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">Desde a implementação das melhorias,</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">a&nbsp;taxa de conversão do site da True Source</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">está <span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\">constantemente acima de 2%</span>, um</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">marco importante que reflete o sucesso</span><br><span style=\"font-size: 24pt;\" data-mce-style=\"font-size: 24pt;\">das estratégias aplicadas.</span></p>"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Space.tsx",
-              "size": "medium"
-            }
-          },
-          {
-            "__resolveType": "website/sections/Rendering/Lazy.tsx",
-            "section": {
-              "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<p><span style=\"color: rgb(0, 102, 228);\" data-mce-style=\"color: rgb(0, 102, 228);\"><strong>Junte-se à Onda</strong></span></p>",
-              "description": "<p>A Wave Commerce é uma agência especializada em <a data-mce-href=\"../../../serviços/performance\" href=\"../../../serviços/performance\" title=\"performance\" target=\"_blank\" rel=\"noopener\" data-mce-selected=\"inline-boundary\">performance para E-commerce</a>, oferecendo soluções completas que vão desde o <strong>desenvolvimento de sites até tudo que envolve o marketing digital.</strong><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;<strong>gerar resultados, aumentar o faturamento e visibilidade da sua marca.</strong><br><br>Junte-se à onda!</p>"
-            }
-          }
-        ],
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">A plataforma de comércio digital para grandes empresas! Proporcione a experiência que seus consumidores desejam com uma plataforma de e-commerce composable, conectada e completa.</span></p><p></p><p><strong><span style=\"color: #ffffff; font-size: 18px\">A VTEX é a plataforma de comércio digital para empresas que permite que grandes marcas&nbsp; e varejistas alcancem um time-to-market mais rápido, atinjam seus clientes em qualquer canal e descubram novas áreas de crescimento.</span></strong></p><p></p><p><span style=\"color: #ffffff; font-size: 18px\">Se você busca liberdade para concretizar sua visão única e entregá-la aos clientes através de experiências notáveis, a Vtex é o que você procura.</span></p><p></p>",
+        "title": "<p><strong>O que é VTEX?</strong></p><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/aedddf29-41b0-4658-b1b6-2859379bd850/Group.svg"
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
         },
         "services": [
           {
-            "titleColor": "primary",
-            "paragraph": "Vtex express",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Omnichannel:",
+            "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra"
           },
           {
-            "titleColor": "primary",
-            "paragraph": "migração para vtex",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "paragraph": "gerencie suas estratégias de venda e use táticas avançadas de preço, baseadas nas suas próprias regras de segmentação.",
+            "title": "Motor de preços avançado:"
           },
           {
-            "titleColor": "primary",
-            "paragraph": "Projeto personalizado",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "paragraph": "aproveite as vantagens de um Gerenciador de Produtos nativo, pronto para atender necessidades complexas de B2C, B2B e marketplace.",
+            "title": "Múltiplos catálogos e estoques:"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Múltiplas línguas e moedas:",
+            "paragraph": "internacionalize seus negócios com frentes de loja para diferentes línguas e gerencie moedas e condições de pagamento locais com mais facilidade."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Sellers e marketplaces nativos:",
+            "paragraph": "toda loja VTEX já nasce pronta para se tornar um marketplace ou um seller de outros sites VTEX."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Motor de promoções unificado:",
+            "paragraph": "crie promoções para todos os canais de uma vez ou selecione aqueles que vão ter descontos especiais."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Múltiplos pagamentos:",
+            "paragraph": "use nossas integrações nativas para se conectar aos principais provedores e permitir múltiplos pagamentos em uma única compra."
           }
         ]
       }
     },
     {
-      "__resolveType": "Footer - 04"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Agência VTEX: Nós fazemos parte do ecossistema de agências parceiras</span></strong></h2>",
+        "description": "<p>Oferecendo <strong>soluções personalizadas para potencializar os resultados do seu</strong> negócio na internet, o time Wave está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online.</p><p>Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital<br>e garantimos o atendimento por profissionais capacitados e indicados pela VTEX.</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Implementação na Wave</span></strong></h2>",
+        "description": "<p>Temos 3 modelos diferentes para a implementação do VTEX na sua empresa, de acordo com a necessidade do cliente:</p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "VTEX Express:",
+            "paragraph": "Desenvolvemos um formato único, exclusivo da Wave Commerce, e em até 10 dias úteis entregamos o site pronto para o cliente. O VTEX Express consiste em um site em VTEX IO, porém, será feito de forma padronizada e com modelos pré-prontos."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "paragraph": "Desenvolvemos migração para a última tecnologia de VTEX (IO), independentemente da plataforma do cliente. Quando fazemos a migração, importamos todos os dados do site antigo, a fim de não perdermos relevância.",
+            "title": "Migração Para VTEX:"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "paragraph": "É um projeto desenhado 100% conforme a vontade do cliente. Desenvolvemos tanto e-commerce quanto marketplace (B2C/B2B), com toda a estruturação de layout personalizada para desktop e mobile. Essa estrutura contém: uma árvore de categorias com SEO, configuração de todas as ferramentas utilizadas, configuração dos métodos de pagamento, desenvolvimento do checkout e textos institucionais obrigatórios visando o SEO do site.",
+            "title": "Projeto Personalizado:"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: #ffffff\">45 dias de garantia</span></strong><span style=\"color: #ffffff; font-size: 18px\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Implementação na Wave</span></strong></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 18px\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: rgb(255, 255, 255)\">45 dias de garantia</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 18px\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 18px\">Estruturação de E-commerce: Layout personalizado com desenvolvimento e codificação, Menu, filtros e categorias, Cadastro de produtos, Descrição de produtos, Páginas institucionais, Precificação de produtos, Integrações, Suporte e evolução do e-commerce.</span></p><p></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Serviços Oferecidos</span></strong></h2>",
+        "description": "<p></p><p></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Estruturação de E-commerce:",
+            "paragraph": "Layout personalizado com desenvolvimento e codificação, Menu, filtros e categorias, Cadastro de produtos, Descrição de produtos, Páginas institucionais, Precificação de produtos, Integrações, Suporte e evolução do e-commerce."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Performance:",
+            "paragraph": "SEO, UX e UI, Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads, Tagueamento de site, Ferramentas para conversão."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Conteúdo:",
+            "paragraph": "Criação de persona, Funil de marketing, Calendário de marketing, Blog e e-book, E-mail marketing."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Criativo:",
+            "paragraph": "Banners, Cards para redes sociais, Criação de Layout personalizado."
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "title": "Marketplace:",
+            "paragraph": "Integração e Performance, Criação de anúncios, Análise e desempenho, Suporte e evolução."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
     }
   ],
   "seo": {

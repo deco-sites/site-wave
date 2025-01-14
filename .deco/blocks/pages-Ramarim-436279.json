@@ -41,7 +41,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(255, 255, 255); font-size: 19px\">O grupo Ramarim tem </span><strong><span style=\"color: rgb(255, 255, 255)\">quase 60 anos de história no mercado calçadista brasileiro e mundial</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 19px\">. Atualmente, é composto pelas marcas Ramarim e ComfortFlex. Pioneiro em pesquisa, moda, tecnologia do conforto e inovação no Brasil, reconhecido no mundo inteiro por sua qualidade e design inovadores, o grupo tem equipe de representantes em todo o país e mais de 60 países.</span></h2><p></p><p><strong><span style=\"color: #fcfcfc; font-size: 18px\">O trabalho entre Wave Commerce e Ramarim iniciou em abril de 2023, com serviços de</span><span style=\"color: #0058c5; font-size: 18px\"> </span><span style=\"color: #0058c5\">Social ADS, SEO, E-commerce, mídia paga e CRM</span><span style=\"color: rgb(30, 30, 30); font-size: 18px\">. </span><span style=\"color: #ffffff; font-size: 18px\">Durante essa jornada, sentimos juntos a necessidade de inovar o marketplace de Ramarim para se tornar ainda mais rápido e eficiente, transformando a experiência do cliente.</span></strong></p>",
+        "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O grupo Ramarim tem quase 60 anos de história no mercado calçadista brasileiro e mundial. Atualmente, é composto pelas marcas Ramarim e ComfortFlex. Pioneiro em pesquisa, moda, tecnologia do conforto e inovação no Brasil, reconhecido no mundo inteiro por sua qualidade e design inovadores, o grupo tem equipe de representantes em todo o país e mais de 60 países.</span></p><p></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">O trabalho entre Wave Commerce e Ramarim iniciou em abril de 2023, com serviços de</span><span style=\"color: rgb(0, 88, 197); font-size: 15pt\"> Social ADS, SEO, E-commerce, mídia paga e CRM</span><span style=\"color: rgb(30, 30, 30); font-size: 15pt\">. </span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Durante essa jornada, sentimos juntos a necessidade de inovar o marketplace de Ramarim para se tornar ainda mais rápido e eficiente, transformando a experiência do cliente.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -56,7 +56,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><strong><span style=\"color: #0066e3; font-size: 18pt\">Deco CX. + Ramarim</span></strong></h3>"
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 227); font-size: 20pt\">Deco CX. + Ramarim</span></strong></h3>"
       }
     },
     {
@@ -86,7 +86,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<h1><span style=\"color: #f2f2f2\">Em meados de outubro, começamos uma migração do site de Ramarim. O marketplace feito pela Wave Commerce foi o primeiro em </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.cx\"><span style=\"color: #f2f2f2\">Deco.cx</span></a><span style=\"color: #f2f2f2\">.</span></h1><p><span style=\"color: #f2f2f2\">Nessa plataforma, nossos programadores conseguiram maior controle do código para criar o site e desenvolver toda e qualquer funcionalidade. Além disso, essa startup usa menos Javascript na programação do que outros players, aumentando a velocidade do site.</span></p>",
+              "title": "<p><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">Em meados de outubro, começamos uma migração do site de Ramarim. O marketplace feito pela Wave Commerce foi o primeiro em </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.cx\"><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">Deco.cx</span></a><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">.</span></p><p><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">Nessa plataforma, nossos programadores conseguiram maior controle do código para criar o site e desenvolver toda e qualquer funcionalidade. Além disso, essa startup usa menos Javascript na programação do que outros players, aumentando a velocidade do site.</span></p>",
               "description": "<p></p>"
             }
           }
@@ -115,8 +115,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Resultados alcançados</span></p>",
-        "description": "<p><span style=\"font-size: 14pt\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"font-size: 14pt\">deco.cx</span></a><span style=\"font-size: 14pt\"> é conhecida por seu excelente desempenho em page speed, e isso pôde ser confirmado no marketplace de Ramarim. Após a migração, o site apresentou resultados muito acima da média em tempo de carregamento.</span></p><p><span style=\"font-size: 14pt\"><br></span></p>"
+        "title": "<h3><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Resultados alcançados</span></h3>",
+        "description": "<p><span style=\"font-size: 15pt\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"font-size: 15pt\">deco.cx</span></a><span style=\"font-size: 15pt\"> é conhecida por seu excelente desempenho em page speed, e isso pôde ser confirmado no marketplace de Ramarim. Após a migração, o site apresentou resultados muito acima da média em tempo de carregamento.</span></p><p><span style=\"font-size: 15pt\"><br></span></p>"
       }
     },
     {
@@ -160,8 +160,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Ganho de performance em tempo de carregamento</span></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"color: #ffffff; font-size: 18px\">deco.cx</span></a><span style=\"color: #ffffff; font-size: 18px\"> é conhecida por seu excelente desempenho em page speed, e isso pôde ser confirmado no marketplace de Ramarim. Após a migração, o site apresentou resultados muito acima da média em tempo de carregamento.</span></p>"
+        "title": "<h3><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Ganho de performance em tempo de carregamento</span></h3>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">deco.cx</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> é conhecida por seu excelente desempenho em page speed, e isso pôde ser confirmado no marketplace de Ramarim. Após a migração, o site apresentou resultados muito acima da média em tempo de carregamento.</span></p>"
       }
     },
     {
@@ -175,7 +175,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">SITE ANTIGO X SITE NOVO</span></p>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">SITE ANTIGO X SITE NOVO</span></p>",
         "description": "<p></p>"
       }
     },
@@ -199,8 +199,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">PDP ANTIGA X PDP NOVA</span></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 16px\">Página de produto com nova disposição das informações e do design.</span></p>"
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">PDP ANTIGA X PDP NOVA</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Página de produto com nova disposição das informações e do design.</span></p>"
       }
     },
     {
@@ -223,8 +223,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
-        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
       }
     },
     {

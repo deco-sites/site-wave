@@ -41,7 +41,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: #fafafa; font-size: 18px\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor</span><span style=\"color: #fafafa\"><br></span><span style=\"color: #fafafa; font-size: 18px\">experiência de compra.<br></span><span style=\"color: #fafafa\"><br></span><span style=\"color: #fafafa; font-size: 18px\">A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></h2>",
+        "title": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor experiência de compra.<br><br>A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -56,8 +56,16 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 227); font-size: 18pt\">Grande diferencial da Wave</span></strong></h3><p></p>",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 227); font-size: 18pt\">Relato do cliente</span></strong></h3><p></p>",
         "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: #faf9f9\">“</span><span style=\"color: #0063db\">Visão de dono do negócio</span><span style=\"color: #faf9f9\">, fazendo parte da empresa e trabalhando em&nbsp;sinergia para obter os melhores resultados”.</span></p><p></p>",
+        "description": "<h3><strong>Lúcia Fraga – Gerente E-commerce da Safira.</strong></h3>"
       }
     },
     {
@@ -70,9 +78,16 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/L6CmsrorL0Y?si=LRz_Smf0VuNivRC1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 18pt\">Diferenciais da Wave:</span></strong></h2><p></p><p></p>",
-        "description": "<p></p><p><span style=\"font-size: 14pt\">– Especialização no varejo: Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br></span><span style=\"font-size: 14pt\"><br></span><span style=\"font-size: 14pt\">– Equipe capacitada: Wave preocupada em ter uma equipe atualizada com&nbsp;as principais tendências de mercado para proporcionar os melhores&nbsp;resultados.</span></p><p><span style=\"font-size: 14pt\">&nbsp;</span></p><p><span style=\"font-size: 14pt\">– Aumento de faturamento expressivo com pouco crescimento do&nbsp;investimento, resultando num maior retorno e margem</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Diferenciais da Wave:</span></strong></h2><p></p><p></p>",
+        "description": "<ul><li><p></p></li><li><p><span style=\"font-size: 15pt\">– Especialização no varejo: Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br><br>– Equipe capacitada: Wave preocupada em ter uma equipe atualizada com&nbsp;as principais tendências de mercado para proporcionar os melhores&nbsp;resultados.</span></p></li><li><p><span style=\"font-size: 15pt\">&nbsp;</span></p></li><li><p><span style=\"font-size: 15pt\">– Aumento de faturamento expressivo com pouco crescimento do&nbsp;investimento, resultando num maior retorno e margem</span></p></li></ul>"
       }
     },
     {
@@ -86,8 +101,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
-        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
       }
     },
     {

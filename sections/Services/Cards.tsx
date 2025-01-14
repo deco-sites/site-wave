@@ -7,7 +7,8 @@ import { renderSection } from "apps/website/pages/Page.tsx";
  */
 interface CTA {
   href: string;
-  text: HTML;
+  /** @format rich-text */
+  text: string;
 }
 
 /**
@@ -16,8 +17,9 @@ interface CTA {
 interface Props {
   /**
    * @title Título de Seção
+   * @format rich-text
    */
-  title?: HTML;
+  title?: string;
   /**
    * @title Botão de Ação
    */
