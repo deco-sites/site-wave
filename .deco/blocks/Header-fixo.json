@@ -90,17 +90,12 @@
       "children": []
     },
     {
-      "url": "/ebooks-e-guias",
-      "name": "E-books e Guias",
-      "children": []
-    },
-    {
       "url": "/vagas",
       "name": "Vagas",
       "children": []
     },
     {
-      "url": "blog",
+      "url": "/blog",
       "name": "Blog",
       "children": []
     }
