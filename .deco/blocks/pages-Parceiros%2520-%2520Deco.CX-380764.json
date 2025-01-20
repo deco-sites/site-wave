@@ -49,15 +49,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"color: #fcfcfc; font-size: 18px\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"color: #fcfcfc; font-size: 18px\">deco.cx</span></a><span style=\"color: #fcfcfc; font-size: 18px\"> é uma plataforma de front-end-as-a-service que junta performance e personalização para criar experiências de ecommerce excepcionais. Com um CMS integrado, teste A/B, audiências personalizadas, campanhas e analytics, ela foi projetada para ambos usuários de negócio e devs terem facilidade e agilidade na construção e otimização de lojas com conversão muito acima do esperado.</span></p><p></p>",
-        "title": "<p><strong>O que é a plataforma </strong><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://DECO.cx\"><strong>DECO.cx</strong></a></p>"
+        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">deco.cx</span></a><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> é uma plataforma de front-end-as-a-service que junta performance e personalização para criar experiências de ecommerce excepcionais. Com um CMS integrado, teste A/B, audiências personalizadas, campanhas e analytics, ela foi projetada para ambos usuários de negócio e devs terem facilidade e agilidade na construção e otimização de lojas com conversão muito acima do esperado.</span></p><p></p>",
+        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 25pt\">O que é a plataforma DECO.cx</span></strong></h2>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Por que escolher a DECO.CX?</span></strong></h2>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Por que escolher a DECO.CX?</span></strong></h2>",
         "description": "<p></p>"
       }
     },
@@ -118,15 +118,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Nós fazemos parte do ecossistema de agências parceiras da Deco.cx</span></strong></h2>",
-        "description": "<p>Oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.</p><p>&nbsp;</p><p><span style=\"font-size: 16px\">O time da Wave Commerce está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online. Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e indicados pela </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://DECO.cx\"><span style=\"font-size: 16px\">DECO.cx</span></a><span style=\"font-size: 16px\">.</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Agência parceira Deco</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet, </span><span style=\"font-size: 15pt\">o time da Wave Commerce está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online. Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e indicados pela </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://DECO.cx\"><span style=\"font-size: 15pt\">DECO.cx</span></a><span style=\"font-size: 15pt\">.</span></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Marketing Digital</span></strong></h2>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketing Digital</span></strong></h2>",
         "description": "<p></p>"
       }
     },
@@ -196,8 +196,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
       }
     },
     {

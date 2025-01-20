@@ -50,7 +50,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "description": "<p><span style=\"font-size: 15pt\">A Shopify é a plataforma escolhida por mais de 1.700.000 lojas no mundo todo. Uma plataforma confiável que conta com todos os recursos de e-commerce e pontos de venda necessários para você começar, gerenciar e expandir o seu negócio.</span></p><p></p><p><span style=\"font-size: 15pt\">Com a missão de tornar o comércio melhor para todos, Shopify ajuda as pessoas a conquistar independência.</span></p><p><span style=\"font-size: 15pt\">O futuro do comércio conta com mais vozes, não menos pluralidade. Por isso, diminuem os obstáculos para que as pessoas tenham o próprio negócio, tornando o comércio melhor para todos.</span></p>",
-        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 25pt\">O que é a Shopify?</span></strong></h2><p><br></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O que é a Shopify?</span></strong></h2><p><br></p>"
       }
     },
     {

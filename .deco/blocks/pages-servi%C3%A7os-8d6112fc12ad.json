@@ -2,8 +2,12 @@
   "name": "Soluções",
   "path": "/solucoes",
   "sections": [
-    { "__resolveType": "website/sections/Seo/Seo.tsx" },
-    { "__resolveType": "Header - 01" },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "Header - 01"
+    },
     {
       "cta": {
         "href": "#",
@@ -32,9 +36,99 @@
       },
       "__resolveType": "site/sections/Services/Hero.tsx"
     },
-    { "__resolveType": "Cards de Serviço 2" },
-    { "__resolveType": "Cards de Serviço 1" },
-    { "__resolveType": "Footer - 04" }
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p>Nossos especialistas vão maximizar seu ROI.</p>",
+          "description": "<p>Somos Google Partner, <strong>especializados em gerenciamento de campanhas Google Ads para E-commerce</strong>, além de anúncios patrocinados em Social Ads (Facebook, Instagram e Linkedin). Realizamos o gerenciamento de anúncios de performance e conteúdo, identificando os melhores formatos para <strong>potencializar suas conversões.</strong></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "__resolveType": "website/sections/Rendering/Lazy.tsx",
+          "section": {
+            "__resolveType": "site/sections/Space.tsx",
+            "size": "small"
+          }
+        },
+        {
+          "__resolveType": "site/sections/Services/Card3.tsx",
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li>Proximidade com Google e plataformas;</li><li>Parceiros especializados;</li><li>Profissionais com experiência em E-commerce;</li><li>Profissionais com alto conhecimento das plataformas;</li><li>Profissionais de UX, UI, SEO e Mídia Paga em Google, Facebook, Linkedin, Bing, Pinterest, Criteo, entre outros.</li></ul>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<p>Por que a Wave é a <strong>melhor opção</strong> para cuidar <span id=\"_mce_caret\" data-mce-bogus=\"1\" data-mce-type=\"format-caret\">﻿</span>da Mídia Paga do seu e-commerce?</p>",
+      "sections": [
+        {
+          "title": "<p>SEO On-Page:</p>",
+          "description": "<p>O SEO On-Page refere-se à otimização direta dos elementos dentro de uma página web, como <strong>palavras-chave, titles e descriptions, semântica HTML, alt tag de imagens</strong>, para melhorar a visibilidade nos sites de busca, atraindo tráfego qualificado por meio de uma estratégia focada no conteúdo.</p><p>O <strong>conteúdo é um dos 3 principais fatores de classificação do Google</strong>. O objetivo do buscador é apresentar os melhores resultados para uma determinada pesquisa, então um conteúdo ruim dificilmente tem um bom desempenho nas SERPs (página de resultados do Google). Por isso, priorizamos a criação de conteúdo de qualidade, que corresponda à intenção de busca do usuário.</p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "__resolveType": "website/sections/Rendering/Lazy.tsx",
+          "section": {
+            "__resolveType": "site/sections/Space.tsx",
+            "size": "small"
+          }
+        },
+        {
+          "__resolveType": "site/sections/Services/Card1.tsx",
+          "title": "<p>SEO Técnico:</p>",
+          "description": "<p>O SEO técnico concentra-se na otimização dos aspectos técnicos de um site, incluindo a <strong>estrutura, velocidade de carregamento, a indexação e outros elementos</strong>, para garantir uma experiência eficiente para os motores de busca, melhorando a classificação e a visibilidade online.</p>"
+        },
+        {
+          "__resolveType": "website/sections/Rendering/Lazy.tsx",
+          "section": {
+            "__resolveType": "site/sections/Space.tsx",
+            "size": "small"
+          }
+        },
+        {
+          "__resolveType": "site/sections/Services/Card2.tsx",
+          "title": "<p><strong>Anúncios via Ads</strong> para <br>Performance em mídias pagas:</p>",
+          "description": "<ul><li>Campanhas Google, Facebook, Instagram, Linkedin, Bing, Pinterest mídia programática e afiliados.</li><li>Tagueamento do site.</li></ul>"
+        },
+        {
+          "__resolveType": "website/sections/Rendering/Lazy.tsx",
+          "section": {
+            "__resolveType": "site/sections/Space.tsx",
+            "size": "small"
+          }
+        },
+        {
+          "title": "<p><strong>SEO para <br>e-commerce</strong></p>",
+          "description": "<ul><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li></ul>",
+          "__resolveType": "site/sections/Services/Card2.tsx"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "Footer - 04"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx"
 }

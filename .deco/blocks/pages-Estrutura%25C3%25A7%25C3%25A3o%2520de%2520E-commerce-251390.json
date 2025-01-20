@@ -66,7 +66,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "title": "<h2><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">Nosso trabalho vai muito além </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 24pt\">da realização do seu projeto</span></strong></h2>",
+        "title": "<h2><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">Nosso trabalho vai muito além </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">da realização do seu projeto</span></strong></h2>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nossa equipe possui </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">conhecimento e experiência nos melhores canais de Marketing Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, desde a produção de conteúdos para blog e materiais ricos, otimização de investimentos em campanhas de mídia paga, </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wavecommerce.com.br/seo/\"><strong><u><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">SEO para e-commerce</span></u></strong></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> tudo para que o seu e-commerce alcance os melhores resultados de vendas.</span></p>",
         "__resolveType": "site/sections/Services/Card4.tsx"
       }
@@ -92,8 +92,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 24pt\">Junte-se à Onda</span></strong></h2>",
-        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
       }
     },
     {

@@ -45,7 +45,7 @@ export default function Cards({
             class="services-title text-white text-center text-2xl md:text-[40px] md:leading-[40px] font-bold mb-10 max-w-[950px] mx-auto"
           />
         )}
-      <div class="grid md:grid-cols-2 items-start gap-8 w-full">
+      <div class="grid md:grid-cols-1 items-start gap-8 w-full">
         {sections && sections.map(renderSection)}
       </div>
       {cta && cta.href && cta.text && (

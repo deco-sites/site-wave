@@ -35,7 +35,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">O Escafandro iniciou suas atividades no e-commerce no final de 2021, lançado pelo ator Alex Morenno, vem ganhando espaço e notoriedade no mercado desde o início das atividades. Atuando no segmento de beachwear, a marca entrega peças sofisticadas e com uma excelente qualidade, além de várias opções de cores e modelagens.</span></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O Escafandro iniciou suas atividades no e-commerce no final de 2021, lançado pelo ator Alex Morenno, vem ganhando espaço e notoriedade no mercado desde o início das atividades. Atuando no segmento de beachwear, a marca entrega peças sofisticadas e com uma excelente qualidade, além de várias opções de cores e modelagens.</span></p>"
       }
     },
     {
@@ -70,7 +70,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<p><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Em setembro de 2021, o João Freitas, sócio da empresa, procurou a Wave para fazer a implementação e estruturação da loja online. A partir disso, foi iniciado um processo de análise de mercado e planejamento,<br>para desenvolver o cadastro na plataforma de e-commerce e a descrição dos produtos, com técnicas<br>voltadas para uma boa experiência dos consumidores da loja, de acordo com os objetivos e expectativas<br>do cliente.</span></p>",
+              "title": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Em setembro de 2021, o João Freitas, sócio da empresa, procurou a Wave para fazer a implementação e estruturação da loja online. A partir disso, foi iniciado um processo de análise de mercado e planejamento,<br>para desenvolver o cadastro na plataforma de e-commerce e a descrição dos produtos, com técnicas<br>voltadas para uma boa experiência dos consumidores da loja, de acordo com os objetivos e expectativas<br>do cliente.</span></p>",
               "description": "<p></p>"
             }
           }
@@ -99,8 +99,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
-        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
       }
     },
     {

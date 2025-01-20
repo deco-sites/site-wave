@@ -1,0 +1,18 @@
+{
+  "__resolveType": "site/sections/Footer/Footer.tsx",
+  "sections": [],
+  "social": [],
+  "payments": {
+    "items": []
+  },
+  "regionOptions": {
+    "currency": [],
+    "language": []
+  },
+  "extraLinks": [],
+  "layout": {
+    "backgroundColor": "Primary",
+    "variation": "Variation 1"
+  },
+  "local": []
+}

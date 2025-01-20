@@ -51,8 +51,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">A Linx é uma plataforma digital especialista em tecnologia para o varejo. Focada em ampliar a eficiência de implantação e o alcance de soluções de plataforma e omnichannel, gerando novos negócios e transformando todo o mercado. </span><span style=\"color: rgb(255, 255, 255); font-size: 18px\">Líder no mercado de software de gestão, na Linx a jornada de compra é transformada em insights fundamentais para atingir o que os varejistas mais esperam: fidelizar seus consumidores e atingir resultados concretos e relevantes.</span></p>",
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Sobre a Linx</span></h2>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Linx é uma plataforma digital especialista em tecnologia para o varejo. Focada em ampliar a eficiência de implantação e o alcance de soluções de plataforma e omnichannel, gerando novos negócios e transformando todo o mercado. Líder no mercado de software de gestão, na Linx a jornada de compra é transformada em insights fundamentais para atingir o que os varejistas mais esperam: fidelizar seus consumidores e atingir resultados concretos e relevantes.</span></p>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a Linx</span></h2>"
       }
     },
     {
@@ -60,7 +60,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Leve a melhor experiência do varejo digital para o consumidor final, através de uma plataforma de e-commerce adaptada para os mais diversos cenários. Confira mais abaixo:</span></p>"
+        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Leve a melhor experiência do varejo digital para o consumidor final, através de uma plataforma de e-commerce adaptada para os mais diversos cenários. Confira mais abaixo:</span></p>"
       }
     },
     {
@@ -116,7 +116,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência Parceira Linx</span></strong></h2>",
-        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Nós fazemos parte do novo </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">ecossistema de parcerias</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\"> da Linx Digital, oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet. Através deste novo cenário, a Linx Digital abre novas </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">estratégias inovadoras</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\"> com as soluções de plataforma de e-commerce, integrador de marketplaces, impulsionamento da performance e conversão digital e omnichannel.<br><br>O time Wave está preparado para entregar novas formas de atendimento, acompanhamento comercial e de projetos, além de uma extensão de suporte e relacionamento com os lojistas. </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"color: rgb(252, 252, 252); font-size: 14pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados pela Linx Digital.</span></p>"
+        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Nós fazemos parte do novo </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">ecossistema de parcerias</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> da Linx Digital, oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet. Através deste novo cenário, a Linx Digital abre novas </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">estratégias inovadoras</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> com as soluções de plataforma de e-commerce, integrador de marketplaces, impulsionamento da performance e conversão digital e omnichannel.<br><br>O time Wave está preparado para entregar novas formas de atendimento, acompanhamento comercial e de projetos, além de uma extensão de suporte e relacionamento com os lojistas. </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados pela Linx Digital.</span></p>"
       }
     },
     {
@@ -130,7 +130,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Marketing Digital</span></strong></h2>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketing Digital</span></strong></h2>",
         "description": "<p></p>"
       }
     },
@@ -193,8 +193,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
       }
     },
     {

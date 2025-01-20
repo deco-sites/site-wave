@@ -45,7 +45,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "description": "<p><span style=\"font-size: 15pt\">Como se chama uma plataforma de relacionamento, e-commerce e varejo? Olist Vnda! Mais do que uma plataforma de E-commerce, a Olist Vnda é uma plataforma de relacionamento, que ajuda marcas a criar, desenvolver e crescer o seu negócio digital alinhado com seus propósitos.<br><br>Acredita em relações que vão além das transações e contribui com a evolução de negócios do varejo, identificando necessidades e oportunidades e oferecendo soluções eficientes e descomplicadas para os seus clientes.</span></p><p><span style=\"font-size: 15pt\">Uma plataforma única que propõe aliar o online ao offline de forma orgânica e saudável.&nbsp; A Olist Vnda possui tecnologia omnichannel que possibilita a gestão ponta a ponta do seu negócio, seja ele físico ou digital (ou ambos).</span></p>",
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Sobre a Olist Vnda</span></h2><p><span style=\"color: rgb(255, 255, 255)\"><br></span></p>"
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a Olist Vnda</span></h2><p><span style=\"color: rgb(255, 255, 255)\"><br></span></p>"
       }
     },
     {
@@ -53,7 +53,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "description": "<p></p>",
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Por que a Olist Vnda?</span></h2>"
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Olist Vnda?</span></h2>"
       }
     },
     {
@@ -122,7 +122,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Marketing Digital</span></strong></h3>",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Marketing Digital</span></strong></h3>",
         "description": "<p></p>"
       }
     },

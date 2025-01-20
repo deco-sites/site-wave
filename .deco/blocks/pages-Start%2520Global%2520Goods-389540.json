@@ -34,7 +34,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Start Global Goods inaugura e-commerce na Shopify US</span></h2>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Start Global Goods inaugura e-commerce na Shopify US</span></h2>",
         "description": "<p><span style=\"font-size: 15pt\">A marca de suplementos valoriza os ingredientes naturais e a formulação limpa, sem abrir mão de qualidade e sabor.<br>A Start Global Goods é uma empresa cuja missão é levar até as pessoas os melhores produtos do mundo. Possuem uma gama de artigos diversificados que se adequam em diferentes áreas da vida, contando com produtos de beleza e cuidados pessoais, joias, além de itens para pets.</span></p><p></p><p><span style=\"font-size: 15pt\">A empresa atua nos Estados Unidos, vendendo produtos da melhor qualidade para o mercado americano, tendo como destaque a manteiga de cacau da Naturavene, que é 100% fabricada com produtos brasileiros.</span></p>"
       }
     },

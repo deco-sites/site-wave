@@ -49,8 +49,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p>A Amazon é a empresa mais focada no consumidor em todo o mundo. Negócios de todos os tamanhos podem aproveitar o marketplace de forma simples e eficiente. Oferecem mais de 30 categorias de produtos, incluindo bebidas, móveis para casa e cozinha, e calçados e moda. Os clientes passam a encontrar os produtos na Amazon assim que são publicados dentro do canal.</p><p></p><p>Quando você começa a vender na Amazon, você se junta a vendedores de todos os tipos que vendem online, desde empresas internacionais a empreendedores individuais. Todos eles vendem na Amazon pelo mesmo motivo: oferecer seus produtos para os milhões de clientes que visitam o site da Amazon diariamente.</p>",
-        "title": "<p><strong>Sobre a Amazon</strong><br></p>"
+        "description": "<p><span style=\"font-size: 15pt\">A Amazon é a empresa mais focada no consumidor em todo o mundo. Negócios de todos os tamanhos podem aproveitar o marketplace de forma simples e eficiente. Oferecem mais de 30 categorias de produtos, incluindo bebidas, móveis para casa e cozinha, e calçados e moda. Os clientes passam a encontrar os produtos na Amazon assim que são publicados dentro do canal. Quando você começa a vender na Amazon, você se junta a vendedores de todos os tipos que vendem online, desde empresas internacionais a empreendedores individuais. Todos eles vendem na Amazon pelo mesmo motivo: oferecer seus produtos para os milhões de clientes que visitam o site da Amazon diariamente.</span></p>",
+        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 25pt\">Sobre a Amazon</span></strong><span style=\"color: #0066e4; font-size: 25pt\"><br></span></h2>"
       }
     },
     {
@@ -64,8 +64,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Amazon spn</span></strong></h2>",
-        "description": "<p><span style=\"color: #fcfcfc; font-size: 18px\">A </span><strong><span style=\"color: #fcfcfc\">Amazon spn</span></strong><span style=\"color: #fcfcfc; font-size: 18px\"> oferece uma </span><strong><span style=\"color: #fcfcfc\">Rede de Prestadores de Serviço</span></strong><span style=\"color: #fcfcfc; font-size: 18px\"> (SPN) de confiança da Amazon que auxilia os lojistas em diversas etapas das configurações de conta, integrações de produtos, além de melhorar a performance dentro da Amazon BR e Amazon US. Veja abaixo algumas </span><strong><span style=\"color: #fcfcfc\">soluções oferecidas</span></strong><span style=\"color: #fcfcfc; font-size: 18px\">:</span></p>"
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Amazon spn</span></strong></h3>",
+        "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">A </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Amazon spn</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> oferece uma </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Rede de Prestadores de Serviço</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> (SPN) de confiança da Amazon que auxilia os lojistas em diversas etapas das configurações de conta, integrações de produtos, além de melhorar a performance dentro da Amazon BR e Amazon US. Veja abaixo algumas </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">soluções oferecidas</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">:</span></p>"
       }
     },
     {
@@ -126,8 +126,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Nós fazemos parte do ecossistema de parceiros da Amazon</span></strong></h2>",
-        "description": "<p>Nós fazemos parte da Rede de Prestadores de Serviços oficiais da Amazon, oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.&nbsp;</p><p>O time Wave está preparado para entregar atendimento personalizado, acompanhamento de projetos, além de uma extensão de suporte e relacionamento com os lojistas.</p><p><strong>Somos o parceiro certo para o seu negócio!</strong> Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados pela Amazon.&nbsp;</p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Nós fazemos parte do ecossistema de parceiros da Amazon</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Nós fazemos parte da Rede de Prestadores de Serviços oficiais da Amazon, oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.&nbsp;O time Wave está preparado para entregar atendimento personalizado, acompanhamento de projetos, além de uma extensão de suporte e relacionamento com os lojistas. </span><strong><span style=\"font-size: 15pt\">Somos o parceiro certo para o seu negócio!</span></strong><span style=\"font-size: 15pt\"> Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados pela Amazon.&nbsp;</span></p>"
       }
     },
     {
@@ -141,7 +141,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Nossas Soluções</span></strong></h2>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Soluções da Wave</span></strong></h2>",
         "description": "<p></p>"
       }
     },
@@ -210,8 +210,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
       }
     },
     {

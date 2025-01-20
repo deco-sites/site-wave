@@ -34,7 +34,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(240, 240, 240); font-size: 14pt\">A </span><strong><span style=\"color: rgb(240, 240, 240); font-size: 14pt\">Sex Shop Atacadão</span></strong><span style=\"color: rgb(240, 240, 240); font-size: 14pt\"> nasceu e cresceu na capital das Minas Gerais, Belo Horizonte. Embora tenha começado como uma pequena loja no centro da cidade, sempre houve o sonho de ser uma grande distribuidora de produtos eróticos.</span></h2><h2><span style=\"color: rgb(240, 240, 240); font-size: 14pt\"><br></span></h2>",
+        "title": "<p><span style=\"color: rgb(240, 240, 240); font-size: 15pt\">A </span><strong><span style=\"color: rgb(240, 240, 240); font-size: 15pt\">Sex Shop Atacadão</span></strong><span style=\"color: rgb(240, 240, 240); font-size: 15pt\"> nasceu e cresceu na capital das Minas Gerais, Belo Horizonte. Embora tenha começado como uma pequena loja no centro da cidade, sempre houve o sonho de ser uma grande distribuidora de produtos eróticos.</span></p><h2><span style=\"color: rgb(240, 240, 240); font-size: 14pt\"><br></span></h2>",
         "description": "<h2></h2><h2><span style=\"color: rgb(247, 247, 247)\"><br></span></h2>"
       }
     },
@@ -75,7 +75,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<h2><span style=\"color: rgb(247, 247, 247)\">Com o passar do tempo, o negócio foi se reformulando e conquistando seu espaço no mercado. </span><strong><span style=\"color: rgb(247, 247, 247)\">Passou de pequena lojinha no centro para E-commerce prestigiado</span></strong><span style=\"color: rgb(247, 247, 247)\">, com reconhecimento dos clientes que o elegeram </span><strong><span style=\"color: rgb(247, 247, 247)\">2 vezes consecutivas como melhor distribuidora de produtos eróticos do Brasil</span></strong><span style=\"color: rgb(247, 247, 247)\"> em 2020 e 2021.</span></h2>",
+              "title": "<p><span style=\"color: rgb(247, 247, 247); font-size: 15pt\">Com o passar do tempo, o negócio foi se reformulando e conquistando seu espaço no mercado. </span><strong><span style=\"color: rgb(247, 247, 247); font-size: 15pt\">Passou de pequena lojinha no centro para E-commerce prestigiado</span></strong><span style=\"color: rgb(247, 247, 247); font-size: 15pt\">, com reconhecimento dos clientes que o elegeram </span><strong><span style=\"color: rgb(247, 247, 247); font-size: 15pt\">2 vezes consecutivas como melhor distribuidora de produtos eróticos do Brasil</span></strong><span style=\"color: rgb(247, 247, 247); font-size: 15pt\"> em 2020 e 2021.</span></p>",
               "description": "<p></p>"
             }
           }
@@ -90,7 +90,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: #0066e4; font-size: 18pt\">Wave + SSA</span></p>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Wave + SSA</span></h2>",
         "description": "<p></p>"
       }
     },
@@ -124,8 +124,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Relato do Cliente</span></p>",
-        "description": "<p>Rejane, CEO da Sex Shop Atacadão, procurou a Wave porque <strong>precisava de um time com atendimento personalizado</strong>, especialista em varejo e focado em trazer resultados. Com contratos para social media, email marketing, design, SEO e mídia paga, a Wave Commerce vêm trazendo resultados crescentes para a empresa. E no mês de maio desse ano, o negócio atingiu <strong>marca histórica de faturamento no e-commerce</strong>.</p><p></p><p>Confira no vídeo abaixo o que a Rejane considera como a chave do sucesso entre a parceria Wave + Sex Shop Atacadão:</p>"
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Rejane, CEO da Sex Shop Atacadão, procurou a Wave porque </span><strong><span style=\"font-size: 15pt\">precisava de um time com atendimento personalizado</span></strong><span style=\"font-size: 15pt\">, especialista em varejo e focado em trazer resultados. Com contratos para social media, email marketing, design, SEO e mídia paga, a Wave Commerce vêm trazendo resultados crescentes para a empresa. E no mês de maio desse ano, o negócio atingiu </span><strong><span style=\"font-size: 15pt\">marca histórica de faturamento no e-commerce</span></strong><span style=\"font-size: 15pt\">.</span></p><p></p><p><span style=\"font-size: 15pt\">Confira no vídeo abaixo o que a Rejane considera como a chave do sucesso entre a parceria Wave + Sex Shop Atacadão:</span></p>"
       }
     },
     {
@@ -146,7 +146,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">VTEX IO</span></p>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></h2>",
         "description": "<p></p>"
       }
     },
@@ -154,7 +154,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(242, 242, 242); font-size: 14pt\">Importante ressaltar que essa marca, vinda de melhorias nas áreas de SEO, mídia paga e E-mail marketing, </span><strong><span style=\"color: rgb(242, 242, 242); font-size: 14pt\">não poderia ter sido alcançada sem a Sex Shop Atacadão ter implementado a VTEX IO</span></strong><span style=\"color: rgb(242, 242, 242); font-size: 14pt\">. Os recursos desse software especializado em E-commerce tornaram o site da loja um lugar muito mais convidativo e acessível, seja para revenda ou consumidores finais. A VTEX IO pôde ser alinhada às outras soluções, trazendo excelentes resultados.</span></h2>",
+        "title": "<p><span style=\"color: rgb(242, 242, 242); font-size: 15pt\">Importante ressaltar que essa marca, vinda de melhorias nas áreas de SEO, mídia paga e E-mail marketing, </span><strong><span style=\"color: rgb(242, 242, 242); font-size: 15pt\">não poderia ter sido alcançada sem a Sex Shop Atacadão ter implementado a VTEX IO</span></strong><span style=\"color: rgb(242, 242, 242); font-size: 15pt\">. Os recursos desse software especializado em E-commerce tornaram o site da loja um lugar muito mais convidativo e acessível, seja para revenda ou consumidores finais. A VTEX IO pôde ser alinhada às outras soluções, trazendo excelentes resultados.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -169,8 +169,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></p>",
-        "description": "<p><span style=\"font-size: 14pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 14pt\">performance para E-commerce</span></a><span style=\"font-size: 14pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 14pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 14pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 14pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 14pt\"><br><br>Junte-se à onda!</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
       }
     },
     {

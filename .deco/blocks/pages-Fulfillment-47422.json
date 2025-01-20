@@ -44,7 +44,7 @@
       "cta": {},
       "sections": [
         {
-          "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">A Melhor Agência de Performance do Brasil Agora É Full Commerce</span></h2>",
+          "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">A Melhor Agência de Performance do Brasil Agora É Full Commerce</span></h2>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Com o serviço de </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Fulfillment</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> da Wave Commerce, em colaboração com a Sanco, você garante não só os melhores serviços para E-commerce, mas também a otimização de todo o seu processo logístico.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
@@ -59,7 +59,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Por Que Optar Pelo Fulfillment da Wave Commerce?</span></h2>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por Que Optar Pelo Fulfillment da Wave Commerce?</span></h2>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Ao escolher a Wave Commerce e a Sanco, você não está apenas contratando um serviço de logística; você está investindo em uma </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">solução completa</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, que proporciona:</span></p>"
       }
     },
@@ -88,7 +88,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">A Parceria Wave Commerce e Sanco</span></h2>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">A Parceria Wave Commerce e Sanco</span></h2>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Sanco é uma empresa de logística especializada em soluções para e-commerce, com uma história de excelência na entrega e suporte ao cliente. Sua experiência é a combinação perfeita para a Wave Commerce.</span></p>",
         "__resolveType": "site/sections/Services/Card4.tsx"
       }
@@ -136,7 +136,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Vantagens Competitivas do Fulfillment</span></h2>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Vantagens Competitivas do Fulfillment</span></h2>",
         "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">- Sistema RFID</span></strong><span style=\"font-size: 15pt\">: Controle preciso do estoque com tecnologia de identificação por radiofrequência.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Integração Total</span></strong><span style=\"font-size: 15pt\">: Gestão completa dos pedidos integrada às plataformas de e-commerce.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Tabela de Frete Diferenciada</span></strong><span style=\"font-size: 15pt\">: Condições competitivas de frete com transportadoras parceiras.</span></p></li></ul>",
         "__resolveType": "site/sections/Services/Card4.tsx"
       }
@@ -144,7 +144,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "title": "<h2><span style=\"color: #0066e4; font-size: 25pt\">Diferenciais do Fulfillment da Wave Commerce e Sanco</span></h2>",
+        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Diferenciais do Fulfillment da Wave Commerce e Sanco</span></h2>",
         "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">- Experiência e Especialização</span></strong><span style=\"font-size: 15pt\">: Profissionais com profundo conhecimento do setor de e-commerce.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Flexibilidade e Agilidade</span></strong><span style=\"font-size: 15pt\">: Adaptação rápida às necessidades do cliente, independentemente do tamanho ou complexidade do pedido.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">- Boas Entregas, Boas Vendas</span></strong><span style=\"font-size: 15pt\">: Com serviços de alta qualidade, nossas entregas resultam em clientes satisfeitos e fidelizados.</span></p></li></ul>",
         "__resolveType": "site/sections/Services/Card4.tsx"
       }

@@ -49,8 +49,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">A plataforma de comércio digital para grandes empresas! Proporcione a experiência que seus consumidores desejam com uma plataforma de e-commerce composable, conectada e completa.</span></p><p></p><p><strong><span style=\"color: #ffffff; font-size: 18px\">A VTEX é a plataforma de comércio digital para empresas que permite que grandes marcas&nbsp; e varejistas alcancem um time-to-market mais rápido, atinjam seus clientes em qualquer canal e descubram novas áreas de crescimento.</span></strong></p><p></p><p><span style=\"color: #ffffff; font-size: 18px\">Se você busca liberdade para concretizar sua visão única e entregá-la aos clientes através de experiências notáveis, a Vtex é o que você procura.</span></p><p></p>",
-        "title": "<p><strong>O que é VTEX?</strong></p><p><br></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A plataforma de comércio digital para grandes empresas! Proporcione a experiência que seus consumidores desejam com uma plataforma de e-commerce composable, conectada e completa. </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A VTEX é a plataforma de comércio digital para empresas que permite que grandes marcas&nbsp; e varejistas alcancem um time-to-market mais rápido, atinjam seus clientes em qualquer canal e descubram novas áreas de crescimento.</span></strong></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Se você busca liberdade para concretizar sua visão única e entregá-la aos clientes através de experiências notáveis, a Vtex é o que você procura.</span></p><p></p>",
+        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 25pt\">O que é VTEX?</span></strong></h2><p><br></p>"
       }
     },
     {
@@ -116,6 +116,14 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência VTEX: Nós fazemos parte do ecossistema de agências parceiras</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Oferecendo </span><strong><span style=\"font-size: 15pt\">soluções personalizadas para potencializar os resultados do seu</span></strong><span style=\"font-size: 15pt\"> negócio na internet, o time Wave está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online. Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e indicados pela VTEX.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "medium"
       }
@@ -124,23 +132,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Agência VTEX: Nós fazemos parte do ecossistema de agências parceiras</span></strong></h2>",
-        "description": "<p>Oferecendo <strong>soluções personalizadas para potencializar os resultados do seu</strong> negócio na internet, o time Wave está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online.</p><p>Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital<br>e garantimos o atendimento por profissionais capacitados e indicados pela VTEX.</p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Implementação na Wave</span></strong></h2>",
-        "description": "<p>Temos 3 modelos diferentes para a implementação do VTEX na sua empresa, de acordo com a necessidade do cliente:</p>"
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Implementação na Wave</span></strong></h3>",
+        "description": "<p><span style=\"font-size: 15pt\">Temos 3 modelos diferentes para a implementação do VTEX na sua empresa, de acordo com a necessidade do cliente:</span></p>"
       }
     },
     {
@@ -191,15 +184,15 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 18px\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: #ffffff\">45 dias de garantia</span></strong><span style=\"color: #ffffff; font-size: 18px\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">45 dias de garantia</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Implementação na Wave</span></strong></h2>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 18px\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: rgb(255, 255, 255)\">45 dias de garantia</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 18px\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Implementação na Wave</span></strong></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">45 dias de garantia</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
       }
     },
     {
@@ -207,14 +200,14 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 18px\">Estruturação de E-commerce: Layout personalizado com desenvolvimento e codificação, Menu, filtros e categorias, Cadastro de produtos, Descrição de produtos, Páginas institucionais, Precificação de produtos, Integrações, Suporte e evolução do e-commerce.</span></p><p></p><p></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Estruturação de E-commerce: Layout personalizado com desenvolvimento e codificação, Menu, filtros e categorias, Cadastro de produtos, Descrição de produtos, Páginas institucionais, Precificação de produtos, Integrações, Suporte e evolução do e-commerce.</span></p><p></p><p></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Serviços Oferecidos</span></strong></h2>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Serviços Oferecidos</span></strong></h2>",
         "description": "<p></p><p></p><p></p>"
       }
     },
@@ -270,8 +263,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
       }
     },
     {

@@ -86,7 +86,7 @@
             "__resolveType": "website/sections/Rendering/Lazy.tsx",
             "section": {
               "__resolveType": "site/sections/Services/Card1.tsx",
-              "title": "<p><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">Em meados de outubro, começamos uma migração do site de Ramarim. O marketplace feito pela Wave Commerce foi o primeiro em </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.cx\"><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">Deco.cx</span></a><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">.</span></p><p><span style=\"color: rgb(242, 242, 242); font-size: 12pt\">Nessa plataforma, nossos programadores conseguiram maior controle do código para criar o site e desenvolver toda e qualquer funcionalidade. Além disso, essa startup usa menos Javascript na programação do que outros players, aumentando a velocidade do site.</span></p>",
+              "title": "<p><span style=\"color: rgb(242, 242, 242); font-size: 13pt\">Em meados de outubro, começamos uma migração do site de Ramarim. O marketplace feito pela Wave Commerce foi o primeiro em </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://Deco.cx\"><span style=\"color: rgb(242, 242, 242); font-size: 13pt\">Deco.cx</span></a><span style=\"color: rgb(242, 242, 242); font-size: 13pt\">. Nessa plataforma, nossos programadores conseguiram maior controle do código para criar o site e desenvolver toda e qualquer funcionalidade. Além disso, essa startup usa menos Javascript na programação do que outros players, aumentando a velocidade do site.</span></p>",
               "description": "<p></p>"
             }
           }

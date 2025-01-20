@@ -1,0 +1,25 @@
+{
+  "name": "collections/blog/posts/242987a06f15",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "__resolveType": "blog/loaders/Blogpost.ts",
+    "post": {
+      "authors": [
+        {
+          "name": "Tiago Heineck",
+          "email": "tiago.heineck@wavecommerce.com.br",
+          "jobTitle": "Tiago Heineck, 22 anos, graduando em Publicidade e Propaganda pela UFRGS. Já trabalhei como copywriter e redator, tendo experiência em agências tradicionais e de marketing digital. Atualmente, trabalho com redação de conteúdo para SEO na Wave Commerce.",
+          "company": "Wave Commerce",
+          "avatar": "https://data.decoassets.com/site-wave/d674c4fe-d4eb-4b40-9adf-97f21915fe88/tiago.jpg"
+        }
+      ],
+      "categories": [],
+      "extraProps": [],
+      "title": "The Power of Headings: Structuring Blog Posts",
+      "excerpt": "The Power of Headings: Structuring Blog Posts",
+      "date": "2025-01-16",
+      "slug": "primeiro-post",
+      "readTime": 8
+    }
+  }
+}

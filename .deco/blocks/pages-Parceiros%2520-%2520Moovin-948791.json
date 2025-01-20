@@ -51,15 +51,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span>Com mais de 14 anos atuando no mercado digital, a Moovin é uma plataforma de e-commerce SaaS desenvolvida com extrema tecnologia pronta para oferecer um ecossistema de soluções para os lojistas virtuais. Inovação, escalabilidade e conversão de vendas estão no DNA da Moovin.</span></p><p></p><p><span>Não importa o tamanho do seu negócio, pequeno, médio ou grande porte ou seu segmento B2B e B2C, a Moovin atende diferentes perfis de empresas. O know-how da Moovin é converter vendas online através de uma experiência de omnichannel memorável para quem compra pela internet. Isso é o que move a Moovin!</span></p>",
-        "title": "<p><strong>Sobre a Moovin</strong></p><p><br></p>"
+        "description": "<p><span style=\"font-size: 15pt\">Com mais de 14 anos atuando no mercado digital, a Moovin é uma plataforma de e-commerce SaaS desenvolvida com extrema tecnologia pronta para oferecer um ecossistema de soluções para os lojistas virtuais. Inovação, escalabilidade e conversão de vendas estão no DNA da Moovin. Não importa o tamanho do seu negócio, pequeno, médio ou grande porte ou seu segmento B2B e B2C, a Moovin atende diferentes perfis de empresas. O know-how da Moovin é converter vendas online através de uma experiência de omnichannel memorável para quem compra pela internet. Isso é o que move a Moovin!</span></p>",
+        "title": "<h2><strong><span style=\"color: #0066e4; font-size: 25pt\">Sobre a Moovin</span></strong></h2><p><br></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Por que escolher a Moovin?</span></strong></h2>",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Por que escolher a Moovin?</span></strong></h3>",
         "description": "<p></p>"
       }
     },
@@ -121,8 +121,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Parceria</span></strong></h2>",
-        "description": "<p><span>A Moovin só trabalha com os melhores do mercado digital e nós fazemos parte dessa seleção de parceiros que possuem o selo de qualidade Moovin. Assim como eles, somos focados em resultados e oferecemos soluções personalizadas para potencializar o seu negócio na internet.&nbsp;</span></p><p><strong><br><span>O time Wave está preparado para entregar novas formas de atendimento, acompanhamento comercial e de projetos, além de outros serviços personalizados para alavancar suas vendas online.<br><br></span>Somos o parceiro certo para o seu negócio! <span>Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e selecionados pela Moovin.</span></strong></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência parceira Moovin</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Moovin só trabalha com os melhores do mercado digital e nós fazemos parte dessa seleção de parceiros que possuem o selo de qualidade Moovin. Assim como eles, somos focados em resultados e oferecemos soluções personalizadas para potencializar o seu negócio na internet.&nbsp;</span></p><p><strong><span style=\"font-size: 15pt\"><br>O time Wave está preparado para entregar novas formas de atendimento, acompanhamento comercial e de projetos, além de outros serviços personalizados para alavancar suas vendas online.<br><br>Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e selecionados pela Moovin.</span></strong></p>"
       }
     },
     {
@@ -192,8 +192,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: NaNpt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: NaNpt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: NaNpt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: NaNpt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: NaNpt\">Junte-se à onda!</span></p>"
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
       }
     },
     {
