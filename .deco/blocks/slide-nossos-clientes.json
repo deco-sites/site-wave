@@ -1,0 +1,48 @@
+{
+  "__resolveType": "site/sections/Content/SlidewithContent.tsx",
+  "cta": {
+    "href": "/cases",
+    "label": "Conheça os nossos cases."
+  },
+  "title": "<p>Clientes que confiam em nosso trabalho.</p>",
+  "hasImage": [
+    {
+      "image": "https://data.decoassets.com/site-wave/c4c391fc-ebce-45fb-947a-934ec7d189fb/friopecas.png"
+    },
+    {
+      "image": "https://data.decoassets.com/site-wave/f28c7bac-ff2b-46ff-ad9f-66c38e4f8241/gremio-logo.png"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
+    },
+    {
+      "image": "https://data.decoassets.com/site-wave/1bcf6b0e-4959-481e-905f-d692c22309b8/arezzo.png"
+    },
+    {
+      "image": "https://data.decoassets.com/site-wave/2c13bce3-d7eb-4ee6-9f6b-175e533faa7a/dufrio.png"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83"
+    },
+    {
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d",
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70"
+    },
+    {
+      "image": "https://data.decoassets.com/site-wave/05b7f551-7a57-4dde-a70f-a971d53277c3/hocks.png"
+    },
+    {
+      "image": "https://data.decoassets.com/site-wave/402751c9-315e-41e8-9a37-221eed91c4e0/truesource.png"
+    },
+    {
+      "image": "https://data.decoassets.com/site-wave/a41688e0-c91d-4fcd-bd5b-c792d634bd7e/cookeletroraro.png"
+    },
+    {
+      "image": "https://data.decoassets.com/site-wave/35bd708e-df49-4557-8a67-dca9bd3a0437/ramarim.png"
+    }
+  ],
+  "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
+  "isEmptyBrand": true
+}

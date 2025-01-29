@@ -1,0 +1,9 @@
+{
+  "name": "collections/blog/authors/65cdffe1b7df",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Isadora Daudt",
+    "avatar": "https://data.decoassets.com/site-wave/d39cc2df-d8f5-4617-9403-8ea1a19102f7/isadora-daudt-autora.png",
+    "jobTitle": "Apaixonada por marketing e redação. Graduanda em administração na Universidade Federal do Rio Grande do Sul e entusiasta da boa comunicação e da troca de ideias e experiências."
+  }
+}

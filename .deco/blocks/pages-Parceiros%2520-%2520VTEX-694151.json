@@ -63,43 +63,43 @@
         "services": [
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/2854b327-e87f-4fe3-8100-c8f5750aebaf/user-switch-(1).png",
             "title": "Omnichannel:",
             "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra"
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/acfec21a-51b0-44e0-afc9-425805999271/tag.png",
             "paragraph": "gerencie suas estratégias de venda e use táticas avançadas de preço, baseadas nas suas próprias regras de segmentação.",
             "title": "Motor de preços avançado:"
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/06e314a5-3af0-481a-b053-f3dc92502cbb/rows-plus-bottom-(1).png",
             "paragraph": "aproveite as vantagens de um Gerenciador de Produtos nativo, pronto para atender necessidades complexas de B2C, B2B e marketplace.",
             "title": "Múltiplos catálogos e estoques:"
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/09e34806-48c6-46fc-b1b5-0a32e25ac91d/globe-stand.png",
             "title": "Múltiplas línguas e moedas:",
             "paragraph": "internacionalize seus negócios com frentes de loja para diferentes línguas e gerencie moedas e condições de pagamento locais com mais facilidade."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/832ad6d3-1e10-477c-8094-b8dfe6767299/browsers-(1).png",
             "title": "Sellers e marketplaces nativos:",
             "paragraph": "toda loja VTEX já nasce pronta para se tornar um marketplace ou um seller de outros sites VTEX."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/66d23f47-797f-4f76-8893-9177c2028844/coin-vertical-(1).png",
             "title": "Motor de promoções unificado:",
             "paragraph": "crie promoções para todos os canais de uma vez ou selecione aqueles que vão ter descontos especiais."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/d0e6f840-f3b5-4b84-9a2f-8ba99148b94c/cardholder-(1).png",
             "title": "Múltiplos pagamentos:",
             "paragraph": "use nossas integrações nativas para se conectar aos principais provedores e permitir múltiplos pagamentos em uma única compra."
           }
@@ -153,19 +153,19 @@
         "services": [
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/f3029e02-cab9-4511-a6b5-cfb9f57d8858/vtex2.png",
             "title": "VTEX Express:",
             "paragraph": "Desenvolvemos um formato único, exclusivo da Wave Commerce, e em até 10 dias úteis entregamos o site pronto para o cliente. O VTEX Express consiste em um site em VTEX IO, porém, será feito de forma padronizada e com modelos pré-prontos."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/882773e7-2ae4-4897-a663-70649924359e/swap-(1).png",
             "paragraph": "Desenvolvemos migração para a última tecnologia de VTEX (IO), independentemente da plataforma do cliente. Quando fazemos a migração, importamos todos os dados do site antigo, a fim de não perdermos relevância.",
             "title": "Migração Para VTEX:"
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/88065612-0931-4635-a094-f76e47e85895/bounding-box.png",
             "paragraph": "É um projeto desenhado 100% conforme a vontade do cliente. Desenvolvemos tanto e-commerce quanto marketplace (B2C/B2B), com toda a estruturação de layout personalizada para desktop e mobile. Essa estrutura contém: uma árvore de categorias com SEO, configuração de todas as ferramentas utilizadas, configuração dos métodos de pagamento, desenvolvimento do checkout e textos institucionais obrigatórios visando o SEO do site.",
             "title": "Projeto Personalizado:"
           }
@@ -221,31 +221,31 @@
         "services": [
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/adbb32a6-7945-415b-b899-e7b0a0f4a3be/tree-structure-(1).png",
             "title": "Estruturação de E-commerce:",
             "paragraph": "Layout personalizado com desenvolvimento e codificação, Menu, filtros e categorias, Cadastro de produtos, Descrição de produtos, Páginas institucionais, Precificação de produtos, Integrações, Suporte e evolução do e-commerce."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/94e75136-7be9-4c62-8cfb-b63fc977e62e/chart-line-up-(1).png",
             "title": "Performance:",
             "paragraph": "SEO, UX e UI, Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads, Tagueamento de site, Ferramentas para conversão."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/8a082c00-519f-4efe-9ae2-295c04004c53/list-magnifying-glass-(1).png",
             "title": "Conteúdo:",
             "paragraph": "Criação de persona, Funil de marketing, Calendário de marketing, Blog e e-book, E-mail marketing."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/1ccd622d-34ed-4dfd-8b10-788ab6e681b7/paint-brush-(1).png",
             "title": "Criativo:",
             "paragraph": "Banners, Cards para redes sociais, Criação de Layout personalizado."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/832ad6d3-1e10-477c-8094-b8dfe6767299/browsers-(1).png",
             "title": "Marketplace:",
             "paragraph": "Integração e Performance, Criação de anúncios, Análise e desempenho, Suporte e evolução."
           }

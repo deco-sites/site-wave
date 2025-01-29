@@ -33,9 +33,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Start Global Goods inaugura e-commerce na Shopify US</span></h2>",
         "description": "<p><span style=\"font-size: 15pt\">A marca de suplementos valoriza os ingredientes naturais e a formulação limpa, sem abrir mão de qualidade e sabor.<br>A Start Global Goods é uma empresa cuja missão é levar até as pessoas os melhores produtos do mundo. Possuem uma gama de artigos diversificados que se adequam em diferentes áreas da vida, contando com produtos de beleza e cuidados pessoais, joias, além de itens para pets.</span></p><p></p><p><span style=\"font-size: 15pt\">A empresa atua nos Estados Unidos, vendendo produtos da melhor qualidade para o mercado americano, tendo como destaque a manteiga de cacau da Naturavene, que é 100% fabricada com produtos brasileiros.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -51,21 +65,21 @@
                 {
                   "titleColor": "primary",
                   "title": "Estruturação de e-commerce",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/26f5d696-46bc-4725-ad3f-c4c2efc208d1/paint-brush.png",
                   "title": "Criação e Design"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/d12025a7-6def-4c83-8fde-f444d3fd7b3c/suporte-evolucao.png",
                   "title": "Performance"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/ccdab28c-a4d7-44eb-af04-88da06e05ffb/airplane-tilt.png",
                   "title": "Marketplace nos EUA"
                 }
               ]
@@ -97,8 +111,22 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Institutionals/Video.tsx",
         "video": "https://www.youtube.com/embed/SE3gu5ujoTY?si=t8IvxWVVGhpOmRqP"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {

@@ -36,7 +36,7 @@
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
           ],
-          "title": "<p><strong>Agência de E-commerce:</strong><br></p>",
+          "title": "Agência de E-commerce: ",
           "hasImage": [
             {
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
@@ -48,8 +48,7 @@
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
             }
           ],
-          "subTitle": "<p>Quando se trata de<strong>&nbsp;e-commerce</strong> e<strong> marketplace</strong>, somos reconhecidos como&nbsp;<strong>autoridade no mercado.</strong></p>",
-          "content": "<h2 style=\"text-align: start\">somos a melhor agência<br>de performance<br>do Brasil</h2>"
+          "subTitle": "Somos a melhor agência de performance do Brasil"
         },
         "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
         "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
@@ -102,55 +101,7 @@
       }
     },
     {
-      "__resolveType": "site/sections/Content/SlidewithContent.tsx",
-      "cta": {
-        "href": "/cases",
-        "label": "Conheça os nossos cases."
-      },
-      "title": "<p>Clientes que confiam em nosso trabalho.</p>",
-      "hasImage": [
-        {
-          "image": "https://data.decoassets.com/site-wave/f28c7bac-ff2b-46ff-ad9f-66c38e4f8241/gremio-logo.png"
-        },
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
-        },
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/05b7f551-7a57-4dde-a70f-a971d53277c3/hocks.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/402751c9-315e-41e8-9a37-221eed91c4e0/truesource.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/a41688e0-c91d-4fcd-bd5b-c792d634bd7e/cookeletroraro.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/35bd708e-df49-4557-8a67-dca9bd3a0437/ramarim.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/3e781fe9-40e1-442b-ad4e-a300f0ef44c1/sexshop.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/2c13bce3-d7eb-4ee6-9f6b-175e533faa7a/dufrio.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/1bcf6b0e-4959-481e-905f-d692c22309b8/arezzo.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/c4c391fc-ebce-45fb-947a-934ec7d189fb/friopecas.png"
-        }
-      ],
-      "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
-      "isEmptyBrand": true
+      "__resolveType": "slide-nossos-clientes"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -254,6 +205,14 @@
           },
           "content": "Fulfillment",
           "image": "https://data.decoassets.com/site-wave/33b1a9c3-6f5c-40ee-a97c-b6c3e8ad57ad/fulfillment-icon.png"
+        },
+        {
+          "button": {
+            "label": "saiba mais",
+            "link": "/fulfillment"
+          },
+          "image": "https://data.decoassets.com/site-wave/33b1a9c3-6f5c-40ee-a97c-b6c3e8ad57ad/fulfillment-icon.png",
+          "content": "CRM"
         }
       ],
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/02a68dbd-6d13-45c6-8020-5499d0cfc09b",
@@ -320,29 +279,41 @@
           "isEmptyBrand": false
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c507bcb2-2214-4581-af26-b3f292ef08c3",
-          "title": "Sex Shop Atacadão",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d5cc2434-0868-4b7a-8758-4192a74563a6",
+          "title": "Dog.u",
           "isEmptyBrand": true,
-          "link": "/sex-shop-atacadao"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5f02c222-cfd7-44b1-8d19-0903608be3a4",
-          "title": "Start Global Goods",
-          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "isEmptyBrand": true,
-          "link": "/start-global-goods"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e3011ea3-5181-4f39-8066-fb3380c8598e",
-          "title": "Casa e Casa",
-          "isEmptyBrand": true,
-          "link": "/casa-a-casa"
+          "link": "/dog.u"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a63c56c6-5798-438e-b599-3dcd51ed3fb6",
           "title": "Cook Eletroraro",
           "isEmptyBrand": true,
           "link": "/cook-eletroraro"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c507bcb2-2214-4581-af26-b3f292ef08c3",
+          "title": "Sex Shop Atacadão",
+          "isEmptyBrand": true,
+          "link": "/sex-shop-atacadao"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
+          "title": "O Escafandro",
+          "isEmptyBrand": true,
+          "link": "/escafandro"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5f02c222-cfd7-44b1-8d19-0903608be3a4",
+          "title": "Start Global Goods",
+          "isEmptyBrand": true,
+          "link": "/start-global-goods",
+          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e3011ea3-5181-4f39-8066-fb3380c8598e",
+          "title": "Casa e Casa",
+          "isEmptyBrand": true,
+          "link": "/casa-a-casa"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2d530617-5ae2-48c0-86d0-a052074ed4bf",
@@ -357,22 +328,16 @@
           "link": "/banca-43"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
-          "title": "O Escafandro",
-          "isEmptyBrand": true,
-          "link": "/escafandro"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d5cc2434-0868-4b7a-8758-4192a74563a6",
-          "title": "Dog.u",
-          "isEmptyBrand": true,
-          "link": "/dog.u"
-        },
-        {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/78e60a0a-4517-428c-addf-8befeaf89e7e",
           "title": "Termolar",
           "isEmptyBrand": true,
           "link": "/termolar"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/78e60a0a-4517-428c-addf-8befeaf89e7e",
+          "isEmptyBrand": true,
+          "link": "/ramarim",
+          "title": "Ramarim"
         }
       ]
     },

@@ -1,0 +1,9 @@
+{
+  "name": "collections/blog/authors/c9344621badb",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Jacqueline Costa",
+    "jobTitle": "Jacqueline Costa é Gerente LatAm de Business Development na ShipSmart, especialista em marketing internacional e pós graduada em Gestão do Varejo, com foco na expansão internacional de e-commerces através da logística cross-border.",
+    "avatar": "https://data.decoassets.com/site-wave/d817023a-1954-46ef-ac5a-d23a3f335df1/jacqueline-costa.webp"
+  }
+}

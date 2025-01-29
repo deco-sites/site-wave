@@ -1,0 +1,24 @@
+{
+  "name": "collections/blog/posts/84da328c9023",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Denis Andrade",
+        "jobTitle": "Co-autor do livro \"E-commerce: uma via de mão dupla\" e do livro \"Gerente de E-commerce\". Profissional de Marketing Digital e E-commerce desde 2008. Fundador da mateada.com e Diretor de SEO da Wave Commerce.",
+        "avatar": "https://data.decoassets.com/site-wave/5a367f32-d930-4384-9e7b-b3387ae5ba71/denis-andrade.png"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Marketplace",
+        "slug": "marketplace"
+      }
+    ],
+    "extraProps": [],
+    "title": "ERP para marketplace",
+    "date": "2023-04-04",
+    "slug": "erp-para-marketplace",
+    "image": "https://data.decoassets.com/site-wave/651fef95-2537-4b49-8cc4-6f583600a90f/erp-para-marketplace.webp"
+  }
+}

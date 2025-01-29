@@ -33,9 +33,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
         "description": "<p><span style=\"color: rgb(253, 252, 252); font-size: 15pt\">No final de 2019, a Juliana Martins – idealizadora da BBDU – procurou a Wave com algumas queixas em relação a sua performance no digital. A má experiência com a agência anterior marcou a ausência de bons resultados e atendimento personalizado. Muitas estratégias foram aplicadas para garantir o sucesso de vendas da BBDU durante esse período: mídia paga – com Face e Google Ads -, e-mail marketing, criação de conteúdo para o blog, integração em marketplace, além de constantes melhorias no site. No entanto, enxergamos na cliente uma necessidade de fazer mais: buscamos entender o momento em que a BBDU estava passando, e como poderíamos contribuir para uma evolução visando não somente o faturamento, mas o crescimento da empresa como um todo. Dessa forma, esse case de sucesso simboliza o que, pra nós, é o mais importante: a parceria com nossos clientes. É um case feito a quatro mãos, como deve ser.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -51,31 +65,31 @@
                 {
                   "titleColor": "primary",
                   "title": "Planejamento",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/c2c38d71-7ad6-46d1-b778-42a8a60636af/strategy.png"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/8205320c-cc42-4cc8-8081-bf9c175f9f79/clock-user.png",
                   "title": "Mídia paga"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/19a5025e-c52f-4593-a393-49cc6c47cad5/envelope-open.png",
                   "title": "E-mail marketing"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
                   "title": "Marketplace"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/599c5fa6-c468-4e2a-bfdd-34f0c779b6a7/broadcast.png",
                   "title": "Cultura para o digital"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/8a64d360-29ec-4b47-959b-1503747da5cf/list-magnifying-glass.png",
                   "title": "Produção de conteúdo para blog"
                 }
               ]
@@ -99,9 +113,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Contribuição para a cultura Organizacional</span></h2>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Como todo bom empreendedor, a Ju conhece muito sobre o seu produto e seu público. No entanto, precisamos alertá-la para que todo esse conhecimento não fosse superior ao maior trunfo proporcionado pelo marketing digital: a análise de dados. A transformação digital acontece em vários eixos: clientes, concorrência, inovação e valor, mas, principalmente, dados. Ou seja, uma empresa somente pode ser considerada de fato digital quando se baseia em dados para as tomadas de decisão. E foi isso que a Ju começou a fazer.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -115,8 +143,22 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Institutionals/Video.tsx",
         "video": "https://www.youtube.com/embed/2rPRL6VFtRc?si=rDtQXor2iLxvEvdJ"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -130,9 +172,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h3><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Ingresso nos marketplaces</span></h3>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O mesmo ocorreu para o ingresso nos marketplaces. A melhor forma de entender se a persona da empresa está presente nesses canais é testando. E tem dado resultado: desde o primeiro mês de marketplace, a BBDU já aumentou a receita em 5 vezes. A projeção é que, até o mês de maio de 2021, consigamos chegar ao valor de faturamento de todo o ano de 2020.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -146,9 +202,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
         "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {

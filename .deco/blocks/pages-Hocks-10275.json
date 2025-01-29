@@ -33,9 +33,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><span style=\"color: #ffffff; font-size: 25pt\">Conheça as estratégias que impactaram nesse resultado</span><span style=\"color: #ffffff\"><br></span></h2>",
         "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A história da </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Hocks </span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">começou em 2002 quando Cristiano Senra, skatista e sócio-fundador, começou a desenvolver os produtos e, desde então, vem se consolidando como uma das maiores marcas de streetwear do mercado brasileiro. Atuando no segmento de vestuário e acessórios, a marca oferece produtos com materiais de alta qualidade e ótimo custo benefício para os consumidores.&nbsp; Inicialmente, as vendas eram feitas apenas B2B, atendendo lojistas do Rio Grande do Sul e atualmente está presente em vários estados do Brasil com mais de 500 pontos de vendas.</span></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Em 2019, perceberam a necessidade de criar novos produtos e </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">expandir as vendas</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para regiões onde a marca ainda não estava presente. Foi quando decidiram digitalizar a Hocks lançando um </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">e-commerce</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para trabalhar as vendas B2C com entrega para todos os lugares do Brasil.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -51,16 +65,16 @@
                 {
                   "titleColor": "primary",
                   "title": "Mídia Paga para E-commerce",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/8205320c-cc42-4cc8-8081-bf9c175f9f79/clock-user.png"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/19a5025e-c52f-4593-a393-49cc6c47cad5/envelope-open.png",
                   "title": "E-mail marketing"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/c9338cef-8917-4a0a-a701-ca9716a720af/pen-nib.png",
                   "title": "Criativos de Performance"
                 }
               ]
@@ -84,9 +98,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Crescimento exponencial da marca</span></h2>",
         "description": "<p><span style=\"font-size: 15pt\">Os resultados se mostraram promissores logo nos primeiros meses. O trabalho realizado pelo nosso time de profissionais, deu </span><strong><span style=\"font-size: 15pt\">maior ênfase para a marca frente ao mercado</span></strong><span style=\"font-size: 15pt\">, o que,&nbsp; consequentemente, aumentou gradativamente o faturamento do e-commerce, cumprindo com o propósito e expectativas do cliente. Ao longo de um ano e meio de um trabalho feito a quatro mãos, o resultado foi um </span><strong><span style=\"font-size: 15pt\">aumento de 300%</span></strong><span style=\"font-size: 15pt\"> em cima do faturamento que vinham realizando anteriormente. E hoje, a Hocks segue colhendo os resultados do crescimento das vendas online e da expansão da marca em regiões onde ainda não era conhecida.</span></p><p></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -99,9 +127,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h3><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Superando as expectativas na Black Friday</span></h3>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Durante a Black Friday de 2021 não foi diferente. O trabalho realizado pela equipe de especialistas da Wave levou a Hocks a um recorde de faturamento na data, com um crescimento de 68,45% a mais em relação ao mesmo período de 2020. Esses números foram obtidos através das estratégias traçadas em torno do mapeamento da curva ABC. A partir dessas informações, construímos campanhas em Google Ads, Meta e Pinterest Ads, com objetivo de aumentar o número de pedidos, com cupons de desconto, desconto via pix, os criativos com copy e ofertas bem definidas, além de e-mail marketing com ofertas atrativas que auxiliaram no aumento do valor total.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {

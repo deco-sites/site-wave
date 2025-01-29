@@ -34,7 +34,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {
@@ -49,7 +49,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {
@@ -63,9 +63,8 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2></h2><h2><span style=\"color: rgb(237, 237, 237); font-size: 14pt\"><br></span></h2>",
-        "description": "<p></p>"
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -79,7 +78,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {

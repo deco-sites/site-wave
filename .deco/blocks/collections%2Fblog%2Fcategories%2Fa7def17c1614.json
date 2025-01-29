@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/a7def17c1614",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Marketplace",
+    "slug": "marketplace"
+  }
+}

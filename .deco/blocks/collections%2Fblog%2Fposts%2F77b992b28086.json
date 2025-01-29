@@ -1,0 +1,28 @@
+{
+  "name": "collections/blog/posts/77b992b28086",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Denis Andrade",
+        "jobTitle": "Co-autor do livro \"E-commerce: uma via de mão dupla\" e do livro \"Gerente de E-commerce\". Profissional de Marketing Digital e E-commerce desde 2008. Fundador da mateada.com e Diretor de SEO da Wave Commerce.",
+        "avatar": "https://data.decoassets.com/site-wave/5a367f32-d930-4384-9e7b-b3387ae5ba71/denis-andrade.png"
+      }
+    ],
+    "categories": [
+      {
+        "name": "E-commerce",
+        "slug": "e-commerce"
+      }
+    ],
+    "extraProps": [],
+    "title": "Copyright: o que é, e qual a diferença entre ele e o Direito de Imagem para e-commerce?",
+    "date": "2024-01-25",
+    "slug": "copyright",
+    "image": "https://data.decoassets.com/site-wave/62ef67ef-6020-4069-85be-46caa1ce7686/copyright.webp",
+    "excerpt": "Há alguns fatores que precisam ser compreendidos para evitar problemas futuros no seu ecommerce. O Copyright e o Direito de Imagem são dois deles.",
+    "seo": {
+      "description": "Há alguns fatores que precisam ser compreendidos para evitar problemas futuros no seu ecommerce. O Copyright e o Direito de Imagem são dois deles."
+    }
+  }
+}

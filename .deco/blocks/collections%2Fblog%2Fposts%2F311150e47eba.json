@@ -1,0 +1,31 @@
+{
+  "name": "collections/blog/posts/311150e47eba",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Tiago Heineck",
+        "email": "tiago.heineck@wavecommerce.com.br",
+        "jobTitle": "Tiago Heineck, 22 anos, graduando em Publicidade e Propaganda pela UFRGS. Já trabalhei como copywriter e redator, tendo experiência em agências tradicionais e de marketing digital. Atualmente, trabalho com redação de conteúdo para SEO na Wave Commerce.",
+        "company": "Wave Commerce",
+        "avatar": "https://data.decoassets.com/site-wave/d674c4fe-d4eb-4b40-9adf-97f21915fe88/tiago.jpg"
+      }
+    ],
+    "categories": [
+      {
+        "name": "E-commerce",
+        "slug": "e-commerce"
+      }
+    ],
+    "extraProps": [],
+    "title": "UX e UI no E-commerce: Como Eles Aumentam Conversões",
+    "excerpt": "Vamos explorar o universo de UX e UI no e-commerce e descobrir como eles podem transformar seu negócio em uma máquina de vendas!",
+    "date": "2024-06-07",
+    "slug": "ux-e-ui-no-e-commerce",
+    "image": "https://data.decoassets.com/site-wave/4763870b-2575-47c5-a117-a41e11dd3b2e/ux-e-ui-no-ecommerce.webp",
+    "seo": {
+      "description": "Vamos explorar o universo de UX e UI no e-commerce e descobrir como eles podem transformar seu negócio em uma máquina de vendas!"
+    },
+    "readTime": 9
+  }
+}

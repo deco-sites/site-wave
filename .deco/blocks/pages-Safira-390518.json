@@ -34,7 +34,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {
@@ -49,7 +49,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {
@@ -58,6 +58,13 @@
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h3><strong><span style=\"color: rgb(0, 102, 227); font-size: 18pt\">Relato do cliente</span></strong></h3><p></p>",
         "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -72,7 +79,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {
@@ -80,6 +87,13 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/Video.tsx",
         "video": "https://www.youtube.com/embed/L6CmsrorL0Y?si=LRz_Smf0VuNivRC1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -94,7 +108,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {

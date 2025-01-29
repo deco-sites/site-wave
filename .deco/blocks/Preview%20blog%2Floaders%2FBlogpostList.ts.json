@@ -1,0 +1,10 @@
+{
+  "__resolveType": "blog/loaders/BlogpostList.ts",
+  "sortBy": "date_asc",
+  "page": 1,
+  "count": 10,
+  "slug": {
+    "__resolveType": "website/functions/requestToParam.ts",
+    "param": "slug"
+  }
+}

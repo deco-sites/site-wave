@@ -1,0 +1,9 @@
+{
+  "name": "collections/blog/authors/3f747c674c6e",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Denis Andrade",
+    "jobTitle": "Co-autor do livro \"E-commerce: uma via de mão dupla\" e do livro \"Gerente de E-commerce\". Profissional de Marketing Digital e E-commerce desde 2008. Fundador da mateada.com e Diretor de SEO da Wave Commerce.",
+    "avatar": "https://data.decoassets.com/site-wave/5a367f32-d930-4384-9e7b-b3387ae5ba71/denis-andrade.png"
+  }
+}

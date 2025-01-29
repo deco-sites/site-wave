@@ -33,9 +33,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O Escafandro iniciou suas atividades no e-commerce no final de 2021, lançado pelo ator Alex Morenno, vem ganhando espaço e notoriedade no mercado desde o início das atividades. Atuando no segmento de beachwear, a marca entrega peças sofisticadas e com uma excelente qualidade, além de várias opções de cores e modelagens.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -51,16 +65,16 @@
                 {
                   "titleColor": "primary",
                   "title": "Implementação e Estruturação do e-commerce",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/8a64d360-29ec-4b47-959b-1503747da5cf/list-magnifying-glass.png",
                   "title": "Descrição de Produtos"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
                   "title": "Cadastro na Plataforma"
                 }
               ]
@@ -93,6 +107,13 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/Video.tsx",
         "video": "https://www.youtube.com/embed/Xt9LmuKfpZM?si=kBlXouG9re3xEhq1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {

@@ -65,42 +65,40 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
-        "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
-        },
+        "brand": {},
         "services": [
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/56522826-a39f-417c-92c2-5978a8776b6d/codepen-logo.png",
             "title": "A deco.cx",
             "paragraph": "aproveita tecnologias de ponta, como renderização no lado do servidor e infraestrutura global de edge para garantir um desempenho rápido do website."
           },
           {
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/7218add3-dae6-4ae4-b329-b95ddb2cee49/gauge.png",
             "title": "Page Speeds imbatíveis:",
             "paragraph": "Ofereça experiências ultra rápidas que vão impulsionar o engajamento, reduzir o bounce rate e aumentar a taxa de conversão do seu e-commerce.",
             "titleColor": "primary"
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/5a0a79d2-843d-400c-9c3e-3679bcf58650/plugs.png",
             "title": "Deco.cx",
             "paragraph": "é integrada com VTEX, Magento, VNDA, Shopify, entre outras grandes plataformas do mercado."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/f2d7701a-19c0-4813-bb91-d783b2c32f2e/timer.png",
             "title": "Implementação varia de 2 semanas a 3 meses."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/a4ce132d-de6c-4259-a7d1-d62d734fae39/code.png",
             "title": "Com uma tecnologia baseada em Deno",
             "paragraph": "Twind e Fresh. Deno é um runtime seguro de JavaScript e TypeScript, enquanto Twind é uma biblioteca CSS-in- JS que permite a criação de estilos otimizados para a web. Fresh é um moderno framework web server-side construído para Deno. Juntas, essas tecnologias fornecem uma base poderosa e segura para a criação de lojas virtuais de alto desempenho e escaláveis."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/0497c78d-143a-4efc-88a9-2c6b5e685a2a/lightbulb-filament.png",
             "title": "A deco.cx",
             "paragraph": "não substitui sua plataforma de e-commerce atual. Em vez disso, ela funciona como uma solução frontend headless que se integra perfeitamente à sua plataforma existente, melhorando seu desempenho e experiência do usuário."
           }
@@ -141,37 +139,35 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
-        "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
-        },
+        "brand": {},
         "services": [
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Estruturação de E-commerce:",
             "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/d12025a7-6def-4c83-8fde-f444d3fd7b3c/suporte-evolucao.png",
             "title": "Performance:",
             "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/8a64d360-29ec-4b47-959b-1503747da5cf/list-magnifying-glass.png",
             "title": "Conteúdo:",
             "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/26f5d696-46bc-4725-ad3f-c4c2efc208d1/paint-brush.png",
             "title": "Criativo:",
             "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
           },
           {
             "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
             "title": "Marketplace:",
             "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
           }

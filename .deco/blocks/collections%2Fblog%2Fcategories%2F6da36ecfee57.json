@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/6da36ecfee57",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Outros",
+    "slug": "outros"
+  }
+}

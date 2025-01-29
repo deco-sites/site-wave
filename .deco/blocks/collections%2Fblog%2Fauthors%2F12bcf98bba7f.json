@@ -1,0 +1,9 @@
+{
+  "name": "collections/blog/authors/12bcf98bba7f",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Victoria Bortolini",
+    "jobTitle": "Formada em Marketing e apaixonada por comunicação. Atuo na Wave Commerce como Analista de Marketing & Produtora de Conteúdo Web para E-mail Marketing, Blog e Materiais Ricos",
+    "avatar": "https://data.decoassets.com/site-wave/2d7423b0-3afe-4015-9b71-f581120a8fd8/vitoria-bortolini.png"
+  }
+}

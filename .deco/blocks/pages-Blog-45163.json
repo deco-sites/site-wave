@@ -27,12 +27,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Blog/BlogPosts.tsx",
-        "posts": {
-          "__resolveType": "blog/loaders/BlogpostList.ts",
-          "count": 6
-        },
         "pagination": {
-          "perPage": 10
+          "page": 1,
+          "perPage": 6
+        },
+        "cta": {
+          "text": "teste"
+        },
+        "posts": {
+          "__resolveType": "Preview blog/loaders/BlogpostList.ts"
         }
       }
     },

@@ -1,0 +1,9 @@
+{
+  "name": "collections/blog/authors/80d6e35cea2d",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Bruno Torres",
+    "avatar": "https://data.decoassets.com/site-wave/b80fbb2f-fd0b-46ab-8a3a-f935d8f026da/bruno-torres.webp",
+    "jobTitle": "Formado em Publicidade e Propaganda, possuo experiência em diversas áreas da comunicação. Na Wave atuo como Analista de E-commerce com foco na estruturação de sites e na experiência do cliente."
+  }
+}

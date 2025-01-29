@@ -1,0 +1,30 @@
+{
+  "name": "collections/blog/posts/47c01b7a995a",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Tiago Heineck",
+        "email": "tiago.heineck@wavecommerce.com.br",
+        "jobTitle": "Tiago Heineck, 22 anos, graduando em Publicidade e Propaganda pela UFRGS. Já trabalhei como copywriter e redator, tendo experiência em agências tradicionais e de marketing digital. Atualmente, trabalho com redação de conteúdo para SEO na Wave Commerce.",
+        "company": "Wave Commerce",
+        "avatar": "https://data.decoassets.com/site-wave/d674c4fe-d4eb-4b40-9adf-97f21915fe88/tiago.jpg"
+      }
+    ],
+    "categories": [
+      {
+        "name": "E-commerce",
+        "slug": "e-commerce"
+      }
+    ],
+    "extraProps": [],
+    "title": "Entendendo a Cyber Monday: Data, Significado e Estratégias para seu E-commerce!",
+    "date": "2023-11-09",
+    "slug": "cyber-monday/",
+    "image": "https://data.decoassets.com/site-wave/8704439f-2e86-4520-b2bf-b19a90fb1e08/cyber-monday.webp",
+    "excerpt": "A Cyber Monday no Brasil se tornou uma tradição para os consumidores online em busca de ofertas após a Black Friday. Ela permite que os consumidores continuem a encontrar descontos atrativos em uma variedade de produtos, desde eletrônicos até moda e muito mais, tudo sem sair de casa.",
+    "seo": {
+      "description": "A Cyber Monday no Brasil se tornou uma tradição para os consumidores online em busca de ofertas após a Black Friday. Ela permite que os consumidores continuem a encontrar descontos atrativos em uma variedade de produtos, desde eletrônicos até moda e muito mais, tudo sem sair de casa."
+    }
+  }
+}

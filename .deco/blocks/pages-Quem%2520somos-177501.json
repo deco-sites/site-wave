@@ -50,8 +50,8 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/ImageWithText.tsx",
         "images": {
-          "ImageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/b65bd23c-2bf5-4b5d-94c2-2ce45d44b042/seals.png",
-          "ImageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c5a87257-3117-4df7-8c36-522ab9fc0d86/image-1.png"
+          "ImageDesktop": "https://data.decoassets.com/site-wave/25e8cdf5-7910-474b-bb86-13c842e8342b/selos.png",
+          "ImageMobile": "https://data.decoassets.com/site-wave/25e8cdf5-7910-474b-bb86-13c842e8342b/selos.png"
         },
         "text": "<h3><strong><span style=\"color: rgb(254, 251, 251); font-size: 20pt\">Um time qualificado</span></strong></h3><p></p><p><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">Oferecemos uma rede de profissionais treinados e certificados nas principais soluções do mercado, como: </span><strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">VTEX IO, Linx, Shopify, Google Ads, RDStation,</span></strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\"> e muitas outras.</span></p>",
         "reverse": true
@@ -68,8 +68,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/GptwSection.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">4x</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> Great Place to Work</span></strong></h3>",
-        "gptwImage": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6583b288-1001-4b76-8043-1bd7ec25c4a7/gptw.png",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">5x</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> Great Place to Work</span></strong></h3>",
+        "gptwImage": "https://data.decoassets.com/site-wave/505b24a0-bf8f-4772-9b7f-ec7ddda97d75/selo-gptw.png",
         "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 16pt\">And right there you got an almighty cloud. Clouds are free. They just float around the sky all day and have fun. </span><strong><span style=\"color: rgb(0, 102, 228); font-size: 16pt\">This is truly an almighty mountain.</span></strong></p>",
         "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/caa00502-8cab-42e2-a2c1-b364f6f0736c/Rectangle-157.png"
       }
@@ -134,37 +134,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Content/SlidewithContent.tsx",
-        "cta": {
-          "href": "/parceiros",
-          "label": "Confira nossos Parceiros"
-        },
-        "title": "Conheça os nossos parceiros.",
-        "hasImage": [
-          {
-            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/322d78de-27e3-4dcb-998d-0b362b922d85"
-          },
-          {
-            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/7f5474b1-7e91-4647-af3e-7f129fd12320"
-          },
-          {
-            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70",
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f597bbb0-960d-49c7-adde-bbdbaf4be67d"
-          },
-          {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/64db0d6f-785b-4f5d-a8f7-f151dee7d388"
-          },
-          {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1ebe0e4e-8cb0-42e9-86b8-a3f9a7546b73"
-          },
-          {
-            "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b36c293c-17dc-4bc4-a234-68a8a9cc7393"
-          }
-        ],
-        "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
-        "isEmptyBrand": true
+        "__resolveType": "slide-nossos-parceiros"
       }
     },
     {

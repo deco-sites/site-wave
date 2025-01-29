@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/4496c5c7dd2c",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Isadora Etchegaray",
+    "avatar": "https://data.decoassets.com/site-wave/dbca24a8-161b-49d2-a192-aefe941e4c0b/isadora-etchegaray.png"
+  }
+}

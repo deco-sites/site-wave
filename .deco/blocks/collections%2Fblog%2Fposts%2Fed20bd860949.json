@@ -1,0 +1,12 @@
+{
+  "name": "collections/blog/posts/ed20bd860949",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "__resolveType": "blog/loaders/Blogpost.ts",
+    "post": {
+      "authors": [],
+      "categories": [],
+      "extraProps": []
+    }
+  }
+}

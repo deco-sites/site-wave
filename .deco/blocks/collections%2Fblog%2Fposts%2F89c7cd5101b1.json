@@ -1,0 +1,31 @@
+{
+  "name": "collections/blog/posts/89c7cd5101b1",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Tiago Heineck",
+        "email": "tiago.heineck@wavecommerce.com.br",
+        "jobTitle": "Tiago Heineck, 22 anos, graduando em Publicidade e Propaganda pela UFRGS. Já trabalhei como copywriter e redator, tendo experiência em agências tradicionais e de marketing digital. Atualmente, trabalho com redação de conteúdo para SEO na Wave Commerce.",
+        "company": "Wave Commerce",
+        "avatar": "https://data.decoassets.com/site-wave/d674c4fe-d4eb-4b40-9adf-97f21915fe88/tiago.jpg"
+      }
+    ],
+    "categories": [
+      {
+        "name": "E-commerce",
+        "slug": "e-commerce"
+      }
+    ],
+    "extraProps": [],
+    "date": "2023-12-27",
+    "slug": "acessibilidade-digital/",
+    "title": "O Papel da Acessibilidade Digital no E-commerce",
+    "readTime": 10,
+    "image": "https://data.decoassets.com/site-wave/dbad09f9-cad4-4e93-b869-2c2b998d1cae/acessibilidade-digital.webp",
+    "excerpt": "Neste blog, queremos explorar a importância de tornar seu E-commerce acessível para pessoas com diversas necessidades, que vão muito além de deficiências físicas.",
+    "seo": {
+      "description": "Neste blog, queremos explorar a importância de tornar seu E-commerce acessível para pessoas com diversas necessidades, que vão muito além de deficiências físicas."
+    }
+  }
+}

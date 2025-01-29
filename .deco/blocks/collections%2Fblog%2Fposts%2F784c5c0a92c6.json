@@ -1,0 +1,30 @@
+{
+  "name": "collections/blog/posts/784c5c0a92c6",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Victoria Bortolini",
+        "jobTitle": "Formada em Marketing e apaixonada por comunicação. Atuo na Wave Commerce como Analista de Marketing & Produtora de Conteúdo Web para E-mail Marketing, Blog e Materiais Ricos",
+        "avatar": "https://data.decoassets.com/site-wave/2d7423b0-3afe-4015-9b71-f581120a8fd8/vitoria-bortolini.png"
+      }
+    ],
+    "categories": [
+      {
+        "name": "E-commerce",
+        "slug": "e-commerce"
+      }
+    ],
+    "extraProps": [],
+    "image": "https://data.decoassets.com/site-wave/873ad9a0-77f9-41dc-aa28-2e85f8f3c77e/comercio-online-cresceu-durante-a-crise.webp",
+    "title": "Comércio online cresceu durante a crise",
+    "seo": {
+      "title": "Comércio online cresceu durante a crise",
+      "description": "Pesquisa da Comscore registra que visitas no comércio online cresceu durante a crise. Pesquisa analisou o consumo de mídia recente."
+    },
+    "excerpt": "Pesquisa da Comscore registra que visitas no comércio online cresceu durante a crise. Pesquisa analisou o consumo de mídia recente.",
+    "date": "2020-04-08",
+    "slug": "comercio-online-cresceu-durante-a-crise",
+    "content": "<p>Uma pesquisa da <a target=\"_blank\" rel=\"noopener\" href=\"https://www.comscore.com/\"><strong>Comscore</strong></a> sobre o <a target=\"_blank\" rel=\"noopener\" href=\"https://www.comscore.com/por/Insights/Blog/Consumo-de-midia-durante-a-pandemia-de-coronavirus\"><strong>consumo de mídia durante a crise</strong></a>&nbsp;aponta que o <strong>número de visitas no comércio online cresceu durante a crise</strong>. A pesquisa registrou aumento recorde de visitas em sites de varejo no mês de março. Esse período corresponde ao mês em que diversos países adotaram como medida de contenção do vírus, o isolamento social.</p><p></p><p>O total de visitas dos sites Amazon, Walmart e Target na semana de 9 a 15 de março chegou a <strong>779 milhões.</strong> O<strong>maior número de visitas de qualquer semana em 2020.</strong> Segundo a pesquisa, houve um aumento de 3,8% em relação à semana anterior. O segundo maior aumento de uma semana para outra, que na semana de 24 de fevereiro a 1 de março registrou aumento de 4,7%.</p><p></p><p><img src=\"https://www.wavecommerce.com.br/blog/wp-content/uploads/2020/04/aumento-no-numero-de-visitas-do-ecommerce-wavecommerce.png\" alt=\"Gráfico que aponta que o número de visitas no ecommerce cresceu em março\"></p><p>Gráfico que demonstra que o número de visitas no comércio online cresceu em fevereiro e março.</p><p></p><h2><strong>Consumo de mídia durante a crise</strong></h2><p>A pesquisa ainda analisou o consumo de outros tipos de mídia e percebe-se que há uma mudança no comportamento do usuário. Sites do governo aumentaram o número de visitas em 425% na semana de 9 a 15 de março em relação a semana de 6 a 12 de janeiro. Considerando apenas os acessos por dispositivos móveis, o aumento foi de 671% para o mesmo período.</p><p></p><p>Além desses, o levantamento inclui dados sobre o número de visitas em portais de notícias, os termos de busca no Google, o número de acessos a um mapa interativo que mostra em tempo real a disseminação do vírus, sites de viagens e também a audiência de televisão na cobertura. Como esperado, o único segmento que obteve queda foi o de sites de viagens. A queda foi de 7,3% na semana de 24 de fevereiro a 1 de março e de 4,8% na semana de 2 a 8 de março.</p><p></p><p>No Brasil, outros estudos já apontam que alguns <a target=\"_blank\" rel=\"noopener\" href=\"https://www.ecommercebrasil.com.br/noticias/levantamento-aponta-segmentos-e-commerce-crescem-coronavirus/\">segmentos do mercado estão crescendo durante a crise no e-commerce.</a> São os produtos ou segmentos de brinquedos, supermercados, artigos esportivos, games online, farmácias e claro, os aplicativos de entregas.</p>"
+  }
+}

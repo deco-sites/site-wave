@@ -1,0 +1,26 @@
+{
+  "name": "collections/blog/posts/3c8e6bf1d5e0",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Denis Andrade",
+        "jobTitle": "Co-autor do livro \"E-commerce: uma via de mão dupla\" e do livro \"Gerente de E-commerce\". Profissional de Marketing Digital e E-commerce desde 2008. Fundador da mateada.com e Diretor de SEO da Wave Commerce.",
+        "avatar": "https://data.decoassets.com/site-wave/5a367f32-d930-4384-9e7b-b3387ae5ba71/denis-andrade.png"
+      }
+    ],
+    "categories": [
+      {
+        "name": "E-commerce",
+        "slug": "e-commerce"
+      }
+    ],
+    "extraProps": [],
+    "title": "Como tirar boas fotos para e-commerce?",
+    "readTime": 6,
+    "date": "2023-03-21",
+    "slug": "como-tirar-boas-fotos-para-e-commerce/",
+    "excerpt": " É fundamental que as fotos dos seus produtos sejam as grandes impulsionadoras de vendas.  Para saber como isso é possível, continue a leitura desse artigo e acompanhe as nossas dicas para tirar boas fotos para e-commerce.",
+    "image": "https://data.decoassets.com/site-wave/1b6e86fb-608e-4c18-b55a-facfdfca38d7/como-tirar-boas-fotos-para-e-commerce.webp"
+  }
+}

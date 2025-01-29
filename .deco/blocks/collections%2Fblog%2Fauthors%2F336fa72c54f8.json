@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/authors/336fa72c54f8",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Lucas Alves",
+    "jobTitle": "Profissional de Marketing que trabalha com e-commerce desde 2014. Com vivência em operação em e-commerce, plataformas e agência."
+  }
+}

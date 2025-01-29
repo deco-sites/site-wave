@@ -33,9 +33,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A história da&nbsp;</span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Casa e Casa</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">&nbsp;é de longa data, a empresa iniciou em 1985 e vem se solidificando no mercado desde então. Atuando no segmento de&nbsp;</span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Casa</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">,&nbsp;</span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Móveis&nbsp;</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">e&nbsp;</span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Decoração</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferece variedades de produtos da melhor qualidade para seus clientes. Atualmente, possui 6 lojas físicas, além de atuar nos&nbsp;</span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">maiores marketplaces</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">&nbsp;do Brasil, como Americanas, Mercado Livre, Magalu, Via, entre outros.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -51,11 +65,11 @@
                 {
                   "titleColor": "primary",
                   "title": "Performance em Marketplace",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/d12025a7-6def-4c83-8fde-f444d3fd7b3c/suporte-evolucao.png"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/810a9a82-a177-4d6d-b2d8-87b8bbbfc06d/headset.png",
                   "title": "Atendimento Personalizado"
                 }
               ]
@@ -79,9 +93,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Estratégia de sucesso</span></h2>",
         "description": "<p><span style=\"font-size: 15pt\">Durante o mês do maior evento de vendas do comércio online, a Black Friday, o time de profissionais da Wave conseguiu alcançar resultados incríveis de faturamento, chegando a</span><strong><span style=\"font-size: 15pt\">&nbsp;R$ 1,4 milhão em vendas</span></strong><span style=\"font-size: 15pt\">, através de um trabalho concentrado em estratégia de estoque, preço, frete e publicidade paga em produtos chaves dentro de canais como Mercado Livre, Americanas, Submarino, Shoptime e Magazine Luiza. O conjunto de estratégias de performance orgânica bem estruturada e o investimento assertivo aplicado em advertising nas contas de Casa e Casa, foram essenciais para escalar as vendas durante a Black Friday. Outro fator fundamental para triplicar a receita no mês de novembro foi o alinhamento entre a equipe de profissionais da Wave em relação às expectativas do lojista, além do trabalho executado em conjunto, entre a agência e o cliente.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {

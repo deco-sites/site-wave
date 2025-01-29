@@ -16,40 +16,40 @@
         "label": "Parceiros",
         "brands": [
           {
+            "image": "https://data.decoassets.com/site-wave/4bae1587-7153-4f01-bd5c-50d2d74929cf/logo-vtex.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/8e3bac54-849e-437a-8326-4fe80d0f505a/logo-shopify.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/29843b8e-4d3f-4bc5-9ae4-576a365342f4/logo-wake.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/ab67cc31-9349-4e30-9b15-b3fb1adea4a4/logo-amazonspn.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/3f019ebe-3e79-4117-9fb8-28e10c0e0ff3/logo-deco.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/e7d605f6-68bb-42b6-945e-18e36185926a/logo-linx.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/c9d1c325-a694-4e45-a7b7-67f30be0c20b/logo-cws.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/ca3b0338-411b-45b2-a8df-7e58a8e49384/logo-conectala.png"
+          },
+          {
             "image": "https://data.decoassets.com/site-wave/c7346c51-82f3-4ace-bed7-43a0e6a7d4b0/logo-moovin.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/d4d72c61-66fd-47e8-8b8a-4a6d58004e8d/logo-mailbiz.png"
           },
           {
             "image": "https://data.decoassets.com/site-wave/c195c104-dfc2-49b9-b7ec-8f5bd1c2dffa/logo-dinamize.png"
           },
           {
             "image": "https://data.decoassets.com/site-wave/b4366ad7-6d33-466f-bd43-f8398480efa9/logo-appmax.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/d4d72c61-66fd-47e8-8b8a-4a6d58004e8d/logo-mailbiz.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/ca3b0338-411b-45b2-a8df-7e58a8e49384/logo-conectala.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/c9d1c325-a694-4e45-a7b7-67f30be0c20b/logo-cws.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/ab67cc31-9349-4e30-9b15-b3fb1adea4a4/logo-amazonspn.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/e7d605f6-68bb-42b6-945e-18e36185926a/logo-linx.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/8e3bac54-849e-437a-8326-4fe80d0f505a/logo-shopify.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/3f019ebe-3e79-4117-9fb8-28e10c0e0ff3/logo-deco.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/4bae1587-7153-4f01-bd5c-50d2d74929cf/logo-vtex.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/29843b8e-4d3f-4bc5-9ae4-576a365342f4/logo-wake.png"
           }
         ]
       }
@@ -123,7 +123,7 @@
           "link": "/amazon",
           "label": "Saiba mais"
         },
-        "title": "Amazon spn"
+        "title": "Amazon SPN"
       }
     },
     {

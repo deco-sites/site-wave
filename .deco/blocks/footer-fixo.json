@@ -3,29 +3,7 @@
     "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f789f28-819e-4ddb-bc12-1b016e80917b",
     "description": "O estilo pensado para você"
   },
-  "local": [
-    {
-      "link": "https://www.google.com/maps/place/Av.+Alberto+Bins,+789+-+7%C2%B0+andar+-+Independ%C3%AAncia,+Porto+Alegre+-+RS,+90030-143/data=!4m2!3m1!1s0x951979a8874b21a1:0xbcfd90d7577cda27?sa=X&ved=1t:242&ictx=111",
-      "title": "Porto Alegre - BR",
-      "isIcon": true,
-      "content": "Av. Alberto Bins, 789 - 7° andar - Bairro Floresta - Porto Alegre/RS",
-      "Localtitle": "Porto Alegre - BR"
-    },
-    {
-      "link": "https://www.google.com/maps/place/4+-+Av.+Engenheiro+Lu%C3%ADs+Carlos+Berrini,+550+-+Cidade+Mon%C3%A7%C3%B5es,+S%C3%A3o+Paulo+-+SP,+04571-000/@-23.6016671,-46.693922,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce5735dc7e5d85:0x30a5a6adf9858f22!8m2!3d-23.601672!4d-46.6913471!16s%2Fg%2F11sg2805nd?entry=ttu",
-      "title": "São Paulo - BR",
-      "isIcon": true,
-      "content": "Av. Eng. Luis Carlos Berrini, 550 - 4° andar - Bairro Brooklin - São Paulo/SP",
-      "Localtitle": "São Paulo - BR"
-    },
-    {
-      "link": "https://www.google.com/maps/place/20+N+Orange+Ave+Suite+1100,+Orlando,+FL+32801,+EUA/@28.5425572,-81.3820101,17z/data=!3m1!4b1!4m6!3m5!1s0x88e77afe8e0c4e6f:0x4bd9d09d4e3d0adf!8m2!3d28.5425525!4d-81.3794352!16s%2Fg%2F11q_69rv56?entry=ttu",
-      "title": "Orlando - EUA",
-      "isIcon": true,
-      "content": "20 North Orange Avenue, Unit 1100 - Orlando - Florida 32801/EUA",
-      "Localtitle": "Orlando - EUA"
-    }
-  ],
+  "local": [],
   "layout": {
     "hide": {
       "logo": false,

@@ -1,0 +1,8 @@
+{
+  "name": "collections/blog/categories/35e3acd82003",
+  "__resolveType": "blog/loaders/Category.ts",
+  "category": {
+    "name": "Marketing Digital",
+    "slug": "marketing-digital"
+  }
+}

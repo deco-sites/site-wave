@@ -28,49 +28,41 @@
           "url": "/performance",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/642bb27c-8c75-4d13-8d55-f805954d18d3",
           "name": "Performance Digital",
-          "title": "soluções para o seu negócio",
-          "subtitle": "Somos Google Partner, especializados em gerenciamento de campanhas Google Ads para E-commerce, além de anúncios patrocinados em Social Ads (Facebook, Instagram e Linkedin)."
+          "title": "soluções para o seu negócio"
         },
         {
           "url": "/implementacao-de-ecommerce",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142",
           "name": "Estruturação de E-commerce",
-          "title": "soluções para o seu negócio",
-          "subtitle": "Nossa equipe conta com profissionais experientes e certificados nas maiores plataformas de e-commerce"
+          "title": "soluções para o seu negócio"
         },
         {
           "url": "/conteudo-digital",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/ce07b227-be78-4aac-affc-5dd3c3571f74",
-          "name": "Conteúdo Digital",
-          "subtitle": "Aproxime-se de seus clientes demonstrando o que o seu negócio oferece por meio de conteúdos digitais."
+          "name": "Conteúdo Digital"
         },
         {
           "url": "/ecommerce-eua",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d7a74e3c-18e7-427b-a1fa-b032fe439d81",
-          "name": "E-commerce nos EUA",
-          "subtitle": "Venda seus produtos nos Estados Unidos, expanda sua operação para o exterior, globalize sua marca e tenha seu faturamento em dólar."
+          "name": "E-commerce nos EUA"
         },
         {
           "url": "/seo",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4a54479b-e41e-420c-9072-da91328ae078",
-          "name": "SEO",
-          "subtitle": "Coloque seu negócio no topo das pesquisas do Google e aumente seu faturamento orgânico."
+          "name": "SEO"
         },
         {
           "url": "/marketplace",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/6b15122f-174d-4d6f-9dae-3b79145a0944",
-          "name": "Marketplace",
-          "subtitle": "Utilize o marketplace como uma ferramenta para impulsionar as vendas, e dar maior visibilidade para os seus produtos."
+          "name": "Marketplace"
         },
         {
           "url": "/criacao-e-design",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4208db50-dd47-440a-89fe-b58448896f93",
-          "name": "Criação e Design",
-          "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos e demandas do seu e-commerce e de suas redes sociais."
+          "name": "Criação e Design"
         },
         {
           "name": "Fulfillment",
-          "subtitle": "A Melhor Agência de Performance do Brasil Agora É Full Commerce",
           "url": "/fulfillment",
           "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
         }

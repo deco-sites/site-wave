@@ -33,6 +33,13 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"color: rgb(240, 240, 240); font-size: 15pt\">A </span><strong><span style=\"color: rgb(240, 240, 240); font-size: 15pt\">Sex Shop Atacadão</span></strong><span style=\"color: rgb(240, 240, 240); font-size: 15pt\"> nasceu e cresceu na capital das Minas Gerais, Belo Horizonte. Embora tenha começado como uma pequena loja no centro da cidade, sempre houve o sonho de ser uma grande distribuidora de produtos eróticos.</span></p><h2><span style=\"color: rgb(240, 240, 240); font-size: 14pt\"><br></span></h2>",
         "description": "<h2></h2><h2><span style=\"color: rgb(247, 247, 247)\"><br></span></h2>"
@@ -51,22 +58,22 @@
                 {
                   "titleColor": "primary",
                   "title": "CRM com experiência do site e focado em conversão",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/19a5025e-c52f-4593-a393-49cc6c47cad5/envelope-open.png"
                 },
                 {
                   "titleColor": "primary",
                   "title": "SEO eficiente e impactando vendas orgânicas",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/df353c13-ebd3-4068-8fee-184b766e0b79/seo-click.png"
                 },
                 {
                   "titleColor": "primary",
                   "title": "Atendimento personalizado",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/810a9a82-a177-4d6d-b2d8-87b8bbbfc06d/headset.png"
                 },
                 {
                   "titleColor": "primary",
                   "title": "Especialista em varejo",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/eb9ff738-aa6d-4178-9a97-9a1cdd9e1ec1/shopping-cart-simple.png"
                 }
               ]
             }
@@ -102,19 +109,19 @@
           {
             "titleColor": "primary",
             "title": "CRM:",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f17e44a-10d6-401d-ba13-b29c80fcd57e/8129a298-4e21-4079-91f6-9530e9915154.png",
+            "icon": "https://data.decoassets.com/site-wave/5f17e332-0eb0-4cfd-9946-fbb188f18046/chart-line-up.png",
             "paragraph": "Representava 1% do faturamento, passou a representar de 3% a 4% (variação conforme o mês)"
           },
           {
             "titleColor": "primary",
             "title": "SEO: ",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a22039eb-3f18-4bb2-940f-07c63cf580d6/dbb57264-6a22-40a0-bb09-0f0527004bb3.png",
+            "icon": "https://data.decoassets.com/site-wave/df353c13-ebd3-4068-8fee-184b766e0b79/seo-click.png",
             "paragraph": "Crescimento de 84% em sessões orgânicas em 2023 comparado a 2022"
           },
           {
             "titleColor": "primary",
             "title": "FATURAMENTO: ",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c093d5d2-0d52-460e-a674-28313b8302e8/1af63458-23f3-41d3-bbff-5112678e0c94.png",
+            "icon": "https://data.decoassets.com/site-wave/8c50fdf8-9895-4169-8e3c-7aa02b5ddf03/hand-coins.png",
             "paragraph": "Recorde histórico para o E-commerce, com aumento de 33% em relação ao ano anterior"
           }
         ]
@@ -132,7 +139,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {
@@ -145,9 +152,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></h2>",
         "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -162,7 +183,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
       }
     },
     {
@@ -171,13 +192,6 @@
         "__resolveType": "site/sections/Services/Card1.tsx",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
         "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
       }
     },
     {

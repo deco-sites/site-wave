@@ -60,11 +60,6 @@
           "title": "<h3><strong><span style=\"font-size: 20pt\">Anúncios via Ads</span></strong><span style=\"font-size: 20pt\"> para <br>Performance em mídias pagas:</span></h3>",
           "description": "<ul><li><p><span style=\"font-size: 15pt\">Campanhas Google, Facebook, Instagram, Linkedin, Bing, Pinterest mídia programática e afiliados.</span></p></li><li><p><span style=\"font-size: 15pt\">Tagueamento do site.</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
-        },
-        {
-          "title": "<h3><strong><span style=\"font-size: 20pt\">SEO para</span></strong></h3><h3><strong><span style=\"font-size: 20pt\"> e-commerce</span></strong></h3>",
-          "description": "<ul><li><p><span style=\"font-size: 15pt\">SEO on page de conteúdo.</span></p></li><li><p><span style=\"font-size: 15pt\">SEO on page de conteúdo.</span></p></li><li><p><span style=\"font-size: 15pt\">SEO on page de conteúdo.</span></p></li></ul>",
-          "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],
       "cta": {}

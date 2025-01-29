@@ -1,0 +1,7 @@
+{
+  "name": "collections/blog/authors/b3e2213ef7f0",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Roberta Soares"
+  }
+}

@@ -33,9 +33,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Banca 43 começou sua história em 1949 como uma fiambreria, localizada no Mercado Público de Porto Alegre. Hoje a empresa tornou-se um empório gourmet que conta com mais de duas mil opções em produtos naturais, sem glúten, sem lactose, a granel, especiarias e carnes exóticas, além de vinhos, espumantes, e uma variedade de produtos nacionais e importados.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -51,31 +65,31 @@
                 {
                   "titleColor": "primary",
                   "title": "Planejamento",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/001bbf8f-1b62-419a-ba70-54b3e11bf1b4/flow-arrow.png",
                   "title": "Escolha da plataforma"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/c94e1e4e-4f3d-4465-9ddc-af84a4e62c63/cardholder.png",
                   "title": "Escolha do sistema de pagamento"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/70543e42-9b92-41cd-8655-39078c2785d4/truck-trailer.png",
                   "title": "Escolha e integração das transportadoras e gateway de frete"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/5e2abe11-42c8-4165-83b9-a1909193fff5/sort-descending.png",
                   "title": "Cadastro e criação das descrições dos produtos"
                 },
                 {
                   "titleColor": "primary",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png",
+                  "icon": "https://data.decoassets.com/site-wave/ea48ca97-4221-48e1-8e1b-a44c627e8047/camera.png",
                   "title": "Fotografia dos produtos"
                 }
               ]
@@ -108,6 +122,13 @@
           "width": 60,
           "height": 44
         }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {

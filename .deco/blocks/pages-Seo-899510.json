@@ -78,17 +78,17 @@
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">SEO Técnico:</span></h3>",
+          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">SEO Técnico:</span></h3>",
           "description": "<p><span style=\"font-size: 13pt\">O SEO técnico concentra-se na otimização dos aspectos técnicos de um site, incluindo a </span><strong><span style=\"font-size: 13pt\">estrutura, velocidade de carregamento, a indexação e outros elementos</span></strong><span style=\"font-size: 13pt\">, para garantir uma experiência eficiente para os motores de busca, melhorando a classificação e a visibilidade online.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">Link building:</span></h3>",
+          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Link building:</span></h3>",
           "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 13pt\">Indicadores de confiança e popularidade de um site, com a capacidade de impulsionar as classificações desse domínio para Google e demais buscadores. Esse é um processo que leva mais tempo e envolve a criação de conteúdo de ótima qualidade, que faça outros sites quererem referenciá-lo.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: #ffffff; font-size: 25pt\">Blog:</span></h3>",
+          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Blog:</span></h3>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 13pt\">O serviço de blog é uma parte crucial da estratégia de SEO e de conteúdo para e-commerces. Ele não só ajuda a atrair tráfego orgânico, mas também engaja os visitantes, constrói a autoridade da marca e atende diferentes estágios do funil de vendas, desde a conscientização até a decisão de compra.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         }
