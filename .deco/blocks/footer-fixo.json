@@ -162,7 +162,7 @@
       "items": [
         {
           "href": "/cases/termolar",
-          "label": "termolar"
+          "label": "Termolar"
         },
         {
           "href": "/cases/cook-eletroraro",
@@ -216,7 +216,7 @@
           "label": "Contato"
         }
       ],
-      "label": "institucional",
+      "label": "Institucional",
       "children": [
         {
           "href": "/loginecadastro",

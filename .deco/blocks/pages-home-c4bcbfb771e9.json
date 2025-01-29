@@ -36,7 +36,7 @@
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
           ],
-          "title": "Agência de E-commerce: a melhor agência de performance do Brasil.",
+          "title": "<p><strong>Agência de E-commerce:</strong><br></p>",
           "hasImage": [
             {
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
@@ -48,11 +48,19 @@
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
             }
           ],
-          "subTitle": "Quando se trata de e-commerce e marketplace, somos reconhecidos como autoridade no mercado."
+          "subTitle": "<p>Quando se trata de<strong>&nbsp;e-commerce</strong> e<strong> marketplace</strong>, somos reconhecidos como&nbsp;<strong>autoridade no mercado.</strong></p>",
+          "content": "<h2 style=\"text-align: start\">somos a melhor agência<br>de performance<br>do Brasil</h2>"
         },
-        "mobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5a9a23bc-da2e-4b61-b305-b0fca7516749/mob-full-home.jpg",
-        "desktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/230f2f66-c057-421d-9589-2cc0b54af071/desk-full-home.jpg",
+        "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
+        "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
         "isEmptyBrand": true
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "xlarge"
       }
     },
     {
@@ -63,7 +71,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
+        "size": "large"
       }
     },
     {
@@ -76,18 +84,13 @@
           "targetNumber": 1
         },
         {
-          "iconPlus": "+",
-          "subtitle": "cases de sucesso construídos",
-          "targetNumber": 10
-        },
-        {
           "subtitle": "países atendidos",
           "targetNumber": 7
         },
         {
-          "iconPlus": "+",
           "subtitle": "anos de experiência no mercado",
-          "targetNumber": 7
+          "targetNumber": 7,
+          "iconPlus": "+"
         }
       ]
     },
@@ -164,7 +167,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
+        "size": "large"
       }
     },
     {
@@ -267,68 +270,17 @@
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
-      "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(240, 239, 239); font-size: 25pt\">Parceiros de</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sucesso </span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">que confiamos para seu projeto</span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">.</span></h2>"
+      "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(240, 239, 239); font-size: 25pt\">Parceiros de</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sucesso </span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">que confiamos para seu projeto</span><span style=\"color: #ffffff; font-size: 25pt\">.</span></h2>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
+        "size": "large"
       }
     },
     {
-      "__resolveType": "site/sections/Content/SlidewithContent.tsx",
-      "cta": {
-        "href": "/parceiros",
-        "label": "Confira nossos Parceiros"
-      },
-      "title": "Conheça os nossos parceiros.",
-      "hasImage": [
-        {
-          "image": "https://data.decoassets.com/site-wave/26dde817-e55a-47ce-afff-eea015de7efc/vtex-cinza-300x96.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/6dfcd501-41e1-4968-87dc-82ff196273ba/AMAZONSPN-CINZA.png"
-        },
-        {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/14899d85-d717-491e-a0ee-2dfacdb408d8",
-          "image": "https://data.decoassets.com/site-wave/d5b9c6d8-a6c3-497d-9bf7-eee214dd0c68/wake-1024x524.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/6c25da3b-fd31-457e-a336-c60e1d9f695b/Marca_Appmax_VersaoPreferencial_PolicromaticaPositiva-1-1024x211.png",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/17911430-2847-451a-9062-eb552276dd83"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/e62944de-e3a9-46ce-8917-a7e7d8cdde2d/dinamize-1024x569.png",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c12d99b2-d446-4c1b-95b4-1b5000b91a70"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/c6b0b665-3ed8-4829-9998-adb1ea65478c/logo-2-x-min-1-12x.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/96373d0f-ad77-4175-9568-43eba98a9574/download-1.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/1fdae611-6091-4ad2-97a0-c14bbf18e018/Logo-cor_2x-1024x321.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/f16e2c7a-4251-4317-94a6-bb7a34813996/cws-digital-fundo-branco-1-min.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/99ff9e2b-9987-45d4-8370-3bc61e9a4ed5/logo-client-linx-12x.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/74b77865-bdfa-4108-8732-b0148a92839a/shopify2x.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/38bd2925-e645-4b36-a742-7b9aca5d7707/vnda.png"
-        },
-        {
-          "image": "https://data.decoassets.com/site-wave/505d8a96-c1d2-4ab4-9140-62675c36bb22/AnyConv.com__stoom.png"
-        }
-      ],
-      "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
-      "isEmptyBrand": true
+      "__resolveType": "slide-nossos-parceiros"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -345,7 +297,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
+        "size": "large"
       }
     },
     {

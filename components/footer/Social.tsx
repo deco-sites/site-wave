@@ -21,11 +21,9 @@ export default function Social(
   return (
     <>
       {content && content && content.length > 0 && (
-        <div className="flex flex-col gap-4 items-center m-[auto 0] py-6 lg:py-0 lg:items-end">
+        <div className="flex flex-col gap-4 items-start m-[auto 0] py-6 lg:py-0">
           <ul
-            className={`flex gap-4 ${
-              vertical ? "lg:flex-col lg:items-start" : "items-center"
-            }`}
+            className={`flex gap-4 lg:flex-row lg:items-center`}
           >
             {content.map((item) => {
               let iconComponent: JSX.Element | null = null;

@@ -83,7 +83,8 @@
                 }
               ],
               "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
-              "isEmptyBrand": true
+              "isEmptyBrand": true,
+              "secondVariable": true
             }
           }
         ],

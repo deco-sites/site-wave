@@ -7,113 +7,87 @@ import { color as vtex } from "apps/vtex/mod.ts";
 import { color as wake } from "apps/wake/mod.ts";
 import { color as linx } from "apps/linx/mod.ts";
 import { color as nuvemshop } from "apps/nuvemshop/mod.ts";
-import { Section } from "deco/blocks/section.ts";
-import type { App as A, AppContext as AC } from "deco/mod.ts";
 import { rgb24 } from "std/fmt/colors.ts";
 import manifest, { Manifest } from "../manifest.gen.ts";
 import type { AvailableIcons } from "../components/ui/Icon.tsx";
-
+import { type Section } from "@deco/deco/blocks";
+import { type App as A, type AppContext as AC } from "@deco/deco";
 type WebsiteApp = ReturnType<typeof website>;
 type BlogApp = ReturnType<typeof blog>;
-
 /**
  * @titleBy text
  */
 export interface ServiceOption {
-  /**
-   * @format icon-select
-   * @options site/loaders/availableIcons.ts
-   */
-  icon: AvailableIcons;
-  text: string;
-  url: string;
+    /**
+     * @format icon-select
+     * @options site/loaders/availableIcons.ts
+     */
+    icon: AvailableIcons;
+    text: string;
+    url: string;
 }
-
 export type Props = {
-  /**
-   * @title Active Commerce Platform
-   * @description Choose the active ecommerce platform
-   * @default custom
-   */
-  platform: Platform;
-  theme?: Section;
-  /**
-   * @title Opções do seletor de Páginas de Serviço
-   */
-  servicesSelector?: ServiceOption[];
+    /**
+     * @title Active Commerce Platform
+     * @description Choose the active ecommerce platform
+     * @default custom
+     */
+    platform: Platform;
+    theme?: Section;
+    /**
+     * @title Opções do seletor de Páginas de Serviço
+     */
+    servicesSelector?: ServiceOption[];
 } & CommerceProps;
-
-export type Platform =
-  | "vtex"
-  | "vnda"
-  | "shopify"
-  | "wake"
-  | "linx"
-  | "nuvemshop"
-  | "custom";
-
+export type Platform = "vtex" | "vnda" | "shopify" | "wake" | "linx" | "nuvemshop" | "custom";
 export let _platform: Platform = "custom";
-
 export type App = ReturnType<typeof Site>;
 export type AppContext = AC<App>;
-
 const color = (platform: string) => {
-  switch (platform) {
-    case "vtex":
-      return vtex;
-    case "vnda":
-      return vnda;
-    case "wake":
-      return wake;
-    case "shopify":
-      return shopify;
-    case "linx":
-      return linx;
-    case "nuvemshop":
-      return nuvemshop;
-    case "deco":
-      return 0x02f77d;
-    default:
-      return 0x212121;
-  }
+    switch (platform) {
+        case "vtex":
+            return vtex;
+        case "vnda":
+            return vnda;
+        case "wake":
+            return wake;
+        case "shopify":
+            return shopify;
+        case "linx":
+            return linx;
+        case "nuvemshop":
+            return nuvemshop;
+        case "deco":
+            return 0x02f77d;
+        default:
+            return 0x212121;
+    }
 };
-
 let firstRun = true;
-
-export default function Site(
-  { theme, ...state }: Props,
-): A<Manifest, Props, [
-  ReturnType<typeof commerce>,
-  WebsiteApp,
-  BlogApp,
+export default function Site({ theme, ...state }: Props): A<Manifest, Props, [
+    ReturnType<typeof commerce>,
+    WebsiteApp,
+    BlogApp
 ]> {
-  _platform = state.platform || state.commerce?.platform || "custom";
-
-  // Prevent console.logging twice
-  if (firstRun) {
-    firstRun = false;
-    console.info(
-      ` 🐁 ${rgb24("Storefront", color("deco"))} | ${
-        rgb24(_platform, color(_platform))
-      } \n`,
-    );
-  }
-
-  return {
-    state,
-    manifest,
-    dependencies: [
-      commerce({
-        ...state,
-        global: theme ? [...(state.global ?? []), theme] : state.global,
-      }),
-      website(state),
-      blog(state),
-    ],
-  };
+    _platform = state.platform || state.commerce?.platform || "custom";
+    // Prevent console.logging twice
+    if (firstRun) {
+        firstRun = false;
+        console.info(` 🐁 ${rgb24("Storefront", color("deco"))} | ${rgb24(_platform, color(_platform))} \n`);
+    }
+    return {
+        state,
+        manifest,
+        dependencies: [
+            commerce({
+                ...state,
+                global: theme ? [...(state.global ?? []), theme] : state.global,
+            }),
+            website(state),
+            blog(state),
+        ],
+    };
 }
-
 export type SiteApp = ReturnType<typeof Site>;
 export type AppContext = AC<SiteApp>;
-
 export { onBeforeResolveProps, Preview } from "apps/website/mod.ts";
