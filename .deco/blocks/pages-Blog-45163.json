@@ -31,7 +31,9 @@
           "__resolveType": "blog/loaders/BlogpostList.ts",
           "count": 6
         },
-        "pagination": {}
+        "pagination": {
+          "perPage": 10
+        }
       }
     },
     {

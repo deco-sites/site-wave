@@ -40,7 +40,8 @@
             "title": "Assistente de Criação",
             "workModel": "Home Office",
             "cta": {
-              "label": "saiba mais"
+              "label": "saiba mais",
+              "href": "/vaga-detalhe"
             }
           },
           {
@@ -48,7 +49,8 @@
             "title": "Assistente de Criação",
             "workModel": "Home Office",
             "cta": {
-              "label": "saiba mais"
+              "label": "saiba mais",
+              "href": "/vaga-detalhe"
             }
           },
           {
@@ -56,7 +58,8 @@
             "title": "Assistente de Criação",
             "workModel": "Home Office",
             "cta": {
-              "label": "saiba mais"
+              "label": "saiba mais",
+              "href": "/vaga-detalhe"
             }
           },
           {
@@ -64,7 +67,7 @@
             "area": "SEO",
             "title": "Seo",
             "cta": {
-              "href": "/assistente-seo"
+              "href": "/vaga-detalhe"
             }
           }
         ],
