@@ -73,7 +73,7 @@ function NavItem({ item }: Props) {
                           height={11}
                           alt={node.name}
                         />
-                        <p className="text-base text-white font-bold hover:text-[#0066e4]">
+                        <p className="text-base text-white font-light hover:text-[#0066e4]">
                           {node.name}
                         </p>
                       </div>
