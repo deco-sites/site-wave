@@ -56,7 +56,7 @@ function NavItem({ item }: Props) {
           className="fixed hidden hover:flex group-hover:flex bg-black z-50 w-screen"
           style={{ top: "0px", left: "0px", marginTop: headerHeight }}
         >
-          <ul className="block items-start justify-start gap-6 container pb-[50px]">
+          <ul className="block items-start justify-start gap-6 container pb-[50px] lg:pb-[25px]">
             <p className="text-base py-6 uppercase font-extrabold text-[#B1B1B1] border-b border-[#B1B1B1]">
               {children[0].title}
             </p>
