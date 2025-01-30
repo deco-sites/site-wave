@@ -36,7 +36,7 @@
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
           ],
-          "title": "Agência de E-commerce: ",
+          "title": "<p><strong>Agência de E-commerce:</strong></p>",
           "hasImage": [
             {
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
@@ -48,7 +48,8 @@
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
             }
           ],
-          "subTitle": "Somos a melhor agência de performance do Brasil"
+          "subTitle": "<p><span>Quando se trata de&nbsp;</span><strong><span>e-commerce</span></strong><span>&nbsp;e&nbsp;</span><strong><span>marketplace,</span></strong><span> somos reconhecidos como&nbsp;</span><strong><span>autoridade no mercado.</span></strong></p>",
+          "content": "<h2 style=\"text-align: start\">somos a melhor agência<br>de performance<br>do Brasil</h2>"
         },
         "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
         "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
