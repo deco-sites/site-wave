@@ -61,7 +61,7 @@ function NavItem({ item }: Props) {
               {children[0].title}
             </p>
 
-            <div className="flex flex-wrap gap-5">
+            <div className="flex flex-wrap gap-5 lg:justify-between">
               {children.map((node, index) => (
                 <li key={index} className="py-6">
                   <a className="flex gap-3" href={node.url}>

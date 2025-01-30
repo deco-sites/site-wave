@@ -60,7 +60,7 @@ export default function BannerHero({
                   dangerouslySetInnerHTML={{ __html: action.content }}
                   />
                 <span
-                  className="text-sm leading-[16px]  lg:text-base text-white max-w-[250px] lg:max-w-[375px] flex mt-6"
+                  className="text-sm leading-[16px]  lg:text-base text-white max-w-[250px] lg:max-w-[425px] flex mt-6"
                   dangerouslySetInnerHTML={{ __html: action.subTitle }}
                   />
               </div>
