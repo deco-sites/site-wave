@@ -35,7 +35,9 @@
         },
         "findOutMore": {
           "text": "saiba mais sobre a parceria"
-        }
+        },
+        "selectorType": "partners",
+        "options": []
       }
     },
     {

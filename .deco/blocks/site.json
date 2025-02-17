@@ -88,9 +88,23 @@
     "replaces": [],
     "includeScriptsToHead": {
       "includes": []
+    },
+    "includeScriptsToBody": {
+      "includes": []
     }
   },
   "flavor": {
     "framework": "fresh"
-  }
+  },
+  "partnerSelectir": [],
+  "partnerSelector": [
+    {
+      "icon": "AlertInfo",
+      "text": "op~çao 1"
+    },
+    {
+      "icon": "AlertInfo",
+      "text": "op~çao 1"
+    }
+  ]
 }

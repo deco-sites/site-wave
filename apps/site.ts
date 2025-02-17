@@ -26,6 +26,18 @@ export interface ServiceOption {
     text: string;
     url: string;
 }
+/**
+ * @titleBy text
+ */
+export interface PartnerOption {
+    /**
+     * @format icon-select
+     * @options site/loaders/availableIcons.ts
+     */
+    icon: AvailableIcons;
+    text: string;
+    url: string;
+}
 export type Props = {
     /**
      * @title Active Commerce Platform
@@ -38,6 +50,7 @@ export type Props = {
      * @title Opções do seletor de Páginas de Serviço
      */
     servicesSelector?: ServiceOption[];
+    partnerSelector?: PartnerOption[];
 } & CommerceProps;
 export type Platform = "vtex" | "vnda" | "shopify" | "wake" | "linx" | "nuvemshop" | "custom";
 export let _platform: Platform = "custom";
