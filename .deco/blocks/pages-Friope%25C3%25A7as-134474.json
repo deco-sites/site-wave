@@ -1,0 +1,191 @@
+{
+  "name": "Friopeças",
+  "path": "/friopecas",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "labelBottom": {
+          "titulo": "soluções",
+          "text": "Mídia Paga, CRM, SEO, Suporte e Evolução e Atendimento Personalizado"
+        },
+        "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce",
+        "bgImage": {
+          "desktop": {
+            "src": "https://data.decoassets.com/site-wave/e92bd99c-6fb1-44a8-83d6-57f51c31a636/desk-friopecas.jpg",
+            "height": 700
+          },
+          "mobile": {
+            "src": "https://data.decoassets.com/site-wave/b77a6d1c-7f05-4501-a5da-4d7e658c2e81/mob-friopecas.jpg",
+            "height": 500
+          }
+        },
+        "title": "Friopeças"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: #0056c1; font-size: 25pt\">Soluções VTEX utilizadas pela Wave Commerce alavancaram as vendas do ecommerce muito acima das expectativas.</span><span style=\"color: rgb(255, 255, 255)\"><br></span></p>",
+        "description": "<table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p><span style=\"color: #ffffff; font-size: 15pt\">A FRIOPEÇAS iniciou suas atividades em 1994, na cidade de Belo Horizonte, com atuação exclusiva no varejo de peças originais – mas já em 1998 passou a atuar também no mercado atacadista. O sucesso se deve em grande parte pela estratégia de FOCO NO CLIENTE, o que pode ser percebido de fato no investimento permanente em capacitação e formação de uma equipe extremamente empenhada na excelência do atendimento, bem como na preocupação com o fortalecimento das parcerias com fornecedores, a fim de garantir as melhores condições de venda dos produtos.</span></p></td></tr></tbody></table>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/PageLayout.tsx",
+        "sections": [],
+        "layoutSettings": {
+          "layoutType": "grid",
+          "columnLayout": "primary"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desafio</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Embora já operasse na plataforma VTEX, a Friopeças utilizava de forma limitada os recursos oferecidos, o que comprometia o desempenho geral do e-commerce.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Cards.tsx",
+        "sections": [
+          {
+            "title": "<p dir=\"ltr\">Entre os principais desafios estavam:</p>",
+            "description": "<ul><li dir=\"ltr\" role=\"presentation\">Dificuldades em traduzir o modelo de negócio para as configurações do e-commerce, resultando em experiências pouco intuitivas para os clientes.</li><li dir=\"ltr\" role=\"presentation\">Baixa exploração das ferramentas nativas da VTEX, como customizações de layout, campanhas de marketing automatizadas e integrações avançadas com sistemas ERP e CRM.</li><li dir=\"ltr\" role=\"presentation\">Limitações na experiência do cliente, desde a navegação até o processo de checkout, o que impactava negativamente as taxas de conversão e retenção.</li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          }
+        ],
+        "cta": {}
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A Friopeças precisava de uma solução que combinasse conhecimento técnico e estratégico para potencializar o uso da plataforma VTEX, alavancando seus recursos para transformar a experiência do cliente e os resultados do e-commerce.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Solução</span></p>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A parceria com a Wave Commerce trouxe um atendimento mais próximo, aliado a uma equipe alinhada com os objetivos de crescimento da empresa.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Cards.tsx",
+        "sections": [
+          {
+            "title": "<p dir=\"ltr\">A solução implementada incluiu:</p>",
+            "description": "<ul><li dir=\"ltr\" role=\"presentation\">Migração para a Wave Commerce:</li><li dir=\"ltr\" role=\"presentation\">Revisão completa das configurações e funcionalidades da loja VTEX.</li><li dir=\"ltr\" role=\"presentation\">Alinhamento da estratégia de e-commerce às necessidades do modelo de negócio da Friopeças.</li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          },
+          {
+            "title": "<p dir=\"ltr\">Customizações e Novas Funcionalidades:</p>",
+            "description": "<ul><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Redesenho do layout para melhorar a usabilidade e aumentar a conversão.</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Implementação de vitrines dinâmicas e banners personalizados para destacar produtos-chave.</p></li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          },
+          {
+            "title": "<p dir=\"ltr\">Integrações e Automações:</p>",
+            "description": "<ul><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Integração com sistemas ERP e CRM, garantindo um fluxo operacional eficiente.</p></li><li dir=\"ltr\" aria-level=\"1\"><p dir=\"ltr\" role=\"presentation\">Configuração de automações para campanhas de marketing, como e-mails personalizados e remarketing.</p></li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          }
+        ],
+        "cta": {}
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados</span></p>",
+        "description": "<p><span style=\"color: #fdfcfc; font-size: 15pt\">A transformação promovida pela Wave Commerce gerou impactos positivos em todas as áreas do e-commerce da Friopeças.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Cards.tsx",
+        "sections": [
+          {
+            "title": "<p dir=\"ltr\">Aumento na taxa de conversão:</p>",
+            "description": "<ul><li dir=\"ltr\" role=\"presentation\">Melhorias na usabilidade e na experiência de navegação refletiram em um aumento de 15% nas taxas de conversão em comparação ao período anterior.</li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          },
+          {
+            "title": "<p dir=\"ltr\">Expansão do alcance digital:</p>",
+            "description": "<ul><li>Campanhas de marketing mais segmentadas resultaram em um crescimento de 35% no tráfego orgânico e pago.</li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          },
+          {
+            "title": "<p>Melhora na eficiência operacional:</p>",
+            "description": "<ul><li>A integração com ERP e CRM reduziu o tempo gasto em processos administrativos e logísticos.</li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          },
+          {
+            "title": "<p>Engajamento e fidelização:</p>",
+            "description": "<ul><li>O uso de campanhas automatizadas e e-mails personalizados aumentou 20% a retenção de clientes recorrentes.</li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          }
+        ],
+        "cta": {}
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><u><span style=\"font-size: 15pt\">performance para E-commerce</span></u></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
