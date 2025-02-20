@@ -1,6 +1,6 @@
 {
   "name": "E-commerce nos EUA",
-  "path": "/ecommerce-nos-eua",
+  "path": "/ecommerce-eua",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"
@@ -43,7 +43,7 @@
       "__resolveType": "site/sections/Services/Cards.tsx",
       "sections": [
         {
-          "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Expanda sua operação para o exterior</span></h2>",
+          "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Expanda sua operação para o exterior</span></p>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Auxiliamos no planejamento estratégico do seu<br>e-commerce, no marketing digital e na estruturação e integração nos marketplaces. Além disso, acompanhamos todas as etapas do processo, desde a abertura da sua loja até a expedição e entrega dos seus produtos nos Estados Unidos.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
@@ -65,20 +65,17 @@
     },
     {
       "__resolveType": "site/sections/Services/Cards.tsx",
-      "title": "<h2 style=\"text-align: center\"><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Nossas soluções</span></h2>",
+      "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Nossas soluções</span></p>",
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<ul><li><p><span style=\"font-size: 15pt\">Estruturação de e-commerce</span></p></li><li><p><span style=\"font-size: 15pt\">Integração e performance nos marketplaces</span></p></li></ul>",
-          "__resolveType": "site/sections/Services/Card2.tsx"
-        },
-        {
-          "title": "<p></p>",
-          "description": "<ul><li><p><span style=\"font-size: 15pt\">Marketing digital para e-commerce</span></p></li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Estruturação de e-commerce</span></p></li><li><p><span style=\"font-size: 15pt\">Integração e performance nos marketplaces</span></p></li><li><p><span style=\"font-size: 15pt\">Marketing digital para e-commerce</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],
-      "cta": {}
+      "cta": {
+        "text": "<p></p>"
+      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",

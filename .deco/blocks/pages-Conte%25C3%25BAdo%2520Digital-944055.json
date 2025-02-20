@@ -45,7 +45,7 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A produção de conteúdo digital </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">ajuda a atrair mais consumidores em potencial, trazendo conteúdos que demonstram autoridade no segmento de atuação da sua empresa</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, consolidando sua imagem e sua notoriedade. Assim, o consumidor enxerga o seu negócio como uma referência na área.</span></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">Contamos com uma equipe de profissionais focados e qualificados em produção de conteúdo digital, que sabem identificar as melhores técnicas e ferramentas habilitadas para potencializar as ações do seu blog, e-book e e-mail marketing.</span></p><p><br></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A produção de conteúdo digital </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">ajuda a atrair mais consumidores em potencial, trazendo conteúdos que demonstram autoridade no segmento de atuação da sua empresa</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, consolidando sua imagem e sua notoriedade. Assim, o consumidor enxerga o seu negócio como uma referência na área.</span></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 14pt\">Contamos com uma equipe de profissionais focados e qualificados em produção de conteúdo digital, que sabem identificar as melhores técnicas e ferramentas habilitadas para potencializar as ações do seu blog, e-book e e-mail marketing.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
         {
@@ -53,44 +53,45 @@
           "description": "<ul><li>Criação de Conteúdo Alinhado às Diretrizes do Google para SEO</li><li>Equipe com Expertise em Marketing de Conteúdo</li><li>Domínio de Ferramentas de Análise e Gestão de Conteúdo</li><li>Foco em Diversidade e Qualidade</li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
-      ]
+      ],
+      "title": "<p></p>"
     },
     {
       "__resolveType": "site/sections/Services/Cards.tsx",
       "sections": [
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Criação de Persona:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Criação de Persona:</span></p>",
           "description": "<p><span style=\"font-size: 15pt\">A criação de personas permite compreender profundamente seu público-alvo, criando perfis semifictícios baseados em dados reais sobre comportamentos, necessidades e desafios dos clientes. Isso garante que todas as estratégias sejam mais personalizadas e eficazes, aumentando o engajamento e as conversões.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">Funil de Marketing:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">Funil de Marketing:</span></p>",
           "description": "<p><span style=\"font-size: 15pt\">Desenvolver um funil de marketing é essencial para mapear a jornada do cliente, desde a descoberta até a compra. Ele ajuda a identificar as melhores ações e conteúdos para cada etapa, otimizando o processo de atração, nutrição e conversão de leads.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">Calendário de Marketing:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">Calendário de Marketing:</span></p>",
           "description": "<p><span style=\"font-size: 15pt\">Um calendário de marketing bem estruturado organiza as campanhas e conteúdos ao longo do ano, garantindo consistência e eficiência. Com ele, é possível planejar ações estratégicas para aproveitar sazonalidades, aumentar o impacto e otimizar os resultados.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">E-mail Marketing:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">E-mail Marketing:</span></p>",
           "description": "<p><span style=\"font-size: 15pt\">O e-mail marketing é uma ferramenta poderosa para se conectar diretamente com seu público. Enviando mensagens personalizadas e relevantes, você pode nutrir leads, fidelizar clientes e impulsionar vendas, sempre de forma mensurável e estratégica.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">Blog:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">Blog:</span></p>",
           "description": "<p><span style=\"font-size: 15pt\">Um blog é um canal valioso para atrair e engajar sua audiência, oferecendo conteúdos relevantes e educativos. Além de fortalecer a autoridade da marca, ele contribui diretamente para o SEO, aumentando o tráfego orgânico do seu site.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">E-book:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 250, 250); font-size: 20pt\">E-book:</span></p>",
           "description": "<p><span style=\"font-size: 15pt\">Criar e-books é uma estratégia eficaz para educar o público e gerar leads qualificados. Com materiais ricos e bem produzidos, você demonstra autoridade no mercado, oferece valor ao cliente e coleta informações valiosas para futuras interações.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         }
       ],
       "cta": {},
-      "title": "<h2 style=\"text-align: center\"><span style=\"color: #0066e4; font-size: 25pt\">Por que a Wave é a melhor opção para cuidar ﻿do conteúdo do seu e-commerce?</span></h2>"
+      "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Wave é a melhor opção para cuidar ﻿do conteúdo do seu e-commerce?</span></p>"
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
