@@ -225,7 +225,7 @@
             "isEmptyBrand": true,
             "button": {
               "label": "saiba mais",
-              "link": "/ecommerce-nos-eua"
+              "link": "/ecommerce-eua"
             }
           },
           {
@@ -247,6 +247,16 @@
               "label": "saiba mais",
               "link": "/fulfillment"
             }
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/2fac0bd8-f478-46d6-aaff-2fb846ec193a/fev25_SITE-CRM.png",
+            "label": "Saiba mais",
+            "isEmptyBrand": true,
+            "button": {
+              "label": "saiba mais",
+              "link": "/crm"
+            },
+            "content": "CRM"
           }
         ],
         "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/02a68dbd-6d13-45c6-8020-5499d0cfc09b",

@@ -19,12 +19,12 @@
       },
       "bgImage": {
         "mobile": {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/89f7ca51-0066-4fac-9d68-b19bc8d8e85c/mob-conteudo.jpg",
+          "src": "https://data.decoassets.com/site-wave/0fff13c6-360b-47a4-9e41-274e620c52e7/mob-crm.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e059b2f9-5ca5-41ca-8177-5cbe8de31ba8/desk-conteudo.jpg",
+          "src": "https://data.decoassets.com/site-wave/8cf89bc0-1945-41f5-904b-7035cde6cb1d/desk-crm.jpg",
           "height": 820
         }
       },

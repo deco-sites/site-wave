@@ -186,7 +186,7 @@
           "isEmptyBrand": true,
           "button": {
             "label": "saiba mais",
-            "link": "/ecommerce-nos-eua"
+            "link": "/ecommerce-eua"
           }
         },
         {
@@ -210,9 +210,9 @@
         {
           "button": {
             "label": "saiba mais",
-            "link": "/fulfillment"
+            "link": "/crm"
           },
-          "image": "https://data.decoassets.com/site-wave/33b1a9c3-6f5c-40ee-a97c-b6c3e8ad57ad/fulfillment-icon.png",
+          "image": "https://data.decoassets.com/site-wave/7ea294ec-23d5-4b86-9c9b-295b3f5a3600/crm-1.png",
           "content": "CRM"
         }
       ],
