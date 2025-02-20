@@ -43,7 +43,7 @@
       "__resolveType": "site/sections/Services/Cards.tsx",
       "sections": [
         {
-          "title": "<h2><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">Coloque seu negócio no </span><span style=\"color: rgb(0, 108, 228); font-size: 25pt\">topo das pesquisas do Google</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> e </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">aumente seu faturamento orgânico.</span></strong></h2>",
+          "title": "<p><strong><span style=\"color: #006ae0; font-size: 25pt\">Coloque seu negócio no topo das pesquisas do Google e aumente seu faturamento orgânico.</span></strong></p>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O SEO (Search Engine Optimization) é a área capaz de colocar seu site no </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">topo das pesquisas</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> dos consumidores. Além de </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">gerar autoridade</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para seu negócio, ele </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">aumenta seu faturamento orgânico</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> e se torna um diferencial importantíssimo a longo prazo. O SEO é uma estratégia fundamental para consolidar seu E-commerce como um grande player.</span></p><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"><br>Contamos com uma </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">equipe de especialistas em SEO</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, prontos para fazer uma pesquisa minuciosa de palavras-chave, alavancar seu negócio nos buscadores e criar um planejamento de conteúdo específico para sua empresa.&nbsp;</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
@@ -59,36 +59,36 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 108, 228); font-size: 20pt\">SEO e Conteúdo</span></strong><span style=\"color: rgb(0, 108, 228); font-size: 20pt\"> Andam Lado a Lado</span></h3>",
-        "description": "<p><span style=\"font-size: 15pt\">Imagine a relação entre estratégia de SEO e a criação de conteúdo semelhante à </span><strong><span style=\"font-size: 15pt\">relação entre uma orquestra e suas partituras</span></strong><span style=\"font-size: 15pt\">. O </span><strong><span style=\"font-size: 15pt\">SEO funciona como a partitura</span></strong><span style=\"font-size: 15pt\">, fornecendo a estrutura e as orientações para um bom desempenho. Ele define as notas principais, indicando a direção para alcançar uma boa música.</span></p><p></p><p><span style=\"font-size: 15pt\">Por outro lado, a criação de conteúdo corresponde à execução dos músicos, onde cada blogpost, artigo e peça de conteúdo é como uma nota bem executada. Esses elementos individuais contribuem para a totalidade da música, que é o crescimento da sua autoridade e conversão orgânica. A qualidade do desempenho depende não apenas de uma boa partitura (SEO) mas também da interpretação persuasiva e cativante (criação de conteúdo).</span></p><p></p><p><span style=\"font-size: 15pt\">Assim como uma orquestra precisa de uma partitura sólida e músicos habilidosos para criar uma obra-prima, uma </span><strong><span style=\"font-size: 15pt\">estratégia digital eficaz exige uma base robusta de SEO e uma execução criativa por meio da criação de conteúdo</span></strong><span style=\"font-size: 15pt\">. Ambos desempenham papéis cruciais, convergindo para alcançar um resultado expressivo para seu negócio.</span></p>"
+        "title": "<p><strong><span style=\"color: rgb(0, 108, 228); font-size: 20pt\">SEO e Conteúdo Andam Lado a Lado</span></strong></p>",
+        "description": "<p><span style=\"font-size: 15pt\">Imagine a relação entre estratégia de SEO e a criação de conteúdo semelhante à </span><strong><span style=\"font-size: 15pt\">relação entre uma orquestra e suas partituras</span></strong><span style=\"font-size: 15pt\">. O </span><strong><span style=\"font-size: 15pt\">SEO funciona como a partitura</span></strong><span style=\"font-size: 15pt\">, fornecendo a estrutura e as orientações para um bom desempenho. Ele define as notas principais, indicando a direção para alcançar uma boa música.</span><br><br><span style=\"font-size: 15pt\">Por outro lado, a criação de conteúdo corresponde à execução dos músicos, onde cada blogpost, artigo e peça de conteúdo é como uma nota bem executada. Esses elementos individuais contribuem para a totalidade da música, que é o crescimento da sua autoridade e conversão orgânica. A qualidade do desempenho depende não apenas de uma boa partitura (SEO) mas também da interpretação persuasiva e cativante (criação de conteúdo).</span><br><br><span style=\"font-size: 15pt\">Assim como uma orquestra precisa de uma partitura sólida e músicos habilidosos para criar uma obra-prima, uma </span><strong><span style=\"font-size: 15pt\">estratégia digital eficaz exige uma base robusta de SEO e uma execução criativa por meio da criação de conteúdo</span></strong><span style=\"font-size: 15pt\">. Ambos desempenham papéis cruciais, convergindo para alcançar um resultado expressivo para seu negócio.</span></p>"
       }
     },
     {
       "__resolveType": "site/sections/Services/Cards.tsx",
-      "title": "<h2 style=\"text-align: center\"><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Wave é a </span><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">melhor opção</span></strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\"> para cuidar do SEO do seu e-commerce?</span></h2>",
+      "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Wave é a melhor opção para cuidar do SEO do seu e-commerce?</span></strong></p>",
       "sections": [
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">SEO On-Page:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">SEO On-Page:</span></p>",
           "description": "<p><span style=\"font-size: 13pt\">O SEO On-Page refere-se à otimização direta dos elementos dentro de uma página web, como </span><strong><span style=\"font-size: 13pt\">palavras-chave, titles e descriptions, semântica HTML, alt tag de imagens</span></strong><span style=\"font-size: 13pt\">, para melhorar a visibilidade nos sites de busca, atraindo tráfego qualificado por meio de uma estratégia focada no conteúdo. O </span><strong><span style=\"font-size: 13pt\">conteúdo é um dos 3 principais fatores de classificação do Google</span></strong><span style=\"font-size: 13pt\">. O objetivo do buscador é apresentar os melhores resultados para uma determinada pesquisa, então um conteúdo ruim dificilmente tem um bom desempenho nas SERPs (página de resultados do Google). Por isso, priorizamos a criação de conteúdo de qualidade, que corresponda à intenção de busca do usuário.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">SEO de Produtos:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">SEO de Produtos:</span></p>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 13pt\">O SEO de produtos visa otimizar as páginas de produtos de um site de comércio eletrônico, incorporando estratégias específicas, como otimização de imagens, descrições detalhadas, tags relevantes e links internos, para impulsionar a visibilidade desses produtos nos resultados de pesquisa e aumentar as conversões.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">SEO Técnico:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">SEO Técnico:</span></p>",
           "description": "<p><span style=\"font-size: 13pt\">O SEO técnico concentra-se na otimização dos aspectos técnicos de um site, incluindo a </span><strong><span style=\"font-size: 13pt\">estrutura, velocidade de carregamento, a indexação e outros elementos</span></strong><span style=\"font-size: 13pt\">, para garantir uma experiência eficiente para os motores de busca, melhorando a classificação e a visibilidade online.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Link building:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Link building:</span></p>",
           "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 13pt\">Indicadores de confiança e popularidade de um site, com a capacidade de impulsionar as classificações desse domínio para Google e demais buscadores. Esse é um processo que leva mais tempo e envolve a criação de conteúdo de ótima qualidade, que faça outros sites quererem referenciá-lo.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         },
         {
-          "title": "<h3><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Blog:</span></h3>",
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Blog:</span></p>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 13pt\">O serviço de blog é uma parte crucial da estratégia de SEO e de conteúdo para e-commerces. Ele não só ajuda a atrair tráfego orgânico, mas também engaja os visitantes, constrói a autoridade da marca e atende diferentes estágios do funil de vendas, desde a conscientização até a decisão de compra.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         }
