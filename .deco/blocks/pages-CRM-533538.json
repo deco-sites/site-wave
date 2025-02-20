@@ -1,0 +1,114 @@
+{
+  "name": "CRM",
+  "path": "/crm",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "bgImage": {
+        "mobile": {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/89f7ca51-0066-4fac-9d68-b19bc8d8e85c/mob-conteudo.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e059b2f9-5ca5-41ca-8177-5cbe8de31ba8/desk-conteudo.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "CRM"
+      },
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre CRM"
+      },
+      "title": "CRM",
+      "subtitle": "Transforme Relacionamento em Resultados com Nossa Jornada de CRM"
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "cta": {},
+      "sections": [
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 20pt\">No mundo do digital, a conexão com o cliente faz toda a diferença. Com nossa estratégia de CRM Inteligente, sua marca cria experiências personalizadas, automatiza interações e impulsiona vendas de forma escalável.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        }
+      ],
+      "title": "<p></p>"
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Segmentação Inteligente:</span></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 15px\">alcance o público certo através de mensagens personalizadas.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><span style=\"color: #ffffff; font-size: 20pt\">Automação Estratégica:</span></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 15px\">Converta mais com e-mails, SMS e WhatsApp de forma automatizada e com baixo custo.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><span style=\"color: #ffffff; font-size: 20pt\">Reduza o Abandono de Carrinho:</span></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 15px\"> Recupere vendas com uma jornada eficaz.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><span style=\"color: #ffffff; font-size: 20pt\">Aumento da Fidelização:</span></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 15px\">Crie conexões duradouras, personalizadas e com conteúdos exclusivos.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><span style=\"color: #ffffff; font-size: 20pt\">Mais Conversões e Vendas:</span></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 15px\">Aplique estratégias de cross-sell e up-sell carteiras.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {},
+      "title": "<p><span style=\"color: #0066e4; font-size: 25pt\">Veja como nosso qualificado time de CRM pode ajudar a sua loja online a crescer:</span></p>"
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Potencialize sua loja online com CRM, crie uma jornada personalizada e gere resultados reais. Vamos juntos transformar dados em oportunidades e clientes em promotores da sua marca.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        }
+      ],
+      "cta": {},
+      "title": "<p></p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br>É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

@@ -43,7 +43,7 @@
       "__resolveType": "site/sections/Services/Cards.tsx",
       "sections": [
         {
-          "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketplace como uma ferramenta para impulsionar as vendas</span></h2>",
+          "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketplace como uma ferramenta para impulsionar as vendas</span></p>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Grandes Players lançam suas vitrines em shoppings virtuais também conhecidos como marketplace, tendo assim, grande potencial de crescimento e maior visibilidade da sua marca. Aumentando as vendas, o faturamento e a escalabilidade do seu negócio através dos canais. Conte com uma equipe de especialistas certificados e qualificados, com potencial de otimizar suas vendas e aumentar a relevância do seu negócio dentro dos melhores canais de marketplace.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
@@ -60,24 +60,28 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<ul><li><p>Integração e performance</p></li><li><p>Criação de anúncios</p></li></ul>",
-          "__resolveType": "site/sections/Services/Card2.tsx"
-        },
-        {
-          "title": "<p></p>",
-          "description": "<ul><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
+          "description": "<ul><li><p>Integração e performance</p></li><li><p>Criação de anúncios</p></li><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],
-      "title": "<h2 style=\"text-align: center\"><span style=\"color: #0066e4; font-size: 25pt\">Nossas soluções de Marketplace</span></h2>",
-      "cta": {}
+      "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Nossas soluções de Marketplace</span></p>",
+      "cta": {
+        "text": "<p></p>"
+      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketing Digital</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketing Digital</span></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nosso trabalho vai muito além da realização do seu projeto! Nossa equipe possui conhecimento e experiência nos melhores canais de Marketing Digital, desde a produção de conteúdos para blog e materiais ricos até a otimização de investimentos em campanhas de mídia paga, tudo para que o seu e-commerce alcance os melhores resultados de vendas.</span></p>",
         "__resolveType": "site/sections/Services/Card4.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
