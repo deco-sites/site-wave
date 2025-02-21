@@ -33,16 +33,9 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Fundada em 1973, a COOK, inicialmente especializada na criação de cozinhas, despensas, banhos e áreas planejadas, evoluiu para </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">COZINHAS COOK ELETRORARO</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, que é a soma da empresa original com o comércio de eletrodomésticos de primeira linha.</span></p>",
-        "description": "<p><span style=\"font-size: 15pt\">É uma </span><strong><span style=\"font-size: 15pt\">grande variedade de produtos sofisticados das mais conceituadas marcas nacionais e importadas</span></strong><span style=\"font-size: 15pt\">. Tudo isso faz da Cook um referencial de compras pela internet para tornar a sua casa ainda mais especial.</span></p><p><span style=\"font-size: 14pt\"><br></span></p>"
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Fundada em 1973, a COOK, inicialmente especializada na criação de cozinhas, despensas, banhos e áreas planejadas, evoluiu para </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">COZINHAS COOK ELETRORARO</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, que é a soma da empresa original com o comércio de eletrodomésticos de primeira linha.</span></p><p></p><p><span style=\"font-size: 15pt\">É uma </span><strong><span style=\"font-size: 15pt\">grande variedade de produtos sofisticados das mais conceituadas marcas nacionais e importadas</span></strong><span style=\"font-size: 15pt\">. Tudo isso faz da Cook um referencial de compras pela internet para tornar a sua casa ainda mais especial.</span></p><p><span style=\"font-size: 14pt\"><br></span></p>"
       }
     },
     {
@@ -104,7 +97,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">Em menos de um 1 ano de trabalho...</span></p>"
       }
     },
@@ -138,7 +131,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></strong></h2>",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></strong></p>",
         "description": "<p><span style=\"font-size: 15pt\">Em nossa participação no Fórum do E-commerce Brasil de 2024, o André, gestor da Cook Eletroraro, comentou sobre o trabalho com a Wave Commerce!</span></p>"
       }
     },
@@ -153,8 +146,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(248, 247, 247)\">“A equipe o tempo todo está disposta a nos ajudar com </span><span style=\"color: rgb(0, 91, 205)\">estratégias </span><span style=\"color: rgb(0, 92, 206)\">novas, novos insights</span><span style=\"color: rgb(248, 247, 247)\">. Experiência muito boa!”</span></p>",
-        "description": "<h2>Destacando o engajamento entre as equipes da Wave na busca por resultados.</h2>"
+        "title": "<p><span style=\"color: rgb(248, 247, 247); font-size: 20pt\">“A equipe o tempo todo está disposta a nos ajudar com </span><span style=\"color: rgb(0, 91, 205); font-size: 20pt\">estratégias </span><span style=\"color: rgb(0, 92, 206); font-size: 20pt\">novas, novos insights</span><span style=\"color: rgb(248, 247, 247); font-size: 20pt\">. Experiência muito boa!”</span></p>",
+        "description": "<h2><span style=\"font-size: 15pt\">Destacando o engajamento entre as equipes da Wave na busca por resultados.</span></h2>"
       }
     },
     {
@@ -182,7 +175,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></strong></h2>",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></strong></p>",
         "description": "<p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">No início de maio, a empresa passou por uma </span><strong><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">migração de VTEX CMS para VTEX IO</span></strong><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">, período que pode ser complicado. No entanto, a adaptação foi rápida. A partir de um estudo de VTEX IO personalizado para Cook Eletroraro, em que foi possível entender onde melhorias poderiam ser implementadas, o site passou por um processo de “relayout” (mudança da disposição dos elementos visuais da página). </span><span style=\"font-size: 15pt\">Com os aplicativos personalizados e o site editor da VTEX IO, o site teve uma melhora enorme em sua acessibilidade e facilitou a gestão de conteúdo, resultando em avanços expressivos para performance. Além disso, o SEO do site se tornou muito mais simples e eficiente. Isso foi um fator determinante para os recordes alcançados.</span></p><p></p>"
       }
     },
@@ -190,7 +183,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "size": "medium"
       }
     },
     {

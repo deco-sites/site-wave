@@ -33,13 +33,6 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O Escafandro iniciou suas atividades no e-commerce no final de 2021, lançado pelo ator Alex Morenno, vem ganhando espaço e notoriedade no mercado desde o início das atividades. Atuando no segmento de beachwear, a marca entrega peças sofisticadas e com uma excelente qualidade, além de várias opções de cores e modelagens.</span></p>"
@@ -99,7 +92,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Mais detalhes do Case</span></p>"
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Mais detalhes do Case</span></p>"
       }
     },
     {
@@ -113,7 +106,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "size": "medium"
       }
     },
     {

@@ -33,15 +33,8 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p>Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.<br><br></p>",
+        "title": "<p><span style=\"color: #0066e4; font-size: 25pt\">Foi se inspirando numa filosofia de equilíbrio entre corpo, alma, ser&nbsp;e saúde que nasceu a True Source.</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">A marca de suplementos valoriza os ingredientes naturais e a formulação limpa, sem abrir mão de qualidade e sabor. Para seguir esse caminho, a True Source criou produtos livres de açúcar, lactose, glúten e corantes artificiais, reduziu teores de sódio e carboidratos e ainda enriqueceu suas fórmulas com nutrientes como glutamina, BCAA e vitamina B12*. Tudo para </span><strong><span style=\"font-size: 15pt\">proporcionar a suplementação perfeita</span></strong><span style=\"font-size: 15pt\"> para sua dieta e aumentar o desempenho dos seus treinos.</span></p>"
       }
     },
@@ -106,7 +99,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">Adriano Rabelo, diretor de E-commerce da True Source, destaca o conhecimento avançado da Wave Commerce sobre a plataforma VTEX como </span><strong><span style=\"font-size: 15pt\">um dos principais pontos fortes da agência</span></strong><span style=\"font-size: 15pt\">. Em nossa participação no Fórum do E-commerce Brasil de 2024, o Vitor, da True Source, também comentou um pouquinho sobre o trabalho com a Wave!</span></p><p></p>"
       }
     },
@@ -157,7 +150,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados com a parceria</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados com a parceria</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">Após a implementação das soluções pela Wave Commerce, a True Source observou melhorias significativas em vários aspectos:</span></p>"
       }
     },
@@ -209,15 +202,8 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Deco CX. + True Source</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Deco CX. + True Source</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">No mês de Abril, concluímos a etapa de desenvolvimento do projeto de True Source e o resultado da parceria entre a Wave Commerce e Deco.CX trouxe </span><strong><span style=\"font-size: 15pt\">melhorias significativas que impactaram diretamente na performance e usabilidade do site</span></strong><span style=\"font-size: 15pt\">. Em Deco.CX, nossos programadores conseguem maior controle do código para criar e desenvolver projetos com inúmeras funcionalidades. Além disso, a Deco tem uma quantidade menor de Javascript na programação, o que torna o site mais rápido em comparação a outros players.</span></p>"
       }
     },
@@ -225,7 +211,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "size": "medium"
       }
     },
     {

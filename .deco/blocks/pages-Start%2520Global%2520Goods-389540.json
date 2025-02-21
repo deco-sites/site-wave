@@ -33,15 +33,8 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Start Global Goods inaugura e-commerce na Shopify US</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Start Global Goods inaugura e-commerce na Shopify US</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">A marca de suplementos valoriza os ingredientes naturais e a formulação limpa, sem abrir mão de qualidade e sabor.<br>A Start Global Goods é uma empresa cuja missão é levar até as pessoas os melhores produtos do mundo. Possuem uma gama de artigos diversificados que se adequam em diferentes áreas da vida, contando com produtos de beleza e cuidados pessoais, joias, além de itens para pets.</span></p><p></p><p><span style=\"font-size: 15pt\">A empresa atua nos Estados Unidos, vendendo produtos da melhor qualidade para o mercado americano, tendo como destaque a manteiga de cacau da Naturavene, que é 100% fabricada com produtos brasileiros.</span></p>"
       }
     },
@@ -104,7 +97,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Parceria com a Wave</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Parceria com a Wave</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">A primeira etapa do projeto foi o processo de análise de mercado e planejamento para desenvolver o e-commerce na plataforma da Shopify US. Após a pesquisa, nosso time de Shopify Experts realizou desde a escolha de layout, cadastro de produtos, descrições em inglês, otimização de imagens do site até SEO das páginas. O trabalho todo foi realizado com técnicas voltadas para uma boa experiência dos consumidores da loja, de acordo com os objetivos e expectativas do cliente.</span></p><p></p><p><span style=\"font-size: 15pt\">Além do lançamento do site em maio deste ano, auxiliamos também na abertura da empresa, junto aos parceiros da Globalfy, na construção da marca e estratégias de vendas e na definição da operação do e-commerce nos Estados Unidos.</span></p><p></p><p><span style=\"font-size: 15pt\">Hoje, seguimos trabalhando em conjunto com o Thiago e com o time da Start Global Goods para propagar a marca e aumentar as vendas da loja, atuando com os serviços de Mídia Paga, Social Media, Criação, Integração e Performance dentro dos Marketplaces dos EUA, como por exemplo, na Amazon US.</span></p>"
       }
     },
@@ -126,7 +119,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "size": "medium"
       }
     },
     {

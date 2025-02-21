@@ -56,7 +56,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Termolar + Wave Commerce</span></strong></h2>",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Termolar + Wave Commerce</span></strong></p>",
         "description": "<p><span style=\"font-size: 15pt\">Depois de um período de crescimento da Termolar e do E-commerce como um todo durante a pandemia, a empresa se viu estagnada em 2022. Em busca de novas alternativas que se firmou a parceria entre Termolar e Wave Commerce. Foram contratados serviços de</span><strong><span style=\"font-size: 15pt\"> SEO, Design, Mídia Paga, E-mail Marketing, Conteúdo, Marketplace, E-commerce e Atendimento</span></strong><span style=\"font-size: 15pt\">.</span></p>"
       }
     },
@@ -86,7 +86,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">Ao longo desta parceria, o e-commerce de Termolar obteve diversas melhorias e resultados positivos como:<br></span></p>"
       }
     },
@@ -171,7 +171,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "size": "medium"
       }
     },
     {

@@ -33,13 +33,6 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Banca 43 começou sua história em 1949 como uma fiambreria, localizada no Mercado Público de Porto Alegre. Hoje a empresa tornou-se um empório gourmet que conta com mais de duas mil opções em produtos naturais, sem glúten, sem lactose, a granel, especiarias e carnes exóticas, além de vinhos, espumantes, e uma variedade de produtos nacionais e importados.</span></p>"

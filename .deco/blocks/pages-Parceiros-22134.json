@@ -91,8 +91,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://data.decoassets.com/site-wave/a45e628f-a99e-43dc-a0e8-32a88306ef46/desk-shopify-parceiro.jpg",
-        "imageMobile": "https://data.decoassets.com/site-wave/be523205-f516-43fd-8477-dd5809c44daa/mob-shopify-case.jpg",
+        "imageDesktop": "https://data.decoassets.com/site-wave/c85db9ff-5fea-44c6-80d8-8a0e4685c1d2/desk-shopify-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/268821af-6d0e-42e8-8176-7ca9a23bcdb7/mob-shopify-case.jpg",
         "button": {
           "link": "/shopify",
           "label": "Saiba mais"
@@ -176,6 +176,19 @@
           "label": "Saiba mais"
         },
         "title": "Olist Vnda"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/85028790-8e4c-40f1-bf1c-e79715f3c462/desk-cws-parceiro.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/311153bc-84d1-4e86-80d7-e5cc12ac38b0/mob-cws-case.jpg",
+        "button": {
+          "link": "/cws-platform",
+          "label": "Saiba mais"
+        },
+        "title": "CWS Platform"
       }
     },
     {

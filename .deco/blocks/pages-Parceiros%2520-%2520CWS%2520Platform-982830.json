@@ -1,0 +1,134 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://data.decoassets.com/site-wave/70ca943b-4c00-4ef5-849b-09648f818858/desk-cws.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://data.decoassets.com/site-wave/dc22ed24-1e10-4710-b1ec-ee03017d9e11/mob-cws.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira CWS Plaftform",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "Somos uma agência parceira da CWS Platform, a plataforma mais flexível do mercado para digitalizar e aumentar suas vendas."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><strong><span style=\"color: rgb(243, 243, 243); font-size: 15pt\">Início da Jornada:</span></strong><span style=\"color: rgb(243, 243, 243); font-size: 15pt\"> Vinicius Dias e Fernando Cymrot, fundadores da CWS Platform, se conheceram na USP durante a faculdade e começaram a trabalhar no mercado financeiro; lá, descobriram como a tecnologia expandiu o potencial das negociações na bolsa de valores e buscaram trazer o mesmo conceito para o setor de peças, que estava muito atrasado digitalmente. Assim, em 2012, criaram o Canal da Peça, um marketplace que conecta varejistas de peças automotivas a mecânicos.</span></p><p><span style=\"color: rgb(243, 243, 243); font-size: 15pt\"><br></span></p><p><strong><span style=\"color: rgb(243, 243, 243); font-size: 15pt\">Expansão e Inovação:</span></strong><span style=\"color: rgb(243, 243, 243); font-size: 15pt\"> O marketplace foi um enorme sucesso, acumulando vários prêmios de inovação. Em 2017, o negócio se transformou quando começaram a ajudar seus parceiros (fabricantes de peças) a construir suas próprias plataformas de vendas digitais. Desse forma, nasce a CWS Platform, uma plataforma para ajudar empresas tradicionais a adaptarem seu modelo de negócios ao digital. Com o tempo, a CWS expandiu suas soluções para atender diversos mercados, como o agronegócio e setor de construção.</span></p><p><span style=\"color: rgb(243, 243, 243); font-size: 15pt\"><br></span></p><p><strong><span style=\"color: rgb(243, 243, 243); font-size: 15pt\">Compromisso com a Inovação:</span></strong><span style=\"color: rgb(243, 243, 243); font-size: 15pt\"> Hoje, a CWS Platform é uma parceira de confiança de empresas globais e de capital aberto, desenvolvendo grandes projetos de Transformação Digital. Inovamos continuamente para aumentar as vendas e reduzir os custos de transação dos nossos clientes com tecnologias inovadoras. Recentemente, temos investido nossos esforços para desenvolver jornadas com o uso de Inteligência Artificial para aumentar vendas e conversão através da plataforma.</span></p>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a CWS Platform</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p></p>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a CWS Platform?</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "secondary",
+            "icon": "https://data.decoassets.com/site-wave/930665a7-dcf2-41cf-9218-d468edaa81c0/user-switch.png",
+            "title": "Marketplace Center:",
+            "paragraph": "Gere receita sem investir em estoques com a integração de lojistas"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://data.decoassets.com/site-wave/5fba4984-3ae3-40c9-a4ff-6e96de635b5d/gender-neuter.png",
+            "title": "AI Shopper Assistant:",
+            "paragraph": "Aumente a eficiência dos atendimentos com uma I.A para seus vendedores"
+          },
+          {
+            "titleColor": "secondary",
+            "icon": "https://data.decoassets.com/site-wave/763e1cf4-cfe4-4ae7-983c-174895dc4212/coin-vertical.png",
+            "title": "Shopper Pro:",
+            "paragraph": "Ofereça uma jornada de navegação personalizada e interativa para o vendedor"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência parceira CWS Platform</span></strong></p>",
+        "description": "<p><span style=\"font-size: 15pt\">Uma das maiores plataformas digitais da atualidade que acredita no potencial dos nossos serviços! Somos parceiros da CWS e assim como eles, acreditamos em relações que vão além das transações, oferecendo soluções personalizadas para desenvolver e potencializar o seu negócio na internet. O time Wave está preparado para entregar novas formas de atendimento, acompanhamento comercial e de projetos, além de outros serviços, sob medida, para alavancar suas vendas no digital.<br><br></span><strong><span style=\"font-size: 15pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"font-size: 15pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e indicados pela CWS.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2><h2><br></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"https://sites-site-wave--staging.decocdn.com/servi%C3%A7os/performance\"><span style=\"font-size: 15pt\">performance para E-commerce</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "name": "Parceiros - CWS Platform",
+  "path": "/cws-platform"
+}

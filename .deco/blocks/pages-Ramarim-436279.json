@@ -56,7 +56,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 227); font-size: 20pt\">Deco CX. + Ramarim</span></strong></h3>"
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 227); font-size: 25pt\">Deco CX. + Ramarim</span></strong></p>"
       }
     },
     {
@@ -108,7 +108,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Resultados alcançados</span></h3>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"font-size: 15pt\">deco.cx</span></a><span style=\"font-size: 15pt\"> é conhecida por seu excelente desempenho em page speed, e isso pôde ser confirmado no marketplace de Ramarim. Após a migração, o site apresentou resultados muito acima da média em tempo de carregamento.</span></p><p><span style=\"font-size: 15pt\"><br></span></p>"
       }
     },
@@ -153,7 +153,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Ganho de performance em tempo de carregamento</span></h3>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Ganho de performance em tempo de carregamento</span></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://deco.cx\"><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">deco.cx</span></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> é conhecida por seu excelente desempenho em page speed, e isso pôde ser confirmado no marketplace de Ramarim. Após a migração, o site apresentou resultados muito acima da média em tempo de carregamento.</span></p>"
       }
     },

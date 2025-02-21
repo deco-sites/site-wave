@@ -33,16 +33,9 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"color: rgb(240, 240, 240); font-size: 15pt\">A </span><strong><span style=\"color: rgb(240, 240, 240); font-size: 15pt\">Sex Shop Atacadão</span></strong><span style=\"color: rgb(240, 240, 240); font-size: 15pt\"> nasceu e cresceu na capital das Minas Gerais, Belo Horizonte. Embora tenha começado como uma pequena loja no centro da cidade, sempre houve o sonho de ser uma grande distribuidora de produtos eróticos.</span></p><h2><span style=\"color: rgb(240, 240, 240); font-size: 14pt\"><br></span></h2>",
-        "description": "<h2></h2><h2><span style=\"color: rgb(247, 247, 247)\"><br></span></h2>"
+        "description": "<p></p>"
       }
     },
     {
@@ -97,7 +90,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Wave + SSA</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Wave + SSA</span></p>",
         "description": "<p></p>"
       }
     },
@@ -131,7 +124,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Relato do Cliente</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">Rejane, CEO da Sex Shop Atacadão, procurou a Wave porque </span><strong><span style=\"font-size: 15pt\">precisava de um time com atendimento personalizado</span></strong><span style=\"font-size: 15pt\">, especialista em varejo e focado em trazer resultados. Com contratos para social media, email marketing, design, SEO e mídia paga, a Wave Commerce vêm trazendo resultados crescentes para a empresa. E no mês de maio desse ano, o negócio atingiu </span><strong><span style=\"font-size: 15pt\">marca histórica de faturamento no e-commerce</span></strong><span style=\"font-size: 15pt\">.</span></p><p></p><p><span style=\"font-size: 15pt\">Confira no vídeo abaixo o que a Rejane considera como a chave do sucesso entre a parceria Wave + Sex Shop Atacadão:</span></p>"
       }
     },
@@ -160,7 +153,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></h2>",
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></p>",
         "description": "<p></p>"
       }
     },
@@ -183,7 +176,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "size": "medium"
       }
     },
     {

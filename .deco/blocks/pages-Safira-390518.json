@@ -33,15 +33,8 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor experiência de compra.<br><br>A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></p>",
+        "title": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor experiência de compra.<br>A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></p>",
         "description": "<p></p>"
       }
     },
@@ -56,7 +49,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 227); font-size: 18pt\">Relato do cliente</span></strong></h3><p></p>",
+        "title": "<p><strong><span style=\"color: rgb(0, 102, 227); font-size: 20pt\">Relato do cliente</span></strong></p><p></p>",
         "description": "<p></p>"
       }
     },
@@ -71,7 +64,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: #faf9f9\">“</span><span style=\"color: #0063db\">Visão de dono do negócio</span><span style=\"color: #faf9f9\">, fazendo parte da empresa e trabalhando em&nbsp;sinergia para obter os melhores resultados”.</span></p><p></p>",
+        "title": "<p><span style=\"color: rgb(250, 249, 249); font-size: 20pt\">“</span><span style=\"color: rgb(0, 99, 219); font-size: 20pt\">Visão de dono do negócio</span><span style=\"color: rgb(250, 249, 249); font-size: 20pt\">, fazendo parte da empresa e trabalhando em&nbsp;sinergia para obter os melhores resultados”.</span></p><p></p>",
         "description": "<h3><strong>Lúcia Fraga – Gerente E-commerce da Safira.</strong></h3>"
       }
     },
@@ -92,16 +85,15 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Diferenciais da Wave:</span></strong></h2><p></p><p></p>",
-        "description": "<ul><li><p></p></li><li><p><span style=\"font-size: 15pt\">– Especialização no varejo: Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br><br>– Equipe capacitada: Wave preocupada em ter uma equipe atualizada com&nbsp;as principais tendências de mercado para proporcionar os melhores&nbsp;resultados.</span></p></li><li><p><span style=\"font-size: 15pt\">&nbsp;</span></p></li><li><p><span style=\"font-size: 15pt\">– Aumento de faturamento expressivo com pouco crescimento do&nbsp;investimento, resultando num maior retorno e margem</span></p></li></ul>"
+        "__resolveType": "site/sections/Services/Cards.tsx",
+        "sections": [
+          {
+            "title": "<p>Diferenciais da Wave:</p>",
+            "description": "<ul><li><p><strong>Especialização no varejo:</strong> Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br></p></li><li><p><strong>Equipe capacitada:</strong> Wave preocupada em ter uma equipe atualizada com as principais tendências de mercado para proporcionar os melhores resultados.</p></li><li>Aumento de faturamento expressivo com pouco crescimento do investimento, resultando num maior retorno e marge</li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          }
+        ],
+        "cta": {}
       }
     },
     {
