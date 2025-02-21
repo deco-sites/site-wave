@@ -58,9 +58,9 @@
       "url": "/criacao-e-design"
     },
     {
-      "icon": "DigitalPerformance",
       "text": "CRM",
-      "url": "/crm"
+      "url": "/crm",
+      "icon": "DigitalPerformance"
     },
     {
       "icon": "EcommerceBasket",
