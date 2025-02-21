@@ -264,44 +264,69 @@
       "__resolveType": "site/sections/Content/CardCases.tsx",
       "cards": [
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/9aba44e7-f166-4cfb-bd16-6be70afd1594",
-          "label": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "title": "Safira",
-          "content": "Safira",
-          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
+          "image": "https://data.decoassets.com/site-wave/c72b3532-32ce-491b-bdae-e639633266d8/case-gremio-home.jpg",
+          "title": "Grêmio",
+          "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce.",
           "isEmptyBrand": true,
-          "link": "/safira"
+          "link": "/gremio"
         },
         {
-          "link": "/hocks",
+          "link": "/friopecas",
+          "image": "https://data.decoassets.com/site-wave/617d0814-d85a-4a51-8ecc-9f2eaed79f7a/case-friopecas-home.png",
+          "isEmptyBrand": true,
+          "title": "Friopeças",
+          "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/c82c2f88-0b7d-4e44-8773-08cfbad5e4e9/case-true-home.jpg",
+          "isEmptyBrand": true,
+          "link": "/true-source",
+          "subtitle": "Revolução no E-commerce após migração para Deco.cx",
+          "title": "True Souce"
+        },
+        {
+          "image": "https://data.decoassets.com/site-wave/b3022ed9-6cce-4c92-9ca1-671bd3b7c928/case-ramarim-home.jpg",
+          "title": "Ramarim",
+          "isEmptyBrand": true,
+          "link": "/ramarim",
+          "subtitle": "Primeiro marketplace feito em Deco cx"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/78e60a0a-4517-428c-addf-8befeaf89e7e",
+          "title": "Termolar",
+          "isEmptyBrand": true,
+          "link": "/termolar",
+          "subtitle": "Como em 1 ano de parceria a empresa aumentou todos os seus indicadores"
+        },
+        {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/9aba44e7-f166-4cfb-bd16-6be70afd1594",
+          "title": "Safira",
+          "isEmptyBrand": true,
+          "link": "/safira",
+          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
+          "label": "Expansão de vendas para todo o Brasil com Omnichannel",
+          "content": "Safira"
+        },
+        {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5c1decb7-9427-4b8b-b0f6-25f7c4a76dec",
           "title": "Hocks",
-          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "isEmptyBrand": false
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d5cc2434-0868-4b7a-8758-4192a74563a6",
-          "title": "Dog.u",
-          "isEmptyBrand": true,
-          "link": "/dog.u"
+          "isEmptyBrand": false,
+          "link": "/hocks",
+          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a63c56c6-5798-438e-b599-3dcd51ed3fb6",
           "title": "Cook Eletroraro",
           "isEmptyBrand": true,
-          "link": "/cook-eletroraro"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/c507bcb2-2214-4581-af26-b3f292ef08c3",
-          "title": "Sex Shop Atacadão",
-          "isEmptyBrand": true,
-          "link": "/sex-shop-atacadao"
+          "link": "/cook-eletroraro",
+          "subtitle": "Como o E-commerce bateu recordes de faturamento"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
           "title": "O Escafandro",
           "isEmptyBrand": true,
-          "link": "/escafandro"
+          "link": "/escafandro",
+          "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso"
         },
         {
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5f02c222-cfd7-44b1-8d19-0903608be3a4",
@@ -309,36 +334,6 @@
           "isEmptyBrand": true,
           "link": "/start-global-goods",
           "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e3011ea3-5181-4f39-8066-fb3380c8598e",
-          "title": "Casa e Casa",
-          "isEmptyBrand": true,
-          "link": "/casa-a-casa"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2d530617-5ae2-48c0-86d0-a052074ed4bf",
-          "title": "BBDU",
-          "isEmptyBrand": true,
-          "link": "/bbdu"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d7c8ef88-c9fe-42d9-adc9-f25c96a10257",
-          "title": "Banca 43",
-          "isEmptyBrand": true,
-          "link": "/banca-43"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/78e60a0a-4517-428c-addf-8befeaf89e7e",
-          "title": "Termolar",
-          "isEmptyBrand": true,
-          "link": "/termolar"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/78e60a0a-4517-428c-addf-8befeaf89e7e",
-          "isEmptyBrand": true,
-          "link": "/ramarim",
-          "title": "Ramarim"
         }
       ]
     },
