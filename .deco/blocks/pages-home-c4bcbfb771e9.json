@@ -60,7 +60,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
+        "size": "large"
       }
     },
     {
