@@ -48,39 +48,49 @@
   "__resolveType": "site/apps/site.ts",
   "servicesSelector": [
     {
-      "url": "#",
-      "icon": "DigitalPerformance",
-      "text": "Performance Digital"
-    },
-    {
-      "url": "#",
-      "icon": "SEO",
-      "text": "SEO"
-    },
-    {
-      "url": "#",
-      "icon": "EcommerceCart",
-      "text": "Estruturação de E-commerce"
-    },
-    {
-      "url": "#",
-      "icon": "Marketplace",
-      "text": "Marketplace"
-    },
-    {
-      "url": "#",
       "icon": "DigitalContent",
-      "text": "Conteúdo Digital"
+      "text": "Conteúdo Digital",
+      "url": "/conteudo-digital"
     },
     {
-      "url": "#",
       "icon": "Design",
-      "text": "Criação e Design"
+      "text": "Criação e Design",
+      "url": "/criacao-e-design"
     },
     {
-      "url": "#",
+      "icon": "DigitalPerformance",
+      "text": "CRM",
+      "url": "/crm"
+    },
+    {
       "icon": "EcommerceBasket",
-      "text": "E-commerce nos EUA"
+      "text": "E-commerce nos EUA",
+      "url": "/ecommerce-eua"
+    },
+    {
+      "icon": "EcommerceCart",
+      "text": "Estruturação de E-commerce",
+      "url": "/implementacao-de-ecommerce"
+    },
+    {
+      "icon": "Marketplace",
+      "text": "Marketplace",
+      "url": "/marketplace"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Performance Digital",
+      "url": "/performance"
+    },
+    {
+      "icon": "SEO",
+      "text": "SEO",
+      "url": "/seo"
+    },
+    {
+      "icon": "Marketplace",
+      "text": "Fulfillment",
+      "url": "/fulfillment"
     }
   ],
   "firstByteThresholdMS": true,
