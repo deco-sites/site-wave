@@ -19,8 +19,9 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Content/Hero.tsx",
-        "description": "This text is entirely editable, tailor it freely.",
-        "title": "<p>Click here to tweak this text however you want.</p>"
+        "description": "<p>Marketing para E-commerce</p>",
+        "title": "<h1>Blog</h1>",
+        "cta": []
       }
     },
     {

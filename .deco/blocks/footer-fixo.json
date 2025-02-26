@@ -143,24 +143,36 @@
     {
       "items": [
         {
-          "href": "/cases/termolar",
-          "label": "Termolar"
+          "href": "/friopecas",
+          "label": "Friopeças"
         },
         {
-          "href": "/cases/cook-eletroraro",
+          "label": "Grêmio",
+          "href": "/gremio"
+        },
+        {
+          "href": "/cook-eletroraro",
           "label": "Cook Eletroraro"
         },
         {
-          "href": "/cases/sex-shop-atacadao",
+          "href": "/sex-shop-atacadao",
           "label": "Sex Shop Atacadão"
         },
         {
-          "href": "/cases/safira",
+          "href": "/safira",
           "label": "Safira"
         },
         {
-          "href": "/cases",
-          "label": "ver todos"
+          "label": "Termolar",
+          "href": "/termolar"
+        },
+        {
+          "label": "True Source",
+          "href": "/true-source"
+        },
+        {
+          "label": "ver todos",
+          "href": "/cases"
         }
       ],
       "label": "Cases",
