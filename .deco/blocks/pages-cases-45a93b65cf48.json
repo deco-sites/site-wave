@@ -176,8 +176,8 @@
         "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/945a17af-5262-4ff7-99cf-decc32149ca4/desk-cookeletroraro-case.jpg",
         "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/43ae0294-7902-4dab-96b1-f18a06d06d03/mob-cookeletroraro-case.jpg",
         "button": {
-          "link": "/Cook%20Eletroraro",
-          "label": "Saiba mais"
+          "label": "Saiba mais",
+          "link": "/cook-eletroraro"
         },
         "subtitle": "Como o E-commerce bateu recordes de faturamento",
         "title": "Cook Eletroraro"

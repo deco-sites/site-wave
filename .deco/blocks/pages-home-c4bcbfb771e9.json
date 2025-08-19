@@ -81,14 +81,15 @@
           "title": "bilhão",
           "iconPlus": "+",
           "subtitle": "de faturamento no e-commerce",
-          "targetNumber": 1
+          "targetNumber": 60
         },
         {
           "subtitle": "países atendidos",
-          "targetNumber": 7
+          "iconPlus": "+",
+          "targetNumber": 10
         },
         {
-          "subtitle": "anos de experiência no mercado",
+          "subtitle": "anos entregando excelência e resultado",
           "targetNumber": 7,
           "iconPlus": "+"
         }
