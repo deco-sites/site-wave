@@ -25,24 +25,15 @@
       "name": "Soluções",
       "children": [
         {
-          "url": "/conteudo-digital",
-          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/ce07b227-be78-4aac-affc-5dd3c3571f74",
-          "name": "Conteúdo Digital"
+          "url": "/performance",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/642bb27c-8c75-4d13-8d55-f805954d18d3",
+          "name": "Branding e Performance",
+          "title": "soluções para o seu negócio"
         },
         {
-          "url": "/criacao-e-design",
-          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4208db50-dd47-440a-89fe-b58448896f93",
-          "name": "Criação e Design"
-        },
-        {
-          "url": "/crm",
-          "icon": "https://data.decoassets.com/site-wave/7d16a321-3adb-40ed-b13b-b9c3425ec5a0/crm-branco.svg",
-          "name": "CRM"
-        },
-        {
-          "url": "/ecommerce-eua",
-          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d7a74e3c-18e7-427b-a1fa-b032fe439d81",
-          "name": "E-commerce nos EUA"
+          "url": "/seo",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4a54479b-e41e-420c-9072-da91328ae078",
+          "name": "SEO para e-commerce"
         },
         {
           "url": "/implementacao-de-ecommerce",
@@ -51,25 +42,51 @@
           "title": "soluções para o seu negócio"
         },
         {
-          "url": "/fulfillment",
-          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142",
-          "name": "Fulfillment"
+          "url": "/ecommerce-eua",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d7a74e3c-18e7-427b-a1fa-b032fe439d81",
+          "name": "E-commerce Internacional"
         },
         {
-          "url": "/marketplace",
-          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/6b15122f-174d-4d6f-9dae-3b79145a0944",
-          "name": "Marketplace"
+          "url": "/crm",
+          "icon": "https://data.decoassets.com/site-wave/7d16a321-3adb-40ed-b13b-b9c3425ec5a0/crm-branco.svg",
+          "name": "CRM"
         },
         {
-          "name": "Performance Digital",
-          "url": "/performance",
-          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/642bb27c-8c75-4d13-8d55-f805954d18d3",
+          "url": "#",
+          "icon": "https://data.decoassets.com/site-wave/0497c78d-143a-4efc-88a9-2c6b5e685a2a/lightbulb-filament.png",
+          "name": "Criação e marketing para APP",
           "title": "soluções para o seu negócio"
         },
         {
-          "name": "SEO",
-          "url": "/seo",
-          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4a54479b-e41e-420c-9072-da91328ae078"
+          "url": "#",
+          "icon": "https://data.decoassets.com/site-wave/aee0eebc-2919-4e47-b147-0c161f685ea1/head-circuit.png",
+          "name": "Suporte e evolução",
+          "title": "soluções para o seu negócio"
+        },
+        {
+          "name": "Marketplace IN e Out",
+          "url": "/marketplace",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/6b15122f-174d-4d6f-9dae-3b79145a0944"
+        },
+        {
+          "name": "CRO",
+          "url": "#",
+          "icon": "https://data.decoassets.com/site-wave/aee0eebc-2919-4e47-b147-0c161f685ea1/head-circuit.png"
+        },
+        {
+          "name": "Design - UX e UI",
+          "url": "/criacao-e-design",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4208db50-dd47-440a-89fe-b58448896f93"
+        },
+        {
+          "name": "Conteúdo Digital",
+          "url": "/conteudo-digital",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/ce07b227-be78-4aac-affc-5dd3c3571f74"
+        },
+        {
+          "name": "Fulfillment",
+          "url": "/fulfillment",
+          "icon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
         }
       ],
       "image": {
