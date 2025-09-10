@@ -94,10 +94,12 @@ import * as $$$$$$79 from "./sections/Services/Card4.tsx";
 import * as $$$$$$80 from "./sections/Services/Cards.tsx";
 import * as $$$$$$81 from "./sections/Services/Hero.tsx";
 import * as $$$$$$82 from "./sections/Services/Selector.tsx";
-import * as $$$$$$83 from "./sections/Social/InstagramPosts.tsx";
-import * as $$$$$$84 from "./sections/Social/WhatsApp.tsx";
-import * as $$$$$$85 from "./sections/Space.tsx";
-import * as $$$$$$86 from "./sections/Theme/Theme.tsx";
+import * as $$$$$$83 from "./sections/Services/ServicePage.tsx";
+import * as $$$$$$84 from "./sections/Services/servicesCards.tsx";
+import * as $$$$$$85 from "./sections/Social/InstagramPosts.tsx";
+import * as $$$$$$86 from "./sections/Social/WhatsApp.tsx";
+import * as $$$$$$87 from "./sections/Space.tsx";
+import * as $$$$$$88 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "loaders": {
@@ -191,10 +193,12 @@ const manifest = {
     "site/sections/Services/Cards.tsx": $$$$$$80,
     "site/sections/Services/Hero.tsx": $$$$$$81,
     "site/sections/Services/Selector.tsx": $$$$$$82,
-    "site/sections/Social/InstagramPosts.tsx": $$$$$$83,
-    "site/sections/Social/WhatsApp.tsx": $$$$$$84,
-    "site/sections/Space.tsx": $$$$$$85,
-    "site/sections/Theme/Theme.tsx": $$$$$$86,
+    "site/sections/Services/ServicePage.tsx": $$$$$$83,
+    "site/sections/Services/servicesCards.tsx": $$$$$$84,
+    "site/sections/Social/InstagramPosts.tsx": $$$$$$85,
+    "site/sections/Social/WhatsApp.tsx": $$$$$$86,
+    "site/sections/Space.tsx": $$$$$$87,
+    "site/sections/Theme/Theme.tsx": $$$$$$88,
   },
   "apps": {
     "site/apps/deco/blog.ts": $$$$$$$$$$$0,

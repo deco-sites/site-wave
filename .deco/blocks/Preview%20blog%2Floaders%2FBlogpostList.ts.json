@@ -2,7 +2,7 @@
   "__resolveType": "blog/loaders/BlogpostList.ts",
   "sortBy": "date_asc",
   "page": 1,
-  "count": 10,
+  "count": 20,
   "slug": {
     "__resolveType": "website/functions/requestToParam.ts",
     "param": "slug"

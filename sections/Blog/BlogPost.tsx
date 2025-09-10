@@ -46,7 +46,8 @@ const DEFAULT_PROPS: BlogPost = {
 function SocialIcons() {
   return (
     <div class="flex gap-2">
-      {/* <div class="bg-gray-200 rounded-full p-1">
+      {
+        /* <div class="bg-gray-200 rounded-full p-1">
         <Icon id="Link" size={24} />
       </div>
       <div class="bg-gray-200 rounded-full p-1">
@@ -57,7 +58,8 @@ function SocialIcons() {
       </div>
       <div class="rounded-full bg-gray-200 p-1">
         <Icon id="FacebookOutline" size={24} />
-      </div> */}
+      </div> */
+      }
     </div>
   );
 }
@@ -77,7 +79,7 @@ export default function BlogPost({ page }: Props) {
         <h1 className="text-5xl font-bold">{title}</h1>
         <div className="flex items-center gap-4">
           <Image
-            className="object-cover w-14 h-14 rounded-full"
+            className="object-cover w-14 h-14 rounded-2xl"
             alt={authors[0]?.name}
             src={authors[0]?.avatar || DEFAULT_AVATAR}
             width={56}
@@ -107,14 +109,14 @@ export default function BlogPost({ page }: Props) {
         <div class="w-full h-px bg-zinc-300"></div>
         <div className="flex items-center gap-4">
           <Image
-            className="object-cover w-14 h-14 rounded-full"
+            className="object-cover w-14 h-14 rounded-2xl"
             alt={authors[0]?.name}
             src={authors[0]?.avatar || ""}
             width={56}
             height={56}
           />
           <div className="flex flex-col">
-            <p className="font-semibold text-base">
+            <p className="font-semibold text-base text-white">
               {authors[0].name}
             </p>
             <p className="text-base">

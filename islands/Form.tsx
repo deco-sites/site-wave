@@ -1,4 +1,4 @@
-import { useState, FormEvent } from "preact/hooks";
+import { FormEvent, useState } from "preact/hooks";
 
 // Definindo tipagens para o estado
 interface FormErrors {
@@ -32,7 +32,9 @@ interface CustomSelectProps {
   hasError: boolean;
 }
 
-const CustomCheckbox = ({ id, label, checked, onChange }: CustomCheckboxProps) => {
+const CustomCheckbox = (
+  { id, label, checked, onChange }: CustomCheckboxProps,
+) => {
   return (
     <label class="flex items-center space-x-2 cursor-pointer text-[#D9D9D9]">
       <div class="relative w-5 h-5">
@@ -44,7 +46,9 @@ const CustomCheckbox = ({ id, label, checked, onChange }: CustomCheckboxProps) =
           class="hidden"
         />
         <div
-          class={`w-5 h-5 border-2 flex items-center justify-center rounded-full ${checked ? "bg-[#0066e4] border-[#0066e4]" : "border-[#0066e4]"}`}
+          class={`w-5 h-5 border-2 flex items-center justify-center rounded-full ${
+            checked ? "bg-[#0066e4] border-[#0066e4]" : "border-[#0066e4]"
+          }`}
         >
           {checked && (
             <svg
@@ -80,7 +84,9 @@ const CustomSelect = ({
         value={value}
         onChange={onChange}
         required={required}
-        class={`outline-0 w-full p-2 rounded-full bg-transparent border ${hasError ? "border-red-500" : "border-[#0066e4]"} text-[#D9D9D9] appearance-none`}
+        class={`outline-0 w-full p-2 rounded-full bg-transparent border ${
+          hasError ? "border-red-500" : "border-[#0066e4]"
+        } text-[#D9D9D9] appearance-none`}
       >
         <option value="" disabled>
           Selecione
@@ -100,9 +106,7 @@ const CustomSelect = ({
           class="bi bi-chevron-down"
           viewBox="0 0 16 16"
         >
-          <path
-            d="M1.646 4.646a.5.5 0 0 1 .708 0L8 9.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z"
-          />
+          <path d="M1.646 4.646a.5.5 0 0 1 .708 0L8 9.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z" />
         </svg>
       </div>
     </div>
@@ -111,14 +115,16 @@ const CustomSelect = ({
 
 const FormularioComHtmx = () => {
   const [statusMessage, setStatusMessage] = useState<string | null>(null);
-  const [statusType, setStatusType] = useState<"success" | "error" | null>(null);
+  const [statusType, setStatusType] = useState<"success" | "error" | null>(
+    null,
+  );
   const [name, setName] = useState<string>("");
   const [email, setEmail] = useState<string>("");
   const [telefone, setTelefone] = useState<string>("");
   const [nomeDaEmpresa, setNomeDaEmpresa] = useState<string>("");
   const [plataforma, setPlataforma] = useState<string>("");
   const [cargo, setCargo] = useState<string>("");
-  const [site, setSite] = useState<string>("")
+  const [site, setSite] = useState<string>("");
   const [comoNosConheceu, setComoNosConheceu] = useState<string>("");
   const [numeroFuncionarios, setNumeroFuncionarios] = useState<string>("");
   const [faturamentoMensal, setFaturamentoMensal] = useState<string>("");
@@ -227,7 +233,10 @@ const FormularioComHtmx = () => {
         {/* Nome e Email */}
         <div class="flex items-center flex-col lg:flex-row gap-3 lg:items-end">
           <div class="w-full lg:w-1/2">
-            <label htmlFor="name" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+            <label
+              htmlFor="name"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
               Nome
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
@@ -242,7 +251,10 @@ const FormularioComHtmx = () => {
             />
           </div>
           <div class="w-full lg:w-1/2">
-            <label htmlFor="email" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+            <label
+              htmlFor="email"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
               E-mail corporativo
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
@@ -258,10 +270,12 @@ const FormularioComHtmx = () => {
           </div>
         </div>
         <div class="flex items-center flex-col lg:flex-row gap-3 lg:items-end">
-
           {/* Telefone */}
           <div class="w-full lg:w-1/2">
-            <label htmlFor="telefone" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+            <label
+              htmlFor="telefone"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
               Telefone/Whatsapp
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
@@ -278,7 +292,10 @@ const FormularioComHtmx = () => {
 
           {/* Nome da Empresa */}
           <div class="w-full lg:w-1/2">
-            <label htmlFor="nomeDaEmpresa" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+            <label
+              htmlFor="nomeDaEmpresa"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
               Nome da empresa
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
@@ -295,7 +312,10 @@ const FormularioComHtmx = () => {
         </div>
         {/* Nome da Empresa */}
         <div>
-          <label htmlFor="site" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+          <label
+            htmlFor="site"
+            class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+          >
             Site
             <span class="text-[#0066e4] font-bold">*</span>
           </label>
@@ -312,33 +332,50 @@ const FormularioComHtmx = () => {
         <div class="flex items-center flex-col lg:flex-row gap-3 lg:items-end">
           {/* Faturamento */}
           <div class="w-full lg:w-1/2">
-            <label htmlFor="faturamentoMensal" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
-              Qual o faturamento mensal
-              da sua empresa?
+            <label
+              htmlFor="faturamentoMensal"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
+              Qual o faturamento mensal da sua empresa?
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
             <CustomSelect
               id="faturamento-mensal"
               name="faturamentoMensal"
               value={faturamentoMensal}
-              onChange={(e) => setFaturamentoMensal((e.target as HTMLSelectElement).value)}
+              onChange={(e) =>
+                setFaturamentoMensal((e.target as HTMLSelectElement).value)}
               required
               hasError={errors.faturamentoMensal}
               options={[
                 { label: "Até R$ 100.000", value: "Até R$ 100.000" },
-                { label: "R$ 100.000 - R$ 500.000", value: "R$ 100.000 - R$ 500.000" },
-                { label: "R$ 500.000 - R$ 1.000.000", value: "R$ R$ 500.000 - R$ 1.000.000" },
-                { label: "R$ 1.000.000 - R$ 7.999.000", value: "R$ 1.000.000 - R$ 7.999.000" },
-                { label: "Acima de R$ 8.000.000", value: "Acima de R$ 8.000.000" },
+                {
+                  label: "R$ 100.000 - R$ 500.000",
+                  value: "R$ 100.000 - R$ 500.000",
+                },
+                {
+                  label: "R$ 500.000 - R$ 1.000.000",
+                  value: "R$ R$ 500.000 - R$ 1.000.000",
+                },
+                {
+                  label: "R$ 1.000.000 - R$ 7.999.000",
+                  value: "R$ 1.000.000 - R$ 7.999.000",
+                },
+                {
+                  label: "Acima de R$ 8.000.000",
+                  value: "Acima de R$ 8.000.000",
+                },
               ]}
             />
           </div>
 
           {/* Cargo */}
           <div class="w-full lg:w-1/2">
-            <label htmlFor="plataforma" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
-              Qual plataforma você utiliza
-              no seu e-commerce?
+            <label
+              htmlFor="plataforma"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
+              Qual plataforma você utiliza no seu e-commerce?
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
             <CustomSelect
@@ -362,7 +399,10 @@ const FormularioComHtmx = () => {
         <div class="flex items-center flex-col lg:flex-row gap-3 lg:items-end">
           {/* Como nos conheceu */}
           <div class="w-full lg:w-1/2">
-            <label htmlFor="cargo" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+            <label
+              htmlFor="cargo"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
               Qual o seu cargo?
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
@@ -386,7 +426,10 @@ const FormularioComHtmx = () => {
 
           {/* Número de Funcionários */}
           <div class="w-full lg:w-1/2">
-            <label htmlFor="numeroFuncionarios" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+            <label
+              htmlFor="numeroFuncionarios"
+              class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+            >
               Número de funcionários
               <span class="text-[#0066e4] font-bold">*</span>
             </label>
@@ -408,7 +451,10 @@ const FormularioComHtmx = () => {
         </div>
         {/* Faturamento Mensal */}
         <div>
-          <label htmlFor="comoNosConheceu" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+          <label
+            htmlFor="comoNosConheceu"
+            class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+          >
             Como você conheceu a Wave Commerce?
             <span class="text-[#0066e4] font-bold">*</span>
           </label>
@@ -431,7 +477,10 @@ const FormularioComHtmx = () => {
 
         {/* Mensagem */}
         <div>
-          <label htmlFor="message" class="block font-light text-[#D9D9D9] mb-1 lg:text-base">
+          <label
+            htmlFor="message"
+            class="block font-light text-[#D9D9D9] mb-1 lg:text-base"
+          >
             Como podemos te ajudar?
             <span class="text-[#0066e4] font-bold">*</span>
           </label>
@@ -468,8 +517,9 @@ const FormularioComHtmx = () => {
 
       {statusMessage && (
         <div
-          class={`mt-4 p-2 text-center rounded-lg ${statusType === "success" ? "bg-green-500" : "bg-red-500"
-            }`}
+          class={`mt-4 p-2 text-center rounded-lg ${
+            statusType === "success" ? "bg-green-500" : "bg-red-500"
+          }`}
         >
           {statusMessage}
         </div>

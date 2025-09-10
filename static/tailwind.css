@@ -696,7 +696,9 @@ html {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
   transition-duration: 200ms;
@@ -1125,7 +1127,8 @@ html {
   outline-offset: -3px;
   outline-color: var(--fallback-bc,oklch(var(--bc)/0.05));
   --tw-backdrop-blur: blur(8px);
-  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
+  -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
+          backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
 }
 .diff-item-2 {
   overflow: hidden;
@@ -1275,7 +1278,9 @@ html {
   --tw-scale-x: .95;
   --tw-scale-y: .95;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
   transition-duration: 200ms;
@@ -1563,7 +1568,9 @@ html {
   font-size: 0.875rem;
   line-height: 1.25rem;
   line-height: 1em;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
   transition-duration: 200ms;
@@ -1829,7 +1836,9 @@ html {
   --tw-bg-opacity: 1;
   background-color: var(--fallback-b1,oklch(var(--b1)/var(--tw-bg-opacity)));
   padding: 1.5rem;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
   transition-duration: 200ms;
@@ -2927,7 +2936,9 @@ details.collapse summary::-webkit-details-marker {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   text-align: start;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
   transition-duration: 200ms;
@@ -3697,7 +3708,8 @@ details.collapse summary::-webkit-details-marker {
 .glass,
   .glass.btn-active {
   border: none;
-  backdrop-filter: blur(var(--glass-blur, 40px));
+  -webkit-backdrop-filter: blur(var(--glass-blur, 40px));
+          backdrop-filter: blur(var(--glass-blur, 40px));
   background-color: transparent;
   background-image: linear-gradient(
         135deg,
@@ -3717,7 +3729,8 @@ details.collapse summary::-webkit-details-marker {
 
   .glass.btn-active {
     border: none;
-    backdrop-filter: blur(var(--glass-blur, 40px));
+    -webkit-backdrop-filter: blur(var(--glass-blur, 40px));
+            backdrop-filter: blur(var(--glass-blur, 40px));
     background-color: transparent;
     background-image: linear-gradient(
           135deg,
@@ -4366,7 +4379,9 @@ details.collapse summary::-webkit-details-marker {
 .tooltip:before,
 .tooltip:after {
   opacity: 0;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
   transition-delay: 100ms;
   transition-duration: 200ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -4874,6 +4889,9 @@ details.collapse summary::-webkit-details-marker {
 .mt-11 {
   margin-top: 2.75rem;
 }
+.mt-12 {
+  margin-top: 3rem;
+}
 .mt-14 {
   margin-top: 3.5rem;
 }
@@ -4907,6 +4925,9 @@ details.collapse summary::-webkit-details-marker {
 .mt-\[48px\] {
   margin-top: 48px;
 }
+.mt-\[50px\] {
+  margin-top: 50px;
+}
 .mt-\[5px\] {
   margin-top: 5px;
 }
@@ -4915,6 +4936,12 @@ details.collapse summary::-webkit-details-marker {
 }
 .box-border {
   box-sizing: border-box;
+}
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
 }
 .block {
   display: block;
@@ -5024,6 +5051,9 @@ details.collapse summary::-webkit-details-marker {
 .h-\[400px\] {
   height: 400px;
 }
+.h-\[4px\] {
+  height: 4px;
+}
 .h-\[52px\] {
   height: 52px;
 }
@@ -5063,6 +5093,9 @@ details.collapse summary::-webkit-details-marker {
 }
 .max-h-\[55px\] {
   max-height: 55px;
+}
+.max-h-\[70px\] {
+  max-height: 70px;
 }
 .max-h-\[80px\] {
   max-height: 80px;
@@ -5139,9 +5172,6 @@ details.collapse summary::-webkit-details-marker {
 .w-28 {
   width: 7rem;
 }
-.w-3\/12 {
-  width: 25%;
-}
 .w-3\/4 {
   width: 75%;
 }
@@ -5153,6 +5183,9 @@ details.collapse summary::-webkit-details-marker {
 }
 .w-4 {
   width: 1rem;
+}
+.w-4\/12 {
+  width: 33.333333%;
 }
 .w-40 {
   width: 10rem;
@@ -5174,9 +5207,6 @@ details.collapse summary::-webkit-details-marker {
 }
 .w-8 {
   width: 2rem;
-}
-.w-8\/12 {
-  width: 66.666667%;
 }
 .w-9 {
   width: 2.25rem;
@@ -5383,6 +5413,9 @@ details.collapse summary::-webkit-details-marker {
 }
 .max-w-\[80px\] {
   max-width: 80px;
+}
+.max-w-\[900px\] {
+  max-width: 900px;
 }
 .max-w-\[950px\] {
   max-width: 950px;
@@ -5801,6 +5834,9 @@ details.collapse summary::-webkit-details-marker {
 .overflow-ellipsis {
   text-overflow: ellipsis;
 }
+.text-ellipsis {
+  text-overflow: ellipsis;
+}
 .whitespace-nowrap {
   white-space: nowrap;
 }
@@ -6054,6 +6090,10 @@ details.collapse summary::-webkit-details-marker {
 }
 .bg-\[\#1b1b1be3\] {
   background-color: #1b1b1be3;
+}
+.bg-\[\#393939\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(57 57 57 / var(--tw-bg-opacity));
 }
 .bg-\[\#45D268\] {
   --tw-bg-opacity: 1;
@@ -6384,6 +6424,10 @@ details.collapse summary::-webkit-details-marker {
   padding-top: 2rem;
   padding-bottom: 2rem;
 }
+.py-\[11px\] {
+  padding-top: 11px;
+  padding-bottom: 11px;
+}
 .py-\[5px\] {
   padding-top: 5px;
   padding-bottom: 5px;
@@ -6416,6 +6460,9 @@ details.collapse summary::-webkit-details-marker {
 .pb-5 {
   padding-bottom: 1.25rem;
 }
+.pb-6 {
+  padding-bottom: 1.5rem;
+}
 .pb-\[15px\] {
   padding-bottom: 15px;
 }
@@ -6428,11 +6475,17 @@ details.collapse summary::-webkit-details-marker {
 .pl-1 {
   padding-left: 0.25rem;
 }
+.pl-12 {
+  padding-left: 3rem;
+}
 .pl-3 {
   padding-left: 0.75rem;
 }
 .pl-8 {
   padding-left: 2rem;
+}
+.pr-10 {
+  padding-right: 2.5rem;
 }
 .pr-2 {
   padding-right: 0.5rem;
@@ -6739,6 +6792,10 @@ details.collapse summary::-webkit-details-marker {
   --tw-text-opacity: 1;
   color: rgb(29 78 216 / var(--tw-text-opacity));
 }
+.text-gray-400 {
+  --tw-text-opacity: 1;
+  color: rgb(156 163 175 / var(--tw-text-opacity));
+}
 .text-green-400 {
   --tw-text-opacity: 1;
   color: rgb(74 222 128 / var(--tw-text-opacity));
@@ -6908,10 +6965,13 @@ details.collapse summary::-webkit-details-marker {
 }
 .backdrop-opacity-30 {
   --tw-backdrop-opacity: opacity(0.3);
-  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
+  -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
+          backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
 }
 .transition {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 150ms;
 }
@@ -7392,6 +7452,11 @@ input[type="radio"]:checked + .radio-custom {
 .hover\:bg-blue-700:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(29 78 216 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-primary:hover {
+  --tw-bg-opacity: 1;
+  background-color: var(--fallback-p,oklch(var(--p)/var(--tw-bg-opacity)));
 }
 
 .hover\:bg-transparent:hover {
@@ -8275,6 +8340,14 @@ input[type="radio"]:checked + .radio-custom {
     margin-top: 5rem;
   }
 
+  .lg\:mt-24 {
+    margin-top: 6rem;
+  }
+
+  .lg\:mt-\[100px\] {
+    margin-top: 100px;
+  }
+
   .lg\:mt-\[80px\] {
     margin-top: 80px;
   }
@@ -8425,10 +8498,6 @@ input[type="radio"]:checked + .radio-custom {
 
   .lg\:max-w-\[550px\] {
     max-width: 550px;
-  }
-
-  .lg\:max-w-\[666px\] {
-    max-width: 666px;
   }
 
   .lg\:max-w-\[919px\] {
@@ -8875,6 +8944,10 @@ input[type="radio"]:checked + .radio-custom {
 
   .lg\:leading-8 {
     line-height: 2rem;
+  }
+
+  .lg\:leading-\[40px\] {
+    line-height: 40px;
   }
 
   .lg\:leading-\[64px\] {

@@ -8,18 +8,18 @@ interface Props {
 export default function Card3({ title, description }: Props) {
   return (
     <div class="container">
-      <div className="p-10 rounded-2xl bg-[#0a0a0a]">
+      <div className="lg:p-10 rounded-2xl bg-[#0a0a0a]">
         {title &&
           (
             <h2
-              class="text-white text-2xl font-bold mb-5"
+              class="text-white text-lg font-bold mb-5"
               dangerouslySetInnerHTML={{ __html: title }}
             />
           )}
         {description &&
           (
             <div
-              class="services-list"
+              class="services-list text-sm"
               dangerouslySetInnerHTML={{ __html: description }}
             />
           )}

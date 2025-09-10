@@ -18,10 +18,9 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Content/Hero.tsx",
-        "description": "<p>Marketing para E-commerce</p>",
-        "title": "<h1>Blog</h1>",
-        "cta": []
+        "__resolveType": "site/sections/Content/RichText.tsx",
+        "text": "<p style=\"text-align: center\"><strong><span style=\"color: #e0e0e0; font-size: 40pt\">Blog</span></strong></p>",
+        "paddingTop": 10
       }
     },
     {
@@ -30,10 +29,10 @@
         "__resolveType": "site/sections/Blog/BlogPosts.tsx",
         "pagination": {
           "page": 1,
-          "perPage": 6
+          "perPage": 12
         },
         "cta": {
-          "text": "teste"
+          "text": "Ver mais"
         },
         "posts": {
           "__resolveType": "Preview blog/loaders/BlogpostList.ts"

@@ -1,0 +1,95 @@
+{
+  "name": "Serviços",
+  "path": "/servicos",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "large"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/ServicePage.tsx",
+        "title": "Soluções",
+        "label": "Digital experts: estratégias de sucesso.",
+        "cards": [
+          {
+            "title": "Performance Digital",
+            "image": "https://assets.decocache.com/site-wave/6cd49f56-9859-4523-b5c1-fc1ddd687730/Group-80.svg",
+            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
+            "link": "/performance",
+            "alt": "/"
+          },
+          {
+            "title": "Estruturação de E-commerce",
+            "image": "https://assets.decocache.com/site-wave/8647abbc-7adb-48a6-a40a-3491f211b8ae/Group-80-(1).svg",
+            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
+            "link": "/performance",
+            "alt": "/"
+          },
+          {
+            "title": "Conteúdo Digital",
+            "image": "https://assets.decocache.com/site-wave/eb39d9f5-dd95-45fd-b714-11ef5ed74d88/Group-80-(2).svg",
+            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
+            "link": "/performance",
+            "alt": "/"
+          },
+          {
+            "title": "E-commerce nos EUA",
+            "image": "https://assets.decocache.com/site-wave/3119c31f-269b-48ec-b80c-959fcfb59242/Group-80-(3).svg",
+            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
+            "link": "/performance",
+            "alt": "/"
+          },
+          {
+            "title": "SEO",
+            "image": "https://assets.decocache.com/site-wave/fe5e3085-16b8-47d0-a28f-302d45565bed/Group-80-(4).svg",
+            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
+            "link": "/performance",
+            "alt": "/"
+          },
+          {
+            "title": "Marketplace",
+            "image": "https://assets.decocache.com/site-wave/ce0ea9d6-c53f-404c-948f-4c423d9e5b0b/Group-80-(5).svg",
+            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
+            "link": "/performance",
+            "alt": "/"
+          },
+          {
+            "title": "Criação e Design",
+            "image": "https://assets.decocache.com/site-wave/fe99fb85-92fd-4aaa-8ec2-2e4023ea742d/Group-80-(6).svg",
+            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
+            "link": "/performance",
+            "alt": "/"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "large"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

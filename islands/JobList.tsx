@@ -6,18 +6,18 @@ export interface Job {
   title?: string;
   workModel: "Home Office" | "Hibrido" | "Presencial";
   area:
-  | "Designer"
-  | "Projetos"
-  | "SEO"
-  | "Conteúdo"
-  | "Mídia Paga"
-  | "Desenvolvimento"
-  | "Atendimento"
-  | "E-commerce"
-  | "Marketplace"
-  | "Social Media"
-  | "Recursos Humanos"
-  | "CRM";
+    | "Designer"
+    | "Projetos"
+    | "SEO"
+    | "Conteúdo"
+    | "Mídia Paga"
+    | "Desenvolvimento"
+    | "Atendimento"
+    | "E-commerce"
+    | "Marketplace"
+    | "Social Media"
+    | "Recursos Humanos"
+    | "CRM";
   cta?: CTA;
 }
 
@@ -118,8 +118,9 @@ const JobList = ({ jobs, filterOptions }: Props) => {
                 {filteredWorkModelOptions.map((option) => (
                   <li
                     key={option}
-                    class={`p-2 cursor-pointer hover:bg-blue-600 ${selectedWorkModel === option ? "bg-blue-600" : ""
-                      }`}
+                    class={`p-2 cursor-pointer hover:bg-blue-600 ${
+                      selectedWorkModel === option ? "bg-blue-600" : ""
+                    }`}
                     onClick={() => {
                       setSelectedWorkModel(option);
                       setIsWorkModelDropdownOpen(false);
@@ -151,8 +152,9 @@ const JobList = ({ jobs, filterOptions }: Props) => {
                 {filteredAreaOptions.map((option) => (
                   <li
                     key={option}
-                    class={`p-2 cursor-pointer hover:bg-blue-600 ${selectedArea === option ? "bg-blue-600" : ""
-                      }`}
+                    class={`p-2 cursor-pointer hover:bg-blue-600 ${
+                      selectedArea === option ? "bg-blue-600" : ""
+                    }`}
                     onClick={() => {
                       setSelectedArea(option);
                       setIsAreaDropdownOpen(false);
@@ -172,7 +174,8 @@ const JobList = ({ jobs, filterOptions }: Props) => {
         {filteredJobs.length > 0
           ? (
             filteredJobs.map((job) => (
-              <div
+              <a
+                href={job?.cta?.href}
                 class="container flex justify-between items-center py-8 px-4 lg:px-8 bg-[#0f0f0f] rounded-3xl"
                 key={job.title}
               >
@@ -183,9 +186,14 @@ const JobList = ({ jobs, filterOptions }: Props) => {
                   </p>
                 </div>
                 <div>
-                  <a class=" flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white transition duration-350 ease-in hover:ease-out " href={job?.cta?.href}>Saiba mais</a>
+                  <a
+                    class=" flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white transition duration-350 ease-in hover:ease-out "
+                    href={job?.cta?.href}
+                  >
+                    Saiba mais
+                  </a>
                 </div>
-              </div>
+              </a>
             ))
           )
           : (

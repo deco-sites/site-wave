@@ -20,7 +20,7 @@ const CardCases = ({ cards }: Props) => {
           <a href={card.link} key={index} className="relative group m-auto">
             {card.image && (
               <img
-                className="object-cover lg:block"
+                className="object-cover lg:block rounded-[20px]"
                 src={card.image}
                 alt={card.subtitle || ""}
               />

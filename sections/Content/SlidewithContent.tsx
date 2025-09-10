@@ -32,7 +32,11 @@ export default function SlidewithContent(card: Props) {
 
   return (
     <div class="container">
-      <div class={`flex flex-col gap-10  ${!card?.secondVariable && "lg:flex-row lg:gap-0" } justify-evenly ${card?.secondVariable && "flex-col"}`}>
+      <div
+        class={`flex flex-col gap-10  ${
+          !card?.secondVariable && "lg:flex-row lg:gap-0"
+        } justify-evenly ${card?.secondVariable && "flex-col"}`}
+      >
         <div class="relative flex items-center overflow-hidden w-full lg:w-3/5">
           <div class="absolute inset-0 bg-gradient-to-r from-black via-transparent to-transparent z-10">
           </div>
@@ -40,7 +44,9 @@ export default function SlidewithContent(card: Props) {
             {images.length > 0 && (
               <div class="slide-rounded-bg">
                 {/* Primeiro componente Partners - Direção normal */}
-                <div class="animation-right" style={{"--animation-time": "5000s",}}
+                <div
+                  class="animation-right"
+                  style={{ "--animation-time": "5000s" }}
                 >
                   <Partners
                     imageClass="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
@@ -75,13 +81,20 @@ export default function SlidewithContent(card: Props) {
         </div>
 
         {/* Conteúdo textual à direita */}
-        <div class={`flex justify-center flex-col items-center lg:items-start ${ !card?.secondVariable && "lg:w-1/4"} ${card?.secondVariable && "lg:w-full"}`}>
+        <div
+          class={`flex justify-center flex-col items-center lg:items-start ${
+            !card?.secondVariable && "lg:w-1/4"
+          } ${card?.secondVariable && "lg:w-full"}`}
+        >
           <span class="visual-brand mb-8 w-[70px]"></span>
           <div
             class="text-white text-center lg:text-start text-2xl font-bold leading-9"
             dangerouslySetInnerHTML={{ __html: title }}
           />
-          <a href={href} class="mt-5 flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white transition duration-350 ease-in hover:ease-out " >
+          <a
+            href={href}
+            class="mt-5 flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white transition duration-350 ease-in hover:ease-out "
+          >
             {ctaLabel}
 
             <svg

@@ -1,13 +1,13 @@
 import Image from "apps/website/components/Image.tsx";
 
 export interface Props {
-     /**
-    * @format rich-text
-    */
+  /**
+   * @format rich-text
+   */
   title: string;
-     /**
-    * @format rich-text
-    */
+  /**
+   * @format rich-text
+   */
   description: string;
   cta?: { text: string; href: string };
   image?: { src: string; alt: string };
