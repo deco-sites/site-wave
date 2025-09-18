@@ -279,11 +279,17 @@
           "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce"
         },
         {
+          "image": "https://assets.decocache.com/site-wave/cd253efc-1496-4889-a9c8-e1493195786f/claro.png",
+          "isEmptyBrand": true,
+          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
+          "title": "Claro"
+        },
+        {
           "image": "https://data.decoassets.com/site-wave/c82c2f88-0b7d-4e44-8773-08cfbad5e4e9/case-true-home.jpg",
+          "title": "True Souce",
           "isEmptyBrand": true,
           "link": "/true-source",
-          "subtitle": "Revolução no E-commerce após migração para Deco.cx",
-          "title": "True Souce"
+          "subtitle": "Revolução no E-commerce após migração para Deco.cx"
         },
         {
           "image": "https://data.decoassets.com/site-wave/b3022ed9-6cce-4c92-9ca1-671bd3b7c928/case-ramarim-home.jpg",
@@ -326,16 +332,10 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
           "title": "O Escafandro",
           "isEmptyBrand": true,
-          "link": "/escafandro",
-          "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso"
+          "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso",
+          "link": "/escafandro"
         },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5f02c222-cfd7-44b1-8d19-0903608be3a4",
-          "title": "Start Global Goods",
-          "isEmptyBrand": true,
-          "link": "/start-global-goods",
-          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel"
-        }
+        {}
       ]
     },
     {
