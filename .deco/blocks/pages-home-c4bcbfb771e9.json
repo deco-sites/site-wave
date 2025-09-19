@@ -121,7 +121,7 @@
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
             }
           ],
-          "subTitle": "<p><span>Quando se trata de&nbsp;</span><strong><span>e-commerce</span></strong><span>&nbsp;e&nbsp;</span><strong><span>marketplace,</span></strong><span> somos reconhecidos como&nbsp;</span><strong><span>autoridade no mercado.</span></strong></p>",
+          "subTitle": "<p>Quando se trata de&nbsp;<strong>e-commerce</strong>&nbsp;e&nbsp;<strong>marketplace,</strong> somos reconhecidos como&nbsp;<strong>autoridade no mercado.</strong></p>",
           "content": "<p><span style=\"font-size: 28pt\">somos a melhor agência de performance do Brasil</span></p>"
         },
         "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
@@ -344,18 +344,25 @@
           "isEmptyBrand": true
         },
         {
-          "link": "/gremio",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
+          "isEmptyBrand": true,
+          "title": "Ladeira Armarinho",
+          "subtitle": "Texto texto",
+          "link": "/ladeira-armarinho"
+        },
+        {
           "image": "https://data.decoassets.com/site-wave/c72b3532-32ce-491b-bdae-e639633266d8/case-gremio-home.jpg",
           "isEmptyBrand": true,
+          "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce.",
           "title": "Grêmio",
-          "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce."
+          "link": "/gremio"
         },
         {
           "image": "https://data.decoassets.com/site-wave/617d0814-d85a-4a51-8ecc-9f2eaed79f7a/case-friopecas-home.png",
-          "isEmptyBrand": true,
-          "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce",
           "title": "Friopeças",
-          "link": "/friopecas"
+          "isEmptyBrand": true,
+          "link": "/friopecas",
+          "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce"
         },
         {
           "image": "https://data.decoassets.com/site-wave/c82c2f88-0b7d-4e44-8773-08cfbad5e4e9/case-true-home.jpg",
@@ -398,15 +405,8 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a63c56c6-5798-438e-b599-3dcd51ed3fb6",
           "title": "Cook Eletroraro",
           "isEmptyBrand": true,
-          "link": "/cook-eletroraro",
-          "subtitle": "Como o E-commerce bateu recordes de faturamento"
-        },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
-          "title": "O Escafandro",
-          "isEmptyBrand": true,
-          "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso",
-          "link": "/escafandro"
+          "subtitle": "Como o E-commerce bateu recordes de faturamento",
+          "link": "/cook-eletroraro"
         },
         {}
       ]
