@@ -37,7 +37,8 @@
             "children": [],
             "image": {
               "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
-            }
+            },
+            "url": "/servicos"
           },
           {
             "url": "/parceiros",
