@@ -14,7 +14,7 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "Escolha da plataforma, Cadastro de Produtos, Fotos de Produtos, Escolha e integração das transportadoras e gateway de frete"
+          "text": "Escolha da plataforma | Cadastro de Produtos | Fotos de Produtos | Escolha e integração das transportadoras e gateway de frete"
         },
         "subtitle": "Descubra como a Banca 43 se tornou um case de sucesso online no segmento alimentício",
         "title": "Banca 43",
@@ -108,7 +108,7 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
         "depoiments": {
-          "text": "<p style=\"text-align: center\"><span style=\"color: rgb(107, 107, 107); font-size: 20pt\">\"Através da Wave Commerce conseguimos nos colocar de forma satisfatória no mercado online. Desde o inicio do site, tivemos todo o suporte necessário, além de pessoas super capacitadas e dedicadas em atingir o melhor resultado. </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 20pt\">Recomendamos os serviços da empresa para todos aqueles que buscam eficiência e excelência</span></strong><span style=\"color: rgb(107, 107, 107); font-size: 20pt\">.\"</span></p>",
+          "text": "<p style=\"text-align: center\"><span style=\"color: rgb(107, 107, 107); font-size: 18pt\">\"Através da Wave Commerce conseguimos nos colocar de forma satisfatória no mercado online. Desde o inicio do site, tivemos todo o suporte necessário, além de pessoas super capacitadas e dedicadas em atingir o melhor resultado. </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 18pt\">Recomendamos os serviços da empresa para todos aqueles que buscam eficiência e excelência</span></strong><span style=\"color: rgb(107, 107, 107); font-size: 18pt\">.\"</span></p>",
           "author": "Jefferson – Diretor"
         },
         "icon": {

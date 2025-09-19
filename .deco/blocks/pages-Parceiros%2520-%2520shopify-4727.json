@@ -49,8 +49,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"font-size: 15pt\">A Shopify é a plataforma escolhida por mais de 1.700.000 lojas no mundo todo. Uma plataforma confiável que conta com todos os recursos de e-commerce e pontos de venda necessários para você começar, gerenciar e expandir o seu negócio.</span></p><p></p><p><span style=\"font-size: 15pt\">Com a missão de tornar o comércio melhor para todos, Shopify ajuda as pessoas a conquistar independência.</span></p><p><span style=\"font-size: 15pt\">O futuro do comércio conta com mais vozes, não menos pluralidade. Por isso, diminuem os obstáculos para que as pessoas tenham o próprio negócio, tornando o comércio melhor para todos.</span></p>",
+        "description": "<p><span style=\"font-size: 15pt\">A Shopify é a plataforma escolhida por mais de 1.700.000 lojas no mundo todo. Uma plataforma confiável que conta com todos os recursos de e-commerce e pontos de venda necessários para você começar, gerenciar e expandir o seu negócio. Com a missão de tornar o comércio melhor para todos, Shopify ajuda as pessoas a conquistar independência. O futuro do comércio conta com mais vozes, não menos pluralidade. Por isso, diminuem os obstáculos para que as pessoas tenham o próprio negócio, tornando o comércio melhor para todos.</span></p>",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O que é a Shopify?</span></strong></h2><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
@@ -124,7 +131,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência Shopify Parceira</span></strong></h2>",
-        "description": "<p><span style=\"font-size: 15pt\">Nós fazemos parte do ecossistema&nbsp;</span><strong><span style=\"font-size: 15pt\">agência Shopify Partner</span></strong><span style=\"font-size: 15pt\">(</span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.shopify.com/partners/directory/partner/wave-commerce\"><span style=\"font-size: 15pt\">confira aqui</span></a><span style=\"font-size: 15pt\">), oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.&nbsp;</span></p><p><span style=\"font-size: 15pt\">O time Wave está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online.&nbsp;<br><br></span><strong><span style=\"font-size: 15pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"font-size: 15pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados como&nbsp;</span><strong><span style=\"font-size: 15pt\">especialistas Shopify</span></strong><span style=\"font-size: 15pt\">.&nbsp;</span></p>"
+        "description": "<p><span style=\"font-size: 15pt\">Nós fazemos parte do ecossistema&nbsp;</span><strong><span style=\"font-size: 15pt\">agência Shopify Partner</span></strong><span style=\"font-size: 15pt\">(</span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.shopify.com/partners/directory/partner/wave-commerce\"><u><span style=\"font-size: 15pt\">confira aqui</span></u></a><span style=\"font-size: 15pt\">), oferecendo soluções personalizadas para potencializar os resultados do seu negócio na internet.&nbsp;O time Wave está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online.&nbsp;<br><br></span><strong><span style=\"font-size: 15pt\">Somos o parceiro certo para o seu negócio! </span></strong><span style=\"font-size: 15pt\">Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e certificados como&nbsp;</span><strong><span style=\"font-size: 15pt\">especialistas Shopify</span></strong><span style=\"font-size: 15pt\">.&nbsp;</span></p>"
       }
     },
     {
@@ -181,13 +188,6 @@
             "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
           }
         ]
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
       }
     },
     {
