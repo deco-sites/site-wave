@@ -34,8 +34,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor experiência de compra.<br>A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></p>",
-        "description": "<p></p>"
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor experiência de compra.<br>A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></p>"
       }
     },
     {
