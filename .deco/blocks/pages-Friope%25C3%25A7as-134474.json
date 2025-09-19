@@ -103,6 +103,13 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/wv8dolqguMY?si=2NgivG_okMsFaVeK"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Solução</span></p>",
         "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A parceria com a Wave Commerce trouxe um atendimento mais próximo, aliado a uma equipe alinhada com os objetivos de crescimento da empresa.</span></p>"
@@ -145,13 +152,6 @@
       "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "medium"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/wv8dolqguMY?si=2NgivG_okMsFaVeK"
       }
     },
     {

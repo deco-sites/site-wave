@@ -70,6 +70,14 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/HU6uUk_xKP4?si=TeClBxkxg4Yraspk",
+        "hideVideo": false
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
         "depoiments": {
           "text": "<p><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">“Na Wave, depois de trabalhar com várias empresas, </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">foi onde a gente encontrou consistência e maturidade de processo</span></strong><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">”.</span></p><p style=\"text-align: start\"></p><p><br></p>",
@@ -88,14 +96,6 @@
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados alcançados</span></p>",
         "description": "<p><span style=\"font-size: 15pt\">Ao longo desta parceria, o e-commerce de Termolar obteve diversas melhorias e resultados positivos como:<br></span></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/HU6uUk_xKP4?si=TeClBxkxg4Yraspk",
-        "hideVideo": false
       }
     },
     {

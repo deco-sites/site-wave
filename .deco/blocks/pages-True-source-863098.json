@@ -113,6 +113,13 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/eRECC1xCMUk?si=1zjCQ3O9c6Rep4WU\" title=\"YouTube video player"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
         "depoiments": {
           "text": "<p><span style=\"color: rgb(113, 113, 113); font-size: 20pt\">“Conhecimento avançado sobre a plataforma VTEX, principalmente para complexas e projetos grandes são muito eficientes.</span><span style=\"font-size: 20pt\"> </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Ficamos bem satisfeitos com o resultado.”</span></strong></p>",
@@ -130,13 +137,6 @@
       "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/eRECC1xCMUk?si=1zjCQ3O9c6Rep4WU\" title=\"YouTube video player"
       }
     },
     {

@@ -100,12 +100,12 @@
         "sections": [
           {
             "title": "<p>Teste Inicial e Estudos</p>",
-            "description": "<ul><li><p><strong>3 meses para compreender e adaptar estratégias específicas para o aplicativo.</strong></p></li><li><p><strong>Realização de estudos aprofundados sobre como aplicar o conhecimento de marketing digital ao ambiente mobile, focando em ASO e campanhas de mídia direcionadas para aumentar os downloads do aplicativo.</strong></p></li></ul>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">3 meses para compreender e adaptar estratégias específicas para o aplicativo.</span></p></li><li><p><span style=\"font-size: 15pt\">Realização de estudos aprofundados sobre como aplicar o conhecimento de marketing digital ao ambiente mobile, focando em ASO e campanhas de mídia direcionadas para aumentar os downloads do aplicativo.</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           },
           {
             "title": "<p>Estratégia de ASO e Mídia</p>",
-            "description": "<ul><li><p><strong>Criação de campanhas de mídia paga e estratégias de ASO otimizadas para download, garantindo visibilidade e atraindo o público-alvo.</strong></p></li></ul>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">Criação de campanhas de mídia paga e estratégias de ASO otimizadas para download, garantindo visibilidade e atraindo o público-alvo.</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           },
           {
@@ -140,8 +140,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: #0064df; font-size: 25pt\">Resultados</span></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Com a implementação do VTEX IO, o Grêmio alcançou resultados expressivos em um curto espaço de tempo:</span></p>"
+        "title": "<p><span style=\"color: rgb(0, 100, 223); font-size: 25pt\">Resultados Alcançados</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A combinação das estratégias de ASO, campanhas de mídia focadas e o relayout do site culminou em resultados expressivos:</span></p>"
       }
     },
     {
@@ -150,8 +150,18 @@
         "__resolveType": "site/sections/Services/Cards.tsx",
         "sections": [
           {
-            "title": "<p>Após o lançamento:</p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Fidelização dos torcedores:</strong> A integração omnichannel e as ofertas exclusivas fortaleceram a relação entre o clube e sua base de fãs.</li><li dir=\"ltr\"><strong>Integração eficiente: </strong>A gestão centralizada do estoque e das operações aumentou a produtividade e eliminou erros operacionais.</li><li dir=\"ltr\"><strong>Melhora na navegação:</strong> A experiência de compra tornou-se mais intuitiva e eficiente, reduzindo a fricção do usuário.</li><li dir=\"ltr\"><strong>Integração eficiente: </strong>A gestão centralizada de estoque e operações aumentou a produtividade e eliminou erros.<br data-mce-bogus=\"1\"></li></ul>",
+            "title": "<p>Crescimento em Receita</p>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">Janeiro apresentou um </span><strong><span style=\"font-size: 15pt\">aumento de 81% na receita</span></strong><span style=\"font-size: 15pt\"> em comparação a dezembro, demonstrando o impacto positivo das mudanças implementadas.</span></p></li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          },
+          {
+            "title": "<p>Engajamento e Performance no App</p>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">A participação do aplicativo nas vendas </span><strong><span style=\"font-size: 15pt\">passou de 8,93% em dezembro para 10,77% em janeiro</span></strong><span style=\"font-size: 15pt\">, com um aumento de 7 pontos percentuais de participação em fevereiro em relação a janeiro.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">De janeiro até 20 de março, o app representou, em média, 11% das vendas</span></strong><span style=\"font-size: 15pt\">, evidenciando um crescimento contínuo e consistente. Esse número é aproximadamente 5 pontos percentuais a mais do que vinha sindo a média da participação do aplicativo.</span></p></li></ul>",
+            "__resolveType": "site/sections/Services/Card3.tsx"
+          },
+          {
+            "title": "<p>Resultados Trimestrais</p>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">No primeiro trimestre (até meados de março), </span><strong><span style=\"font-size: 15pt\">houve um crescimento de +80% nos resultados</span></strong><span style=\"font-size: 15pt\">, superando significativamente o desempenho do ano anterior.</span></p></li><li><p><span style=\"font-size: 15pt\">O acompanhamento próximo e o suporte diário garantiram que os KPIs fossem monitorados e ajustados, otimizando cada etapa da jornada do cliente.</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           }
         ],
