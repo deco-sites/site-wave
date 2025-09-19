@@ -89,7 +89,7 @@
         "sections": [
           {
             "title": "<p>Diferenciais da Wave:</p>",
-            "description": "<ul><li><p><strong>Especialização no varejo:</strong> Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br></p></li><li><p><strong>Equipe capacitada:</strong> Wave preocupada em ter uma equipe atualizada com as principais tendências de mercado para proporcionar os melhores resultados.</p></li><li>Aumento de faturamento expressivo com pouco crescimento do investimento, resultando num maior retorno e marge</li></ul>",
+            "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">Especialização no varejo:</span></strong><span style=\"font-size: 15pt\"> Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br></span></p></li><li><p><strong><span style=\"font-size: 15pt\">Equipe capacitada:</span></strong><span style=\"font-size: 15pt\"> Wave preocupada em ter uma equipe atualizada com as principais tendências de mercado para proporcionar os melhores resultados.</span></p></li><li><p><span style=\"font-size: 15pt\">Aumento de faturamento expressivo com pouco crescimento do investimento, resultando num maior retorno e marge</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           }
         ],
