@@ -20,17 +20,16 @@
       "title": "Marketing para Aplicativos",
       "bgImage": {
         "mobile": {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5390d8a7-ce30-4fbe-a86c-d3b018ef9220/mob-seo.jpg",
+          "src": "https://assets.decocache.com/site-wave/33f78c26-8606-4538-ba5b-1f8a0dc16c20/mob-mktapp.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/46f90137-6810-49bb-ad4d-7aca825d74c3/desk-seo.jpg",
+          "src": "https://assets.decocache.com/site-wave/f3e71cc3-619a-4d5f-ab2b-faa8f94faa40/desk-mktapp.jpg",
           "height": 820
         }
       },
       "labelTop": {
-        "icon": "DigitalPerformance",
         "text": "Marketing para Aplicativos"
       },
       "labelBottom": {
