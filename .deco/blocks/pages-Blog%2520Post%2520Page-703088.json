@@ -18,6 +18,9 @@
             "__resolveType": "website/functions/requestToParam.ts",
             "param": "slug"
           }
+        },
+        "header": {
+          "image": {}
         }
       }
     },
