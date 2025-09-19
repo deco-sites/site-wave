@@ -52,6 +52,11 @@
           "title": "<p>Na Wave você tem:</p>",
           "description": "<ul><li><p>Criação de Identidade Visual Exclusiva</p></li><li><p>Design Personalizado e Estratégico</p></li><li><p>Equipe Criativa Especializada</p></li><li><p>Domínio de Ferramentas de Criação Avançadas</p></li><li><p>Experiência do Usuário (UX) e Interface (UI)</p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
+        },
+        {
+          "title": "<p>UX/UI:</p>",
+          "description": "<ul><li><p>Criação e Design de Interfaces</p><p>UI Design</p><p>Análise e criação de layouts voltados a usabilidade</p><p>ux writing</p><p>Otimização de linguagem para facilitar decisões de compra</p><p>Experiência do Usuário</p><p>UX Research</p><p>Posouisa do</p><p>comportamento do consumidor.</p><p>UX Journey</p><p>Análise da jornada de compra.</p><p>Testes de</p><p>Usabilidade</p><p>Testes de</p><p>comportamento de uso em cenários&nbsp;web.</p><p></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ]
     },

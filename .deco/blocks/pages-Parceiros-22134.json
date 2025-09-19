@@ -142,7 +142,9 @@
         "button": {
           "link": "/salesforce",
           "label": "Saiba mais"
-        }
+        },
+        "imageDesktop": "https://assets.decocache.com/site-wave/a0b151f1-2cde-4f03-9b27-b3b831e188f1/desk-salesforce-parceiro.jpg",
+        "imageMobile": "https://assets.decocache.com/site-wave/0a9b6cd6-67b8-481a-b002-86a5b0c6b976/mob-salesforce-case.jpg"
       }
     },
     {
@@ -153,7 +155,9 @@
           "link": "/uappi",
           "label": "Saiba mais"
         },
-        "title": "Uappi"
+        "title": "Uappi",
+        "imageDesktop": "https://assets.decocache.com/site-wave/3cf72370-94b7-4f47-a145-7a9e7d4f882f/desk-uappi-parceiro.jpg",
+        "imageMobile": "https://assets.decocache.com/site-wave/3b8166fe-29c4-471d-857e-3c2c7c201a0c/mob-uappi-parceiro.jpg"
       }
     },
     {
