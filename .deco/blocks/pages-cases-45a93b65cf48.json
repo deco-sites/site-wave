@@ -75,8 +75,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://data.decoassets.com/site-wave/e2849495-a1c4-4d68-b3e6-efd95660619e/desk-gremio-case.jpg",
-        "imageMobile": "https://data.decoassets.com/site-wave/623c528a-6ef6-45fb-b2cf-92b3ad8a6475/mob-gremio-case.jpg",
+        "imageDesktop": "https://assets.decocache.com/site-wave/5897850d-3b88-4d04-a25c-ffb044acc07f/desk-claro-case.jpg",
+        "imageMobile": "https://assets.decocache.com/site-wave/cd021892-7363-4ea1-9c9c-cfc411f2113b/mob-claro-case.jpg",
         "button": {
           "link": "/claro",
           "label": "Saiba mais"
@@ -89,8 +89,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://data.decoassets.com/site-wave/e2849495-a1c4-4d68-b3e6-efd95660619e/desk-gremio-case.jpg",
-        "imageMobile": "https://data.decoassets.com/site-wave/623c528a-6ef6-45fb-b2cf-92b3ad8a6475/mob-gremio-case.jpg",
+        "imageDesktop": "https://assets.decocache.com/site-wave/a3cd3db0-7981-431e-a130-cdb4e93362eb/desk-ladeira-case.jpg",
+        "imageMobile": "https://assets.decocache.com/site-wave/ebe55f57-8f9f-422b-9bce-f75d2c6de134/mob-ladeira-case.jpg",
         "button": {
           "link": "/ladeira-armarinho",
           "label": "Saiba mais"

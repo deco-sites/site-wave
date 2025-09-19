@@ -19,11 +19,11 @@
         "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce.",
         "bgImage": {
           "desktop": {
-            "src": "https://data.decoassets.com/site-wave/e2849495-a1c4-4d68-b3e6-efd95660619e/desk-gremio-case.jpg",
+            "src": "https://assets.decocache.com/site-wave/95161c88-fd07-4c6e-a874-510bf02ff210/desk-ladeira.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://data.decoassets.com/site-wave/739960a0-cc1e-4478-bd05-e9e187d83350/mob-gremio.jpg",
+            "src": "https://assets.decocache.com/site-wave/74706796-b4a8-4711-8cb0-fd4aa26f996a/mob-ladeira.jpg",
             "height": 500
           }
         },
