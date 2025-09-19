@@ -93,6 +93,14 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/HU6uUk_xKP4?si=TeClBxkxg4Yraspk",
+        "hideVideo": false
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "small"
       }
@@ -157,14 +165,6 @@
       "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/HU6uUk_xKP4?si=TeClBxkxg4Yraspk",
-        "hideVideo": false
       }
     },
     {

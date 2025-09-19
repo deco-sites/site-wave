@@ -201,76 +201,76 @@
       "cards": [
         {
           "link": "/performance",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/46c5e727-aa81-48a6-a06b-2c8ecddd924c",
           "label": "Saiba mais",
           "content": "Branding e Performance",
           "isEmptyBrand": true,
           "button": {
             "link": "/performance",
             "label": "saiba mais"
-          }
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/9873756b-6ad6-47a7-87d3-3931593ea2dc"
         },
         {
           "link": "/",
-          "image": "https://data.decoassets.com/site-wave/80c40397-1f45-4f37-8261-41c59a28b55f/seo-site.png",
           "label": "Saiba mais",
           "content": "SEO para E- commerce",
           "isEmptyBrand": true,
           "button": {
             "link": "/seo",
             "label": "saiba mais"
-          }
+          },
+          "image": "https://data.decoassets.com/site-wave/80c40397-1f45-4f37-8261-41c59a28b55f/seo-site.png"
         },
         {
           "link": "/",
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4bcf2a8b-f71d-42a3-a952-247c884ea08a",
           "label": "Saiba mais",
           "content": "Implementação de E-commerce",
           "isEmptyBrand": true,
           "button": {
             "link": "/implementacao-de-ecommerce",
             "label": "saiba mais"
-          }
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4bcf2a8b-f71d-42a3-a952-247c884ea08a"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/dc229494-0884-4e08-873f-30e65ae4b286",
           "label": "Saiba mais",
           "content": "Conteúdo Digital",
           "isEmptyBrand": true,
           "button": {
             "label": "saiba mais",
             "link": "/conteudo-digital"
-          }
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/dc229494-0884-4e08-873f-30e65ae4b286"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/8ca0b4cd-1007-4f64-9888-3aa50fbb1915",
           "label": "Saiba mais",
           "content": "Design - UX e UI",
           "isEmptyBrand": true,
           "button": {
             "label": "saiba mais",
             "link": "/criacao-e-design"
-          }
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/8ca0b4cd-1007-4f64-9888-3aa50fbb1915"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a2e869d9-9086-49d3-86e8-89335f4a2cdc",
           "label": "Saiba mais",
           "content": "E-commerce Internacional",
           "isEmptyBrand": true,
           "button": {
             "label": "saiba mais",
             "link": "/ecommerce-eua"
-          }
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/a2e869d9-9086-49d3-86e8-89335f4a2cdc"
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e005eede-5ad7-4bdf-931c-bb9110b64eaa",
           "label": "Saiba mais",
           "content": "Marketplace IN e Out",
           "isEmptyBrand": true,
           "button": {
             "label": "saiba mais",
             "link": "/marketplace"
-          }
+          },
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e005eede-5ad7-4bdf-931c-bb9110b64eaa"
         },
         {
           "button": {
@@ -285,8 +285,26 @@
             "label": "saiba mais",
             "link": "/crm"
           },
-          "image": "https://data.decoassets.com/site-wave/7ea294ec-23d5-4b86-9c9b-295b3f5a3600/crm-1.png",
-          "content": "CRM"
+          "content": "CRM",
+          "image": "https://data.decoassets.com/site-wave/7ea294ec-23d5-4b86-9c9b-295b3f5a3600/crm-1.png"
+        },
+        {
+          "content": "Marketing para APP",
+          "button": {
+            "label": "saiba mais"
+          }
+        },
+        {
+          "content": "CRO",
+          "button": {
+            "label": "saiba mais"
+          }
+        },
+        {
+          "content": "Suporte e Evolução",
+          "button": {
+            "label": "saiba mais"
+          }
         }
       ],
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/02a68dbd-6d13-45c6-8020-5499d0cfc09b",
@@ -343,7 +361,7 @@
           "isEmptyBrand": true
         },
         {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
+          "image": "https://assets.decocache.com/site-wave/253383a6-a158-44f7-989b-ab786261581f/case-ladeira-home.jpg",
           "isEmptyBrand": true,
           "title": "Ladeira Armarinho",
           "subtitle": "Texto texto",
