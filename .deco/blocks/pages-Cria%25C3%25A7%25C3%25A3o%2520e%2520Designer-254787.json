@@ -33,7 +33,7 @@
         "icon": "DigitalPerformance",
         "text": "Criação e Design"
       },
-      "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos do seu negócio e interface personalizada para a melhor experiência do usuário .",
+      "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos do seu negócio e interface personalizada para a melhor experiência do usuário ",
       "labelBottom": {
         "icon": "ChevronDown",
         "text": "Saiba mais sobre Criação e Design"
@@ -50,7 +50,7 @@
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li><p>Criação de Identidade Visual Exclusiva</p></li><li><p>Design Personalizado e Estratégico</p></li><li><p>Equipe Criativa Especializada</p></li><li><p>Domínio de Ferramentas de Criação Avançadas</p></li><li><p>Experiência do Usuário (UX) e Interface (UI)</p></li></ul>",
+          "description": "<ul><li><p>Criação de Identidade Visual Exclusiva</p></li><li><p>Design Personalizado e Estratégico</p></li><li><p>Equipe Criativa Especializada</p></li><li><p>Domínio de Ferramentas de Criação Avançadas</p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         },
         {
