@@ -110,28 +110,63 @@
   "partnerSelector": [
     {
       "icon": "AlertInfo",
-      "text": "Branding e Performance",
-      "url": "/performance"
+      "text": "Salesforce",
+      "url": "/salesforce"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Uappi",
+      "url": "/uappi"
     },
     {
       "icon": "AlertInfo",
-      "text": "SEO para e-commerce",
-      "url": "/seo"
+      "text": "Vtex",
+      "url": "/vtex"
     },
     {
       "icon": "DigitalPerformance",
-      "text": "Implementação de E-commerce",
-      "url": "/implementacao-de-ecommerce"
+      "url": "/deco-cx",
+      "text": "Deco"
     },
     {
       "icon": "DigitalPerformance",
-      "text": "E-commerce Internacional",
-      "url": "/ecommerce-eua"
+      "url": "/shopify",
+      "text": "Shopify"
     },
     {
       "icon": "DigitalPerformance",
-      "url": "/crm",
-      "text": "CRM"
+      "url": "/wake",
+      "text": "Wake"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/amazon",
+      "text": "Amazon SPN"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/linx",
+      "text": "Linx"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/moovin",
+      "text": "Moovin"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Stoom",
+      "url": "/stoom"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Olist Vnda",
+      "url": "/vnda"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "CWS Platform",
+      "url": "/cws-platform"
     }
   ]
 }

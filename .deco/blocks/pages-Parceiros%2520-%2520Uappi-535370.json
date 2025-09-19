@@ -43,6 +43,13 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Eleita </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Melhor Agência de Performance Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> no 9.º Prêmio ABComm de Inovação Digital 2024, a Wave Commerce soma expertise em desenvolvimento, performance e CRM a uma plataforma que já nasce omnichannel, escalável e altamente personalizável. Como parceira certificada, oferecemos contato direto com o time UAPPI e garantimos atendimento especializado em português, espanhol e inglês.<br></span></p>",
         "title": "<h2></h2><p><br></p>"
@@ -51,9 +58,23 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A UAPPI é uma plataforma SaaS de comércio digital voltada a B2B, B2C e B2B2C, com arquitetura composable, alto nível de personalização e suporte em língua nativa.</span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"><br></span></p>",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O que é a Uappi?</span></strong></h2><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
@@ -118,6 +139,13 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "description": "<p></p>",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que escolher a Uappi?</span></strong></h2>"
@@ -162,8 +190,30 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p></p><p><img src=\"https://assets.decocache.com/site-wave/231f73d1-0232-4d95-adbd-39a272ac3881/negocios-uappi.webp\"></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Wave + Uappi: Como potencializamos seu negócio</span></strong></h2>",
         "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Nosso time combina metodologia ágil, design centrado no usuário e as melhores práticas de SEO/mídia paga para colocar sua loja on-line mais rápido — e vendendo mais desde o primeiro dia. Todas as entregas seguem um SLA de qualidade e contam com 45 dias de garantia pós-go-live, estendida com planos de suporte e evolução contínua.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
