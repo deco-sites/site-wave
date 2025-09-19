@@ -20,12 +20,12 @@
       "title": " Implementação de E-commerce",
       "bgImage": {
         "mobile": {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a9751410-3217-48ec-aee9-cf876b900ef6/mob-implementacao.jpg",
+          "src": "https://assets.decocache.com/site-wave/71a2c376-dabc-4355-955f-d0d9d94c412a/mob-implementacao.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/76f5b9d0-3013-4d01-96ee-cd00c6dc0f6f/desk-implementacao.jpg",
+          "src": "https://assets.decocache.com/site-wave/2413b522-0fb8-43c8-a23e-2e7484495a3b/desk-implementacao.jpg",
           "height": 820
         }
       },

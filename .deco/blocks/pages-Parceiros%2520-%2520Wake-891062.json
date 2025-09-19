@@ -70,37 +70,37 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/95811a26-e7f6-4219-8724-5c4084599157/stack-overflow-logo.png",
             "title": "Plataforma 100% flexível:",
             "paragraph": "aproveite a liberdade total para personalizar sua loja, com APIs 100% abertas e documentadas, permitindo uma customização completa."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/930665a7-dcf2-41cf-9218-d468edaa81c0/user-switch.png",
             "title": "Omnichannel nativo:",
             "paragraph": "ofereça uma experiência de compra integrada e sem interrupções, conectando o mundo físico e digital com o OMS nativo da Wake, que reduz a ruptura de estoque."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/5f17e332-0eb0-4cfd-9946-fbb188f18046/chart-line-up.png",
             "title": "Alta performance:",
             "paragraph": "construa sites rápidos e eficientes com o Wake Storefront, garantindo uma experiência de compra superior para seus clientes."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/a226d38d-c131-48cc-a848-b4dbc5e37fe7/chart-bar.png",
             "title": "Escalabilidade robusta:",
             "paragraph": "cresça seu site junto com seu negócio, com a capacidade de suportar grandes volumes de tráfego e transações, garantindo estabilidade e desempenho."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/c1e760b5-2766-4c56-ab11-65418c56046d/shield.png",
             "title": "Infraestrutura e segurança:",
             "paragraph": "confie em um sistema desenvolvido com foco na robustez e na segurança, assegurando o funcionamento confiável de sua loja online."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/810a9a82-a177-4d6d-b2d8-87b8bbbfc06d/headset.png",
             "title": "Atendimento especialista:",
             "paragraph": "conte com um time qualificado para oferecer suporte e maximizar os resultados do seu negócio."
@@ -147,13 +147,13 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/45efa353-bd3b-4ecc-8ce5-da246b1e8557/swap.png",
             "title": "Migração para Wake:",
             "paragraph": "Facilitamos a migração para a tecnologia Wake, independentemente da plataforma do cliente. Durante o processo, importamos todos os dados do site antigo para manter a relevância e o desempenho."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/d4c36fc2-620a-4e75-812a-8c60521dcc1d/layout.png",
             "title": "Projeto personalizado:",
             "paragraph": "Criamos projetos totalmente personalizados, seja para e-commerce ou marketplace (B2C/B2B), com layout adaptado para desktop e mobile. Incluímos SEO, configuração de ferramentas, métodos de pagamento, desenvolvimento de checkout, e textos institucionais."
@@ -186,31 +186,31 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Estruturação de E-commerce:",
             "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/5f17e332-0eb0-4cfd-9946-fbb188f18046/chart-line-up.png",
             "title": "Performance:",
             "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/8a64d360-29ec-4b47-959b-1503747da5cf/list-magnifying-glass.png",
             "title": "Conteúdo:",
             "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/26f5d696-46bc-4725-ad3f-c4c2efc208d1/paint-brush.png",
             "title": "Criativo:",
             "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
             "title": "Marketplace:",
             "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
