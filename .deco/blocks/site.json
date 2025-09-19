@@ -110,11 +110,28 @@
   "partnerSelector": [
     {
       "icon": "AlertInfo",
-      "text": "op~çao 1"
+      "text": "Branding e Performance",
+      "url": "/performance"
     },
     {
       "icon": "AlertInfo",
-      "text": "op~çao 1"
+      "text": "SEO para e-commerce",
+      "url": "/seo"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Implementação de E-commerce",
+      "url": "/implementacao-de-ecommerce"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "E-commerce Internacional",
+      "url": "/ecommerce-eua"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/crm",
+      "text": "CRM"
     }
   ]
 }

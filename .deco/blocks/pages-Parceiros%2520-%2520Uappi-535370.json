@@ -103,16 +103,16 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Eleita </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Melhor Agência de Performance Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> no 9.º Prêmio ABComm de Inovação Digital 2024, a Wave Commerce soma expertise em desenvolvimento, performance e CRM a uma plataforma que já nasce omnichannel, escalável e altamente personalizável. Como parceira certificada, oferecemos contato direto com o time UAPPI e garantimos atendimento especializado em português, espanhol e inglês.<br></span></p>",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a Uappi</span></strong></h2><p><br></p>"
+        "description": "<p></p><p><img src=\"https://assets.decocache.com/site-wave/1f7475c0-e9f3-40a0-9354-0529bf3e17f7/ecossistema-uappi.webp\"><img src=\"https://assets.decocache.com/site-wave/2efc5673-9c24-46b5-b0a7-af32a7d83b33/funcionalidades-uappi.webp\"></p>",
+        "title": "<h2></h2><p><br></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Eleita </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Melhor Agência de Performance Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> no 9.º Prêmio ABComm de Inovação Digital 2024, a Wave Commerce soma expertise em desenvolvimento, performance e CRM a uma plataforma que já nasce omnichannel, escalável e altamente personalizável. Como parceira certificada, oferecemos contato direto com o time UAPPI e garantimos atendimento especializado em português, espanhol e inglês.<br></span></p>",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a Uappi</span></strong></h2><p><br></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Esses recursos são entregues em uma interface intuitiva e acompanhados por suporte 24/7.</span></p>",
+        "title": "<p><br></p>"
       }
     },
     {
