@@ -226,7 +226,7 @@
           "link": "/",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4bcf2a8b-f71d-42a3-a952-247c884ea08a",
           "label": "Saiba mais",
-          "content": "Estruturação de E-commerce",
+          "content": "Implementação de E-commerce",
           "isEmptyBrand": true,
           "button": {
             "link": "/implementacao-de-ecommerce",
@@ -250,7 +250,7 @@
           "isEmptyBrand": true,
           "button": {
             "label": "saiba mais",
-            "link": "/criacao-e-designer"
+            "link": "/criacao-e-design"
           }
         },
         {

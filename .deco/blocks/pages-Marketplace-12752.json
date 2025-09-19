@@ -31,7 +31,7 @@
       },
       "labelTop": {
         "icon": "DigitalPerformance",
-        "text": "Marketplace "
+        "text": "Marketplace In e Out"
       },
       "subtitle": "Utilize o marketplace como uma ferramenta para impulsionar as vendas, e dar maior visibilidade para os seus produtos.",
       "labelBottom": {
@@ -60,7 +60,7 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<ul><li><p>Integração e performance</p></li><li><p>Criação de anúncios</p></li><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
+          "description": "<ul><li><p>Integração e performance</p></li><li><p>Estruturação de Marketplace</p></li><li><p>Criação de anúncios</p></li><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],
