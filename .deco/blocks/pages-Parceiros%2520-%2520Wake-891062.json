@@ -126,16 +126,16 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Implementação na Wave</span></strong></h3>",
-        "description": "<p><span style=\"color: rgb(247, 247, 247); font-size: 15pt\">Temos diferentes para a implementação da Wake Commerce na sua empresa, conforme a necessidade do cliente:</span></p>"
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Implementação na Wave</span></strong></h3>",
+        "description": "<p><span style=\"color: rgb(247, 247, 247); font-size: 15pt\">Temos diferentes para a implementação da Wake Commerce na sua empresa, conforme a necessidade do cliente:</span></p>"
       }
     },
     {

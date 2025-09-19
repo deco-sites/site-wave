@@ -109,7 +109,7 @@
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
           ],
-          "title": "Agência de \nE-commerce\nsomos a melhor agência de performance do Brasil",
+          "title": "Agência de \nE-commerce: \nsomos a melhor agência de performance do Brasil",
           "hasImage": [
             {
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
@@ -299,7 +299,8 @@
           "content": "CRO",
           "button": {
             "label": "saiba mais"
-          }
+          },
+          "image": "https://assets.decocache.com/site-wave/898461c9-0074-4139-b57b-9780a2569aa3/cro.png"
         },
         {
           "content": "Suporte e Evolução",
