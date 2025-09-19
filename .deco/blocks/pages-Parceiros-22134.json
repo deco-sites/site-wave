@@ -65,13 +65,35 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "title": "Salesforce",
+        "button": {
+          "link": "/salesforce",
+          "label": "Saiba mais"
+        }
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "button": {
+          "link": "/uappi",
+          "label": "Saiba mais"
+        },
+        "title": "Uappi"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
         "imageDesktop": "https://assets.decocache.com/site-wave/c9bd6061-9a97-4b31-a3b9-a22624ae7f58/desk-vtex-parceiro.jpg",
         "imageMobile": "https://assets.decocache.com/site-wave/74c721be-c160-4fe0-b9a4-b261383ab5a8/mob-vtex-parceiro.jpg",
-        "title": "VTEX",
         "button": {
           "link": "/vtex",
           "label": "Conheça nossa parceria"
-        }
+        },
+        "title": "VTEX"
       }
     },
     {

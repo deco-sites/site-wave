@@ -1,0 +1,268 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Hero.tsx",
+        "bgImage": {
+          "desktop": {
+            "src": "https://assets.decocache.com/site-wave/7665fec6-d5aa-4443-be51-2340bff8382f/desk-sales.jpg",
+            "height": 730
+          },
+          "mobile": {
+            "src": "https://assets.decocache.com/site-wave/f520a5b8-49e2-48a6-a5f4-58c39651c31b/mob-sale.jpg",
+            "height": 500
+          }
+        },
+        "labelTop": {
+          "icon": "ChevronLeft"
+        },
+        "title": "Somos uma agência parceira Salesforce",
+        "labelBottom": {
+          "text": " "
+        },
+        "findOutMore": {
+          "text": "saiba mais sobre a parceria"
+        },
+        "subtitle": "Especialista em performance digital e gerenciamento de e-commerce, oferecemos soluções estratégicas para potencializar os resultados de vendas do seu negócio."
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p><span style=\"font-size: 15pt\">A Salesforce é a plataforma de CRM número 1 do mundo, reconhecida por integrar dados, inteligência artificial confiável e automação em um único ecossistema. Com soluções como o Agentforce e o Starter Suite, a Salesforce capacita empresas de todos os tamanhos a vender mais, atender melhor e crescer com agilidade. Se você busca transformar a experiência do cliente, unificar dados e automatizar processos com IA de ponta, a Salesforce é a escolha ideal.</span></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O que é a Salesforce?</span></strong></h2><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que escolher a Salesforce?</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/d0cbd602-1320-48ce-aaf9-06692540b2a7/user-check.png",
+            "title": "Agentforce:",
+            "paragraph": "Agentes autônomos de IA que oferecem suporte proativo e contínuo a funcionários e clientes, conectando-se a qualquer fonte de dados em tempo real para planejar, raciocinar e executar tarefas com eficiência. "
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/c1ec0533-22e7-41d6-a2fd-850496bfe879/buildings.png",
+            "title": "Starter Suite:",
+            "paragraph": "Solução completa para pequenas empresas, conectando equipes de marketing, vendas, atendimento e comércio em um único aplicativo fácil de usar, com configuração rápida e orientação integrada."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/685e53dc-7a11-408c-8f32-8547d748fa0e/device-mobile-camera.png",
+            "title": "Plataforma Integrada:",
+            "paragraph": "Unifique todos os seus dados para impulsionar o engajamento personalizado em escala, conectando equipes e dados com aplicativos criados em cliques, não em código."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/930665a7-dcf2-41cf-9218-d468edaa81c0/user-switch.png",
+            "title": "Slack:",
+            "paragraph": " Impulsione a produtividade, automatize o trabalho e conecte-se com os clientes em tempo real."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/eb174e4e-eb95-4311-8f00-42e73c4f7799/devices.png",
+            "title": "Tableau:",
+            "paragraph": "Obtenha insights poderosos de qualquer dado, a qualquer momento, em qualquer lugar."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/7667fab4-f71d-471c-806a-83ddf66d3dd0/phone-call.png",
+            "title": "MuleSoft:",
+            "paragraph": "Conecte qualquer aplicativo, dado ou dispositivo — na nuvem ou localmente."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/7667fab4-f71d-471c-806a-83ddf66d3dd0/phone-call.png",
+            "title": "Heroku:",
+            "paragraph": "Construa aplicativos escaláveis em uma plataforma baseada em nuvem feita para desenvolvedores."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/7667fab4-f71d-471c-806a-83ddf66d3dd0/phone-call.png",
+            "paragraph": "Maximize seu ROI com recursos de autoatendimento e orientação confiável de especialistas em CRM, IA e dados.",
+            "title": "Sucesso e Serviços:"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"font-size: 15pt\">Com expertise em soluções personalizadas para impulsionar os resultados do seu negócio na internet, a equipe da Wave Commerce está preparada para oferecer novas formas de atendimento, desde o acompanhamento de projetos até serviços de marketing digital, visando alavancar suas vendas online. Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e recomendados pela Salesforce.</span></p><p></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 20pt\">Marcas que confiam na Salesforce</span></strong></h3>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p></p><p></p><p><img src=\"https://assets.decocache.com/site-wave/a847a41f-9c89-4553-acd5-892061e3e888/clientes-salesforce.webp\"></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Salesforce Commerce Cloud: plataforma para experiências completas de compra</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">O </span><strong><span style=\"font-size: 15pt\">Salesforce Commerce Cloud</span></strong><span style=\"font-size: 15pt\"> é uma solução robusta de comércio eletrônico que atende empresas B2C, B2B e até modelos híbridos B2B2C. Criado para oferecer experiências digitais unificadas, personalizadas e escaláveis, o Commerce Cloud permite que marcas lancem e gerenciem múltiplos sites, com funcionalidades adaptadas a diferentes geografias, marcas e perfis de clientes. Com ele, é possível integrar todas as etapas da jornada do consumidor — do marketing ao pós-venda — em uma única plataforma, trazendo mais agilidade, controle e personalização.</span></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"font-size: 15pt\">Seja por meio de vitrines otimizadas para mobile, carrinhos de compra com alta capacidade, ou a integração com o </span><strong><span style=\"font-size: 15pt\">Salesforce Order Management</span></strong><span style=\"font-size: 15pt\">, o Commerce Cloud oferece uma operação fluida e conectada. A inteligência artificial integrada (Einstein) garante recomendações inteligentes, personalização em tempo real e insights valiosos para tomada de decisão, tudo sem a necessidade de um time técnico dedicado exclusivamente à ciência de dados.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Funcionalidades adaptadas a cada modelo de negócio: B2C, B2B e B2B2C</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Para o </span><strong><span style=\"font-size: 15pt\">comércio B2C</span></strong><span style=\"font-size: 15pt\">, o Salesforce Commerce Cloud permite criar lojas dinâmicas com alta performance, oferecendo experiências omnichannel que engajam o consumidor em todos os pontos de contato — site, app, e-mail, loja física e redes sociais. Recursos como recomendações de produto baseadas em IA, múltiplas vitrines e escalabilidade para datas de alto volume tornam essa solução ideal para o varejo digital moderno.</span></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"font-size: 15pt\">No </span><strong><span style=\"font-size: 15pt\">comércio B2B</span></strong><span style=\"font-size: 15pt\">, a plataforma oferece funcionalidades como carrinhos de compras extensos, pedidos recorrentes em um clique, preços personalizados por cliente, múltiplas formas de pagamento e catálogos segmentados por conta. Já no modelo </span><strong><span style=\"font-size: 15pt\">B2B2C</span></strong><span style=\"font-size: 15pt\">, o Commerce Cloud permite que empresas B2B lancem rapidamente lojas diretas ao consumidor, sem comprometer sua operação principal. Tudo isso em um ambiente construído nativamente na Salesforce Platform, facilitando a integração com o CRM, marketing e atendimento para uma visão 360º do cliente.</span></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 18pt\">Serviços Oferecidos</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
+        "brand": {
+          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+        },
+        "services": [
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
+            "title": "Estruturação de E-commerce:",
+            "paragraph": "Desenvolvimento de layout personalizado, menus, filtros e categorias; cadastro e descrição de produtos; páginas institucionais; precificação; integrações; e suporte contínuo."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/5f17e332-0eb0-4cfd-9946-fbb188f18046/chart-line-up.png",
+            "title": "Performance:",
+            "paragraph": "SEO, UX/UI, mídia paga em Google Ads, Face Ads, Bing Ads, Criteo, Pinterest Ads; tagueamento de site; e ferramentas para conversão."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8a64d360-29ec-4b47-959b-1503747da5cf/list-magnifying-glass.png",
+            "title": "Conteúdo:",
+            "paragraph": "Criação de personas, funil de marketing, calendário de marketing, blog, e-book e e-mail marketing."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/26f5d696-46bc-4725-ad3f-c4c2efc208d1/paint-brush.png",
+            "title": "Criativo:",
+            "paragraph": "Banners, cards para redes sociais e criação de layout personalizado."
+          },
+          {
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
+            "title": "Marketplace:",
+            "paragraph": "Integração e performance, criação de anúncios, análise de desempenho, suporte e evolução."
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Potencialize sua Operação com a Wave Commerce e Salesforce</span></strong></h2><p><br></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Entre em contato conosco e descubra como podemos transformar sua presença digital e impulsionar seus resultados de vendas.</span></p><p><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Junte-se à onda!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "name": "Parceiros - Salesforce",
+  "path": "/salesforce"
+}
