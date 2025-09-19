@@ -265,24 +265,24 @@
       "__resolveType": "site/sections/Content/CardCases.tsx",
       "cards": [
         {
-          "image": "https://data.decoassets.com/site-wave/c72b3532-32ce-491b-bdae-e639633266d8/case-gremio-home.jpg",
-          "title": "Grêmio",
-          "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce.",
-          "isEmptyBrand": true,
-          "link": "/gremio"
+          "image": "https://assets.decocache.com/site-wave/cd253efc-1496-4889-a9c8-e1493195786f/claro.png",
+          "title": "Claro",
+          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
+          "isEmptyBrand": true
         },
         {
-          "link": "/friopecas",
+          "link": "/gremio",
+          "image": "https://data.decoassets.com/site-wave/c72b3532-32ce-491b-bdae-e639633266d8/case-gremio-home.jpg",
+          "isEmptyBrand": true,
+          "title": "Grêmio",
+          "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce."
+        },
+        {
           "image": "https://data.decoassets.com/site-wave/617d0814-d85a-4a51-8ecc-9f2eaed79f7a/case-friopecas-home.png",
           "isEmptyBrand": true,
+          "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce",
           "title": "Friopeças",
-          "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce"
-        },
-        {
-          "image": "https://assets.decocache.com/site-wave/cd253efc-1496-4889-a9c8-e1493195786f/claro.png",
-          "isEmptyBrand": true,
-          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
-          "title": "Claro"
+          "link": "/friopecas"
         },
         {
           "image": "https://data.decoassets.com/site-wave/c82c2f88-0b7d-4e44-8773-08cfbad5e4e9/case-true-home.jpg",
