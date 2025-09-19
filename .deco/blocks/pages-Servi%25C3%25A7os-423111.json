@@ -65,10 +65,45 @@
             "alt": "Acesse Aqui"
           },
           {
-            "title": "Marketplace",
+            "title": "Marketplace IN e Out",
             "image": "https://assets.decocache.com/site-wave/ce0ea9d6-c53f-404c-948f-4c423d9e5b0b/Group-80-(5).svg",
-            "description": "Lorem ipsum dolor sit amet consectetur. Praesent varius porttitor tortor posuere. Orci sodales sodales non urna neque. Sit feugiat varius ut mollis posuere suspendisse tincidunt.",
-            "link": "/performance",
+            "link": "/marketplace",
+            "alt": "/",
+            "description": "Utilize o marketplace como uma ferramenta para impulsionar as vendas, e dar maior visibilidade para os seus produtos."
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/ce0ea9d6-c53f-404c-948f-4c423d9e5b0b/Group-80-(5).svg",
+            "description": "Com o serviço de Fulfillment da Wave Commerce, em colaboração com a Sanco, você garante não só os melhores serviços para E-commerce, mas também a otimização de todo o seu processo logístico.",
+            "link": "/fulfillment",
+            "alt": "/",
+            "title": "Fulfillment"
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/ce0ea9d6-c53f-404c-948f-4c423d9e5b0b/Group-80-(5).svg",
+            "link": "/crm",
+            "alt": "/",
+            "title": "CRM",
+            "description": "Transforme Relacionamento em Resultados com Nossa Jornada de CRM"
+          },
+          {
+            "title": "CRO",
+            "image": "https://assets.decocache.com/site-wave/ce0ea9d6-c53f-404c-948f-4c423d9e5b0b/Group-80-(5).svg",
+            "description": "ALTERAR TEXTO",
+            "link": "/crm",
+            "alt": "/"
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/ce0ea9d6-c53f-404c-948f-4c423d9e5b0b/Group-80-(5).svg",
+            "description": "ALTERAR TEXTO",
+            "link": "/crm",
+            "alt": "/",
+            "title": "Suporte e Evolução"
+          },
+          {
+            "title": "Marketing para APP",
+            "image": "https://assets.decocache.com/site-wave/ce0ea9d6-c53f-404c-948f-4c423d9e5b0b/Group-80-(5).svg",
+            "description": "ALTERAR TEXTO",
+            "link": "/crm",
             "alt": "/"
           }
         ]
