@@ -99,23 +99,23 @@
         "__resolveType": "site/sections/Services/Cards.tsx",
         "sections": [
           {
-            "title": "<p>&nbsp;A transição incluiu:</p>",
-            "description": "<ul><li><strong><strong id=\"docs-internal-guid-4576d31f-7fff-c525-8e30-e680640c00ed\">Migração para o VTEX IO: </strong></strong>A nova plataforma proporcionou flexibilidade, escalabilidade e uma estrutura modular para atender às demandas específicas do clube.</li><li><strong id=\"docs-internal-guid-5a2f7424-7fff-43b9-58ed-7ebba98aee15\">Acesso ao ecossistema de parceiros VTEX: </strong>Integração com os principais players do mercado, como sistemas de CRM, ERP e meios de pagamento, garantindo uma experiência de compra sem fricções.</li></ul>",
+            "title": "<p>Teste Inicial e Estudos</p>",
+            "description": "<ul><li><p><strong>3 meses para compreender e adaptar estratégias específicas para o aplicativo.</strong></p></li><li><p><strong>Realização de estudos aprofundados sobre como aplicar o conhecimento de marketing digital ao ambiente mobile, focando em ASO e campanhas de mídia direcionadas para aumentar os downloads do aplicativo.</strong></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           },
           {
-            "title": "<p>Design e Identidade Visual Renovados:</p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Layout moderno e leve:</strong> A nova identidade visual trouxe um design mais limpo e atrativo, com maior destaque ao logotipo e às cores do clube.</li><li dir=\"ltr\"><strong>Hierarquia clara de informações:</strong> As vitrines foram reorganizadas para destacar seções estratégicas como “Olímpico 70 anos” e “Confira as Novidades”.</li><li dir=\"ltr\"><strong><strong id=\"docs-internal-guid-4576d31f-7fff-c525-8e30-e680640c00ed\"><strong id=\"docs-internal-guid-2be64fe5-7fff-9f1c-a52c-44b71488a95b\">CTAs visíveis e intuitivos: </strong></strong></strong>Botões chamativos direcionam os torcedores, facilitando a jornada de compra.</li></ul>",
+            "title": "<p>Estratégia de ASO e Mídia</p>",
+            "description": "<ul><li><p><strong>Criação de campanhas de mídia paga e estratégias de ASO otimizadas para download, garantindo visibilidade e atraindo o público-alvo.</strong></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           },
           {
-            "title": "<p>Melhorias na Navegação e Funcionalidades:</p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Nova árvore de categorias:</strong> Criada para simplificar a navegação e tornar a experiência mais fluida.</li><li dir=\"ltr\"><strong>Filtros e ordenação: </strong>Adicionados às páginas de categoria, melhorando a busca e permitindo maior personalização para o usuário.</li><li dir=\"ltr\"><strong>Menu fixo no mobile: </strong>Oferece fácil acesso às principais seções do site, mesmo em telas menores.</li></ul><p><strong><strong id=\"docs-internal-guid-0408ea12-7fff-c6b2-d809-18dd12d46364\"></strong></strong></p>",
+            "title": "<p>Revitalização do Layout e UX</p><p><br></p>",
+            "description": "<ul><li><p><strong>Identificação de que o site possuía um layout simples e sem experiência do usuário satisfatória.</strong></p></li><li><p><strong>Desenvolvimento de um estudo de UX que culminou na proposta de um novo layout, inspirado em outras soluções de sucesso da própria Kobe Apps.</strong></p></li><li><p><strong>Implementação prática do novo layout em dezembro, alinhando a comunicação visual e funcionalidade com as necessidades do público.</strong></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           },
           {
-            "title": "<p dir=\"ltr\">Personalização de Produtos e Ofertas:</p><p><br data-mce-bogus=\"1\"></p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Página de produto exclusiva:</strong> Apresenta preços diferenciados para sócios e funcionalidade de wishlist.</li><li dir=\"ltr\"><strong>Preço para sócios na vitrine:</strong> Estratégia que incentiva a adesão e destaca os benefícios para os torcedores fiéis.</li><li dir=\"ltr\"><strong id=\"docs-internal-guid-e7907027-7fff-a266-7376-272bbdb700d0\">Barra de condições acima do banner principal: </strong>Seguindo melhores práticas de UX, exibe informações essenciais de forma clara e acessível.</li></ul><p><strong><strong id=\"docs-internal-guid-0408ea12-7fff-c6b2-d809-18dd12d46364\"></strong></strong></p>",
+            "title": "<p>Acompanhamento e Ajustes</p><p><br></p>",
+            "description": "<ul><li><p><strong>Monitoramento semanal e contato diário, garantindo um atendimento diferenciado e a possibilidade de ajustes rápidos conforme os resultados iniciais.</strong></p></li><li><p><strong>Os ajustes estratégicos continuaram a se consolidar e trazer melhorias graduais.</strong></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           }
         ],
@@ -125,24 +125,8 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A parceria com a Wave Commerce foi essencial para o sucesso do projeto. O time de especialistas trabalhou em sinergia com o Grêmio para criar soluções customizadas, garantindo que cada aspecto do e-commerce estivesse alinhado às necessidades e expectativas dos torcedores.</span></p><p><br></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Mobile Novo</span></p>",
-        "description": "<p></p><p></p>"
       }
     },
     {
