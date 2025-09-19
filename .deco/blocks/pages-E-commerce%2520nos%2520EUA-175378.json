@@ -59,7 +59,7 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "title": "<p></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Contamos com uma equipe de profissionais qualificados e preparados para levar as melhores práticas do digital para potencializar suas vendas nos Estados Unidos.</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Contamos com uma equipe de profissionais qualificados e preparados para levar as melhores práticas do digital para potencializar suas vendas no exterior.</span></p>",
         "__resolveType": "site/sections/Services/Card4.tsx"
       }
     },

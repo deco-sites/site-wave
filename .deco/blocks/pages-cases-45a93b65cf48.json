@@ -75,13 +75,41 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "title": "Grêmio",
+        "imageDesktop": "https://data.decoassets.com/site-wave/e2849495-a1c4-4d68-b3e6-efd95660619e/desk-gremio-case.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/623c528a-6ef6-45fb-b2cf-92b3ad8a6475/mob-gremio-case.jpg",
+        "button": {
+          "link": "/claro",
+          "label": "Saiba mais"
+        },
+        "subtitle": "Lorem Lorem",
+        "title": "Claro"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
+        "imageDesktop": "https://data.decoassets.com/site-wave/e2849495-a1c4-4d68-b3e6-efd95660619e/desk-gremio-case.jpg",
+        "imageMobile": "https://data.decoassets.com/site-wave/623c528a-6ef6-45fb-b2cf-92b3ad8a6475/mob-gremio-case.jpg",
+        "button": {
+          "link": "/ladeira-armarinho",
+          "label": "Saiba mais"
+        },
+        "title": "Ladeira Armarinho",
+        "subtitle": "Lorem Lorem"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
         "imageDesktop": "https://data.decoassets.com/site-wave/e2849495-a1c4-4d68-b3e6-efd95660619e/desk-gremio-case.jpg",
         "imageMobile": "https://data.decoassets.com/site-wave/623c528a-6ef6-45fb-b2cf-92b3ad8a6475/mob-gremio-case.jpg",
         "button": {
           "link": "/gremio",
           "label": "Saiba mais"
         },
+        "title": "Grêmio",
         "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce."
       }
     },
@@ -92,8 +120,8 @@
         "imageDesktop": "https://data.decoassets.com/site-wave/802f2fd7-9aac-4ef6-b27f-a22216c259db/desk-friopecas-case.jpg",
         "imageMobile": "https://data.decoassets.com/site-wave/029417af-1f23-4617-8471-e5f66c6fcfd6/mob-friopecas-case.jpg",
         "button": {
-          "link": "/friopecas",
-          "label": "Saiba mais"
+          "label": "Saiba mais",
+          "link": "/friopecas"
         },
         "title": "Friopeças",
         "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce"
@@ -120,11 +148,11 @@
         "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3febd3ce-2b5a-40de-9222-af424e61b50e/desk-ramarim-case.jpg",
         "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/04719289-cd17-49ed-af64-bd9da0cae17f/mob-ramarim-case.jpg",
         "button": {
-          "label": "Saiba mais",
-          "link": "/ramarim"
+          "link": "/ramarim",
+          "label": "Saiba mais"
         },
-        "title": "Ramarim",
-        "subtitle": "Primeiro marketplace feito em Deco CX., notas do PageSpeed aumentaram para 61 e 97 em dispositivos móveis e desktop"
+        "subtitle": "Primeiro marketplace feito em Deco CX., notas do PageSpeed aumentaram para 61 e 97 em dispositivos móveis e desktop",
+        "title": "Ramarim"
       }
     },
     {
@@ -148,8 +176,8 @@
         "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a5b90107-69e1-43a1-b402-fbbad55a8349/desk-safira-case.jpg",
         "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/846452df-76f6-4091-84b2-6a29cfa5a5c9/mob-safira-case.jpg",
         "button": {
-          "link": "/safira",
-          "label": "Saiba mais"
+          "label": "Saiba mais",
+          "link": "/safira"
         },
         "subtitle": "Expansão de vendas para todo Brasil com Omnichannel",
         "title": "Safira"
@@ -176,25 +204,11 @@
         "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/945a17af-5262-4ff7-99cf-decc32149ca4/desk-cookeletroraro-case.jpg",
         "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/43ae0294-7902-4dab-96b1-f18a06d06d03/mob-cookeletroraro-case.jpg",
         "button": {
-          "label": "Saiba mais",
-          "link": "/cook-eletroraro"
-        },
-        "subtitle": "Como o E-commerce bateu recordes de faturamento",
-        "title": "Cook Eletroraro"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/df2f49c4-1dad-44a7-8a4d-8a83b5e17eb0/desk-escafandro-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a56f1e43-5911-4087-ae8f-a0c4b9886cab/mob-escafandro-case.jpg",
-        "button": {
-          "link": "/escafandro",
+          "link": "/cook-eletroraro",
           "label": "Saiba mais"
         },
-        "title": "Escafandro",
-        "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso"
+        "title": "Cook Eletroraro",
+        "subtitle": "Como o E-commerce bateu recordes de faturamento"
       }
     },
     {
@@ -235,36 +249,8 @@
           "link": "/banca-43",
           "label": "Saiba mais"
         },
-        "title": "Banca 43",
-        "subtitle": "Descubra como a Banca 43 se tornou um case de sucesso online no segmento alimentício"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/ee6298d8-07a5-43dd-87cc-b006a44136dc/desk-bbdu-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/64165ff5-c41d-4993-9109-f02d1b4d3e2a/mob-bbdu-case.jpg",
-        "button": {
-          "link": "/BBDU",
-          "label": "Saiba mais"
-        },
-        "title": "BBDU",
-        "subtitle": "Como a BBDU passou por uma das etapas da transformação digital, que é a criação da cultura baseada em dados"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c5c65c47-5b07-432f-b119-eb2e847be8ec/desk-dogu-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5e542815-b499-4984-ba8a-b030ddb7bf04/mob-dogu-case.jpg",
-        "button": {
-          "link": "/dog.u",
-          "label": "Saiba mais"
-        },
-        "title": "Dog U",
-        "subtitle": "Processo de migração da plataforma VTEX para Shopify realizado com sucesso"
+        "subtitle": "Descubra como a Banca 43 se tornou um case de sucesso online no segmento alimentício",
+        "title": "Banca 43"
       }
     },
     {
