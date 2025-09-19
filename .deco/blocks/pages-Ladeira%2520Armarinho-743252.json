@@ -110,12 +110,12 @@
           },
           {
             "title": "<p>Revitalização do Layout e UX</p><p><br></p>",
-            "description": "<ul><li><p><strong>Identificação de que o site possuía um layout simples e sem experiência do usuário satisfatória.</strong></p></li><li><p><strong>Desenvolvimento de um estudo de UX que culminou na proposta de um novo layout, inspirado em outras soluções de sucesso da própria Kobe Apps.</strong></p></li><li><p><strong>Implementação prática do novo layout em dezembro, alinhando a comunicação visual e funcionalidade com as necessidades do público.</strong></p></li></ul>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">Identificação de que o site possuía um layout simples e sem experiência do usuário satisfatória.</span></p></li><li><p><span style=\"font-size: 15pt\">Desenvolvimento de um estudo de UX que culminou na proposta de um novo layout, inspirado em outras soluções de sucesso da própria Kobe Apps.</span></p></li><li><p><span style=\"font-size: 15pt\">Implementação prática do novo layout em dezembro, alinhando a comunicação visual e funcionalidade com as necessidades do público.</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           },
           {
             "title": "<p>Acompanhamento e Ajustes</p><p><br></p>",
-            "description": "<ul><li><p><strong>Monitoramento semanal e contato diário, garantindo um atendimento diferenciado e a possibilidade de ajustes rápidos conforme os resultados iniciais.</strong></p></li><li><p><strong>Os ajustes estratégicos continuaram a se consolidar e trazer melhorias graduais.</strong></p></li></ul>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">Monitoramento semanal e contato diário, garantindo um atendimento diferenciado e a possibilidade de ajustes rápidos conforme os resultados iniciais.</span></p></li><li><p><span style=\"font-size: 15pt\">Os ajustes estratégicos continuaram a se consolidar e trazer melhorias graduais.</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           }
         ],
@@ -180,7 +180,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Os KPIs definidos no início do projeto foram superados, consolidando o Grêmio como referência no mercado de e-commerce esportivo. A transição não apenas modernizou o e-commerce do clube, mas também fortaleceu a conexão emocional com os torcedores, oferecendo uma experiência de compra digna da tradição e da grandeza do Grêmio.</span></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Essa performance robusta reforça a importância de investir em uma estratégia digital integrada, aliando técnicas de ASO, campanhas de mídia e um relayout focado na experiência do usuário. A parceria entre a Wave Commerce e a Kobe Apps transformou o cenário da Ladeira Armarinhos, provando que a inovação e o atendimento especializado podem impulsionar resultados expressivos e sustentáveis.</span></p>"
       }
     },
     {
