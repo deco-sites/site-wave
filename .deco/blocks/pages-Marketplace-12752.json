@@ -1,6 +1,6 @@
 {
-  "name": "Marketplace",
-  "path": "/marketplace",
+  "name": "Marketplace In e Out",
+  "path": "/marketplace-in-e-out",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"
@@ -33,7 +33,7 @@
         "icon": "DigitalPerformance",
         "text": "Marketplace In e Out"
       },
-      "subtitle": "Utilize o marketplace como uma ferramenta para impulsionar as vendas, e dar maior visibilidade para os seus produtos.",
+      "subtitle": "Utilize o marketplace como uma ferramenta para impulsionar as vendas e dar maior visibilidade para os seus produtos.",
       "labelBottom": {
         "icon": "ChevronDown",
         "text": "Saiba mais sobre Marketplace"
@@ -49,7 +49,7 @@
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li><p>Integração com os Principais Marketplaces</p></li><li><p>Criação do seu próprio Marketplace</p></li><li><p>Parcerias Estratégicas com Marketplaces e Ferramentas</p></li><li><p>Especialistas em E-commerce e Marketplaces</p></li><li><p>Gestão de Avaliações e Reputação</p></li><li><p>Campanhas de Publicidade</p></li><li><p>Expansão Multicanal Internacional</p></li></ul><p><br></p><p><br></p><p><br></p>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Integração com os Principais Marketplaces</span></p></li><li><p><span style=\"font-size: 15pt\">Criação do seu próprio Marketplace</span></p></li><li><p><span style=\"font-size: 15pt\">Parcerias Estratégicas com Marketplaces e Ferramentas</span></p></li><li><p><span style=\"font-size: 15pt\">Especialistas em E-commerce e Marketplaces</span></p></li><li><p><span style=\"font-size: 15pt\">Gestão de Avaliações e Reputação</span></p></li><li><p><span style=\"font-size: 15pt\">Campanhas de Publicidade</span></p></li><li><p><span style=\"font-size: 15pt\">Expansão Multicanal Internacional</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ],
@@ -60,7 +60,7 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<ul><li><p>Integração e performance</p></li><li><p>Estruturação de Marketplace</p></li><li><p>Criação de anúncios</p></li><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Integração e performance</span></p></li><li><p><span style=\"font-size: 15pt\">Estruturação de Marketplace</span></p></li><li><p><span style=\"font-size: 15pt\">Criação de anúncios</span></p></li><li><p><span style=\"font-size: 15pt\">Análise e desempenho</span></p></li><li><p><span style=\"font-size: 15pt\">Suporte e evolução</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],

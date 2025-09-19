@@ -34,8 +34,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor experiência de compra.<br>A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></p>",
-        "description": "<p></p>"
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Safira está no mercado desde 1950, reconhecida como líder de mercado&nbsp;no segmento de joias, relógios e óculos no Rio Grande do Sul. Com 11 lojas&nbsp;físicas e centenas de colaboradores capacitados para proporcionar a melhor experiência de compra.<br>A Safira desenvolve joias e garante certificação do ouro 18k de todas as&nbsp;suas peças, além de atuar com marcas como: RayBan, Gucci, Dolce &amp;&nbsp;Gabbana, Prada, Armani, Tiffany, entre outras.</span></p>"
       }
     },
     {
@@ -89,7 +89,7 @@
         "sections": [
           {
             "title": "<p>Diferenciais da Wave:</p>",
-            "description": "<ul><li><p><strong>Especialização no varejo:</strong> Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br></p></li><li><p><strong>Equipe capacitada:</strong> Wave preocupada em ter uma equipe atualizada com as principais tendências de mercado para proporcionar os melhores resultados.</p></li><li>Aumento de faturamento expressivo com pouco crescimento do investimento, resultando num maior retorno e marge</li></ul>",
+            "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">Especialização no varejo:</span></strong><span style=\"font-size: 15pt\"> Saber trabalhar com varejistas, visto o senso de urgência de mudar campanhas com velocidade.<br></span></p></li><li><p><strong><span style=\"font-size: 15pt\">Equipe capacitada:</span></strong><span style=\"font-size: 15pt\"> Wave preocupada em ter uma equipe atualizada com as principais tendências de mercado para proporcionar os melhores resultados.</span></p></li><li><p><span style=\"font-size: 15pt\">Aumento de faturamento expressivo com pouco crescimento do investimento, resultando num maior retorno e marge</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card3.tsx"
           }
         ],

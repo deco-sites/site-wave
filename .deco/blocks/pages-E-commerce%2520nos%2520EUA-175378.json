@@ -1,6 +1,6 @@
 {
-  "name": "E-commerce nos EUA",
-  "path": "/ecommerce-eua",
+  "name": "E-commerce Internacional",
+  "path": "/ecommerce-internacional",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"

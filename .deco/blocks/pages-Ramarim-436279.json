@@ -14,7 +14,7 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "Front-end, Migração de Plataforma"
+          "text": "Front-end | Migração de Plataforma"
         },
         "subtitle": "Primeiro marketplace feito em Deco cx.",
         "title": "Ramarim",
@@ -41,8 +41,22 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O grupo Ramarim tem quase 60 anos de história no mercado calçadista brasileiro e mundial. Atualmente, é composto pelas marcas Ramarim e ComfortFlex. Pioneiro em pesquisa, moda, tecnologia do conforto e inovação no Brasil, reconhecido no mundo inteiro por sua qualidade e design inovadores, o grupo tem equipe de representantes em todo o país e mais de 60 países.</span></p><p></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">O trabalho entre Wave Commerce e Ramarim iniciou em abril de 2023, com serviços de</span><span style=\"color: rgb(0, 88, 197); font-size: 15pt\"> Social ADS, SEO, E-commerce, mídia paga e CRM</span><span style=\"color: rgb(30, 30, 30); font-size: 15pt\">. </span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Durante essa jornada, sentimos juntos a necessidade de inovar o marketplace de Ramarim para se tornar ainda mais rápido e eficiente, transformando a experiência do cliente.</span></p>",
-        "description": "<p></p>"
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O grupo Ramarim tem quase 60 anos de história no mercado calçadista brasileiro e mundial. Atualmente, é composto pelas marcas Ramarim e ComfortFlex. Pioneiro em pesquisa, moda, tecnologia do conforto e inovação no Brasil, reconhecido no mundo inteiro por sua qualidade e design inovadores, o grupo tem equipe de representantes em todo o país e mais de 60 países. </span><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">O trabalho entre Wave Commerce e Ramarim iniciou em abril de 2023, com serviços de</span><span style=\"color: rgb(0, 88, 197); font-size: 15pt\"> Social ADS, SEO, E-commerce, mídia paga e CRM</span><span style=\"color: rgb(30, 30, 30); font-size: 15pt\">. </span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Durante essa jornada, sentimos juntos a necessidade de inovar o marketplace de Ramarim para se tornar ainda mais rápido e eficiente, transformando a experiência do cliente.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {

@@ -14,7 +14,7 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "SEO, CRM, Mídia paga, Front-End"
+          "text": "SEO | CRM | Mídia paga | Front-End"
         },
         "subtitle": "Como o E-commerce bateu recordes de faturamento",
         "title": "Cook Eletroraro",
@@ -145,16 +145,16 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(248, 247, 247); font-size: 20pt\">“A equipe o tempo todo está disposta a nos ajudar com </span><span style=\"color: rgb(0, 91, 205); font-size: 20pt\">estratégias </span><span style=\"color: rgb(0, 92, 206); font-size: 20pt\">novas, novos insights</span><span style=\"color: rgb(248, 247, 247); font-size: 20pt\">. Experiência muito boa!”</span></p>",
-        "description": "<h2><span style=\"font-size: 15pt\">Destacando o engajamento entre as equipes da Wave na busca por resultados.</span></h2>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
+        "depoiments": {
+          "text": "<p><strong><span style=\"color: rgb(248, 247, 247); font-size: 20pt\">\"</span></strong><span style=\"color: #3c3c3c; font-size: 20pt\">A equipe o tempo todo está disposta a nos ajudar com</span><strong><span style=\"color: rgb(248, 247, 247); font-size: 20pt\"> </span><span style=\"color: #fdfcfc; font-size: 20pt\">estratégias novas, novos insights.</span><span style=\"color: rgb(248, 247, 247); font-size: 20pt\"> </span></strong><span style=\"color: #3c3c3c; font-size: 20pt\">Experiência muito boa!</span></p>",
+          "office": "Destacando o engajamento entre as equipes da Wave na busca por resultados.",
+          "author": "Equipe Cook Eletroraro"
+        },
+        "icon": {
+          "width": 66,
+          "height": 44
+        }
       }
     },
     {
@@ -176,7 +176,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX IO</span></strong></p>",
-        "description": "<p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">No início de maio, a empresa passou por uma </span><strong><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">migração de VTEX CMS para VTEX IO</span></strong><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">, período que pode ser complicado. No entanto, a adaptação foi rápida. A partir de um estudo de VTEX IO personalizado para Cook Eletroraro, em que foi possível entender onde melhorias poderiam ser implementadas, o site passou por um processo de “relayout” (mudança da disposição dos elementos visuais da página). </span><span style=\"font-size: 15pt\">Com os aplicativos personalizados e o site editor da VTEX IO, o site teve uma melhora enorme em sua acessibilidade e facilitou a gestão de conteúdo, resultando em avanços expressivos para performance. Além disso, o SEO do site se tornou muito mais simples e eficiente. Isso foi um fator determinante para os recordes alcançados.</span></p><p></p>"
+        "description": "<p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">No início de maio, a empresa passou por uma </span><strong><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">migração de VTEX CMS para VTEX IO</span></strong><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">, período que pode ser complicado. No entanto, a adaptação foi rápida. A partir de um estudo de VTEX IO personalizado para Cook Eletroraro, em que foi possível entender onde melhorias poderiam ser implementadas, o site passou por um processo de “relayout” (mudança da disposição dos elementos visuais da página). </span></p><p></p><p><span style=\"font-size: 15pt\">Com os aplicativos personalizados e o site editor da VTEX IO, o site teve uma melhora enorme em sua acessibilidade e facilitou a gestão de conteúdo, resultando em avanços expressivos para performance. Além disso, o SEO do site se tornou muito mais simples e eficiente. Isso foi um fator determinante para os recordes alcançados.</span></p><p></p>"
       }
     },
     {

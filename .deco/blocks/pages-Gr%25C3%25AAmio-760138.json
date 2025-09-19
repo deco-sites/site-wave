@@ -98,6 +98,20 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Institutionals/Video.tsx",
+        "video": "https://www.youtube.com/embed/CZHKnyPIgSE?si=y6HKq5pHE1p4Mhwg"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desktop Antigo</span></p>",
         "description": "<p></p><p></p>"
@@ -248,13 +262,6 @@
           }
         ],
         "cta": {}
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/CZHKnyPIgSE?si=y6HKq5pHE1p4Mhwg"
       }
     },
     {

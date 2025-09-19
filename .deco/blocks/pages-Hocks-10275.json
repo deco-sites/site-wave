@@ -34,8 +34,16 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: #005ed3; font-size: 25pt\">Conheça as estratégias que impactaram nesse resultado</span><span style=\"color: rgb(255, 255, 255)\"><br></span></p>",
-        "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A história da </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Hocks </span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">começou em 2002 quando Cristiano Senra, skatista e sócio-fundador, começou a desenvolver os produtos e, desde então, vem se consolidando como uma das maiores marcas de streetwear do mercado brasileiro. Atuando no segmento de vestuário e acessórios, a marca oferece produtos com materiais de alta qualidade e ótimo custo benefício para os consumidores.&nbsp; Inicialmente, as vendas eram feitas apenas B2B, atendendo lojistas do Rio Grande do Sul e atualmente está presente em vários estados do Brasil com mais de 500 pontos de vendas.</span></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Em 2019, perceberam a necessidade de criar novos produtos e </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">expandir as vendas</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para regiões onde a marca ainda não estava presente. Foi quando decidiram digitalizar a Hocks lançando um </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">e-commerce</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para trabalhar as vendas B2C com entrega para todos os lugares do Brasil.</span></p>"
+        "title": "<h1><strong><span style=\"color: rgb(0, 94, 211); font-size: 25pt\">Conheça as estratégias que impactaram nesse resultado</span></strong><span style=\"color: rgb(255, 255, 255)\"><br></span></h1>",
+        "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A história da </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Hocks </span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">começou em 2002 quando Cristiano Senra, skatista e sócio-fundador, começou a desenvolver os produtos e, desde então, vem se consolidando como uma das maiores marcas de streetwear do mercado brasileiro. Atuando no segmento de vestuário e acessórios, a marca oferece produtos com materiais de alta qualidade e ótimo custo benefício para os consumidores.&nbsp; Inicialmente, as vendas eram feitas apenas B2B, atendendo lojistas do Rio Grande do Sul e atualmente está presente em vários estados do Brasil com mais de 500 pontos de vendas.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Em 2019, perceberam a necessidade de criar novos produtos e </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">expandir as vendas</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para regiões onde a marca ainda não estava presente. Foi quando decidiram digitalizar a Hocks lançando um </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">e-commerce</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para trabalhar as vendas B2C com entrega para todos os lugares do Brasil.</span></p>"
       }
     },
     {

@@ -1,6 +1,6 @@
 {
-  "name": "Criação e Design",
-  "path": "/criacao-e-design",
+  "name": "Design & UX/UI",
+  "path": "/design-ux-ui",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"
@@ -33,7 +33,7 @@
         "icon": "DigitalPerformance",
         "text": "Criação e Design"
       },
-      "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos do seu negócio e interface personalizada para a melhor experiência do usuário .",
+      "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos do seu negócio e interface personalizada para a melhor experiência do usuário ",
       "labelBottom": {
         "icon": "ChevronDown",
         "text": "Saiba mais sobre Criação e Design"
@@ -50,12 +50,12 @@
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li><p>Criação de Identidade Visual Exclusiva</p></li><li><p>Design Personalizado e Estratégico</p></li><li><p>Equipe Criativa Especializada</p></li><li><p>Domínio de Ferramentas de Criação Avançadas</p></li><li><p>Experiência do Usuário (UX) e Interface (UI)</p></li></ul>",
+          "description": "<ul><li><p>Criação de Identidade Visual Exclusiva</p></li><li><p>Design Personalizado e Estratégico</p></li><li><p>Equipe Criativa Especializada</p></li><li><p>Domínio de Ferramentas de Criação Avançadas</p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         },
         {
-          "title": "<p>UX/UI:</p>",
-          "description": "<ul><li><p>Criação e Design de Interfaces</p><p>UI Design</p><p>Análise e criação de layouts voltados a usabilidade</p><p>ux writing</p><p>Otimização de linguagem para facilitar decisões de compra</p><p>Experiência do Usuário</p><p>UX Research</p><p>Posouisa do</p><p>comportamento do consumidor.</p><p>UX Journey</p><p>Análise da jornada de compra.</p><p>Testes de</p><p>Usabilidade</p><p>Testes de</p><p>comportamento de uso em cenários&nbsp;web.</p><p></p></li></ul>",
+          "title": "<p>UX/UI</p>",
+          "description": "<ul><li><p>UI Design: Análise e criação de layouts voltados a usabilidade</p></li><li><p>UX Writing: Otimização de linguagem para facilitar decisões de compra</p></li><li><p>UX Research: Pesquisa do comportamento do consumidor.</p></li><li><p>UX Journey: Análise da jornada de compra.</p></li><li><p>Testes de comportamento de uso em cenários&nbsp;web.</p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ]

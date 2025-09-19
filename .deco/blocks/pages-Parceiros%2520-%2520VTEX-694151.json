@@ -177,16 +177,16 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">45 dias de garantia</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Para não deixar nossos clientes desamparados, damos </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">45 dias de garantia</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> em todos os sites que desenvolvemos. Após o fim dessa garantia, contamos com um trabalho de suporte e evolução, em que damos auxílio nos próximos passos do desenvolvimento do site e na resolução de problemas que o cliente possa ter.</span></p>"
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
@@ -203,6 +203,13 @@
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Estruturação de E-commerce: Layout personalizado com desenvolvimento e codificação, Menu, filtros e categorias, Cadastro de produtos, Descrição de produtos, Páginas institucionais, Precificação de produtos, Integrações, Suporte e evolução do e-commerce.</span></p><p></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
@@ -252,13 +259,6 @@
             "paragraph": "Integração e Performance, Criação de anúncios, Análise e desempenho, Suporte e evolução."
           }
         ]
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
       }
     },
     {

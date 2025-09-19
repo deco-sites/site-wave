@@ -1,6 +1,6 @@
 {
-  "name": "Performance",
-  "path": "/performance",
+  "name": "Branding e Performance",
+  "path": "/branding-e-performance",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"

@@ -109,12 +109,64 @@
   "partnerSelectir": [],
   "partnerSelector": [
     {
-      "icon": "AlertInfo",
-      "text": "op~çao 1"
+      "icon": "DigitalPerformance",
+      "text": "Salesforce",
+      "url": "/salesforce"
     },
     {
-      "icon": "AlertInfo",
-      "text": "op~çao 1"
+      "icon": "DigitalPerformance",
+      "text": "Uappi",
+      "url": "/uappi"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Vtex",
+      "url": "/vtex"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/deco-cx",
+      "text": "Deco"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/shopify",
+      "text": "Shopify"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/wake",
+      "text": "Wake"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/amazon",
+      "text": "Amazon SPN"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/linx",
+      "text": "Linx"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "url": "/moovin",
+      "text": "Moovin"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Stoom",
+      "url": "/stoom"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "Olist Vnda",
+      "url": "/vnda"
+    },
+    {
+      "icon": "DigitalPerformance",
+      "text": "CWS Platform",
+      "url": "/cws-platform"
     }
   ]
 }

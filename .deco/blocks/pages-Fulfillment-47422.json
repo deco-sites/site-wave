@@ -50,7 +50,7 @@
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li>Proximidade com Google e plataformas;</li><li>Parceiros especializados;</li><li>Profissionais com experiência em E-commerce;</li><li>Profissionais com alto conhecimento das plataformas;</li><li>Profissionais de UX, UI, SEO e Mídia Paga em Google, Facebook, Linkedin, Bing, Pinterest, Criteo, entre outros.</li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Proximidade com Google e plataformas;</span></p></li><li><p><span style=\"font-size: 15pt\">Parceiros especializados;</span></p></li><li><p><span style=\"font-size: 15pt\">Profissionais com experiência em E-commerce;</span></p></li><li><p><span style=\"font-size: 15pt\">Profissionais com alto conhecimento das plataformas;</span></p></li><li><p><span style=\"font-size: 15pt\">Profissionais de UX, UI, SEO e Mídia Paga em Google, Facebook, Linkedin, Bing, Pinterest, Criteo, entre outros.</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ]

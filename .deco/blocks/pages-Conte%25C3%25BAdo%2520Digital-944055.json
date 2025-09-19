@@ -50,7 +50,7 @@
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li>Criação de Conteúdo Alinhado às Diretrizes do Google para SEO</li><li>Equipe com Expertise em Marketing de Conteúdo</li><li>Domínio de Ferramentas de Análise e Gestão de Conteúdo</li><li>Foco em Diversidade e Qualidade</li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Criação de Conteúdo Alinhado às Diretrizes do Google para SEO</span></p></li><li><p><span style=\"font-size: 15pt\">Equipe com Expertise em Marketing de Conteúdo</span></p></li><li><p><span style=\"font-size: 15pt\">Domínio de Ferramentas de Análise e Gestão de Conteúdo</span></p></li><li><p><span style=\"font-size: 15pt\">Foco em Diversidade e Qualidade</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ],

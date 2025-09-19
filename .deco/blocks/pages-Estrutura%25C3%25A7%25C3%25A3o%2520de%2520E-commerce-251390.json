@@ -66,9 +66,15 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
+        "__resolveType": "site/sections/Space.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><strong><span style=\"color: #0066e4; font-size: 25pt\">Nosso trabalho vai muito além da realização do seu projeto</span></strong></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nossa equipe possui </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">conhecimento e experiência nos melhores canais de Marketing Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, desde a produção de conteúdos para blog e materiais ricos, otimização de investimentos em campanhas de mídia paga, </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wavecommerce.com.br/seo/\"><strong><u><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">SEO para e-commerce</span></u></strong></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> tudo para que o seu e-commerce alcance os melhores resultados de vendas.</span></p>",
-        "__resolveType": "site/sections/Services/Card4.tsx"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Nossa equipe possui </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">conhecimento e experiência nos melhores canais de Marketing Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, desde a produção de conteúdos para blog e materiais ricos, otimização de investimentos em campanhas de mídia paga, </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wavecommerce.com.br/seo/\"><strong><u><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">SEO para e-commerce</span></u></strong></a><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> tudo para que o seu e-commerce alcance os melhores resultados de vendas.</span></p>"
       }
     },
     {
@@ -77,7 +83,7 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<ul><li><p>Escolha de ERP e plataforma</p></li><li><p>Menu, filtros e categorias</p></li><li><p>Cadastro de produtos</p></li><li><p>Fotografia de produtos</p></li><li><p>Integrações</p></li><li><p>Descrição de produtos</p></li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Escolha de ERP e plataforma</span></p></li><li><p><span style=\"font-size: 15pt\">Menu, filtros e categorias</span></p></li><li><p><span style=\"font-size: 15pt\">Cadastro de produtos</span></p></li><li><p><span style=\"font-size: 15pt\">Fotografia de produtos</span></p></li><li><p><span style=\"font-size: 15pt\">Integrações</span></p></li><li><p><span style=\"font-size: 15pt\">Descrição de produtos</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],
