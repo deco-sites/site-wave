@@ -267,11 +267,19 @@
             }
           },
           {
-            "content": "Marketing para APP",
-            "image": "https://assets.decocache.com/site-wave/d052a542-5b4f-4993-84dd-f41ba50aec30/mkt-app.png",
+            "content": "CRO",
+            "image": "https://assets.decocache.com/site-wave/898461c9-0074-4139-b57b-9780a2569aa3/cro.png",
             "button": {
               "label": "Saiba mais",
-              "link": "/marketing-para-aplicativos"
+              "link": "#"
+            }
+          },
+          {
+            "content": "Suporte e Evolução",
+            "image": "https://assets.decocache.com/site-wave/05943b8e-1ed6-4ff5-a260-0e54a7056e92/suporteevolucao.png",
+            "button": {
+              "label": "Saiba mais",
+              "link": "#"
             }
           }
         ],
