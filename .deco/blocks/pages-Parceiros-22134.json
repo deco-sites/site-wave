@@ -40,7 +40,7 @@
             "image": "https://data.decoassets.com/site-wave/ca3b0338-411b-45b2-a8df-7e58a8e49384/logo-conectala.png"
           },
           {
-            "image": "https://data.decoassets.com/site-wave/c7346c51-82f3-4ace-bed7-43a0e6a7d4b0/logo-moovin.png"
+            "image": "https://assets.decocache.com/site-wave/f11e5fa1-161b-4460-b36c-85228c732d80/uappi-b.png"
           },
           {
             "image": "https://data.decoassets.com/site-wave/d4d72c61-66fd-47e8-8b8a-4a6d58004e8d/logo-mailbiz.png"
@@ -65,8 +65,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://data.decoassets.com/site-wave/443f9f14-18da-4451-b514-b9fd79d407c9/desk-vtex-parceiro.jpg",
-        "imageMobile": "https://data.decoassets.com/site-wave/a3f9d874-3acd-4fbb-a6ec-3f9f7baa9977/mob-safira-case.jpg",
+        "imageDesktop": "https://assets.decocache.com/site-wave/c9bd6061-9a97-4b31-a3b9-a22624ae7f58/desk-vtex-parceiro.jpg",
+        "imageMobile": "https://assets.decocache.com/site-wave/74c721be-c160-4fe0-b9a4-b261383ab5a8/mob-vtex-parceiro.jpg",
         "title": "VTEX",
         "button": {
           "link": "/vtex",
