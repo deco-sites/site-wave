@@ -1,6 +1,6 @@
 {
-  "name": "Criação e Design",
-  "path": "/criacao-e-design",
+  "name": "Design",
+  "path": "/design-ux-ui",
   "sections": [
     {
       "__resolveType": "website/sections/Seo/Seo.tsx"
@@ -54,8 +54,8 @@
           "__resolveType": "site/sections/Services/Card3.tsx"
         },
         {
-          "title": "<p>UX/UI:</p>",
-          "description": "<p>Criação e Design de Interfaces</p><p>UI Design: Análise e criação de layouts voltados a usabilidade</p><p>UX Writing: Otimização de linguagem para facilitar decisões de compra</p><p>Experiência do Usuário</p><p>UX Research</p><p>Pesquisa do comportamento do consumidor.</p><p>UX Journey: Análise da jornada de compra.</p><p>Testes de Usabilidade</p><p>Testes de comportamento de uso em cenários&nbsp;web.</p><p></p>",
+          "title": "<p>UX/UI</p>",
+          "description": "<ul><li><p>UI Design: Análise e criação de layouts voltados a usabilidade</p></li><li><p>UX Writing: Otimização de linguagem para facilitar decisões de compra</p></li><li><p>UX Research: Pesquisa do comportamento do consumidor.</p></li><li><p>UX Journey: Análise da jornada de compra.</p></li><li><p>Testes de comportamento de uso em cenários&nbsp;web.</p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ]

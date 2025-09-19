@@ -43,24 +43,25 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Eleita </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Melhor Agência de Performance Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> no 9.º Prêmio ABComm de Inovação Digital 2024, a Wave Commerce soma expertise em desenvolvimento, performance e CRM a uma plataforma que já nasce omnichannel, escalável e altamente personalizável. Como parceira certificada, oferecemos contato direto com o time UAPPI e garantimos atendimento especializado em português, espanhol e inglês.<br></span></p>",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a Uappi</span></strong></h2><p><br></p>"
+        "title": "<h2></h2><p><br></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Diferenciais da Uappi?</span></strong></h3>",
-        "description": "<p></p>"
+        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A UAPPI é uma plataforma SaaS de comércio digital voltada a B2B, B2C e B2B2C, com arquitetura composable, alto nível de personalização e suporte em língua nativa.</span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"><br></span></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O que é a Uappi?</span></strong></h2><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p></p>",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">Diferenciais da Uappi</span></strong></h3>"
       }
     },
     {
@@ -102,16 +103,24 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A UAPPI é uma plataforma SaaS de comércio digital voltada a B2B, B2C e B2B2C, com arquitetura composable, alto nível de personalização e suporte em língua nativa.</span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"><br></span></p>",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O que é a Uappi?</span></strong></h2><p><br></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Eleita </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Melhor Agência de Performance Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> no 9.º Prêmio ABComm de Inovação Digital 2024, a Wave Commerce soma expertise em desenvolvimento, performance e CRM a uma plataforma que já nasce omnichannel, escalável e altamente personalizável. Como parceira certificada, oferecemos contato direto com o time UAPPI e garantimos atendimento especializado em português, espanhol e inglês.<br></span></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a Uappi</span></strong></h2><p><br></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que escolher a Uappi?</span></strong></h2>",
-        "description": "<p></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Eleita </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Melhor Agência de Performance Digital</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> no 9.º Prêmio ABComm de Inovação Digital 2024, a Wave Commerce soma expertise em desenvolvimento, performance e CRM a uma plataforma que já nasce omnichannel, escalável e altamente personalizável. Como parceira certificada, oferecemos contato direto com o time UAPPI e garantimos atendimento especializado em português, espanhol e inglês.<br></span></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sobre a Uappi</span></strong></h2><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "description": "<p></p>",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que escolher a Uappi?</span></strong></h2>"
       }
     },
     {
