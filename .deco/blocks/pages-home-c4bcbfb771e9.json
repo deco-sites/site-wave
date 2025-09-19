@@ -3,10 +3,6 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "website/sections/Seo/Seo.tsx",
-      "noIndexing": false
-    },
-    {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Header/Header.tsx",
