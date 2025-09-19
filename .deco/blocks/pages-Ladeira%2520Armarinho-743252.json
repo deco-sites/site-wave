@@ -1,6 +1,6 @@
 {
-  "name": "Ladeira Armarinho",
-  "path": "/ladeira-armarinho",
+  "name": "Ladeira Armarinhos",
+  "path": "/ladeira-armarinhos",
   "sections": [
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
@@ -14,9 +14,9 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "Front-end, Migração de Plataforma"
+          "text": "ASO | Mídia | UX e UI "
         },
-        "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce.",
+        "subtitle": "Ladeira Armarinhos: Crescimento de 80% em 1 Trimestre com Wave Commerce & Kobe Apps",
         "bgImage": {
           "desktop": {
             "src": "https://assets.decocache.com/site-wave/95161c88-fd07-4c6e-a874-510bf02ff210/desk-ladeira.jpg",
@@ -27,7 +27,7 @@
             "height": 500
           }
         },
-        "title": "Grêmio"
+        "title": "Ladeira Armarinhos"
       }
     },
     {
@@ -42,7 +42,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Fundado em 1903, o Grêmio Foot-Ball Porto Alegrense é um dos clubes de futebol mais tradicionais e vitoriosos do Brasil, reconhecido por sua história, conquistas e pela paixão de sua imensa torcida. Além do desempenho esportivo, o clube se destaca pela presença em diversos setores, incluindo o e-commerce, onde busca oferecer aos torcedores experiências inovadoras e únicas ao adquirir produtos oficiais.</span></p></td></tr></tbody></table><table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr></tbody></table>"
+        "description": "<table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Fundada em 2002 na Ladeira Constituição, n° 54 (São Bento), a Ladeira começou com uma especialização em armarinhos. Com o passar dos anos, ampliou seu portfólio, incorporando novos segmentos de produtos para atender de forma completa e diversificada às necessidades dos clientes. Atualmente, conta com um acervo de mais de 60 mil produtos, abrangendo armarinhos, aviamentos, artesanato, pedrarias, customização de costura e muito mais.</span></p></td></tr></tbody></table><table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr></tbody></table>"
       }
     },
     {
@@ -67,47 +67,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desafio</span></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">O Grêmio Foot-Ball Porto Alegrense, um dos clubes de futebol mais tradicionais do Brasil, enfrentava desafios significativos com sua plataforma de e-commerce própria. A solução interna apresentava limitações em diversos aspectos fundamentais para o crescimento e a eficiência do e-commerce:</span></p><p></p>"
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desafios</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Ladeira Armarinhos enfrentava dificuldades significativas no ambiente digital. O cliente, que não contava com uma agência especializada em aplicativos, se via desamparado para promover seu app. Além disso, o site possuía um layout muito simples e sem foco na experiência do usuário, comprometendo a capacidade de atrair e converter visitantes. Em meio a essas barreiras, a necessidade de gerar downloads e engajar usuários através de campanhas de mídia e estratégias de ASO se tornava cada vez mais urgente.</span></p><p></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Cards.tsx",
-        "sections": [
-          {
-            "title": "<p>Tecnologia:</p>",
-            "description": "<ul><li data-pm-slice=\"1 1 []\"><strong>Escalabilidade:</strong> Dificuldade em atender picos de demanda durante lançamentos ou promoções.</li><li><strong>Integrações:</strong> Limitações na integração com ERPs, gateways de pagamento e sistemas de gestão.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          },
-          {
-            "title": "<p><span id=\"_mce_caret\" data-mce-bogus=\"1\" data-mce-type=\"format-caret\">Design e Experiência do Usuário:﻿</span></p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Layout antiquado e pesado:</strong> Design visualmente carregado e pouco atrativo, especialmente em dispositivos móveis.</li><li dir=\"ltr\"><strong>Falta de hierarquia e CTAs:</strong> Vitrines desorganizadas, sem botões chamativos ou direcionamento claro para navegação.</li><li><strong id=\"docs-internal-guid-c3d709a4-7fff-1d5e-bda2-10855b20b409\">Inconsistência visual: </strong>Tipografias variadas, tamanhos de fonte diferentes e ausência de uma identidade coesa.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          },
-          {
-            "title": "<p dir=\"ltr\">Navegação e Funcionalidades:<strong></strong></p>",
-            "description": "<ul><li><strong>Árvore de categorias desatualizada:</strong> Dificultava a localização de produtos.</li><li dir=\"ltr\"><strong>Ausência de filtros:</strong> Tornava a busca por itens específica demorada e pouco eficiente.</li><li dir=\"ltr\"><strong>Mobile inadequado:</strong> Navegação confusa e falta de botões intuitivos para usuários de dispositivos móveis.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          }
-        ],
-        "cta": {}
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desktop Antigo</span></p>",
-        "description": "<p></p><p></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/457uL0tK1h0?si=oVMmP5GV1cFOZfzx"
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -121,30 +89,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Mobile Antigo</span></p>",
-        "description": "<p></p><p></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/1cms-j2pfM0?si=HGe2uk4RuZpmP51U"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: #0066e4; font-size: 25pt\">Solução</span></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A adoção do VTEX IO permitiu que o Grêmio revolucionasse sua presença digital com soluções avançadas e personalizadas. A transição incluiu:</span></p>"
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Soluções da Wave Commerce</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Para transformar esse cenário, a Wave Commerce, em parceria com a Kobe Apps, implementou um projeto dividido em fases:</span></p>"
       }
     },
     {
@@ -187,21 +133,6 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desktop Novo</span></p>",
-        "description": "<p></p><p></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/frUh1w-GFEk?si=XZz-1TpNxf5c2Hs3"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
         "__resolveType": "site/sections/Space.tsx",
         "size": "small"
       }
@@ -212,13 +143,6 @@
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Mobile Novo</span></p>",
         "description": "<p></p><p></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/31FECXNi4Cs?si=Ru3zUMUu5MnfHNtV"
       }
     },
     {
@@ -248,13 +172,6 @@
           }
         ],
         "cta": {}
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/CZHKnyPIgSE?si=y6HKq5pHE1p4Mhwg"
       }
     },
     {

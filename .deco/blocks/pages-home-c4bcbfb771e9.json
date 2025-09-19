@@ -431,7 +431,291 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "footer-fixo"
+        "__resolveType": "site/sections/Footer/Footer.tsx",
+        "logo": {
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f789f28-819e-4ddb-bc12-1b016e80917b",
+          "description": "O estilo pensado para você"
+        },
+        "local": [],
+        "layout": {
+          "hide": {
+            "logo": false,
+            "local": false,
+            "extraLinks": false,
+            "mobileApps": true,
+            "newsletter": false,
+            "socialLinks": false,
+            "backToTheTop": true,
+            "sectionLinks": false,
+            "regionOptions": true,
+            "paymentMethods": true
+          },
+          "variation": "Variation 4",
+          "backgroundColor": "Primary"
+        },
+        "social": [
+          {
+            "link": "https://www.instagram.com/wavecommerceoficial/",
+            "label": "Instagram"
+          },
+          {
+            "link": "https://www.youtube.com/channel/UCUNkI5Tygiky01A3md_ejEA",
+            "label": "Youtube"
+          },
+          {
+            "link": "https://br.linkedin.com/company/wavecommerce-agencia",
+            "label": "Linkedin"
+          }
+        ],
+        "payments": {
+          "items": [
+            {
+              "label": "Elo"
+            },
+            {
+              "label": "Mastercard"
+            },
+            {
+              "label": "Pix"
+            },
+            {
+              "label": "Visa"
+            }
+          ],
+          "title": "Formas de pagamento"
+        },
+        "sections": [
+          {
+            "items": [
+              {
+                "href": "/performance",
+                "label": "Branding E Performance"
+              },
+              {
+                "href": "/conteudo-digital",
+                "label": "Conteúdo Digital"
+              },
+              {
+                "href": "/crm",
+                "label": "CRM"
+              },
+              {
+                "href": "#",
+                "label": "CRO"
+              },
+              {
+                "href": "/criacao-e-designer",
+                "label": "Design - UX e UI"
+              },
+              {
+                "href": "/ecommerce-nos-eua",
+                "label": "E-commerce Internacional"
+              },
+              {
+                "href": "/fulfillment",
+                "label": "Fulfillment"
+              },
+              {
+                "label": "Implementação de E-commerce",
+                "href": "/implementacao-de-ecommerce"
+              },
+              {
+                "label": "Marketplace IN e Out",
+                "href": "/marketplace"
+              },
+              {
+                "label": "Marketing para APP",
+                "href": "#"
+              },
+              {
+                "label": "SEO para E- commerce",
+                "href": "/seo"
+              },
+              {
+                "label": "Suporte e Evolução",
+                "href": "#"
+              }
+            ],
+            "label": "Serviços"
+          },
+          {
+            "items": [
+              {
+                "href": "/amazon",
+                "label": "Amazon"
+              },
+              {
+                "href": "/deco-cx",
+                "label": "Deco.cx"
+              },
+              {
+                "href": "/linx",
+                "label": "Linx"
+              },
+              {
+                "href": "/vtex",
+                "label": "VTEX"
+              },
+              {
+                "href": "/shopify",
+                "label": "Shopify"
+              },
+              {
+                "href": "/parceiros",
+                "label": "Ver todos"
+              }
+            ],
+            "label": "Parceiros",
+            "children": [
+              {
+                "href": "/quemsomos",
+                "label": "Quem somos"
+              },
+              {
+                "href": "/privacidadeeseguranca",
+                "label": "Privacidade e segurança"
+              },
+              {
+                "href": "/termosdeuso",
+                "label": "Termos de uso"
+              },
+              {
+                "href": "/trabalheconosco",
+                "label": "Trabalhe conosco"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "href": "/friopecas",
+                "label": "Friopeças"
+              },
+              {
+                "label": "Grêmio",
+                "href": "/gremio"
+              },
+              {
+                "href": "/cook-eletroraro",
+                "label": "Cook Eletroraro"
+              },
+              {
+                "href": "/sex-shop-atacadao",
+                "label": "Sex Shop Atacadão"
+              },
+              {
+                "href": "/safira",
+                "label": "Safira"
+              },
+              {
+                "label": "Termolar",
+                "href": "/termolar"
+              },
+              {
+                "label": "True Source",
+                "href": "/true-source"
+              },
+              {
+                "label": "ver todos",
+                "href": "/cases"
+              }
+            ],
+            "label": "Cases",
+            "children": [
+              {
+                "href": "/centraldeatendimento",
+                "label": "Central de atendimento"
+              },
+              {
+                "href": "/whatsapp",
+                "label": "Fale conosco pelo WhatsApp"
+              },
+              {
+                "href": "/trocaedevolucao",
+                "label": "Troca e devolução"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "href": "/blog",
+                "label": "Blog"
+              },
+              {
+                "href": "/contato",
+                "label": "Contato"
+              },
+              {
+                "href": "/quem somos",
+                "label": "Quem somos"
+              },
+              {
+                "href": "/vagas",
+                "label": "Vagas"
+              }
+            ],
+            "label": "Institucional",
+            "children": [
+              {
+                "href": "/loginecadastro",
+                "label": "Login e cadastro"
+              },
+              {
+                "href": "/meuspedidos",
+                "label": "Meus pedidos"
+              }
+            ]
+          }
+        ],
+        "extraLinks": [
+          {
+            "href": "http://www.google.com",
+            "link": "http://www.google.com/",
+            "label": "Política de privacidade"
+          },
+          {
+            "href": "http://www.google.com",
+            "link": "http://www.google.com",
+            "label": "Termos de serviço"
+          }
+        ],
+        "mobileApps": {
+          "apple": "http://www.google.com",
+          "android": "http://www.google.com"
+        },
+        "newsletter": {
+          "form": {
+            "helpText": "<p>Ao se inscrever, você está aceitando nossa <a href=\"/\" class=\"link\">Política de Privacidade</a>.</p>"
+          },
+          "title": "Newsletter",
+          "description": "Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados."
+        },
+        "backToTheTop": {
+          "text": "Voltar ao topo"
+        },
+        "regionOptions": {
+          "currency": [
+            {
+              "href": "/",
+              "label": "Brasil BRL"
+            },
+            {
+              "href": "/",
+              "label": "United Stated USD"
+            }
+          ],
+          "language": [
+            {
+              "href": "/",
+              "label": "PT"
+            },
+            {
+              "href": "/",
+              "label": "EN"
+            }
+          ]
+        }
       }
     }
   ],
