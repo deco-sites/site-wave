@@ -72,19 +72,19 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/930665a7-dcf2-41cf-9218-d468edaa81c0/user-switch.png",
             "title": "Marketplace Center:",
             "paragraph": "Gere receita sem investir em estoques com a integração de lojistas"
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/5fba4984-3ae3-40c9-a4ff-6e96de635b5d/gender-neuter.png",
             "title": "AI Shopper Assistant:",
             "paragraph": "Aumente a eficiência dos atendimentos com uma I.A para seus vendedores"
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/763e1cf4-cfe4-4ae7-983c-174895dc4212/coin-vertical.png",
             "title": "Shopper Pro:",
             "paragraph": "Ofereça uma jornada de navegação personalizada e interativa para o vendedor"

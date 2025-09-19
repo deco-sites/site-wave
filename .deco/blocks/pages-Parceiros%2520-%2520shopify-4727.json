@@ -68,43 +68,43 @@
         "brand": {},
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/d9384391-e769-46ab-94d5-76c05975040a/cube-focus.png",
             "title": "Abra uma loja virtual:",
             "paragraph": "abra um negócio, seja para dar vida a uma ideia inédita ou se você está em busca de novas formas de ganhar dinheiro."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/c1ec0533-22e7-41d6-a2fd-850496bfe879/buildings.png",
             "title": "Traga a sua empresa para a internet:",
             "paragraph": "transforme sua loja física em uma loja virtual e continue atendendo clientes sem perder tempo."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/45efa353-bd3b-4ecc-8ce5-da246b1e8557/swap.png",
             "title": "Migre para a Shopify:",
             "paragraph": "traga a sua empresa para a Shopify, não importa qual plataforma de e-commerce você usa no momento."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/d0cbd602-1320-48ce-aaf9-06692540b2a7/user-check.png",
             "title": "Contrate um especialista da Shopify:",
             "paragraph": "deixe a configuração da sua loja nas mãos de um freelancer de confiança do Marketplace de Especialistas da Shopify."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/eb8ee6fa-8269-4e34-842f-4ae036e9cb1a/shopping-bag.png",
             "title": "Venda em qualquer lugar:",
             "paragraph": "use uma plataforma para vender produtos onde e para quem você quiser: pessoalmente, com o Ponto de venda, e virtualmente, com o seu site, redes sociais e em marketplaces online."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/599c5fa6-c468-4e2a-bfdd-34f0c779b6a7/broadcast.png",
             "title": "Divulgue seu negócio:",
             "paragraph": "chega de pautar suas ações em achismos: aproveite nossas ferramentas integradas que ajudam a criar, executar e analisar campanhas de marketing digital."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/4a53bd40-2221-48ef-9360-3c6dcc1b4313/article.png",
             "title": "Gerencie todas as informações:",
             "paragraph": "obtenha os insights necessários para crescer: use um único painel para gerenciar pedidos, fretes e pagamentos aonde quer que você vá."
@@ -151,31 +151,31 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Estruturação de E-commerce:",
             "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/5f17e332-0eb0-4cfd-9946-fbb188f18046/chart-line-up.png",
             "title": "Performance:",
             "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/8a64d360-29ec-4b47-959b-1503747da5cf/list-magnifying-glass.png",
             "title": "Conteúdo:",
             "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/26f5d696-46bc-4725-ad3f-c4c2efc208d1/paint-brush.png",
             "title": "Criativo:",
             "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
             "title": "Marketplace:",
             "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"

@@ -72,31 +72,31 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/930665a7-dcf2-41cf-9218-d468edaa81c0/user-switch.png",
             "title": "Omnichannel:",
             "paragraph": "checkout e fluxos do e-commerce totalmente adaptados."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/d0cbd602-1320-48ce-aaf9-06692540b2a7/user-check.png",
             "title": "B2C:",
             "paragraph": "experiência otimizada para aumento de conversão (checkout intuitivo, módulo de promoções, layout 100% customizável e responsivo)."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/c1ec0533-22e7-41d6-a2fd-850496bfe879/buildings.png",
             "title": "B2B:",
             "paragraph": "experiência otimizada para atender grandes compras de maneira ágil e segura (área logada, preço mínimo, venda assistida, gestão de cadastro, gestão de políticas comerciais)."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/b54e46f5-9e8f-486c-bff6-18ab40e4b0bf/git-branch.png",
             "title": "HUB:",
             "paragraph": "integração nativa com os principais marketplaces do Brasil."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
             "title": "Marketplace:",
             "paragraph": "venda de produtos de terceiros dentro de seu e-commerce."
@@ -143,31 +143,31 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Estruturação de E-commerce:",
             "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/5f17e332-0eb0-4cfd-9946-fbb188f18046/chart-line-up.png",
             "title": "Performance:",
             "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/8a64d360-29ec-4b47-959b-1503747da5cf/list-magnifying-glass.png",
             "title": "Conteúdo:",
             "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/26f5d696-46bc-4725-ad3f-c4c2efc208d1/paint-brush.png",
             "title": "Criativo:",
             "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
             "title": "Marketplace:",
             "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"

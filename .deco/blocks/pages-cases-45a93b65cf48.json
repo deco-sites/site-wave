@@ -16,41 +16,41 @@
         "title": "Clientes que confiam em nosso trabalho",
         "brands": [
           {
-            "image": "https://data.decoassets.com/site-wave/2f297ed9-ee6a-474e-b54b-b46d750cdd64/logo-friopecas.png",
+            "image": "https://assets.decocache.com/site-wave/8152fc6a-f1db-497d-90e6-f72954c18863/claro-b.png"
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/68ffffeb-297c-487e-931f-76cb09cd8c81/fini-b.png",
             "alt": "friopeças"
           },
           {
-            "image": "https://data.decoassets.com/site-wave/0298b1ef-8ac4-4e26-a334-e6ff250bd266/logo-truesource.png"
+            "image": "https://data.decoassets.com/site-wave/eea4774a-f70f-4b44-acaa-c259060365e9/logo-friopecas.png"
           },
           {
-            "image": "https://data.decoassets.com/site-wave/2c3bc4e2-1610-4841-b7c9-c736f3b8af7f/logo-cookeletroraro.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/ed0329a4-f79b-4d62-b660-5e5c382f1fed/logo-arezzo.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/f613c6f5-e145-4b16-aee6-01d26d96b11f/logo-comfort.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/81b22ea2-ebbd-4921-99d5-54c1a911c235/logo-ramarim.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/099acb5f-0381-4d70-904b-dc1ace7dde47/logo-termolar.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/04066230-5c1a-46c2-b8fb-3dd87072c603/logo-sexshop.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/838d38fb-3c2d-4d84-bece-e800c4cff81e/logo-dufrio.png"
-          },
-          {
-            "image": "https://data.decoassets.com/site-wave/be970dff-a1b1-47bd-911e-4fcc9a3322d7/logo-gremio.png"
+            "image": "https://assets.decocache.com/site-wave/3b966551-7a5d-450e-a0b1-699ba4da2d08/arezzo-b.png"
           },
           {
             "image": "https://data.decoassets.com/site-wave/40a51a2f-dfb2-470a-af3b-46b517d68e83/logo-amazon.png"
           },
           {
-            "image": "https://data.decoassets.com/site-wave/5d1c6a20-3b7c-4401-be91-b7a748b6f1b6/logo-hocks.png"
+            "image": "https://data.decoassets.com/site-wave/099acb5f-0381-4d70-904b-dc1ace7dde47/logo-termolar.png"
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/ab4d0a06-dc89-430a-9d1f-3817eda1d645/truesource-b.png"
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/14762a79-bb3a-4e68-84e3-0b3e90438d91/cook-b.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/be970dff-a1b1-47bd-911e-4fcc9a3322d7/logo-gremio.png"
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/0fed91d1-aa1d-4ac6-9785-2c2af1da0d50/yamamura-b.png"
+          },
+          {
+            "image": "https://data.decoassets.com/site-wave/81b22ea2-ebbd-4921-99d5-54c1a911c235/logo-ramarim.png"
+          },
+          {
+            "image": "https://assets.decocache.com/site-wave/b6f68a85-deeb-434e-b834-5115a5abe256/vidaveg-b.png"
           }
         ]
       }
