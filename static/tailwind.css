@@ -6684,11 +6684,11 @@ details.collapse summary::-webkit-details-marker {
 .leading-\[22px\] {
   line-height: 22px;
 }
+.leading-\[24px\] {
+  line-height: 24px;
+}
 .leading-\[30px\] {
   line-height: 30px;
-}
-.leading-none {
-  line-height: 1;
 }
 .leading-normal {
   line-height: 1.5;
@@ -8920,6 +8920,10 @@ input[type="radio"]:checked + .radio-custom {
 
   .lg\:leading-\[40px\] {
     line-height: 40px;
+  }
+
+  .lg\:leading-\[50px\] {
+    line-height: 50px;
   }
 
   .lg\:space-between {

@@ -50,9 +50,9 @@ export default function BannerHero({
       >
         {action && (
           <div className="content-wrapper container px-5 lg:px-0 mx-auto py-10 h-full justify-center">
-            <div class="flex flex-col gap-4 max-w-[670px] h-full justify-center">
+            <div class="flex flex-col gap-4 w-full max-w-[670px] h-full justify-center">
               <h1
-                className="text-[24px] leading-none lg:text-[50px] font-bold text-white flex flex-col">
+                className="text-[24px] leading-[24px] lg:leading-[50px] lg:text-[50px] font-bold text-white flex flex-col">
                 {action.title}
               </h1>
               <div
