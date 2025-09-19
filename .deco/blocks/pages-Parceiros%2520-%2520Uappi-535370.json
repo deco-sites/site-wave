@@ -205,6 +205,21 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Clientes que confiam na Uappi</span></strong></h2>",
+        "description": "<p><img src=\"https://assets.decocache.com/site-wave/1b43018e-dcd1-434e-a0b6-201c05f7692d/clientes-uappi.webp\"></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Wave + Uappi: Como potencializamos seu negócio</span></strong></h2>",
         "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Nosso time combina metodologia ágil, design centrado no usuário e as melhores práticas de SEO/mídia paga para colocar sua loja on-line mais rápido — e vendendo mais desde o primeiro dia. Todas as entregas seguem um SLA de qualidade e contam com 45 dias de garantia pós-go-live, estendida com planos de suporte e evolução contínua.</span></p>"
       }

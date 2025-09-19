@@ -109,7 +109,7 @@
   "partnerSelectir": [],
   "partnerSelector": [
     {
-      "icon": "AlertInfo",
+      "icon": "DigitalPerformance",
       "text": "Salesforce",
       "url": "/salesforce"
     },
@@ -119,7 +119,7 @@
       "url": "/uappi"
     },
     {
-      "icon": "AlertInfo",
+      "icon": "DigitalPerformance",
       "text": "Vtex",
       "url": "/vtex"
     },
