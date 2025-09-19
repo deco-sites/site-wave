@@ -153,16 +153,16 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Modelos de Implementação</span></strong></h2>",
-        "description": "<p></p>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Wave + Uappi: Como potencializamos seu negócio</span></strong></h2>",
+        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Nosso time combina metodologia ágil, design centrado no usuário e as melhores práticas de SEO/mídia paga para colocar sua loja on-line mais rápido — e vendendo mais desde o primeiro dia. Todas as entregas seguem um SLA de qualidade e contam com 45 dias de garantia pós-go-live, estendida com planos de suporte e evolução contínua.</span></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados Reais</span></strong></h2>",
-        "description": "<ul><li><p><span style=\"color: #ffffff; font-size: 15pt\">1. +35 % na conversão e +25 % em receita após a adoção da UAPPI&nbsp;</span></p></li><li><p><span style=\"color: #ffffff; font-size: 15pt\">2. Entrega mais rápida e frete menor graças ao módulo de multiestoque&nbsp;</span></p></li><li><p><span style=\"color: #ffffff; font-size: 15pt\">3. Aumento de recompra e ticket médio via sistema nativo de pontos/cashback&nbsp;</span></p></li><li><p><span style=\"color: #ffffff; font-size: 15pt\">4. Visibilidade ampliada com integração a marketplaces líderes no Brasil</span></p></li></ul>"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Modelos de Implementação</span></strong></h2>",
+        "description": "<p></p>"
       }
     },
     {
@@ -198,15 +198,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Wave + Uappi: Como potencializamos seu negócio</span></strong></h2>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Nosso time combina metodologia ágil, design centrado no usuário e as melhores práticas de SEO/mídia paga para colocar sua loja on-line mais rápido — e vendendo mais desde o primeiro dia. Todas as entregas seguem um SLA de qualidade e contam com 45 dias de garantia pós-go-live, estendida com planos de suporte e evolução contínua.</span></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados Reais</span></strong></h2>",
+        "description": "<ul><li><p><span style=\"color: #ffffff; font-size: 15pt\">1. +35 % na conversão e +25 % em receita após a adoção da UAPPI&nbsp;</span></p></li><li><p><span style=\"color: #ffffff; font-size: 15pt\">2. Entrega mais rápida e frete menor graças ao módulo de multiestoque&nbsp;</span></p></li><li><p><span style=\"color: #ffffff; font-size: 15pt\">3. Aumento de recompra e ticket médio via sistema nativo de pontos/cashback&nbsp;</span></p></li><li><p><span style=\"color: #ffffff; font-size: 15pt\">4. Visibilidade ampliada com integração a marketplaces líderes no Brasil</span></p></li></ul>"
       }
     },
     {
