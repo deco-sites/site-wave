@@ -34,7 +34,7 @@ const servicesCards = ({ ...cards }: Cards) => {
       </div>
       <p class="text-base text-[#717171]">{cards.description}</p>
       <a
-        class="py-2 px-4 text-white text-center bg-[#0066E4] rounded-full text-base w-fit mt-2 bg-primary"
+        class="py-2 px-4 text-white text-center bg-[#0066E4] rounded-full text-base w-fit mt-2"
         href={cards.link}
       >
         Saiba Mais
