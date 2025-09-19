@@ -17,7 +17,7 @@
         "href": "#",
         "text": "<p>Entre em <strong>contato</strong></p>"
       },
-      "title": "Marketplace",
+      "title": "Marketplace In e Out",
       "bgImage": {
         "mobile": {
           "src": "https://assets.decocache.com/site-wave/392332b3-e568-4d6a-9980-3adfd9c5e1eb/marketplace-mob.jpg",
@@ -31,7 +31,7 @@
       },
       "labelTop": {
         "icon": "DigitalPerformance",
-        "text": "Marketplace"
+        "text": "Marketplace "
       },
       "subtitle": "Utilize o marketplace como uma ferramenta para impulsionar as vendas, e dar maior visibilidade para os seus produtos.",
       "labelBottom": {
