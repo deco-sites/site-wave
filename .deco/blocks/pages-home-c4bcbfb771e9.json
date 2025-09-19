@@ -287,7 +287,8 @@
         {
           "content": "Marketing para APP",
           "button": {
-            "label": "saiba mais"
+            "label": "saiba mais",
+            "link": "/marketing-para-aplicativos"
           },
           "image": "https://assets.decocache.com/site-wave/d052a542-5b4f-4993-84dd-f41ba50aec30/mkt-app.png"
         },
