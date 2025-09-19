@@ -1,0 +1,157 @@
+{
+  "name": "Marketing para Aplicativos",
+  "path": "/marketing-para-aplicativos",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "title": "Marketing para Aplicativos",
+      "bgImage": {
+        "mobile": {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5390d8a7-ce30-4fbe-a86c-d3b018ef9220/mob-seo.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/46f90137-6810-49bb-ad4d-7aca825d74c3/desk-seo.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "Marketing para Aplicativos"
+      },
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais "
+      },
+      "subtitle": "Trabalhe com a Melhor Agência de Performance do Brasil para maximizar o desempenho do seu aplicativo!"
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p><strong><span style=\"color: rgb(0, 106, 224); font-size: 25pt\">Seu App em Evidência</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Conte com um time de especialistas em Performance, ASO, UX/UI e CRM para impulsionar o download, o engajamento e a fidelização dos usuários. Otimizamos cada etapa da jornada — do primeiro clique na loja ao uso contínuo dentro do app — garantindo resultados reais em métricas de performance e receita.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(0, 106, 224); font-size: 25pt\">Nossos especialistas vão maximizar seu ROI</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Somos Google Partner Premier e temos </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">expertise em campanhas de mídia mobile</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> (Google Ads, Meta Ads, Apple Search Ads e outras). Planejamos e executamos estratégias de performance que capturam usuários de alto valor, enquanto nossas </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">táticas de ASO</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> elevam sua visibilidade e conversão orgânica nas principais lojas de aplicativos.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<h3><span style=\"color: #0066e4; font-size: 22pt\">Na Wave você tem:</span></h3>",
+          "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">Equipe Multidisciplinar</span></strong><span style=\"font-size: 15pt\">: profissionais certificados em Ads Mobile, ASO, UX e UI.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Parceiros Estratégicos</span></strong><span style=\"font-size: 15pt\">: proximidade com Google, Apple e plataformas de mídia programática.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Metodologia Ágil</span></strong><span style=\"font-size: 15pt\">: ciclos rápidos de testes, análise de dados e ajustes contínuos.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Tecnologia de Ponta</span></strong><span style=\"font-size: 15pt\">: uso de ferramentas avançadas de tracking e análise de comportamento no app.</span></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<p><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Wave é a melhor opção para cuidar do seu App?</span></strong></p>",
+      "sections": [
+        {
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Performance Mobile Inteligente</span></p>",
+          "description": "<p><span style=\"font-size: 15pt\">Combinamos anúncios de performance em Google Ads, Meta Ads, Apple Search Ads e redes programáticas para </span><strong><span style=\"font-size: 15pt\">atrair públicos segmentados e de valor</span></strong><span style=\"font-size: 15pt\">, reduzindo CAC e aumentando o LTV.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">ASO: Domine as Lojas de Aplicativo</span></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Combinamos pesquisa de palavras-chave e análise de concorrentes com a otimização de título, descrição, screenshots e ícone do seu aplicativo, além de realizar testes A/B e acompanhamento constante da posição de ranking, para </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">atrair usuários qualificados e aumentar sua visibilidade</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> nas lojas de aplicativos.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">UX/UI: Experiências que Convertem</span></p>",
+          "description": "<p><span style=\"font-size: 15pt\">Combinamos auditoria de fluxo e arquitetura de informação com prototipagem de telas focada em usabilidade móvel e design visual alinhado à identidade da marca, realizando testes de usabilidade e ajustes baseados em dados reais, para </span><strong><span style=\"font-size: 15pt\">criar experiências intuitivas e impactantes</span></strong><span style=\"font-size: 15pt\"> que encantam seus usuários.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Nossos Serviços para Marketing de Apps</span></strong></h2>",
+        "description": "<p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><span style=\"font-size: 20pt\">Diagnóstico de Performance &amp; Estratégias de Mídia</span></p>",
+        "description": "<p><span style=\"font-size: 15pt\">-&gt; Planejamento de campanhas mobile</span></p><p><span style=\"font-size: 15pt\">-&gt; Segmentação avançada e remarketing</span></p><p><span style=\"font-size: 15pt\">-&gt; Otimização de lances e criativos para mobile</span></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><span style=\"font-size: 20pt\">App Store Optimization (ASO)</span></p>",
+        "description": "<p><span style=\"font-size: 15pt\">-&gt; Análise de mercado e gap de palavras-chave</span></p><p><span style=\"font-size: 15pt\">-&gt; Atualizações regulares de metadados</span></p><p><span style=\"font-size: 15pt\">-&gt; Monitoramento de reviews e reputação</span></p><p></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><span style=\"font-size: 20pt\">Redesign de UX/UI Mobile</span></p>",
+        "description": "<p><span style=\"font-size: 15pt\">-&gt; Mapeamento de jornadas de usuário</span></p><p><span style=\"font-size: 15pt\">-&gt; Wireframes e protótipos iterativos</span></p><p><span style=\"font-size: 15pt\">-&gt; Implementação de UI responsiva e acessível</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><span style=\"font-size: 20pt\">CRM &amp; Relacionamento com Usuários</span></p>",
+        "description": "<p><span style=\"font-size: 15pt\">-&gt; Estratégias de engajamento e retenção via push, SMS e e-mail</span></p><p><span style=\"font-size: 15pt\">-&gt; Automação de fluxos com base no comportamento do usuário</span></p><p><span style=\"font-size: 15pt\">-&gt; Segmentação de base e personalização de campanhas</span></p><p><span style=\"font-size: 15pt\">-&gt; Integração com plataformas como RD Station, Salesforce, Firebase, entre outras</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<p><span style=\"font-size: 20pt\">Monitoramento &amp; Otimização Contínua</span></p>",
+        "description": "<p><span style=\"font-size: 15pt\">-&gt; Relatórios semanais/dashboards em tempo real</span></p><p><span style=\"font-size: 15pt\">-&gt; Acompanhamento de KPIs (DAU, MAU, retenção, ARPU)</span></p><p><span style=\"font-size: 15pt\">-&gt; Ajustes rápidos de acordo com performance</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados da Wave</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A atuação estratégica da Wave Commerce foi essencial para impulsionar os resultados de clientes como Ladeira Armarinhos. Com a </span><strong><span style=\"font-size: 15pt\">combinação de mídia paga, otimizações de ASO e um novo olhar para a experiência do usuário</span></strong><span style=\"font-size: 15pt\">, transformamos desafios em crescimento sólido e mensurável. Em apenas três meses, a receita cresceu 81%, e a participação do aplicativo nas vendas avançou de forma consistente, alcançando uma média de 11% — salto significativo em relação ao histórico anterior.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Solicite uma Proposta</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Junte-se à onda de inovação e performance da Wave Commerce. Impulsione downloads, maximize conversões e fidelize seus usuários! Peça sua proposta agora mesmo e leve seu aplicativo ao próximo nível.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
