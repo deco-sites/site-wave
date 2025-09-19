@@ -71,31 +71,31 @@
         "brand": {},
         "services": [
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/930665a7-dcf2-41cf-9218-d468edaa81c0/user-switch.png",
             "title": "Omnichannel:",
             "paragraph": "se o seu objetivo é oferecer uma melhor experiência de comprar para os seus clientes, ter uma plataforma omnichannel com a Stoom é a melhor solução. Assim, é possível ter uma comunicação e um atendimento integrado, unificando desde o setor de vendas até a logística."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/4d62e9fa-b37d-4c2e-9baa-c2c99a11ff52/browsers.png",
             "title": "Marketplace:",
             "paragraph": "Como um dos tipos de plataformas de e-commerce que têm crescido no mercado, a Stoom também possui soluções personalizadas para os marketplaces, seja B2B, B2C e B2B2C."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/45efa353-bd3b-4ecc-8ce5-da246b1e8557/swap.png",
             "title": "Varejo:",
             "paragraph": "a Stoom oferece a construção do seu negócio digital do zero, levando em consideração a jornada exclusiva do seu cliente."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/eb9ff738-aa6d-4178-9a97-9a1cdd9e1ec1/shopping-cart-simple.png",
             "title": "Indústria:",
             "paragraph": "com especificidades únicas, a indústria é um segmento que tem dificuldades em encontrar uma plataforma que integre todas as suas ferramentas, se adaptando à operação. Na Stoom você encontra as soluções para personalizar o seu e-commerce e realizar sua transformação digital."
           },
           {
-            "titleColor": "secondary",
+            "titleColor": "primary",
             "icon": "https://data.decoassets.com/site-wave/b54e46f5-9e8f-486c-bff6-18ab40e4b0bf/git-branch.png",
             "title": "Distribuidor:",
             "paragraph": "uma das principais características da plataforma Stoom é a maleabilidade, que se torna uma grande ferramenta para o distribuidor que tem ganhado competitividade nos últimos anos com a popularização dos marketplaces, por exemplo."
@@ -131,36 +131,36 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          "logo": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png"
         },
         "services": [
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Estruturação de E-commerce:",
             "paragraph": "Layout personalizado com desenvolvimento e codificação; Menu, filtros e categorias; Cadastro de produtos; Descrição de produtos; Fotografia de produtos; Páginas institucionais; Precificação de produtos; Integrações; Suporte e evolução do e-commerce."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Performance:",
             "paragraph": "SEO, UX e UI; Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads; Tagueamento de site; Ferramentas para conversão."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Conteúdo:",
             "paragraph": "Criação de persona; Funil de marketing; Calendário de marketing; Blog e e-book; E-mail marketing."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Criativo:",
             "paragraph": "Banners; Cards para redes sociais; Criação de Layout personalizado;"
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "title": "Marketplace:",
             "paragraph": "Integração e performance; Criação de anúncios; Análise e desempenho; Suporte e evolução;"
           }

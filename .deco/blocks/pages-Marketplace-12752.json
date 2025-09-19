@@ -17,21 +17,21 @@
         "href": "#",
         "text": "<p>Entre em <strong>contato</strong></p>"
       },
-      "title": "Marketplace",
+      "title": "Marketplace In e Out",
       "bgImage": {
         "mobile": {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/77d3d369-22f0-4725-91c3-97d1fa0c435c/mob-marketplace.jpg",
+          "src": "https://assets.decocache.com/site-wave/392332b3-e568-4d6a-9980-3adfd9c5e1eb/marketplace-mob.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/28951812-4b99-40f3-a279-ab6890d4a277/desk-marketplace.jpg",
+          "src": "https://assets.decocache.com/site-wave/f2e8dcea-f0ae-4afe-8c9c-210e1178b0fc/marketplace.png",
           "height": 820
         }
       },
       "labelTop": {
         "icon": "DigitalPerformance",
-        "text": "Marketplace"
+        "text": "Marketplace In e Out"
       },
       "subtitle": "Utilize o marketplace como uma ferramenta para impulsionar as vendas, e dar maior visibilidade para os seus produtos.",
       "labelBottom": {
@@ -44,12 +44,12 @@
       "sections": [
         {
           "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Marketplace como uma ferramenta para impulsionar as vendas</span></p>",
-          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Grandes Players lançam suas vitrines em shoppings virtuais também conhecidos como marketplace, tendo assim, grande potencial de crescimento e maior visibilidade da sua marca. Aumentando as vendas, o faturamento e a escalabilidade do seu negócio através dos canais. Conte com uma equipe de especialistas certificados e qualificados, com potencial de otimizar suas vendas e aumentar a relevância do seu negócio dentro dos melhores canais de marketplace.</span></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Grandes Players lançam suas vitrines ou criam vitrines para outras lojas em shoppings virtuais também conhecidos como marketplaces. Essa estratégia gera grande potencial de crescimento, maior visibilidade de marca e impulsiona as vendas, o faturamento e a escalabilidade do seu negócio através de outros canais. Conte com uma equipe de especialistas certificados e qualificados, com potencial de otimizar suas vendas ou desenvolver seu marketplace, aumentando a relevância do seu e-commerce</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li>Integração com os Principais Marketplaces</li><li>Parcerias Estratégicas com Marketplaces e Ferramentas</li><li>Especialistas em E-commerce e Marketplaces </li><li>Gestão de Avaliações e Reputação</li><li>Campanhas de Publicidade</li><li>Expansão Multicanal Internacional</li></ul><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p><p><br data-mce-bogus=\"1\"></p>",
+          "description": "<ul><li><p>Integração com os Principais Marketplaces</p></li><li><p>Criação do seu próprio Marketplace</p></li><li><p>Parcerias Estratégicas com Marketplaces e Ferramentas</p></li><li><p>Especialistas em E-commerce e Marketplaces</p></li><li><p>Gestão de Avaliações e Reputação</p></li><li><p>Campanhas de Publicidade</p></li><li><p>Expansão Multicanal Internacional</p></li></ul><p><br></p><p><br></p><p><br></p>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ],
@@ -60,7 +60,7 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<ul><li><p>Integração e performance</p></li><li><p>Criação de anúncios</p></li><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
+          "description": "<ul><li><p>Integração e performance</p></li><li><p>Estruturação de Marketplace</p></li><li><p>Criação de anúncios</p></li><li><p>Análise e desempenho</p></li><li><p>Suporte e evolução</p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],

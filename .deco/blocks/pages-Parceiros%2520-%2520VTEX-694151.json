@@ -17,11 +17,11 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/174eaa69-1930-4612-b705-d0ff1cdc8953/desk-vtex.jpg",
+            "src": "https://assets.decocache.com/site-wave/271b5e8d-8dbb-4f87-8ce0-511de717a374/desk-vtex.jpg",
             "height": 730
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/6b69adb3-4e82-4f52-bef4-358dc8b30775/mob-vtex.jpg",
+            "src": "https://assets.decocache.com/site-wave/37db2d70-3674-47b9-96c1-798a71943f0c/mob-vtex.jpg",
             "height": 500
           }
         },
@@ -64,44 +64,44 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/2854b327-e87f-4fe3-8100-c8f5750aebaf/user-switch-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/930665a7-dcf2-41cf-9218-d468edaa81c0/user-switch.png",
             "title": "Omnichannel:",
             "paragraph": "jornadas de consumo unificadas, unindo o progresso digital e físico do cliente, em uma experiência única de compra"
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/acfec21a-51b0-44e0-afc9-425805999271/tag.png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/8944a20d-e490-4d5e-889d-a8f2726695ae/tree-structure.png",
             "paragraph": "gerencie suas estratégias de venda e use táticas avançadas de preço, baseadas nas suas próprias regras de segmentação.",
             "title": "Motor de preços avançado:"
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/06e314a5-3af0-481a-b053-f3dc92502cbb/rows-plus-bottom-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/b54e46f5-9e8f-486c-bff6-18ab40e4b0bf/git-branch.png",
             "paragraph": "aproveite as vantagens de um Gerenciador de Produtos nativo, pronto para atender necessidades complexas de B2C, B2B e marketplace.",
             "title": "Múltiplos catálogos e estoques:"
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/09e34806-48c6-46fc-b1b5-0a32e25ac91d/globe-stand.png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/9f97d730-8cb2-4ab6-9464-3a4c424baa7f/rows-plus-bottom.png",
             "title": "Múltiplas línguas e moedas:",
             "paragraph": "internacionalize seus negócios com frentes de loja para diferentes línguas e gerencie moedas e condições de pagamento locais com mais facilidade."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/832ad6d3-1e10-477c-8094-b8dfe6767299/browsers-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/eb8ee6fa-8269-4e34-842f-4ae036e9cb1a/shopping-bag.png",
             "title": "Sellers e marketplaces nativos:",
             "paragraph": "toda loja VTEX já nasce pronta para se tornar um marketplace ou um seller de outros sites VTEX."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/66d23f47-797f-4f76-8893-9177c2028844/coin-vertical-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/763e1cf4-cfe4-4ae7-983c-174895dc4212/coin-vertical.png",
             "title": "Motor de promoções unificado:",
             "paragraph": "crie promoções para todos os canais de uma vez ou selecione aqueles que vão ter descontos especiais."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/d0e6f840-f3b5-4b84-9a2f-8ba99148b94c/cardholder-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/c94e1e4e-4f3d-4465-9ddc-af84a4e62c63/cardholder.png",
             "title": "Múltiplos pagamentos:",
             "paragraph": "use nossas integrações nativas para se conectar aos principais provedores e permitir múltiplos pagamentos em uma única compra."
           }
@@ -154,20 +154,20 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/f3029e02-cab9-4511-a6b5-cfb9f57d8858/vtex2.png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/7218add3-dae6-4ae4-b329-b95ddb2cee49/gauge.png",
             "title": "VTEX Express:",
             "paragraph": "Desenvolvemos um formato único, exclusivo da Wave Commerce, e em até 10 dias úteis entregamos o site pronto para o cliente. O VTEX Express consiste em um site em VTEX IO, porém, será feito de forma padronizada e com modelos pré-prontos."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/882773e7-2ae4-4897-a663-70649924359e/swap-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/001bbf8f-1b62-419a-ba70-54b3e11bf1b4/flow-arrow.png",
             "paragraph": "Desenvolvemos migração para a última tecnologia de VTEX (IO), independentemente da plataforma do cliente. Quando fazemos a migração, importamos todos os dados do site antigo, a fim de não perdermos relevância.",
             "title": "Migração Para VTEX:"
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/88065612-0931-4635-a094-f76e47e85895/bounding-box.png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/d4c36fc2-620a-4e75-812a-8c60521dcc1d/layout.png",
             "paragraph": "É um projeto desenhado 100% conforme a vontade do cliente. Desenvolvemos tanto e-commerce quanto marketplace (B2C/B2B), com toda a estruturação de layout personalizada para desktop e mobile. Essa estrutura contém: uma árvore de categorias com SEO, configuração de todas as ferramentas utilizadas, configuração dos métodos de pagamento, desenvolvimento do checkout e textos institucionais obrigatórios visando o SEO do site.",
             "title": "Projeto Personalizado:"
           }
@@ -222,32 +222,32 @@
         },
         "services": [
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/adbb32a6-7945-415b-b899-e7b0a0f4a3be/tree-structure-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/b54e46f5-9e8f-486c-bff6-18ab40e4b0bf/git-branch.png",
             "title": "Estruturação de E-commerce:",
             "paragraph": "Layout personalizado com desenvolvimento e codificação, Menu, filtros e categorias, Cadastro de produtos, Descrição de produtos, Páginas institucionais, Precificação de produtos, Integrações, Suporte e evolução do e-commerce."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/94e75136-7be9-4c62-8cfb-b63fc977e62e/chart-line-up-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/5f17e332-0eb0-4cfd-9946-fbb188f18046/chart-line-up.png",
             "title": "Performance:",
             "paragraph": "SEO, UX e UI, Mídia paga em Google Ads, Face Ads, Bing Ads, Criteo e Pinterest Ads, Tagueamento de site, Ferramentas para conversão."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/8a082c00-519f-4efe-9ae2-295c04004c53/list-magnifying-glass-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/5e2abe11-42c8-4165-83b9-a1909193fff5/sort-descending.png",
             "title": "Conteúdo:",
             "paragraph": "Criação de persona, Funil de marketing, Calendário de marketing, Blog e e-book, E-mail marketing."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/1ccd622d-34ed-4dfd-8b10-788ab6e681b7/paint-brush-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/26f5d696-46bc-4725-ad3f-c4c2efc208d1/paint-brush.png",
             "title": "Criativo:",
             "paragraph": "Banners, Cards para redes sociais, Criação de Layout personalizado."
           },
           {
-            "titleColor": "secondary",
-            "icon": "https://data.decoassets.com/site-wave/832ad6d3-1e10-477c-8094-b8dfe6767299/browsers-(1).png",
+            "titleColor": "primary",
+            "icon": "https://data.decoassets.com/site-wave/eb8ee6fa-8269-4e34-842f-4ae036e9cb1a/shopping-bag.png",
             "title": "Marketplace:",
             "paragraph": "Integração e Performance, Criação de anúncios, Análise e desempenho, Suporte e evolução."
           }

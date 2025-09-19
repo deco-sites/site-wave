@@ -17,7 +17,7 @@
         "href": "#",
         "text": "<p>Entre em <strong>contato</strong></p>"
       },
-      "title": "Criação e Design",
+      "title": "Design & UX/UI",
       "bgImage": {
         "mobile": {
           "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d4bf755-50c8-4c72-ac29-cc5b64857cd5/mob-design.jpg",
@@ -33,7 +33,7 @@
         "icon": "DigitalPerformance",
         "text": "Criação e Design"
       },
-      "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos e demandas do seu e-commerce e de suas redes sociais.",
+      "subtitle": "Surpreenda seus consumidores com criativos adaptados aos propósitos do seu negócio e interface personalizada para a melhor experiência do usuário .",
       "labelBottom": {
         "icon": "ChevronDown",
         "text": "Saiba mais sobre Criação e Design"
@@ -45,12 +45,12 @@
       "sections": [
         {
           "title": "<p><span style=\"color: #0066e4; font-size: 25pt\">Profissionais qualificados e certificados em design, com potencial de destacar e expandir o seu negócio a partir de produções gráficas.</span></p>",
-          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O design promove o destaque entre os concorrentes do mercado, proporcionando melhor posicionamento da sua empresa, ajudando e valorizando na construção de uma imagem sólida da marca. Além disso, agrega valor ao seu negócio, gerando empatia com o seu público através de conteúdos visuais que criam conexão, identificação e que são esteticamente agradáveis.</span></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O design promove o destaque entre os concorrentes do mercado, proporcionando melhor posicionamento da sua empresa, ajudando e valorizando na construção de uma imagem sólida da marca. Além disso, agrega valor ao seu negócio, gerando experiência única e intuitiva para seu usuário com UX/UI e empatia com o seu público através de conteúdos visuais que criam conexão, identificação e são esteticamente agradáveis.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li>Criação de Identidade Visual Exclusiva</li><li>Design Personalizado e Estratégico</li><li>Equipe Criativa Especializada</li><li>Domínio de Ferramentas de Criação Avançadas</li><li>Experiência do Usuário (UX) e Interface (UI)</li></ul>",
+          "description": "<ul><li><p>Criação de Identidade Visual Exclusiva</p></li><li><p>Design Personalizado e Estratégico</p></li><li><p>Equipe Criativa Especializada</p></li><li><p>Domínio de Ferramentas de Criação Avançadas</p></li><li><p>Experiência do Usuário (UX) e Interface (UI)</p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ]

@@ -9,7 +9,80 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "Header-fixo"
+        "__resolveType": "site/sections/Header/Header.tsx",
+        "cart": {
+          "freeShippingObjectiveQuantity": 600
+        },
+        "logo": {
+          "alt": "Logo Wave Commerce",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d855008d-bc13-4a97-bf7d-b34b917ceb74",
+          "width": 120,
+          "height": 20
+        },
+        "alerts": [
+          "Use this template to create your store at deco.cx"
+        ],
+        "contact": {
+          "link": "contato",
+          "label": "entre em sss"
+        },
+        "navItems": [
+          {
+            "url": "/quem-somos",
+            "name": "Sobre",
+            "children": []
+          },
+          {
+            "name": "Soluções",
+            "children": [],
+            "image": {
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
+            },
+            "url": "/servicos"
+          },
+          {
+            "url": "/parceiros",
+            "name": "Parceiros",
+            "children": []
+          },
+          {
+            "url": "/cases",
+            "name": "Cases",
+            "children": []
+          },
+          {
+            "url": "/vagas",
+            "name": "Vagas",
+            "children": []
+          },
+          {
+            "url": "/blog",
+            "name": "Blog",
+            "children": []
+          }
+        ],
+        "products": [],
+        "searchbar": {
+          "name": "q",
+          "action": "/s",
+          "loader": {
+            "data": {
+              "count": 4,
+              "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts"
+            },
+            "__resolveType": "resolved"
+          },
+          "placeholder": "What are you looking for?"
+        },
+        "suggestions": {
+          "products": [],
+          "searches": []
+        },
+        "logoPosition": "center",
+        "cta": {
+          "label": "Entre em Contato",
+          "link": "/contato"
+        }
       }
     },
     {
@@ -36,7 +109,7 @@
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
             "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
           ],
-          "title": "<p><strong>Agência de E-commerce:</strong></p>",
+          "title": "<p><strong><span style=\"font-size: 30pt\">Agência de E-commerce:</span></strong></p>",
           "hasImage": [
             {
               "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
@@ -49,7 +122,7 @@
             }
           ],
           "subTitle": "<p><span>Quando se trata de&nbsp;</span><strong><span>e-commerce</span></strong><span>&nbsp;e&nbsp;</span><strong><span>marketplace,</span></strong><span> somos reconhecidos como&nbsp;</span><strong><span>autoridade no mercado.</span></strong></p>",
-          "content": "<h2 style=\"text-align: start\">somos a melhor agência<br>de performance<br>do Brasil</h2>"
+          "content": "<p><span style=\"font-size: 28pt\">somos a melhor agência de performance do Brasil</span></p>"
         },
         "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
         "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
@@ -153,7 +226,7 @@
           "link": "/",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/4bcf2a8b-f71d-42a3-a952-247c884ea08a",
           "label": "Saiba mais",
-          "content": "Estruturação de E-commerce",
+          "content": "Implementação de E-commerce",
           "isEmptyBrand": true,
           "button": {
             "link": "/implementacao-de-ecommerce",
@@ -177,7 +250,7 @@
           "isEmptyBrand": true,
           "button": {
             "label": "saiba mais",
-            "link": "/criacao-e-designer"
+            "link": "/criacao-e-design"
           }
         },
         {
@@ -265,25 +338,31 @@
       "__resolveType": "site/sections/Content/CardCases.tsx",
       "cards": [
         {
-          "image": "https://data.decoassets.com/site-wave/c72b3532-32ce-491b-bdae-e639633266d8/case-gremio-home.jpg",
-          "title": "Grêmio",
-          "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce.",
-          "isEmptyBrand": true,
-          "link": "/gremio"
+          "image": "https://assets.decocache.com/site-wave/cd253efc-1496-4889-a9c8-e1493195786f/claro.png",
+          "title": "Claro",
+          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel",
+          "isEmptyBrand": true
         },
         {
-          "link": "/friopecas",
+          "link": "/gremio",
+          "image": "https://data.decoassets.com/site-wave/c72b3532-32ce-491b-bdae-e639633266d8/case-gremio-home.jpg",
+          "isEmptyBrand": true,
+          "title": "Grêmio",
+          "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce."
+        },
+        {
           "image": "https://data.decoassets.com/site-wave/617d0814-d85a-4a51-8ecc-9f2eaed79f7a/case-friopecas-home.png",
           "isEmptyBrand": true,
+          "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce",
           "title": "Friopeças",
-          "subtitle": "Utilização de recursos da VTEX traz nova fase ao E-commerce"
+          "link": "/friopecas"
         },
         {
           "image": "https://data.decoassets.com/site-wave/c82c2f88-0b7d-4e44-8773-08cfbad5e4e9/case-true-home.jpg",
+          "title": "True Souce",
           "isEmptyBrand": true,
           "link": "/true-source",
-          "subtitle": "Revolução no E-commerce após migração para Deco.cx",
-          "title": "True Souce"
+          "subtitle": "Revolução no E-commerce após migração para Deco.cx"
         },
         {
           "image": "https://data.decoassets.com/site-wave/b3022ed9-6cce-4c92-9ca1-671bd3b7c928/case-ramarim-home.jpg",
@@ -326,16 +405,10 @@
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/e155d1e4-02c3-47fb-aa44-676332a49747",
           "title": "O Escafandro",
           "isEmptyBrand": true,
-          "link": "/escafandro",
-          "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso"
+          "subtitle": "Como O Escafandro alcançou um e-commerce de sucesso",
+          "link": "/escafandro"
         },
-        {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/5f02c222-cfd7-44b1-8d19-0903608be3a4",
-          "title": "Start Global Goods",
-          "isEmptyBrand": true,
-          "link": "/start-global-goods",
-          "subtitle": "Expansão de vendas para todo o Brasil com Omnichannel"
-        }
+        {}
       ]
     },
     {

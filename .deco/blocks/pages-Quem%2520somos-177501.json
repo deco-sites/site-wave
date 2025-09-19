@@ -13,8 +13,8 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/infocardQuemSomos.tsx",
         "Images": {
-          "ImageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/b3a1f0a3-c9a9-4409-a46d-d8ea24999904/card-d.jpg",
-          "ImageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/aad2549b-be50-46da-a01e-a1c21d42034d/home-2-3-4-m.jpg"
+          "ImageDesktop": "https://assets.decocache.com/site-wave/7c611de0-c6c0-46c7-81b2-3c01324de8a4/quem-somos.jpg",
+          "ImageMobile": "https://assets.decocache.com/site-wave/5a07fbaf-7523-4525-9838-2e35b9d70bb3/quemsomos-mobile.jpg"
         },
         "Text": "<p><strong><span style=\"color: #f2f2f2; font-size: 18pt\">Quem Somos</span></strong><span style=\"color: #f2f2f2\"><br><br></span><span style=\"color: #f2f2f2; font-size: 14pt\">Saiba mais sobre a Wave<br>e nossos valores!</span></p>"
       }
@@ -31,8 +31,8 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/ImageWithText.tsx",
         "images": {
-          "ImageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/57a72d29-88d1-4bed-a88a-79d3c9183cf0/Rectangle-156.png",
-          "ImageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/9795c42b-70f9-4f49-aa03-27798dff13f6/Rectangle-156.png"
+          "ImageDesktop": "https://assets.decocache.com/site-wave/e17a47a0-cc97-4a5a-be7b-9f56ecf3957d/quemsomos-2.png",
+          "ImageMobile": "https://assets.decocache.com/site-wave/3718161c-82d5-4bbe-865c-7b7531b974fa/quemsomos-mobile-2.png"
         },
         "text": "<h2><strong><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">A Wave Commerce</span></strong><span style=\"font-size: 25pt\"><br></span></h2><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados. É com esta sinergia que criamos estratégias de sucesso, sob medida e em constante otimização para quem busca crescer, vender ou potencializar seu negócio na internet.</span></p><p></p><p><span style=\"font-size: 15pt\"><br></span><strong><span style=\"color: rgb(113, 113, 113); font-size: 15pt\">Quando se trata de e-commerce e marketplace,</span><span style=\"color: rgb(101, 97, 97); font-size: 15pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">somos reconhecidos como autoridade no mercado.</span></strong><span style=\"font-size: 15pt\"><br><br></span><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Buscamos sempre alcançar os objetivos e atingir os&nbsp;melhores resultados&nbsp;para os nossos clientes. Acreditamos no trabalho em equipe, no fazer juntos e no&nbsp;poder de multiplicar.</span><span style=\"font-size: 15pt\"><br></span><br></p>",
         "reverse": true
@@ -50,8 +50,8 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/ImageWithText.tsx",
         "images": {
-          "ImageDesktop": "https://data.decoassets.com/site-wave/25e8cdf5-7910-474b-bb86-13c842e8342b/selos.png",
-          "ImageMobile": "https://data.decoassets.com/site-wave/25e8cdf5-7910-474b-bb86-13c842e8342b/selos.png"
+          "ImageDesktop": "https://assets.decocache.com/site-wave/c3e1e3c1-ea58-4ed7-ac5f-ed4f492420af/selos-2025.png",
+          "ImageMobile": "https://assets.decocache.com/site-wave/c3e1e3c1-ea58-4ed7-ac5f-ed4f492420af/selos-2025.png"
         },
         "text": "<h3><strong><span style=\"color: rgb(254, 251, 251); font-size: 20pt\">Um time qualificado</span></strong></h3><p></p><p><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">Oferecemos uma rede de profissionais treinados e certificados nas principais soluções do mercado, como: </span><strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">VTEX IO, Linx, Shopify, Google Ads, RDStation,</span></strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\"> e muitas outras.</span></p>",
         "reverse": true
@@ -70,8 +70,8 @@
         "__resolveType": "site/sections/Institutionals/GptwSection.tsx",
         "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">5x</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> Great Place to Work</span></strong></h3>",
         "gptwImage": "https://data.decoassets.com/site-wave/505b24a0-bf8f-4772-9b7f-ec7ddda97d75/selo-gptw.png",
-        "content": "<p><span style=\"color: rgb(255, 255, 255); font-size: 16pt\">And right there you got an almighty cloud. Clouds are free. They just float around the sky all day and have fun. </span><strong><span style=\"color: rgb(0, 102, 228); font-size: 16pt\">This is truly an almighty mountain.</span></strong></p>",
-        "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/caa00502-8cab-42e2-a2c1-b364f6f0736c/Rectangle-157.png"
+        "content": "<p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">Conquistamos pelo</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">quinto ano consecutivo</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">o certificado de ser uma</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">das melhores empresas</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">para se trabalhar no Brasil, </span><strong><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">resultado de nosso compromisso em criar</span></strong></p><p><strong><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">um ambiente de trabalho inspirador!</span></strong><br></p>",
+        "src": "https://assets.decocache.com/site-wave/88e06885-6ab6-4f93-8024-a4ca8bc7081e/quemsomos-3.png"
       }
     },
     {
