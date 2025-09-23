@@ -1,0 +1,101 @@
+{
+  "name": "CRO Para E-commerce",
+  "path": "/cro-para-e-commerce",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "title": "Sua marca convertendo mais",
+      "bgImage": {
+        "mobile": {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/aa43e57d-d35c-4210-bf07-507907f5cbc0/mob-performance.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/601ee671-b457-4fca-9718-652cb272d380/desk-performance.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "CRO Para E-commerce"
+      },
+      "subtitle": "Na Wave Commerce, nosso time de especialistas em CRO (Conversion Rate Optimization) é focado em transformar visitantes em clientes fiéis. Com técnicas avançadas de otimização da taxa de conversão, ajudamos sua marca a maximizar vendas sem precisar aumentar o tráfego.  Através da análise de comportamento, testes A/B, mapas de calor e personalização de conteúdo, nossos profissionais criam jornadas de compra mais fluidas e intuitivas para os usuários, elevando a taxa de conversão e garantindo um ROI muito mais alto para o seu e-commerce.",
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre CRO "
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p><strong><span style=\"color: rgb(0, 92, 205); font-size: 25pt\">Otimize Seu ROI Ao Máximo</span></strong></p>",
+          "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce foi eleita a </span><strong><span style=\"font-size: 15pt\">Melhor Agência de Performance do Brasil por dois anos consecutivos</span></strong><span style=\"font-size: 15pt\">, em 2024 e 2025, pela ABComm. Resultado da excelência e dedicação em entregar resultados consistentes.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"font-size: 15pt\">Combinamos UX, UI, SEO, mídia paga e estratégias de personalização para reduzir o Custo de Aquisição de Clientes (CAC) e aumentar as vendas. Nossas </span><strong><span style=\"font-size: 15pt\">soluções são sempre orientadas por dados reais e insights estratégicos</span></strong><span style=\"font-size: 15pt\">, garantindo melhorias contínuas na performance do seu site.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Estratégias de CRO baseadas em dados e comportamento do usuário;</span></p></li><li><p><span style=\"font-size: 15pt\">Profissionais especialistas em UX, UI e otimização de funil de vendas;</span></p></li><li><p><span style=\"font-size: 15pt\">Implementação de testes A/B, mapas de calor e análises de navegação;</span></p></li><li><p><span style=\"font-size: 15pt\">Personalização de conteúdo para aumentar engajamento e conversões;</span></p></li><li><p><span style=\"font-size: 15pt\">Acompanhamento constante para maximizar seu ROI sem elevar custos de mídia.</span></p><p></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Wave é a melhor opção para cuidar do CRO do seu e-commerce?</span></p>",
+      "sections": [
+        {
+          "title": "<p><strong><span style=\"color: rgb(252, 252, 252); font-size: 20pt\">CRO estratégico para e-commerce</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Ao contrário de campanhas focadas apenas em gerar tráfego, o CRO trabalha diretamente no aumento de resultados com o público que já acessa seu site. Isso significa </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">mais vendas e menos desperdício de investimento em mídia</span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Etapas de Implementação de CRO</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Coleta e análise de dados;</span></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Identificação de barreiras na jornada de compra;</span></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Implantação de melhorias testadas (A/B testing, heatmaps, personalização);</span></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Monitoramento contínuo com foco em crescimento.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Ferramentas que utilizamos</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Testes A/B: identificar a versão mais eficiente de páginas e elementos;</span></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Mapas de calor e gravações de navegação: entender como o usuário interage;</span></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Otimização de velocidade e checkout simplificado: reduzir abandono de carrinho;</span></p><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">-&gt; Personalização de recomendações de produtos: aumentar o ticket médio.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Um time qualificado</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Nossa equipe é formada por profissionais certificados em GA4 e </span><strong><span style=\"font-size: 15pt\">especialistas nas plataformas mais avançadas para seu CRO</span></strong><span style=\"font-size: 15pt\">, além de dominarem ferramentas de análise de comportamento e performance digital.<br><br>A </span><strong><span style=\"font-size: 15pt\">Wave Commerce é a parceira certa</span></strong><span style=\"font-size: 15pt\"> para quem busca crescimento sustentável e conversões reais.<br><br>👉 Clique </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wavecommerce.com.br/proposta/\"><u><span style=\"font-size: 15pt\">aqui</span></u></a><span style=\"font-size: 15pt\"> e conheça como o CRO da Wave pode transformar seu e-commerce!</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
