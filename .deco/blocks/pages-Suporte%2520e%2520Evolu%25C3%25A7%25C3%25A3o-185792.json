@@ -1,0 +1,120 @@
+{
+  "name": "Suporte e Evolução",
+  "path": "/suporte-e-evolucao",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "title": "Sua marca em operação contínua",
+      "bgImage": {
+        "mobile": {
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/aa43e57d-d35c-4210-bf07-507907f5cbc0/mob-performance.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/601ee671-b457-4fca-9718-652cb272d380/desk-performance.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "Suporte e Evolução"
+      },
+      "subtitle": "No ambiente de e-commerce, estabilidade e evolução andam de mãos dadas. Na Wave Commerce oferecemos serviços de Suporte e Evolução pensados para garantir que sua loja funcione com performance máxima, além de acelerar a entrega de novas funcionalidades que aumentem receita e competitividade.  Nossa atuação combina governança técnica, gestão de backlog, correções rápidas (hotfixes), melhorias contínuas e planejamento de roadmap, tudo com foco em reduzir riscos, diminuir o time-to-market e elevar a experiência do usuário.",
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre Suporte e Evolução "
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p><strong><span style=\"color: rgb(0, 92, 205); font-size: 25pt\">Máxima Eficiência e Evolução Constante</span></strong></p>",
+          "description": "<p><span style=\"font-size: 15pt\">Eleita </span><strong><span style=\"font-size: 15pt\">Melhor Agência de Performance do Brasil por dois anos consecutivos</span></strong><span style=\"font-size: 15pt\"> pela ABComm, a Wave Commerce une expertise técnica e visão de negócio para transformar suporte em vantagem competitiva. Não tratamos apenas de apagar incêndios: </span><strong><span style=\"font-size: 15pt\">entregamos evolução sustentável que aumenta conversões, reduz custos operacionais e melhora a satisfação do cliente</span></strong><span style=\"font-size: 15pt\">.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"font-size: 15pt\">Trabalhamos com squads multidisciplinares (desenvolvedores, devops, UX/UI, product owners e analistas de performance) para </span><strong><span style=\"font-size: 15pt\">priorizar e executar as intervenções que mais impactam o seu resultado</span></strong><span style=\"font-size: 15pt\">.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Suporte técnico especializado com SLAs claros;</span></p></li><li><p><span style=\"font-size: 15pt\">Evolução contínua do produto (novas features, integrações e ajustes de UX);</span></p></li><li><p><span style=\"font-size: 15pt\">Monitoramento e observability 24/7 para detectar e resolver problemas antes que afetem vendas;</span></p></li><li><p><span style=\"font-size: 15pt\">Gestão de releases e pipelines CI/CD para deploys seguros e previsíveis;</span></p></li><li><p><span style=\"font-size: 15pt\">Correções emergenciais (hotfixes) com processo de comunicação transparente;</span></p></li><li><p><span style=\"font-size: 15pt\">Roadmap de evolução baseado em dados e impacto no negócio;</span></p></li><li><p><span style=\"font-size: 15pt\">Equipe dedicada ou modelo compartilhado, conforme a necessidade do cliente.</span></p><p></p><p></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p><strong><span style=\"color: rgb(252, 252, 252); font-size: 20pt\">Experiência que gera confiança</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Com anos de operação em grandes lojas, nossa equipe já lidou com picos de tráfego, integrações complexas e migrações críticas. </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Transformamos know-how técnico em processos que garantem disponibilidade e performance</span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Processos ágeis e governança</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Adotamos </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">práticas de gestão ágil</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> (sprints, backlog grooming, planning) e governança técnica, com definição de responsabilidades, políticas de rollback para incidentes.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Segurança, performance e escalabilidade</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Realizamos auditorias de performance, otimizações de velocidade (front-end e back-end), e revisões de segurança para </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">proteger dados de clientes e transações</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {},
+      "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Wave é a melhor opção para Suporte e Evolução do seu e-commerce?</span></p>"
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<h2><span style=\"color: rgb(1, 92, 205); font-size: 25pt\">Serviços que oferecemos</span></h2>",
+          "description": "<p></p><ul><li><p><strong><span style=\"font-size: 15pt\">Suporte Técnico</span></strong><span style=\"font-size: 15pt\">: atendimento e resolução de incidentes e solicitações;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Evolução de Produto</span></strong><span style=\"font-size: 15pt\">: desenvolvimento de novas funcionalidades, melhorias de checkout, otimizações de conversão;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Gestão de Releases</span></strong><span style=\"font-size: 15pt\">: pipeline CI/CD, gestão de versionamento de código para possíveis incidentes e rollback</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Correções Críticas (Hotfix)</span></strong><span style=\"font-size: 15pt\">: turnaround rápido com comunicação clara;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Integrações e APIs</span></strong><span style=\"font-size: 15pt\">: Integração com sistemas, apps de terceiros e construção de apps nativos. Suporte em marketplaces, ERPs, meios de pagamento, OMS; </span></p></li><li><p><strong><span style=\"font-size: 15pt\">Testes funcionais, análise de UX e testes A/B</span></strong><span style=\"font-size: 15pt\">.</span></p></li><li><p><strong><span style=\"font-size: 15pt\">SLA e Relatórios</span></strong><span style=\"font-size: 15pt\">: métricas de atendimento, tempo de resolução e melhorias entregues.</span></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Nosso stack de parcerias</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Contamos com profissionais certificados e experiência em plataformas e ferramentas do mercado: </span><strong><span style=\"font-size: 15pt\">VTEX IO, Shopify, Linx,DECO, Olist, Uappi, Salesforce e Nuvemshop</span></strong><span style=\"font-size: 15pt\">, repositórios e pipelines como GitHub e integrações com ERPs e parceiros de logística.<br><br>Também mantemos proximidade com principais players de mídia e tecnologia, o que facilita integrações e acelera resoluções quando necessário.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Um time qualificado</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce reúne </span><strong><span style=\"font-size: 15pt\">profissionais certificados e treinados nas principais soluções do mercado</span></strong><span style=\"font-size: 15pt\">, preparados para atuar em modelos de suporte dedicado, co-pilot ou por demanda.<br><br>Eleita a melhor agência de performance do Brasil por dois anos seguidos pela ABComm, somos a escolha certa para quem busca </span><strong><span style=\"font-size: 15pt\">confiabilidade operacional e evolução contínua do e-commerce</span></strong><span style=\"font-size: 15pt\">.<br><br>👉 </span><strong><span style=\"font-size: 15pt\">Quer que a gente monte uma proposta de SLA e roadmap sob medida para sua loja?</span></strong><span style=\"font-size: 15pt\"> Solicite um diagnóstico gratuito e descubra o plano ideal para o seu negócio.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
