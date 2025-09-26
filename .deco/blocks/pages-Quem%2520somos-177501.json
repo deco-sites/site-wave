@@ -53,7 +53,7 @@
           "ImageDesktop": "https://assets.decocache.com/site-wave/c3e1e3c1-ea58-4ed7-ac5f-ed4f492420af/selos-2025.png",
           "ImageMobile": "https://assets.decocache.com/site-wave/c3e1e3c1-ea58-4ed7-ac5f-ed4f492420af/selos-2025.png"
         },
-        "text": "<h3><strong><span style=\"color: rgb(254, 251, 251); font-size: 20pt\">Um time qualificado</span></strong></h3><p></p><p><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">Oferecemos uma rede de profissionais treinados e certificados nas principais soluções do mercado, como: </span><strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\">VTEX IO, Linx, Shopify, Google Ads, RDStation,</span></strong><span style=\"color: rgb(254, 251, 251); font-size: 15pt\"> e muitas outras.</span></p>",
+        "text": "<h3><strong><span style=\"color: rgb(254, 251, 251); font-size: 20pt\">Um time qualificado</span></strong></h3><p></p><p><span style=\"color: #ffffff; font-size: 15pt\">Oferecemos uma </span><strong><span style=\"color: #ffffff; font-size: 15pt\">rede de profissionais treinados e certificados</span></strong><span style=\"color: #ffffff; font-size: 15pt\"> nas principais soluções do mercado, como: VTEX, Salesforce, Shopify, Wake, Uappi, Linx, Google, Meta, Tiktok, e muitas outras.</span></p>",
         "reverse": true
       }
     },
@@ -68,9 +68,9 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/GptwSection.tsx",
-        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">5x</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> Great Place to Work</span></strong></h3>",
+        "title": "<h3><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">6x</span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\"> Great Place to Work</span></strong></h3>",
         "gptwImage": "https://data.decoassets.com/site-wave/505b24a0-bf8f-4772-9b7f-ec7ddda97d75/selo-gptw.png",
-        "content": "<p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">Conquistamos pelo</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">quinto ano consecutivo</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">o certificado de ser uma</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">das melhores empresas</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">para se trabalhar no Brasil, </span><strong><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">resultado de nosso compromisso em criar</span></strong></p><p><strong><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">um ambiente de trabalho inspirador!</span></strong><br></p>",
+        "content": "<p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">Conquistamos pelo</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">sexto ano consecutivo</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">o certificado de ser uma</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">das melhores empresas</span></p><p><span style=\"color: rgb(245, 245, 245); font-size: 15pt\">para se trabalhar no Brasil, </span><strong><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">resultado de nosso compromisso em criar</span></strong></p><p><strong><span style=\"color: rgb(0, 102, 228); font-size: 15pt\">um ambiente de trabalho inspirador!</span></strong><br></p>",
         "src": "https://assets.decocache.com/site-wave/88e06885-6ab6-4f93-8024-a4ca8bc7081e/quemsomos-3.png"
       }
     },
