@@ -50,12 +50,12 @@
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li><p>Criação de Identidade Visual Exclusiva</p></li><li><p>Design Personalizado e Estratégico</p></li><li><p>Equipe Criativa Especializada</p></li><li><p>Domínio de Ferramentas de Criação Avançadas</p></li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Criação de Identidade Visual Exclusiva</span></p></li><li><p><span style=\"font-size: 15pt\">Design Personalizado e Estratégico</span></p></li><li><p><span style=\"font-size: 15pt\">Equipe Criativa Especializada</span></p></li><li><p><span style=\"font-size: 15pt\">Domínio de Ferramentas de Criação Avançadas</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         },
         {
           "title": "<p>UX/UI</p>",
-          "description": "<ul><li><p>UI Design: Análise e criação de layouts voltados a usabilidade</p></li><li><p>UX Writing: Otimização de linguagem para facilitar decisões de compra</p></li><li><p>UX Research: Pesquisa do comportamento do consumidor.</p></li><li><p>UX Journey: Análise da jornada de compra.</p></li><li><p>Testes de comportamento de uso em cenários&nbsp;web.</p></li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">UI Design: Análise e criação de layouts voltados a usabilidade</span></p></li><li><p><span style=\"font-size: 15pt\">UX Writing: Otimização de linguagem para facilitar decisões de compra</span></p></li><li><p><span style=\"font-size: 15pt\">UX Research: Pesquisa do comportamento do consumidor.</span></p></li><li><p><span style=\"font-size: 15pt\">UX Journey: Análise da jornada de compra.</span></p></li><li><p><span style=\"font-size: 15pt\">Testes de comportamento de uso em cenários&nbsp;web.</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ]
@@ -99,7 +99,7 @@
         "sections": [
           {
             "title": "<p></p>",
-            "description": "<ul><li><p>Banners para e-commerce</p></li><li><p>Banners para e-mail marketing</p></li><li><p>Conteúdo para redes sociais</p></li><li><p>Layout personalizado para e-commerce</p></li><li><p>Cards para performance</p></li></ul>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">Banners para e-commerce</span></p></li><li><p><span style=\"font-size: 15pt\">Banners para e-mail marketing</span></p></li><li><p><span style=\"font-size: 15pt\">Conteúdo para redes sociais</span></p></li><li><p><span style=\"font-size: 15pt\">Layout personalizado para e-commerce</span></p></li><li><p><span style=\"font-size: 15pt\">Cards para performance</span></p></li></ul>",
             "__resolveType": "site/sections/Services/Card2.tsx"
           }
         ],

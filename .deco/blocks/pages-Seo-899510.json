@@ -91,6 +91,11 @@
           "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Blog:</span></p>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 13pt\">O serviço de blog é uma parte crucial da estratégia de SEO e de conteúdo para e-commerces. Ele não só ajuda a atrair tráfego orgânico, mas também engaja os visitantes, constrói a autoridade da marca e atende diferentes estágios do funil de vendas, desde a conscientização até a decisão de compra.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">ASO:</span></p>",
+          "description": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wavecommerce.com.br/marketing-para-aplicativos/\"><u><span style=\"color: #0166e4; font-size: 13pt\">ASO (App Store Optimization)</span></u></a><span style=\"color: rgb(255, 255, 255); font-size: 13pt\"> é o processo de otimizar aplicativos para aumentar sua visibilidade e atrair usuários qualificados nas lojas de apps. Isso envolve pesquisa de palavras-chave, análise de concorrentes e identificação de gaps de mercado, além da otimização de título, descrição, ícone e screenshots. Também inclui atualizações regulares de metadados, monitoramento de rankings e acompanhamento de reviews e reputação, garantindo crescimento contínuo e sustentável.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
         }
       ],
       "cta": {}

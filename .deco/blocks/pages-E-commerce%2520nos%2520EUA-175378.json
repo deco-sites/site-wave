@@ -44,12 +44,12 @@
       "sections": [
         {
           "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Expanda sua operação para o exterior</span></p>",
-          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Auxiliamos no planejamento estratégico do seu<br>e-commerce, no marketing digital e na estruturação e integração nos marketplaces. Além disso, acompanhamos todas as etapas do processo, desde a abertura da sua loja até a expedição e entrega dos seus produtos internacionalmente.</span></p>",
+          "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Auxiliamos no planejamento estratégico do seu e-commerce, no marketing digital e na estruturação e integração nos marketplaces. Além disso, acompanhamos todas as etapas do processo, desde a abertura da sua loja até a expedição e entrega dos seus produtos internacionalmente.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
         {
           "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li>Proximidade com Google e plataformas;</li><li>Parceiros especializados;</li><li>Profissionais com experiência em E-commerce;</li><li>Profissionais com alto conhecimento das plataformas;</li><li>Profissionais de UX, UI, SEO e Mídia Paga em Google, Facebook, Linkedin, Bing, Pinterest, Criteo, entre outros.</li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Equipe especializada em e-commerce internacional;</span></p></li><li><p><span style=\"font-size: 15pt\">Soluções para venda multimoeda e multi idioma;</span></p></li><li><p><span style=\"font-size: 15pt\">Soluções para logística internacional;</span></p></li><li><p><span style=\"font-size: 15pt\">Soluções para vendas em marketplaces (Amazon, Ebay, Shopee, Wayfair).</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ],
@@ -69,7 +69,7 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<ul><li><p><span style=\"font-size: 15pt\">Estruturação de e-commerce</span></p></li><li><p><span style=\"font-size: 15pt\">Integração e performance nos marketplaces</span></p></li><li><p><span style=\"font-size: 15pt\">Marketing digital para e-commerce</span></p></li></ul>",
+          "description": "<ul><li><p><span style=\"font-size: 15pt\">Criação de e-commerce internacional </span></p></li><li><p><span style=\"font-size: 15pt\">Integração nos marketplaces</span></p></li><li><p><span style=\"font-size: 15pt\">Campanhas de vendas nos marketplaces</span></p></li><li><p><span style=\"font-size: 15pt\">Marketing digital para e-commerce</span></p></li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
       ],
