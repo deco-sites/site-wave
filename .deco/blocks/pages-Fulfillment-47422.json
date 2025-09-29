@@ -47,11 +47,6 @@
           "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">A Melhor Agência de Performance do Brasil Agora É Full Commerce</span></p>",
           "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Com o serviço de </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Fulfillment</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> da Wave Commerce, você garante não só os melhores serviços para E-commerce, mas também a otimização de todo o seu processo logístico.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
-        },
-        {
-          "title": "<p>Na Wave você tem:</p>",
-          "description": "<ul><li><p><span style=\"font-size: 15pt\">Proximidade com Google e plataformas;</span></p></li><li><p><span style=\"font-size: 15pt\">Parceiros especializados;</span></p></li><li><p><span style=\"font-size: 15pt\">Profissionais com experiência em E-commerce;</span></p></li><li><p><span style=\"font-size: 15pt\">Profissionais com alto conhecimento das plataformas;</span></p></li><li><p><span style=\"font-size: 15pt\">Profissionais de UX, UI, SEO e Mídia Paga em Google, Facebook, Linkedin, Bing, Pinterest, Criteo, entre outros.</span></p></li></ul>",
-          "__resolveType": "site/sections/Services/Card3.tsx"
         }
       ]
     },

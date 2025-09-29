@@ -51,8 +51,15 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A plataforma de comércio digital para grandes empresas! Proporcione a experiência que seus consumidores desejam com uma plataforma de e-commerce composable, conectada e completa. </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A VTEX é a plataforma de comércio digital para empresas que permite que grandes marcas&nbsp; e varejistas alcancem um time-to-market mais rápido, atinjam seus clientes em qualquer canal e descubram novas áreas de crescimento.</span></strong></p><p></p><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Se você busca liberdade para concretizar sua visão única e entregá-la aos clientes através de experiências notáveis, a Vtex é o que você procura.</span></p><p></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A plataforma de comércio digital para grandes empresas! Proporcione a experiência que seus consumidores desejam com uma plataforma de e-commerce composable, conectada e completa. </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A VTEX é a plataforma de comércio digital para empresas que permite que grandes marcas&nbsp; e varejistas alcancem um time-to-market mais rápido, atinjam seus clientes em qualquer canal e descubram novas áreas de crescimento. </span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Se você busca liberdade para concretizar sua visão única e entregá-la aos clientes através de experiências notáveis, a VTEX é o que você procura.</span></p><p></p>",
         "title": "<h2><strong><span style=\"color: #0066e4; font-size: 25pt\">O que é VTEX?</span></strong></h2><p><br></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "medium"
       }
     },
     {
@@ -121,6 +128,14 @@
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Agência VTEX: Nós fazemos parte do ecossistema de agências parceiras</span></strong></h2>",
         "description": "<p><span style=\"font-size: 15pt\">Oferecendo </span><strong><span style=\"font-size: 15pt\">soluções personalizadas para potencializar os resultados do seu</span></strong><span style=\"font-size: 15pt\"> negócio na internet, o time Wave está preparado para entregar novas formas de atendimento, que vão desde o acompanhamento de projetos até serviços de marketing digital para alavancar suas vendas online. Somos o parceiro certo para o seu negócio! Melhoramos a performance e conversão de sua jornada digital e garantimos o atendimento por profissionais capacitados e indicados pela VTEX.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2 style=\"text-align: start\"><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">VTEX Fast Store</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A </span><strong><span style=\"font-size: 15pt\">VTEX Fast Store</span></strong><span style=\"font-size: 15pt\"> é uma solução headless desenvolvida para criar lojas virtuais de alto desempenho, utilizando a arquitetura </span><strong><span style=\"font-size: 15pt\">JAMStack</span></strong><span style=\"font-size: 15pt\"> para garantir velocidade, flexibilidade e SEO aprimorado. Composta por bibliotecas, APIs e componentes de UI, ela permite o desenvolvimento de experiências de compra únicas, rápidas e totalmente personalizadas.</span></p><p></p><p><span style=\"font-size: 15pt\">Com a </span><strong><span style=\"font-size: 15pt\">Wave Commerce</span></strong><span style=\"font-size: 15pt\">, você pode aproveitar todo o potencial da Fast Store: nosso time de especialistas implementa e personaliza a solução para transformar seu e-commerce em uma loja mais rápida, escalável e integrada a CMSs, com foco em performance, carregamento otimizado e flexibilidade para atender às necessidades do seu negócio.</span></p>"
       }
     },
     {
