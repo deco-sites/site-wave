@@ -166,11 +166,11 @@
   }
 
   .animation-right {
-    animation: slide-right 50s linear infinite;
+    animation: slide-right 25s linear infinite;
   }
   
   .animation-left {
-    animation: slide-right 50s linear infinite reverse; 
+    animation: slide-right 25s linear infinite reverse; 
   }
   
   @keyframes slide-right {

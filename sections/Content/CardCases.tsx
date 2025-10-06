@@ -25,13 +25,13 @@ const CardCases = ({ cards }: Props) => {
                 alt={card.subtitle || ""}
               />
             )}
-            <div className="absolute z-[1] bottom-[10px] lg:bottom-[20px] left-[15px] lg:left-[30px] right-0 transition-transform ease-in-out duration-1000 transform group-hover:-translate-y-[0.5rem]">
+            <div className="absolute z-[1] bottom-[10px] lg:bottom-[20px] left-[15px] lg:left-[30px] right-0 transition-all ease-in-out duration-1000 transform group-hover:-translate-y-4">
               {card.isEmptyBrand && (
                 <span className="visual-brand mb-2 lg:mb-4 w-9"></span>
               )}
               <p className="text-white font-bold text-lg">{card.title}</p>
               {card.subtitle && (
-                <p className="text-white text-xs hidden group-hover:block opacity-0 group-hover:opacity-100 transition-opacity duration-500 ease-in-out max-w-[108px] lg:w-[170px]">
+                <p className="text-white text-xs max-h-0 opacity-0 overflow-hidden group-hover:max-h-20 group-hover:opacity-100 transition-all duration-1000 ease-in-out max-w-[108px] lg:w-[170px]">
                   {card.subtitle}
                 </p>
               )}

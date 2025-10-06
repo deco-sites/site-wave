@@ -46,7 +46,7 @@ function Partners(props: Props) {
         <div class="w-full text-center items-center relative">
           <div class=" px-1">
             {/* Container de animação com rolagem infinita */}
-            <div class="flex flex-row flex-nowrap animate-infinite-scroll gap-[1.25rem]">
+            <div class="flex flex-row flex-nowrap animate-infinite-scroll gap-3 lg:gap-[1.25rem]">
               {infiniteImages[0].colImages.map((item: Image, idx) => (
                 <img
                   class={imageClass}

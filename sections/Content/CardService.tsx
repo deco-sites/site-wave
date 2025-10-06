@@ -18,20 +18,29 @@ interface Props {
 const CardItem = ({ card }: {
   card: Card;
 }) => (
-  <div class="flex justify-center w-full">
-    <div class="bg-[#1b1b1be3] rounded-lg flex p-3 lg:p-6 w-full justify-between">
-      <div class="flex flex-col justify-center gap-5">
-        <span class="visual-brand w-[60px]"></span>
-        <p class="text-sm lg:text-xl text-white font-bold">
+  <div class="flex justify-center w-full group">
+    <div class="relative bg-[#0b0b0be3] p-3 rounded-lg flex  lg:p-6 w-full justify-center min-h-[200px] lg:min-h-[250px] min-[220px]">
+      {card.image && (
+        <div
+          class="absolute inset-0 rounded-lg h-full w-full p-3 bg-cover lg:bg-contain"
+          style={{
+            backgroundImage: `url(${card.image})`,
+            backgroundPosition: 'center',
+            backgroundRepeat: 'no-repeat',
+            opacity: 0.12,
+          }}
+        ></div>
+      )}
+      <div class="relative z-10 flex flex-col justify-end items-center gap-3 w-full">
+        <p class="text-base text-white font-bold text-center">
           {card.content}
         </p>
         {card.button?.label && (
           <a
-            class="w-fit mt-5 flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white transition duration-350 ease-in hover:ease-out"
+            class="w-fit text-sm  flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border border-white group-hover:bg-transparent group-hover:scale-105 text-white transition duration-350 ease-in hover:ease-out"
             href={card.button.link}
           >
             {card.button.label}
-
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="15"
@@ -47,15 +56,6 @@ const CardItem = ({ card }: {
           </a>
         )}
       </div>
-      {card.image && (
-        <div class="">
-          <img
-            class="w-32 h-28 lg:w-40 lg:h-36"
-            src={card.image}
-            alt="Card Image"
-          />
-        </div>
-      )}
     </div>
   </div>
 );
@@ -63,7 +63,7 @@ const CardService = ({ cards, viewMoreButton }: Props) => {
   return (
     <div class="bg-black">
       <div
-        class={`px-6 flex flex-col gap-6 container lg:grid lg:grid-cols-3 justify-center`}
+        class={`px-6 gap-2 lg:gap-4 container grid grid-cols-2 lg:grid-cols-3 justify-center`}
       >
         {cards.map((card, index) => <CardItem key={index} card={card} />)}
       </div>
@@ -79,3 +79,4 @@ const CardService = ({ cards, viewMoreButton }: Props) => {
   );
 };
 export default CardService;
+

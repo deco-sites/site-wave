@@ -2,7 +2,6 @@ import { invoke } from "../../runtime.ts";
 import { clx } from "../../sdk/clx.ts";
 import { useSignal } from "@preact/signals";
 import type { JSX } from "preact";
-import Button from "site/components/ui/Button.tsx";
 
 export interface Form {
   placeholder?: string;
@@ -28,6 +27,7 @@ function Newsletter(
 ) {
   const { tiled = false } = layout;
   const loading = useSignal(false);
+  const isFocused = useSignal(false);
 
   const handleSubmit: JSX.GenericEventHandler<HTMLFormElement> = async (e) => {
     e.preventDefault();
@@ -64,22 +64,27 @@ function Newsletter(
       </div>
       <div class="flex flex-col gap-4">
         <form
-          class="form-control"
+          class="form-control outline-none"
           onSubmit={handleSubmit}
         >
-          <div class="flex border border-[#404040] lg:fit rounded-[33px]">
+          <div class={clx(
+            "flex border rounded-[33px] overflow-hidden transition-colors lg:w-fit",
+            isFocused.value ? "border-[#0066E4]" : "border-[#404040]"
+          )}>
             <input
               name="email"
-              class="flex-auto md:flex-none bg-transparent input-bordered md:w-80 text-base-content pl-8"
+              class="flex-auto md:flex-none bg-transparent md:w-80 text-base-content pl-8 outline-none border-0 text-white"
               placeholder={content?.form?.placeholder || "Digite seu email"}
+              onFocus={() => isFocused.value = true}
+              onBlur={() => isFocused.value = false}
             />
-            <Button
+            <button
               type="submit"
-              class="btn disabled:loading bg-blue-500 rounded-[33px] text-white border-0"
-              disabled={loading}
+              class="btn disabled:loading bg-blue-500 text-white hover:bg-blue-600 px-6 rounded-full "
+              disabled={loading.value}
             >
               {content?.form?.buttonText || "Inscrever"}
-            </Button>
+            </button>
           </div>
         </form>
       </div>

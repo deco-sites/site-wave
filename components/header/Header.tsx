@@ -63,4 +63,13 @@ function Header({
 export const loader = (props: Props, _req: Request, ctx: AppContext) => {
   return { ...props, device: ctx.device };
 };
+
+export const LoadingFallback = (props: Props) => {
+  return (
+   <div style={{ height: "716px" }} class="flex justify-center items-center">
+     <span class="loading loading-spinner" />
+   </div>
+  );
+};
+
 export default Header;

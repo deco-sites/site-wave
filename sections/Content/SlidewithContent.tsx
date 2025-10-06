@@ -1,6 +1,7 @@
 import Partners from "site/components/ui/Partners.tsx";
 import Button from "site/components/ui/Button.tsx";
 import type { ImageWidget, RichText } from "apps/admin/widgets.ts";
+import { useSignal } from "@preact/signals";
 
 export interface Image {
   image?: ImageWidget;
@@ -25,19 +26,26 @@ export default function SlidewithContent(card: Props) {
     cta: { href = "#", label: ctaLabel = "Confira nossos Parceiros" },
   } = card;
 
+  const isHovered = useSignal(false);
+
   const images = hasImage.map((item) => ({
     image: item.image,
     altText: item.label || "",
   }));
 
+  const animationTime = isHovered.value ? "40s" : "20s";
+
   return (
     <div class="container">
       <div
-        class={`flex flex-col gap-10  ${
-          !card?.secondVariable && "lg:flex-row lg:gap-0"
-        } justify-evenly ${card?.secondVariable && "flex-col"}`}
+        class={`flex flex-col-reverse gap-10 group  ${!card?.secondVariable && "lg:flex-row lg:gap-0"
+          } justify-evenly ${card?.secondVariable && "flex-col"}`}
       >
-        <div class="relative flex items-center overflow-hidden w-full lg:w-3/5">
+        <div
+          class="relative flex items-center overflow-hidden w-full lg:w-3/5"
+          onMouseEnter={() => isHovered.value = true}
+          onMouseLeave={() => isHovered.value = false}
+        >
           <div class="absolute inset-0 bg-gradient-to-r from-black via-transparent to-transparent z-10">
           </div>
           <div class="relative z-0">
@@ -46,10 +54,10 @@ export default function SlidewithContent(card: Props) {
                 {/* Primeiro componente Partners - Direção normal */}
                 <div
                   class="animation-right"
-                  style={{ "--animation-time": "5000s" }}
+                  style={{ animationDuration: animationTime }}
                 >
                   <Partners
-                    imageClass="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
+                    imageClass="w-[115px] h-[115px] lg:w-[139px] lg:h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
                     rowImages={[{
                       colImages: Array(20).fill(null).map((_, i) =>
                         images[i % images.length]
@@ -59,13 +67,13 @@ export default function SlidewithContent(card: Props) {
                 </div>
 
                 <div
-                  class="animation-left mt-5"
+                  class="animation-left mt-3 lg:mt-5"
                   style={{
-                    "--animation-time": "5000s",
+                    animationDuration: animationTime,
                   }}
                 >
                   <Partners
-                    imageClass="w-[139px] h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
+                    imageClass="w-[115px] h-[115px] lg:w-[139px] lg:h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
                     rowImages={[{
                       colImages: Array(20).fill(null).map((_, i) =>
                         images[i % images.length]
@@ -82,18 +90,17 @@ export default function SlidewithContent(card: Props) {
 
         {/* Conteúdo textual à direita */}
         <div
-          class={`flex justify-center flex-col items-center lg:items-start ${
-            !card?.secondVariable && "lg:w-1/4"
-          } ${card?.secondVariable && "lg:w-full"}`}
+          class={`flex justify-center flex-col items-center lg:items-start ${!card?.secondVariable && "lg:w-1/4"
+            } ${card?.secondVariable && "lg:w-full"}`}
         >
-          <span class="visual-brand mb-8 w-[70px]"></span>
+          {/* <span class="visual-brand mb-8 w-[70px]"></span> */}
           <div
             class="text-white text-center lg:text-start text-2xl font-bold leading-9"
             dangerouslySetInnerHTML={{ __html: title }}
           />
           <a
             href={href}
-            class="mt-5 flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] group border-2 border-[#0066e4] hover:bg-transparent text-white transition duration-350 ease-in hover:ease-out "
+            class="mt-5 flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px]  border border-white group-hover:bg-transparent group-hover:scale-105 text-white transition duration-350 ease-in hover:ease-out "
           >
             {ctaLabel}
 

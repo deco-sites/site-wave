@@ -37,27 +37,25 @@ export default function BannerHero({
   return (
     <>
       <div
-        className="relative"
+        className="relative h-[380px] lg:h-[760px]"
         style={{
           backgroundImage: device === "desktop"
             ? `url(${desktop})`
             : `url(${mobile})`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "100%",
-          padding: "50px 0",
-          height: "729px",
         }}
       >
         {action && (
           <div className="content-wrapper container px-5 lg:px-0 mx-auto py-10 h-full justify-center">
-            <div class="flex flex-col gap-4 w-full max-w-[670px] h-full justify-center">
+            <div class="flex flex-col gap-4 w-full lg:max-w-[670px] h-full justify-center">
               <h1
                 className="text-[24px] leading-[24px] lg:leading-[50px] lg:text-[50px] font-bold text-white flex flex-col">
                 {action.title}
               </h1>
               <div
                 className="text-base text-white flex"
-               dangerouslySetInnerHTML={{ __html: action.content }} />
+                dangerouslySetInnerHTML={{ __html: action.content }} />
             </div>
           </div>
         )}
