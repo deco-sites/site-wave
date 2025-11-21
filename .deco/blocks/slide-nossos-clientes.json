@@ -54,5 +54,8 @@
   ],
   "subtitle": "Lorem ipsum lorem ipsum lorem ipsum Lorem ipsum lorem ipsum.",
   "isEmptyBrand": true,
-  "secondVariable": false
+  "secondVariable": false,
+  "mobileDirection": "flex-col",
+  "desktopDirection": "lg:flex-row",
+  "carouselWidth": "wide"
 }
