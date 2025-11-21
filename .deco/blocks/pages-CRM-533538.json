@@ -19,12 +19,12 @@
       },
       "bgImage": {
         "mobile": {
-          "src": "https://data.decoassets.com/site-wave/0fff13c6-360b-47a4-9e41-274e620c52e7/mob-crm.jpg",
+          "src": "https://assets.decocache.com/site-wave/d5304ee0-fc32-4d01-95e5-bc18e320d383/mob-crm.png",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://data.decoassets.com/site-wave/8cf89bc0-1945-41f5-904b-7035cde6cb1d/desk-crm.jpg",
+          "src": "https://assets.decocache.com/site-wave/b7f91374-2bf7-4928-8243-7357aecb1749/desk-crm.png",
           "height": 820
         }
       },
