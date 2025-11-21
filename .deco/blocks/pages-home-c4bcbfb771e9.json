@@ -3,82 +3,79 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Header/Header.tsx",
-        "cart": {
-          "freeShippingObjectiveQuantity": 600
+      "__resolveType": "site/sections/Header/Header.tsx",
+      "cart": {
+        "freeShippingObjectiveQuantity": 600
+      },
+      "logo": {
+        "alt": "Logo Wave Commerce",
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d855008d-bc13-4a97-bf7d-b34b917ceb74",
+        "width": 120,
+        "height": 20
+      },
+      "alerts": [
+        "Use this template to create your store at deco.cx"
+      ],
+      "contact": {
+        "link": "contato",
+        "label": "entre em sss"
+      },
+      "navItems": [
+        {
+          "url": "/quem-somos",
+          "name": "Sobre",
+          "children": []
         },
-        "logo": {
-          "alt": "Logo Wave Commerce",
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d855008d-bc13-4a97-bf7d-b34b917ceb74",
-          "width": 120,
-          "height": 20
+        {
+          "name": "Soluções",
+          "children": [],
+          "image": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
+          },
+          "url": "/servicos"
         },
-        "alerts": [
-          "Use this template to create your store at deco.cx"
-        ],
-        "contact": {
-          "link": "contato",
-          "label": "entre em sss"
+        {
+          "url": "/parceiros",
+          "name": "Parceiros",
+          "children": []
         },
-        "navItems": [
-          {
-            "url": "/quem-somos",
-            "name": "Sobre",
-            "children": []
-          },
-          {
-            "name": "Soluções",
-            "children": [],
-            "image": {
-              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
-            },
-            "url": "/servicos"
-          },
-          {
-            "url": "/parceiros",
-            "name": "Parceiros",
-            "children": []
-          },
-          {
-            "url": "/cases",
-            "name": "Cases",
-            "children": []
-          },
-          {
-            "url": "/vagas",
-            "name": "Vagas",
-            "children": []
-          },
-          {
-            "url": "/blog",
-            "name": "Blog",
-            "children": []
-          }
-        ],
-        "products": [],
-        "searchbar": {
-          "name": "q",
-          "action": "/s",
-          "loader": {
-            "data": {
-              "count": 4,
-              "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts"
-            },
-            "__resolveType": "resolved"
-          },
-          "placeholder": "What are you looking for?"
+        {
+          "url": "/cases",
+          "name": "Cases",
+          "children": []
         },
-        "suggestions": {
-          "products": [],
-          "searches": []
+        {
+          "url": "/vagas",
+          "name": "Vagas",
+          "children": []
         },
-        "logoPosition": "center",
-        "cta": {
-          "label": "Entre em Contato",
-          "link": "/contato"
+        {
+          "url": "/blog",
+          "name": "Blog",
+          "children": []
         }
+      ],
+      "products": [],
+      "searchbar": {
+        "name": "q",
+        "action": "/s",
+        "loader": {
+          "data": {
+            "count": 4,
+            "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts"
+          },
+          "__resolveType": "resolved"
+        },
+        "placeholder": "What are you looking for?"
+      },
+      "suggestions": {
+        "products": [],
+        "searches": []
+      },
+      "logoPosition": "center",
+      "cta": {
+        "label": "Entre em Contato",
+        "link": "/contato"
       }
     },
     {
