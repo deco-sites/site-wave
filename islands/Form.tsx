@@ -62,7 +62,7 @@ const CustomCheckbox = (
           )}
         </div>
       </div>
-      <span>{label}</span>
+      <span class="text-sm">{label}</span>
     </label>
   );
 };
@@ -84,7 +84,7 @@ const CustomSelect = ({
         value={value}
         onChange={onChange}
         required={required}
-        class={`outline-0 w-full p-2 rounded-full bg-transparent border ${
+        class={`outline-0 w-full px-4 py-2 rounded-full bg-transparent border ${
           hasError ? "border-red-500" : "border-[#0066e4]"
         } text-[#D9D9D9] appearance-none`}
       >
@@ -228,7 +228,8 @@ const FormularioComHtmx = () => {
   };
 
   return (
-    <div class="container mx-auto p-6 rounded-lg bg-[#0a0a0a]">
+    <div class="container mx-auto lg:p-6 rounded-lg bg-[#0a0a0a]">
+      <h2 class="text-white text-2xl mb-6 text-center lg:text-start">Solicite uma <span class="font-bold">proposta</span></h2>
       <form onSubmit={handleSubmit} class="space-y-4 flex flex-col gap-2">
         {/* Nome e Email */}
         <div class="flex items-center flex-col lg:flex-row gap-3 lg:items-end">

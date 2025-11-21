@@ -20,7 +20,7 @@ export default function Titles({
       <div class={`flex justify-center flex-col  container px-4 lg:px-0`}>
         {isLine && <span class="visual-brand w-[70px] mb-4"></span>}
         <div
-          class={`font-bold text-base lg:text-2xl`}
+          class={`font-bold text-base lg:text-2xl leading-8`}
           dangerouslySetInnerHTML={{ __html: contentTitle }}
         />
       </div>

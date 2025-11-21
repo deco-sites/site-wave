@@ -17,6 +17,12 @@ export interface Props {
   title?: RichText;
   cta: CTA;
   secondVariable: boolean;
+  /** @description Direção do flex no mobile */
+  mobileDirection?: "flex-col" | "flex-col-reverse";
+  /** @description Direção do flex no desktop */
+  desktopDirection?: "lg:flex-row" | "lg:flex-row-reverse" | "lg:flex-col" | "lg:flex-col-reverse";
+  /** @description Variação de largura do carrossel */
+  carouselWidth?: "wide" | "narrow";
 }
 
 export default function SlidewithContent(card: Props) {
@@ -24,6 +30,9 @@ export default function SlidewithContent(card: Props) {
     hasImage = [],
     title = "Conheça os nossos parceiros.",
     cta: { href = "#", label: ctaLabel = "Confira nossos Parceiros" },
+    mobileDirection = "flex-col-reverse",
+    desktopDirection = "lg:flex-row",
+    carouselWidth = "narrow",
   } = card;
 
   const isHovered = useSignal(false);
@@ -33,50 +42,57 @@ export default function SlidewithContent(card: Props) {
     altText: item.label || "",
   }));
 
-  const animationTime = isHovered.value ? "40s" : "20s";
+  const animationTime = isHovered.value ? "60s" : "30s";
+  const animationTimeReverse = isHovered.value ? "50s" : "25s";
+
+  const carouselWidthClass = carouselWidth === "wide" ? "lg:w-11/12" : "lg:w-3/5";
+  const contentWidthClass = carouselWidth === "wide" ? "lg:w-1/12" : "lg:w-2/5";
 
   return (
-    <div class="container">
+    <div class="container px-4 lg:px-8">
       <div
-        class={`flex flex-col-reverse gap-10 group  ${!card?.secondVariable && "lg:flex-row lg:gap-0"
-          } justify-evenly ${card?.secondVariable && "flex-col"}`}
+        class={`flex ${mobileDirection} gap-8 lg:gap-12 group ${!card?.secondVariable ? `${desktopDirection} lg:gap-16` : "lg:flex-col"} justify-evenly items-center`}
       >
         <div
-          class="relative flex items-center overflow-hidden w-full lg:w-3/5"
+          class={`relative flex items-center overflow-hidden w-full ${carouselWidthClass} rounded-2xl shadow-2xl`}
           onMouseEnter={() => isHovered.value = true}
           onMouseLeave={() => isHovered.value = false}
         >
-          <div class="absolute inset-0 bg-gradient-to-r from-black via-transparent to-transparent z-10">
-          </div>
-          <div class="relative z-0">
+          {/* Máscaras laterais */}
+          <div class="absolute left-0 top-0 bottom-0 w-20 lg:w-32 bg-gradient-to-r from-black to-transparent z-10 pointer-events-none"></div>
+          <div class="absolute right-0 top-0 bottom-0 w-20 lg:w-32 bg-gradient-to-l from-black to-transparent z-10 pointer-events-none"></div>
+          
+          <div class="relative z-0 w-full py-6">
             {images.length > 0 && (
               <div class="slide-rounded-bg">
-                {/* Primeiro componente Partners - Direção normal */}
+                {/* Primeiro carrossel - Direção direita */}
                 <div
                   class="animation-right"
                   style={{ animationDuration: animationTime }}
                 >
                   <Partners
-                    imageClass="w-[115px] h-[115px] lg:w-[139px] lg:h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
+                    imageClass="w-[100px] h-[100px] lg:w-[120px] lg:h-[120px] bg-gray-200 rounded-2xl object-contain p-3 hover:bg-gray-300 transition-all duration-300 filter grayscale"
                     rowImages={[{
-                      colImages: Array(20).fill(null).map((_, i) =>
+                      colImages: Array(30).fill(null).map((_, i) =>
                         images[i % images.length]
                       ),
                     }]}
                   />
                 </div>
 
+                {/* Espaçamento entre carrosséis */}
+                <div class="h-6 lg:h-8"></div>
+
+                {/* Segundo carrossel - Direção esquerda */}
                 <div
-                  class="animation-left mt-3 lg:mt-5"
-                  style={{
-                    animationDuration: animationTime,
-                  }}
+                  class="animation-left"
+                  style={{ animationDuration: animationTimeReverse }}
                 >
                   <Partners
-                    imageClass="w-[115px] h-[115px] lg:w-[139px] lg:h-[139px] bg-[#D9D9D9] rounded-[20px] object-contain px-3"
+                    imageClass="w-[100px] h-[100px] lg:w-[120px] lg:h-[120px] bg-gray-200 rounded-2xl object-contain p-3 hover:bg-gray-300 transition-all duration-300 filter grayscale"
                     rowImages={[{
-                      colImages: Array(20).fill(null).map((_, i) =>
-                        images[i % images.length]
+                      colImages: Array(30).fill(null).map((_, i) =>
+                        images[(i + Math.floor(images.length / 2)) % images.length]
                       ),
                     }]}
                   />
@@ -84,26 +100,25 @@ export default function SlidewithContent(card: Props) {
               </div>
             )}
           </div>
-          <div class="absolute inset-0 bg-gradient-to-l from-black via-transparent to-transparent z-10">
-          </div>
         </div>
 
-        {/* Conteúdo textual à direita */}
+        {/* Conteúdo textual melhorado */}
         <div
-          class={`flex justify-center flex-col items-center lg:items-start ${!card?.secondVariable && "lg:w-1/4"
-            } ${card?.secondVariable && "lg:w-full"}`}
+          class={`flex justify-center flex-col items-center lg:items-start ${
+            !card?.secondVariable ? contentWidthClass : "lg:w-full"
+          } space-y-6`}
         >
-          {/* <span class="visual-brand mb-8 w-[70px]"></span> */}
+          
           <div
-            class="text-white text-center lg:text-start text-2xl font-bold leading-9"
+            class="text-white text-center lg:text-left text-2xl lg:text-3xl font-bold leading-tight"
             dangerouslySetInnerHTML={{ __html: title }}
           />
+          
           <a
             href={href}
-            class="mt-5 flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px]  border border-white group-hover:bg-transparent group-hover:scale-105 text-white transition duration-350 ease-in hover:ease-out "
+            class="mt-5 flex py-[5px] px-3 gap-1 items-center bg-[#0066E4] rounded-[30px] border border-white group-hover:bg-transparent group-hover:scale-105 text-white transition duration-350 ease-in hover:ease-out"
           >
-            {ctaLabel}
-
+            <span>{ctaLabel}</span>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="15"

@@ -28,7 +28,7 @@ const GptwSection = ({ ...props }: Props) => {
             <span className={`visual-brand w-[70px] mb-5 lg:mb-7`} />
             <div dangerouslySetInnerHTML={{ __html: props?.title }} />
           </div>
-          <div class="flex items-center gap-5 lg:gap-12 flex-row lg:flex-row mb-5 lg:mb-0">
+          <div class="flex flex-col items-start  lg:items-center gap-5 lg:gap-12 lg:flex-row lg:flex-row mb-5 lg:mb-0">
             <img
               width={device === "mobile" ? 148 : 296}
               height={device === "mobile" ? 116 : 232}

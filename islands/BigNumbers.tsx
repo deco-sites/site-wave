@@ -63,15 +63,27 @@ const BigNumbers = ({ title, subtitle, targetNumber, iconPlus }: Props) => {
   }, [targetNumber, hasStarted]);
 
   return (
-    <div class="container" ref={containerRef}>
-      <div class="flex flex-col items-start lg:items-start text-left lg:min-w-[300px] min-w-[128px] gap-1">
-        <div class="font-bold text-2xl lg:text-5xl flex items-center  text-white">
-          {iconPlus && <span>{iconPlus}</span>}
-          <p>
-            {currentNumber} <span class="">{title}</span>
-          </p>
+    <div class="w-full" ref={containerRef}>
+      <div class="flex flex-col items-center text-center space-y-2 md:space-y-4">
+        {/* Número com ícone */}
+        <div class="flex items-center justify-center space-x-1 md:space-x-2">
+          {iconPlus && (
+            <span class="text-lg md:text-2xl lg:text-3xl text-white">
+              {iconPlus}
+            </span>
+          )}
+          <div class="flex items-baseline space-x-1">
+            <span class="text-3xl md:text-4xl lg:text-6xl font-bold text-white tracking-tight">
+              {currentNumber}
+            </span>
+            <span class="text-base md:text-lg lg:text-2xl font-semibold text-white uppercase">
+              {title}
+            </span>
+          </div>
         </div>
-        <p class="text-xs lg:text-base max-w-xs leading-relaxed text-white">
+        
+        {/* Subtítulo */}
+        <p class="text-sm md:text-base lg:text-lg text-gray-300 max-w-[200px] md:max-w-[250px] lg:max-w-[300px] leading-relaxed px-2">
           {subtitle}
         </p>
       </div>

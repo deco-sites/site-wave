@@ -86,6 +86,13 @@
               "isEmptyBrand": true,
               "secondVariable": true
             }
+          },
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "site/sections/Space.tsx",
+              "size": "medium"
+            }
           }
         ],
         "secondColumn": [

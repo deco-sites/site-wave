@@ -3,127 +3,133 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "site/sections/Header/Header.tsx",
-      "cart": {
-        "freeShippingObjectiveQuantity": 600
-      },
-      "logo": {
-        "alt": "Logo Wave Commerce",
-        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d855008d-bc13-4a97-bf7d-b34b917ceb74",
-        "width": 120,
-        "height": 20
-      },
-      "alerts": [
-        "Use this template to create your store at deco.cx"
-      ],
-      "contact": {
-        "link": "contato",
-        "label": "entre em sss"
-      },
-      "navItems": [
-        {
-          "url": "/quem-somos",
-          "name": "Sobre",
-          "children": []
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Header/Header.tsx",
+        "cart": {
+          "freeShippingObjectiveQuantity": 600
         },
-        {
-          "name": "Soluções",
-          "children": [],
-          "image": {
-            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
+        "logo": {
+          "alt": "Logo Wave Commerce",
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d855008d-bc13-4a97-bf7d-b34b917ceb74",
+          "width": 120,
+          "height": 20
+        },
+        "alerts": [
+          "Use this template to create your store at deco.cx"
+        ],
+        "contact": {
+          "link": "contato",
+          "label": "entre em sss"
+        },
+        "navItems": [
+          {
+            "url": "/quem-somos",
+            "name": "Sobre",
+            "children": []
           },
-          "url": "/servicos"
-        },
-        {
-          "url": "/parceiros",
-          "name": "Parceiros",
-          "children": []
-        },
-        {
-          "url": "/cases",
-          "name": "Cases",
-          "children": []
-        },
-        {
-          "url": "/vagas",
-          "name": "Vagas",
-          "children": []
-        },
-        {
-          "url": "/blog",
-          "name": "Blog",
-          "children": []
-        }
-      ],
-      "products": [],
-      "searchbar": {
-        "name": "q",
-        "action": "/s",
-        "loader": {
-          "data": {
-            "count": 4,
-            "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts"
+          {
+            "name": "Soluções",
+            "children": [],
+            "image": {
+              "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0e4f27ba-9eeb-4fa2-ad46-a67307e67142"
+            },
+            "url": "/servicos"
           },
-          "__resolveType": "resolved"
-        },
-        "placeholder": "What are you looking for?"
-      },
-      "suggestions": {
+          {
+            "url": "/parceiros",
+            "name": "Parceiros",
+            "children": []
+          },
+          {
+            "url": "/cases",
+            "name": "Cases",
+            "children": []
+          },
+          {
+            "url": "/vagas",
+            "name": "Vagas",
+            "children": []
+          },
+          {
+            "url": "/blog",
+            "name": "Blog",
+            "children": []
+          }
+        ],
         "products": [],
-        "searches": []
-      },
-      "logoPosition": "center",
-      "cta": {
-        "label": "Entre em Contato",
-        "link": "/contato"
+        "searchbar": {
+          "name": "q",
+          "action": "/s",
+          "loader": {
+            "data": {
+              "count": 4,
+              "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts"
+            },
+            "__resolveType": "resolved"
+          },
+          "placeholder": "What are you looking for?"
+        },
+        "suggestions": {
+          "products": [],
+          "searches": []
+        },
+        "logoPosition": "center",
+        "cta": {
+          "label": "Entre em Contato",
+          "link": "/contato"
+        }
       }
     },
     {
-      "__resolveType": "site/sections/Images/BannerHero.tsx",
-      "id": "/",
-      "lcp": false,
-      "image": {
-        "alt": "imagem hero",
-        "icon": [
-          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0900b447-e535-43c5-99cf-37531a5f8c06",
-          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/269b9cfc-c385-4129-9773-4df842bf94c9",
-          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b26a25bb-f5e9-43f6-b075-08e50e19d83e"
-        ],
-        "image": [
-          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f4bb669-d7c2-49a4-b23c-df42305a8087",
-          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f7fcfd4d-1233-4678-b563-beadb4f8509e",
-          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d09952e4-1ee6-4c5d-b3bd-3ac02db65bb3",
-          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1a478762-e3a6-4969-b8da-0cfaae4b0dfa"
-        ],
-        "action": {
-          "href": "/",
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Images/BannerHero.tsx",
+        "id": "/",
+        "lcp": false,
+        "image": {
+          "alt": "imagem hero",
           "icon": [
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/58502fad-6a97-43f5-9231-1a7f4f59fe5a",
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0900b447-e535-43c5-99cf-37531a5f8c06",
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/269b9cfc-c385-4129-9773-4df842bf94c9",
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b26a25bb-f5e9-43f6-b075-08e50e19d83e"
           ],
-          "title": "Agência de \nE-commerce: \nsomos a melhor agência de performance do Brasil",
-          "hasImage": [
-            {
-              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
-            },
-            {
-              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/72a43e7b-73fe-4ac1-8a0c-e8b6e3cc5cf0"
-            },
-            {
-              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
-            }
+          "image": [
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f4bb669-d7c2-49a4-b23c-df42305a8087",
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f7fcfd4d-1233-4678-b563-beadb4f8509e",
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d09952e4-1ee6-4c5d-b3bd-3ac02db65bb3",
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1a478762-e3a6-4969-b8da-0cfaae4b0dfa"
           ],
-          "content": "<p><span style=\"font-size: 10pt\">Premiados pela ABCOMM</span></p>"
-        },
-        "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
-        "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
-        "isEmptyBrand": false,
-        "type": "video",
-        "desktopVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
-        "mobileVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
-        "showText": false,
-        "showSoundControls": true
+          "action": {
+            "href": "/",
+            "icon": [
+              "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/58502fad-6a97-43f5-9231-1a7f4f59fe5a",
+              "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
+              "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
+            ],
+            "title": "Agência de \nE-commerce: \nsomos a melhor agência de performance do Brasil",
+            "hasImage": [
+              {
+                "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
+              },
+              {
+                "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/72a43e7b-73fe-4ac1-8a0c-e8b6e3cc5cf0"
+              },
+              {
+                "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
+              }
+            ],
+            "content": "<p><span style=\"font-size: 10pt\">Premiados pela ABCOMM</span></p>"
+          },
+          "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
+          "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
+          "isEmptyBrand": false,
+          "type": "video",
+          "desktopVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
+          "mobileVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
+          "showText": false,
+          "showSoundControls": true
+        }
       }
     },
     {
