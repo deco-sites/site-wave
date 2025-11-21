@@ -15,10 +15,16 @@ import Image from "apps/website/components/Image.tsx";
  * @titleBy alt
  */
 export interface Banner {
+  /** @description Content type */
+  type?: "image" | "video";
   /** @description desktop otimized image */
   desktop: ImageWidget;
   /** @description mobile otimized image */
   mobile: ImageWidget;
+  /** @description Video URL for desktop */
+  desktopVideo?: string;
+  /** @description Video URL for mobile */
+  mobileVideo?: string;
   /** @description Image's alt text */
   alt: string;
   action?: {
@@ -108,6 +114,9 @@ function BannerItem(
     alt,
     mobile,
     desktop,
+    desktopVideo,
+    mobileVideo,
+    type = "image",
     action,
   } = image;
 
@@ -134,28 +143,42 @@ function BannerItem(
           </Button>
         </div>
       )}
-      <Picture preload={lcp}>
-        <Source
-          media="(max-width: 767px)"
-          fetchPriority={lcp ? "high" : "auto"}
-          src={mobile}
-          width={430}
-          height={590}
-        />
-        <Source
-          media="(min-width: 768px)"
-          fetchPriority={lcp ? "high" : "auto"}
-          src={desktop}
-          width={1440}
-          height={600}
-        />
-        <img
+      
+      {type === "video" ? (
+        <video
           class="object-cover w-full h-full"
-          loading={lcp ? "eager" : "lazy"}
-          src={desktop}
-          alt={alt}
-        />
-      </Picture>
+          autoplay
+          muted
+          loop
+          playsInline
+        >
+          <source src={desktopVideo} media="(min-width: 768px)" />
+          <source src={mobileVideo} media="(max-width: 767px)" />
+        </video>
+      ) : (
+        <Picture preload={lcp}>
+          <Source
+            media="(max-width: 767px)"
+            fetchPriority={lcp ? "high" : "auto"}
+            src={mobile}
+            width={430}
+            height={590}
+          />
+          <Source
+            media="(min-width: 768px)"
+            fetchPriority={lcp ? "high" : "auto"}
+            src={desktop}
+            width={1440}
+            height={600}
+          />
+          <img
+            class="object-cover w-full h-full"
+            loading={lcp ? "eager" : "lazy"}
+            src={desktop}
+            alt={alt}
+          />
+        </Picture>
+      )}
     </a>
   );
 }

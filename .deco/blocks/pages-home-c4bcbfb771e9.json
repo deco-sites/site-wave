@@ -118,7 +118,12 @@
         },
         "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
         "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
-        "isEmptyBrand": true
+        "isEmptyBrand": false,
+        "type": "video",
+        "desktopVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
+        "mobileVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
+        "showText": false,
+        "showSoundControls": true
       }
     },
     {
