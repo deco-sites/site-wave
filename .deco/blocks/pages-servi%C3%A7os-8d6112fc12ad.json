@@ -117,7 +117,8 @@
           "description": "<ul><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li><li>SEO on page de conteúdo.</li></ul>",
           "__resolveType": "site/sections/Services/Card2.tsx"
         }
-      ]
+      ],
+      "cta": {}
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
