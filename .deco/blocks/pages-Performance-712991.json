@@ -33,11 +33,11 @@
         "icon": "DigitalPerformance",
         "text": "Branding & Performance "
       },
-      "subtitle": "Na Wave Commerce, acreditamos que marca forte e performance eficiente caminham juntas para gerar resultados reais no digital. Nosso trabalho de Branding e Performance conecta estratégia, criatividade e dados para que o seu e-commerce seja não apenas visto, mas lembrado e escolhido.",
       "labelBottom": {
         "icon": "ChevronDown",
         "text": "Saiba mais sobre Performance Digital"
-      }
+      },
+      "subtitle": "Na Wave Commerce, acreditamos que marca forte e performance eficiente caminham juntas para gerar resultados reais no digital. Nosso trabalho de Branding e Performance conecta estratégia, criatividade e dados para que o seu e-commerce seja não apenas visto, mas lembrado e escolhido."
     },
     {
       "__resolveType": "site/sections/Services/Cards.tsx",
@@ -49,12 +49,12 @@
         },
         {
           "title": "<h3><strong><span style=\"color: rgb(0, 92, 205); font-size: 22pt\">Branding</span></strong></h3>",
-          "description": "<p><span style=\"font-size: 15pt\">Construímos e fortalecemos a identidade da sua marca no ambiente digital, garantindo </span><strong><span style=\"font-size: 15pt\">consistência, posicionamento diferenciado e conexão</span></strong><span style=\"font-size: 15pt\"> emocional com o seu público.</span></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 16pt\">Construímos e fortalecemos a identidade da sua marca no ambiente digital, garantindo consistência, posicionamento diferenciado e conexão emocional com o seu público.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         },
         {
           "title": "<h3><strong><span style=\"color: rgb(0, 92, 205); font-size: 22pt\">Performance</span></strong></h3>",
-          "description": "<p><span style=\"font-size: 15pt\">Desenvolvemos estratégias orientadas a dados para </span><strong><span style=\"font-size: 15pt\">impulsionar vendas, tráfego qualificado e retenção de clientes</span></strong><span style=\"font-size: 15pt\">, sempre com foco no ROI.</span></p>",
+          "description": "<p><span style=\"color: #fdfcfc; font-size: 16pt\">Desenvolvemos estratégias orientadas a dados para impulsionar vendas, tráfego qualificado e retenção de clientes, sempre com foco no ROI.</span></p>",
           "__resolveType": "site/sections/Services/Card4.tsx"
         }
       ],
@@ -67,7 +67,7 @@
       "sections": [
         {
           "title": "<p></p>",
-          "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">A Wave Commerce é </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">parceira oficial dos principais canais de mídia digital e plataformas de e-commerce</span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">. Atuamos de forma integrada em: Google Ads, Meta Ads (Facebook &amp; Instagram), TikTok Ads, LinkedIn Ads, YouTube Ads, Pinterest, Afiliados, Programáticas e Retail Media.</span></p>",
+          "description": "<p><span style=\"color: #ffffff; font-size: 17pt\">A Wave Commerce é parceira oficial dos principais canais de mídia digital e plataformas de e-commerce. Atuamos de forma integrada em: Google Ads, Meta Ads (Facebook &amp; Instagram), TikTok Ads, LinkedIn Ads, YouTube Ads, Pinterest, Afiliados, Programáticas e Retail Media.</span></p>",
           "__resolveType": "site/sections/Services/Card1.tsx"
         }
       ],
