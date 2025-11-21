@@ -57,5 +57,5 @@
   "secondVariable": false,
   "mobileDirection": "flex-col",
   "desktopDirection": "lg:flex-row",
-  "carouselWidth": "wide"
+  "carouselWidth": "narrow"
 }

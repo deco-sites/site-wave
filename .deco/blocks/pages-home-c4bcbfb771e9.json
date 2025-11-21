@@ -151,28 +151,25 @@
       }
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Content/BigNumbers.tsx",
-        "NewNumber": [
-          {
-            "title": "bilhões",
-            "subtitle": "de faturamento dos nossos clientes",
-            "targetNumber": 60
-          },
-          {
-            "subtitle": " atendidos",
-            "targetNumber": 10,
-            "title": "países"
-          },
-          {
-            "subtitle": "entregando excelência e resultado",
-            "targetNumber": 7,
-            "title": "anos ",
-            "iconPlus": "+"
-          }
-        ]
-      }
+      "__resolveType": "site/sections/Content/BigNumbers.tsx",
+      "NewNumber": [
+        {
+          "title": "bilhões",
+          "subtitle": "de faturamento dos nossos clientes",
+          "targetNumber": 60
+        },
+        {
+          "subtitle": " atendidos",
+          "targetNumber": 10,
+          "title": "países"
+        },
+        {
+          "subtitle": "entregando excelência e resultado",
+          "targetNumber": 7,
+          "title": "anos ",
+          "iconPlus": "+"
+        }
+      ]
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
