@@ -14,9 +14,9 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "labelBottom": {
           "titulo": "soluções",
-          "text": "Front-end, Migração de Plataforma"
+          "text": "UX/UI | DESIGN | SUPORTE E EVOLUÇÃO"
         },
-        "subtitle": "VTEX IO e soluções da Wave Commerce elevaram o patamar do ecommerce.",
+        "subtitle": "Design estratégico UX/UI e performance elevam o patamar da plataforma de entretenimento da Claro em múltiplos dispositivos",
         "bgImage": {
           "desktop": {
             "src": "https://assets.decocache.com/site-wave/5897850d-3b88-4d04-a25c-ffb044acc07f/desk-claro-case.jpg",
@@ -27,7 +27,7 @@
             "height": 500
           }
         },
-        "title": "Grêmio"
+        "title": "Claro"
       }
     },
     {
@@ -42,7 +42,14 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Fundado em 1903, o Grêmio Foot-Ball Porto Alegrense é um dos clubes de futebol mais tradicionais e vitoriosos do Brasil, reconhecido por sua história, conquistas e pela paixão de sua imensa torcida. Além do desempenho esportivo, o clube se destaca pela presença em diversos setores, incluindo o e-commerce, onde busca oferecer aos torcedores experiências inovadoras e únicas ao adquirir produtos oficiais.</span></p></td></tr></tbody></table><table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr></tbody></table>"
+        "description": "<table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Claro é </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">uma das maiores companhias de telecomunicações do Brasil</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">, com presença consolidada no mercado de telefonia, internet e serviços digitais. A empresa buscava evoluir sua estratégia digital com o desenvolvimento de uma plataforma de entretenimento moderna e intuitiva.</span></p></td></tr></tbody></table><table style=\"minWidth: 25px\"><colgroup><col></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p></p></td></tr></tbody></table>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -67,29 +74,20 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desafio</span></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">O Grêmio Foot-Ball Porto Alegrense, um dos clubes de futebol mais tradicionais do Brasil, enfrentava desafios significativos com sua plataforma de e-commerce própria. A solução interna apresentava limitações em diversos aspectos fundamentais para o crescimento e a eficiência do e-commerce:</span></p><p></p>"
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">O Desafio</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Claro precisava </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">criar uma experiência de usuário diferenciada para sua plataforma de entretenimento</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">, que funcionasse perfeitamente em múltiplos dispositivos (desktop, mobile e aplicativo). O projeto exigia não apenas design visual impactante, mas também otimização completa da jornada do consumidor, com foco em conversão e usabilidade.</span></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Cards.tsx",
+        "title": "<h2 style=\"text-align: center\"><span style=\"color: #0166e4; font-size: 25pt\">Por que a Wave Commerce?</span></h2>",
         "sections": [
           {
-            "title": "<p>Tecnologia:</p>",
-            "description": "<ul><li data-pm-slice=\"1 1 []\"><strong>Escalabilidade:</strong> Dificuldade em atender picos de demanda durante lançamentos ou promoções.</li><li><strong>Integrações:</strong> Limitações na integração com ERPs, gateways de pagamento e sistemas de gestão.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          },
-          {
-            "title": "<p><span id=\"_mce_caret\" data-mce-bogus=\"1\" data-mce-type=\"format-caret\">Design e Experiência do Usuário:﻿</span></p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Layout antiquado e pesado:</strong> Design visualmente carregado e pouco atrativo, especialmente em dispositivos móveis.</li><li dir=\"ltr\"><strong>Falta de hierarquia e CTAs:</strong> Vitrines desorganizadas, sem botões chamativos ou direcionamento claro para navegação.</li><li><strong id=\"docs-internal-guid-c3d709a4-7fff-1d5e-bda2-10855b20b409\">Inconsistência visual: </strong>Tipografias variadas, tamanhos de fonte diferentes e ausência de uma identidade coesa.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          },
-          {
-            "title": "<p dir=\"ltr\">Navegação e Funcionalidades:<strong></strong></p>",
-            "description": "<ul><li><strong>Árvore de categorias desatualizada:</strong> Dificultava a localização de produtos.</li><li dir=\"ltr\"><strong>Ausência de filtros:</strong> Tornava a busca por itens específica demorada e pouco eficiente.</li><li dir=\"ltr\"><strong>Mobile inadequado:</strong> Navegação confusa e falta de botões intuitivos para usuários de dispositivos móveis.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
+            "title": "<p><span style=\"font-size: 15pt\">A Claro escolheu a Wave Commerce — a melhor agência de performance do Brasil — por sua especialização em:</span></p>",
+            "description": "<ul><li><p><span style=\"font-size: 15pt\">- Criação de experiências digitais estratégicas com foco em UX/UI</span></p></li><li><p><span style=\"font-size: 15pt\">- Mapeamento e otimização de toda a jornada do consumidor</span></p></li><li><p><span style=\"font-size: 15pt\">- Design que impacta diretamente no comportamento de compra</span></p></li><li><p><span style=\"font-size: 15pt\">- Performance e conversão como pilares centrais</span></p></li></ul>",
+            "__resolveType": "site/sections/Services/Card1.tsx"
           }
         ],
         "cta": {}
@@ -99,81 +97,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desktop Antigo</span></p>",
-        "description": "<p></p><p></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/457uL0tK1h0?si=oVMmP5GV1cFOZfzx"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Mobile Antigo</span></p>",
-        "description": "<p></p><p></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/1cms-j2pfM0?si=HGe2uk4RuZpmP51U"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: #0066e4; font-size: 25pt\">Solução</span></p>",
-        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A adoção do VTEX IO permitiu que o Grêmio revolucionasse sua presença digital com soluções avançadas e personalizadas. A transição incluiu:</span></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Cards.tsx",
-        "sections": [
-          {
-            "title": "<p>&nbsp;A transição incluiu:</p>",
-            "description": "<ul><li><strong><strong id=\"docs-internal-guid-4576d31f-7fff-c525-8e30-e680640c00ed\">Migração para o VTEX IO: </strong></strong>A nova plataforma proporcionou flexibilidade, escalabilidade e uma estrutura modular para atender às demandas específicas do clube.</li><li><strong id=\"docs-internal-guid-5a2f7424-7fff-43b9-58ed-7ebba98aee15\">Acesso ao ecossistema de parceiros VTEX: </strong>Integração com os principais players do mercado, como sistemas de CRM, ERP e meios de pagamento, garantindo uma experiência de compra sem fricções.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          },
-          {
-            "title": "<p>Design e Identidade Visual Renovados:</p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Layout moderno e leve:</strong> A nova identidade visual trouxe um design mais limpo e atrativo, com maior destaque ao logotipo e às cores do clube.</li><li dir=\"ltr\"><strong>Hierarquia clara de informações:</strong> As vitrines foram reorganizadas para destacar seções estratégicas como “Olímpico 70 anos” e “Confira as Novidades”.</li><li dir=\"ltr\"><strong><strong id=\"docs-internal-guid-4576d31f-7fff-c525-8e30-e680640c00ed\"><strong id=\"docs-internal-guid-2be64fe5-7fff-9f1c-a52c-44b71488a95b\">CTAs visíveis e intuitivos: </strong></strong></strong>Botões chamativos direcionam os torcedores, facilitando a jornada de compra.</li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          },
-          {
-            "title": "<p>Melhorias na Navegação e Funcionalidades:</p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Nova árvore de categorias:</strong> Criada para simplificar a navegação e tornar a experiência mais fluida.</li><li dir=\"ltr\"><strong>Filtros e ordenação: </strong>Adicionados às páginas de categoria, melhorando a busca e permitindo maior personalização para o usuário.</li><li dir=\"ltr\"><strong>Menu fixo no mobile: </strong>Oferece fácil acesso às principais seções do site, mesmo em telas menores.</li></ul><p><strong><strong id=\"docs-internal-guid-0408ea12-7fff-c6b2-d809-18dd12d46364\"></strong></strong></p>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          },
-          {
-            "title": "<p dir=\"ltr\">Personalização de Produtos e Ofertas:</p><p><br data-mce-bogus=\"1\"></p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Página de produto exclusiva:</strong> Apresenta preços diferenciados para sócios e funcionalidade de wishlist.</li><li dir=\"ltr\"><strong>Preço para sócios na vitrine:</strong> Estratégia que incentiva a adesão e destaca os benefícios para os torcedores fiéis.</li><li dir=\"ltr\"><strong id=\"docs-internal-guid-e7907027-7fff-a266-7376-272bbdb700d0\">Barra de condições acima do banner principal: </strong>Seguindo melhores práticas de UX, exibe informações essenciais de forma clara e acessível.</li></ul><p><strong><strong id=\"docs-internal-guid-0408ea12-7fff-c6b2-d809-18dd12d46364\"></strong></strong></p>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          }
-        ],
-        "cta": {}
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">A Solução Entregue</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A Wave Commerce foi contratada para desenvolver o design de interface (UI) e experiência do usuário (UX) da plataforma de entretenimento da Claro, com suporte contínuo e evolução constante do projeto.</span></p>"
       }
     },
     {
@@ -181,22 +106,14 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">A parceria com a Wave Commerce foi essencial para o sucesso do projeto. O time de especialistas trabalhou em sinergia com o Grêmio para criar soluções customizadas, garantindo que cada aspecto do e-commerce estivesse alinhado às necessidades e expectativas dos torcedores.</span></p><p><br></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">O trabalho envolve:</span></p><ul><li><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">- </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Design responsivo</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> otimizado para desktop, mobile e aplicativo</span></p></li><li><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">- </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Arquitetura de informação</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> intuitiva para facilitar navegação</span></p></li><li><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">- </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Otimização de layouts</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> para melhorar comportamento e padrões de consumo</span></p></li><li><p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">- </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Funcionalidade prática</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> em cada touchpoint da jornada</span></p></li></ul>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Desktop Novo</span></p>",
-        "description": "<p></p><p></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/frUh1w-GFEk?si=XZz-1TpNxf5c2Hs3"
+        "__resolveType": "site/sections/Space.tsx",
+        "size": "small"
       }
     },
     {
@@ -210,58 +127,23 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Mobile Novo</span></p>",
-        "description": "<p></p><p></p>"
+        "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Resultados e Feedback</span></p>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Quando a Wave apresentou a primeira interface e o site à Claro, o </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">feedback foi excepcional:</span></strong></p><p></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/31FECXNi4Cs?si=Ru3zUMUu5MnfHNtV"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Card4.tsx",
-        "title": "<p><span style=\"color: #0064df; font-size: 25pt\">Resultados</span></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Com a implementação do VTEX IO, o Grêmio alcançou resultados expressivos em um curto espaço de tempo:</span></p>"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Services/Cards.tsx",
-        "sections": [
-          {
-            "title": "<p>Após o lançamento:</p>",
-            "description": "<ul><li dir=\"ltr\"><strong>Fidelização dos torcedores:</strong> A integração omnichannel e as ofertas exclusivas fortaleceram a relação entre o clube e sua base de fãs.</li><li dir=\"ltr\"><strong>Integração eficiente: </strong>A gestão centralizada do estoque e das operações aumentou a produtividade e eliminou erros operacionais.</li><li dir=\"ltr\"><strong>Melhora na navegação:</strong> A experiência de compra tornou-se mais intuitiva e eficiente, reduzindo a fricção do usuário.</li><li dir=\"ltr\"><strong>Integração eficiente: </strong>A gestão centralizada de estoque e operações aumentou a produtividade e eliminou erros.<br data-mce-bogus=\"1\"></li></ul>",
-            "__resolveType": "site/sections/Services/Card3.tsx"
-          }
-        ],
-        "cta": {}
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Institutionals/Video.tsx",
-        "video": "https://www.youtube.com/embed/CZHKnyPIgSE?si=y6HKq5pHE1p4Mhwg"
-      }
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "small"
+        "__resolveType": "site/sections/Institutionals/Depoiment.tsx",
+        "depoiments": {
+          "text": "<p style=\"text-align: center\"><strong><span style=\"color: rgb(113, 113, 113); font-size: 15pt\">A Wave superou muito as expectativas na entrega. </span><span style=\"color: #ffffff; font-size: 15pt\">Ficou muito melhor do que esperávamos</span><span style=\"color: rgb(113, 113, 113); font-size: 15pt\"> em navegação, layout, funcionalidade e praticidade em todos os dispositivos.</span></strong></p>",
+          "author": "Dalton",
+          "office": "Equipe do Cliente"
+        },
+        "icon": {
+          "width": 66,
+          "height": 44
+        }
       }
     },
     {
@@ -269,14 +151,22 @@
       "section": {
         "__resolveType": "site/sections/Services/Card4.tsx",
         "title": "<p></p>",
-        "description": "<p><span style=\"color: #ffffff; font-size: 15pt\">Os KPIs definidos no início do projeto foram superados, consolidando o Grêmio como referência no mercado de e-commerce esportivo. A transição não apenas modernizou o e-commerce do clube, mas também fortaleceu a conexão emocional com os torcedores, oferecendo uma experiência de compra digna da tradição e da grandeza do Grêmio.</span></p>"
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">A </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">qualidade do trabalho impressionou não apenas pelos aspectos visuais, mas também pela atenção aos detalhes funcionais</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\"> que realmente impactam a experiência do usuário.</span></p><p></p>"
       }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Space.tsx",
-        "size": "medium"
+        "size": "small"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card4.tsx",
+        "title": "<h2><span style=\"color: #0166e4; font-size: 25pt\">Impacto Estratégico</span></h2>",
+        "description": "<p><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">Este projeto marca a entrada da Claro em uma </span><strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">nova era de experiência digital, com uma plataforma que reflete os mais altos padrões da indústria</span></strong><span style=\"color: rgb(255, 255, 255); font-size: 15pt\">. O trabalho contínuo entre Wave Commerce e Claro garante que a plataforma evolua constantemente, acompanhando as necessidades do mercado e dos usuários!</span></p><p></p>"
       }
     },
     {
@@ -284,7 +174,7 @@
       "section": {
         "__resolveType": "site/sections/Services/Card1.tsx",
         "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Junte-se à Onda</span></strong></h2>",
-        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce é uma agência especializada em </span><a target=\"_blank\" rel=\"noopener\" href=\"../../../serviços/performance\"><u><span style=\"font-size: 15pt\">performance para E-commerce</span></u></a><span style=\"font-size: 15pt\">, oferecendo soluções completas que vão desde o </span><strong><span style=\"font-size: 15pt\">desenvolvimento de sites até tudo que envolve o marketing digital. </span></strong><span style=\"font-size: 15pt\">É necessário o conhecimento estratégico para implementar e transformar o seu negócio em um E-commerce de sucesso. Nossos profissionais estão focados em&nbsp;</span><strong><span style=\"font-size: 15pt\">gerar resultados, aumentar o faturamento e visibilidade da sua marca.</span></strong><span style=\"font-size: 15pt\"><br><br>Junte-se à onda!</span></p>"
+        "description": "<p><span style=\"font-size: 15pt\">Wave Commerce: Transformando visão em resultados através de design estratégico e performance. </span><strong><span style=\"font-size: 15pt\">Solicite uma proposta e leve seu negócio ao próximo nível</span></strong><span style=\"font-size: 15pt\">!</span></p>"
       }
     },
     {

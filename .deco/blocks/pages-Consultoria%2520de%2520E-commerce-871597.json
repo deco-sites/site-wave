@@ -1,0 +1,132 @@
+{
+  "name": "Consultoria de E-commerce",
+  "path": "/consultoria-de-e-commerce",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Seo/Seo.tsx"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header-fixo"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Hero.tsx",
+      "cta": {
+        "href": "#",
+        "text": "<p>Entre em <strong>contato</strong></p>"
+      },
+      "title": "Decisões certas, resultados previsíveis",
+      "bgImage": {
+        "mobile": {
+          "src": "https://assets.decocache.com/site-wave/c1af1892-36ca-48cf-a911-bed4a2ccbe1a/mob-performance.jpg",
+          "height": 570
+        },
+        "desktop": {
+          "alt": "Tecnologia Wave",
+          "src": "https://assets.decocache.com/site-wave/32987847-dfce-45b8-aa31-b4ad7d86cf06/desk-performance.jpg",
+          "height": 820
+        }
+      },
+      "labelTop": {
+        "icon": "DigitalPerformance",
+        "text": "Consultoria de E-commerce"
+      },
+      "subtitle": "Trabalhe com a Melhor Agência de Performance do Brasil para estruturar, acelerar e escalar seu e-commerce com inteligência estratégica!",
+      "labelBottom": {
+        "icon": "ChevronDown",
+        "text": "Saiba mais sobre Consultoria de E-commerce"
+      }
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"font-size: 15pt\">No e-commerce, cada decisão impacta diretamente sua margem, operação e competitividade. Escolher a plataforma errada, definir preços sem estratégia ou estruturar uma logística ineficiente pode custar caro, em dinheiro, tempo e oportunidades perdidas. Na Wave Commerce, oferecemos </span><strong><span style=\"font-size: 15pt\">Consultoria de E-commerce completa para apoiar sua operação em todos os pilares</span></strong><span style=\"font-size: 15pt\"> críticos: desde a formulação de preço de venda até a escolha de plataforma, marketplace, centro de distribuição, regime tributário e capacitação de equipes.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"font-size: 15pt\">Nossa atuação combina diagnóstico profundo, benchmarking de mercado, análise de viabilidade e planejamento estratégico, tudo com </span><strong><span style=\"font-size: 15pt\">foco em aumentar a rentabilidade, reduzir custos operacionais e preparar seu negócio para crescer de forma sustentável</span></strong><span style=\"font-size: 15pt\">.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<h2><span style=\"color: #0166e4; font-size: 25pt\">Estratégia que Transforma Operação em Vantagem Competitiva</span></h2>",
+          "description": "<p><span style=\"font-size: 15pt\">Eleita </span><strong><span style=\"font-size: 15pt\">Melhor Agência de Performance do Brasil por dois anos consecutivos pela ABComm</span></strong><span style=\"font-size: 15pt\">, a Wave Commerce une visão de negócio e expertise técnica para entregar consultoria que vai além do diagnóstico: executamos, acompanhamos e ajustamos junto com você. Não oferecemos apenas relatórios: entregamos planos de ação práticos e executáveis, com impacto mensurável em conversão, ticket médio, margem de contribuição e eficiência operacional.</span></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p></p>",
+          "description": "<p><span style=\"font-size: 15pt\">Trabalhamos com </span><strong><span style=\"font-size: 15pt\">squads multidisciplinares </span></strong><span style=\"font-size: 15pt\">(especialistas em precificação, logística, tecnologia, marketplace, tributação e treinamento) para garantir que cada recomendação seja viável, rentável e alinhada à realidade do seu negócio.</span></p><p></p>",
+          "__resolveType": "site/sections/Services/Card4.tsx"
+        },
+        {
+          "title": "<p>Na Wave você tem:</p>",
+          "description": "<ul><li><p><strong><span style=\"font-size: 15pt\">Formulação estratégica de preço de venda</span></strong><span style=\"font-size: 15pt\">: análise de custos, margem de contribuição, posicionamento competitivo e elasticidade de demanda;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Planejamento logístico</span></strong><span style=\"font-size: 15pt\">: escolha de CD (Centro de Distribuição), estratégias de fulfillment, análise de parceiros logísticos e otimização de frete;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Estruturação tributária</span></strong><span style=\"font-size: 15pt\">: escolha de regime fiscal (Simples, Lucro Presumido, Lucro Real), análise de enquadramento e oportunidades de economia tributária;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Seleção de plataforma de e-commerce</span></strong><span style=\"font-size: 15pt\">: comparativo técnico e comercial entre VTEX, Shopify, Salesforce, Uappi, Nuvemshop, Linx, DECO e outras soluções, considerando custo-benefício, escalabilidade e integrações;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Estratégia de marketplace</span></strong><span style=\"font-size: 15pt\">: escolha dos canais certos (Mercado Livre, Amazon, Magalu, Americanas), análise de viabilidade, precificação por canal e gestão de sortimento;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Escolha e gestão de ERP</span></strong><span style=\"font-size: 15pt\">: avaliação de sistemas de gestão adequados ao porte e complexidade da operação;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Treinamento e capacitação de equipes</span></strong><span style=\"font-size: 15pt\">: programas sob medida para times de atendimento, operações, marketing e tecnologia, com foco em melhores práticas do setor;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Diagnóstico completo de operação</span></strong><span style=\"font-size: 15pt\">: auditoria de processos, identificação de gargalos e oportunidades de melhoria;</span></p></li><li><p><strong><span style=\"font-size: 15pt\">Roadmap estratégico</span></strong><span style=\"font-size: 15pt\">: plano de ação com priorização baseada em impacto e viabilidade.</span></p><p></p></li></ul>",
+          "__resolveType": "site/sections/Services/Card3.tsx"
+        }
+      ],
+      "cta": {}
+    },
+    {
+      "__resolveType": "site/sections/Services/Cards.tsx",
+      "sections": [
+        {
+          "title": "<p><strong><span style=\"color: rgb(252, 252, 252); font-size: 20pt\">Experiência que gera resultados</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Com anos de atuação em grandes operações de e-commerce, nossa equipe já estruturou desde lojas em fase de lançamento até empresas em processo de expansão multicanal. </span><strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">Transformamos conhecimento de mercado em decisões que aumentam a rentabilidade e reduzem riscos</span></strong><span style=\"color: rgb(250, 250, 250); font-size: 15pt\">.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Visão 360º do negócio</span></strong></p>",
+          "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Não olhamos apenas para tecnologia ou marketing: </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">analisamos todo o ecossistema do e-commerce</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\"> — da precificação à entrega, do tributário ao atendimento — para garantir que todas as engrenagens funcionem em sinergia.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Metodologia baseada em dados</span></strong></p>",
+          "description": "<p><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Nossas recomendações não são baseadas em achismos</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">: utilizamos benchmarks de mercado, análise de concorrência, simulações financeiras e cases reais para fundamentar cada decisão estratégica.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        },
+        {
+          "title": "<p><strong><span style=\"color: rgb(255, 255, 255); font-size: 20pt\">Execução prática</span></strong></p><p></p>",
+          "description": "<p><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">Não entregamos apenas diagnósticos: acompanhamos a implementação, ajustamos a rota conforme necessário e garantimos que as mudanças </span><strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">gerem os resultados esperados</span></strong><span style=\"color: rgb(252, 252, 252); font-size: 15pt\">.</span></p>",
+          "__resolveType": "site/sections/Services/Card1.tsx"
+        }
+      ],
+      "cta": {},
+      "title": "<p><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Por que a Wave é a melhor opção para Consultoria de E-commerce?</span></p>"
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Nossa expertise e parcerias</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">Contamos com profissionais certificados e experiência prática com as principais plataformas e ferramentas do mercado: </span><strong><span style=\"font-size: 15pt\">VTEX, Shopify, Linx, DECO, Nuvemshop, Salesforce</span></strong><span style=\"font-size: 15pt\">, além de integrações com ERPs, marketplaces, meios de pagamento e sistemas logísticos. Também mantemos proximidade com principais players de tecnologia, marketplace e logística, o que nos permite negociar melhores condições e acelerar implementações quando necessário.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Um time preparado para o seu desafio</span></strong></h2>",
+        "description": "<p><span style=\"font-size: 15pt\">A Wave Commerce reúne especialistas em e-commerce, finanças, logística, tecnologia e operações, preparados para atuar desde projetos pontuais até acompanhamento estratégico contínuo. Eleita a melhor agência de performance do Brasil por dois anos seguidos pela ABComm, somos a </span><strong><span style=\"font-size: 15pt\">escolha certa para quem busca consultoria que gera impacto real no resultado do negócio</span></strong><span style=\"font-size: 15pt\">.</span></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Services/Card1.tsx",
+        "title": "<h2><strong><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Entre em Contato</span></strong></h2>",
+        "description": "<p><strong><span style=\"font-size: 15pt\">Quer um diagnóstico gratuito da sua operação?</span></strong><span style=\"font-size: 15pt\"> Solicite uma análise inicial e descubra onde estão suas maiores oportunidades de crescimento e otimização. Estruture seu e-commerce com inteligência estratégica e decisões baseadas em dados. </span></p><p></p><p><span style=\"font-size: 15pt\">Fale com nossos especialistas:</span></p><p><strong><span style=\"font-size: 15pt\">Telefone</span></strong><span style=\"font-size: 15pt\">: +55 (51) 9 9547-4933</span></p><p><strong><span style=\"font-size: 15pt\">E-mail</span></strong><span style=\"font-size: 15pt\">: </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"mailto:comercial@wavecommerce.com.br\"><u><span style=\"color: rgb(1, 102, 228); font-size: 15pt\">comercial@wavecommerce.com</span></u></a></p>"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "footer-fixo"
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
