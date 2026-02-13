@@ -79,73 +79,64 @@
       }
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Images/BannerHero.tsx",
-        "id": "/",
-        "lcp": false,
-        "image": {
-          "alt": "imagem hero",
+      "__resolveType": "site/sections/Images/BannerHero.tsx",
+      "id": "/",
+      "lcp": false,
+      "image": {
+        "alt": "imagem hero",
+        "icon": [
+          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0900b447-e535-43c5-99cf-37531a5f8c06",
+          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/269b9cfc-c385-4129-9773-4df842bf94c9",
+          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b26a25bb-f5e9-43f6-b075-08e50e19d83e"
+        ],
+        "image": [
+          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f4bb669-d7c2-49a4-b23c-df42305a8087",
+          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f7fcfd4d-1233-4678-b563-beadb4f8509e",
+          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d09952e4-1ee6-4c5d-b3bd-3ac02db65bb3",
+          "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1a478762-e3a6-4969-b8da-0cfaae4b0dfa"
+        ],
+        "action": {
+          "href": "/",
           "icon": [
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/0900b447-e535-43c5-99cf-37531a5f8c06",
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/269b9cfc-c385-4129-9773-4df842bf94c9",
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/b26a25bb-f5e9-43f6-b075-08e50e19d83e"
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/58502fad-6a97-43f5-9231-1a7f4f59fe5a",
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
+            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
           ],
-          "image": [
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f4bb669-d7c2-49a4-b23c-df42305a8087",
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/f7fcfd4d-1233-4678-b563-beadb4f8509e",
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d09952e4-1ee6-4c5d-b3bd-3ac02db65bb3",
-            "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/1a478762-e3a6-4969-b8da-0cfaae4b0dfa"
+          "title": "Agência de \nE-commerce: \nsomos a melhor agência de performance do Brasil",
+          "hasImage": [
+            {
+              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
+            },
+            {
+              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/72a43e7b-73fe-4ac1-8a0c-e8b6e3cc5cf0"
+            },
+            {
+              "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
+            }
           ],
-          "action": {
-            "href": "/",
-            "icon": [
-              "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/58502fad-6a97-43f5-9231-1a7f4f59fe5a",
-              "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/2116f295-a0ef-4f51-9c15-d0738f8fb157",
-              "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/d04d5a9d-e858-4d46-8707-01505ae4c2cf"
-            ],
-            "title": "Agência de \nE-commerce: \nsomos a melhor agência de performance do Brasil",
-            "hasImage": [
-              {
-                "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/12fc8052-9b43-408f-9a05-51818717bdeb"
-              },
-              {
-                "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/72a43e7b-73fe-4ac1-8a0c-e8b6e3cc5cf0"
-              },
-              {
-                "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/51a1928f-14a9-4b5d-a5a3-7c8d4862db23"
-              }
-            ],
-            "content": "<p><span style=\"font-size: 10pt\">Premiados pela ABCOMM</span></p>"
-          },
-          "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
-          "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
-          "isEmptyBrand": false,
-          "type": "video",
-          "desktopVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
-          "mobileVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
-          "showText": false,
-          "showSoundControls": true
-        }
+          "content": "<p><span style=\"font-size: 10pt\">Premiados pela ABCOMM</span></p>"
+        },
+        "mobile": "https://data.decoassets.com/site-wave/1043299d-b081-43e1-8ba6-3d93cfa78a2d/Group-109.jpg",
+        "desktop": "https://data.decoassets.com/site-wave/3cc53d11-a0cf-4f7c-b434-86da0b243f7d/home-2-3-1.jpg",
+        "isEmptyBrand": false,
+        "type": "video",
+        "desktopVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
+        "mobileVideo": "https://assets.decocache.com/site-wave/b7aac525-b317-41d7-b3e1-c35b4369e4ff/Agencia-Wave-Commerce---Institucional.mp4",
+        "showText": false,
+        "showSoundControls": true
       }
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "large"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "large"
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
       "contentTitle": "<p style=\"text-align: center\"><span style=\"color: #fffafa; font-size: 22pt\">Somos a escolha certa para a sua</span><span style=\"font-size: 22pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 22pt\">jornada digital.</span></p>"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "large"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "large"
     },
     {
       "__resolveType": "site/sections/Content/BigNumbers.tsx",
@@ -169,32 +160,23 @@
       ]
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "xlarge"
     },
     {
       "__resolveType": "slide-nossos-clientes"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "xlarge"
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
       "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Digital Experts:</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(242, 242, 242); font-size: 25pt\">estratégias de sucesso.</span></h2>"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "large"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "large"
     },
     {
       "__resolveType": "site/sections/Content/CardService.tsx",
@@ -318,43 +300,31 @@
       "isEmptyBrand": true
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "xlarge"
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
       "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(240, 239, 239); font-size: 25pt\">Parceiros de</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sucesso </span><span style=\"color: rgb(255, 255, 255); font-size: 25pt\">que confiamos para seu projeto</span><span style=\"color: #ffffff; font-size: 25pt\">.</span></h2>"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "large"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "large"
     },
     {
       "__resolveType": "slide-nossos-parceiros"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "xlarge"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "xlarge"
     },
     {
       "__resolveType": "site/sections/Institutionals/Titles.tsx",
       "contentTitle": "<h2 style=\"text-align: center\"><span style=\"color: rgb(245, 245, 245); font-size: 25pt\">Nossas Histórias de</span><span style=\"font-size: 25pt\"> </span><span style=\"color: rgb(0, 102, 228); font-size: 25pt\">Sucesso.</span></h2>"
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Space.tsx",
-        "size": "large"
-      }
+      "__resolveType": "site/sections/Space.tsx",
+      "size": "large"
     },
     {
       "__resolveType": "site/sections/Content/CardCases.tsx",
@@ -434,293 +404,290 @@
       ]
     },
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Footer/Footer.tsx",
-        "logo": {
-          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f789f28-819e-4ddb-bc12-1b016e80917b",
-          "description": "O estilo pensado para você"
+      "__resolveType": "site/sections/Footer/Footer.tsx",
+      "logo": {
+        "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4737/3f789f28-819e-4ddb-bc12-1b016e80917b",
+        "description": "O estilo pensado para você"
+      },
+      "local": [],
+      "layout": {
+        "hide": {
+          "logo": false,
+          "local": false,
+          "extraLinks": false,
+          "mobileApps": true,
+          "newsletter": false,
+          "socialLinks": false,
+          "backToTheTop": true,
+          "sectionLinks": false,
+          "regionOptions": true,
+          "paymentMethods": true
         },
-        "local": [],
-        "layout": {
-          "hide": {
-            "logo": false,
-            "local": false,
-            "extraLinks": false,
-            "mobileApps": true,
-            "newsletter": false,
-            "socialLinks": false,
-            "backToTheTop": true,
-            "sectionLinks": false,
-            "regionOptions": true,
-            "paymentMethods": true
-          },
-          "variation": "Variation 4",
-          "backgroundColor": "Primary"
+        "variation": "Variation 4",
+        "backgroundColor": "Primary"
+      },
+      "social": [
+        {
+          "link": "https://www.instagram.com/wavecommerceoficial/",
+          "label": "Instagram"
         },
-        "social": [
+        {
+          "link": "https://www.youtube.com/channel/UCUNkI5Tygiky01A3md_ejEA",
+          "label": "Youtube"
+        },
+        {
+          "link": "https://br.linkedin.com/company/wavecommerce-agencia",
+          "label": "Linkedin"
+        }
+      ],
+      "payments": {
+        "items": [
           {
-            "link": "https://www.instagram.com/wavecommerceoficial/",
-            "label": "Instagram"
+            "label": "Elo"
           },
           {
-            "link": "https://www.youtube.com/channel/UCUNkI5Tygiky01A3md_ejEA",
-            "label": "Youtube"
+            "label": "Mastercard"
           },
           {
-            "link": "https://br.linkedin.com/company/wavecommerce-agencia",
-            "label": "Linkedin"
+            "label": "Pix"
+          },
+          {
+            "label": "Visa"
           }
         ],
-        "payments": {
+        "title": "Formas de pagamento"
+      },
+      "sections": [
+        {
           "items": [
             {
-              "label": "Elo"
+              "href": "/performance",
+              "label": "Branding E Performance"
             },
             {
-              "label": "Mastercard"
+              "href": "/conteudo-digital",
+              "label": "Conteúdo Digital"
             },
             {
-              "label": "Pix"
+              "href": "/crm",
+              "label": "CRM"
             },
             {
-              "label": "Visa"
+              "href": "#",
+              "label": "CRO"
+            },
+            {
+              "href": "/criacao-e-designer",
+              "label": "Design - UX e UI"
+            },
+            {
+              "href": "/ecommerce-nos-eua",
+              "label": "E-commerce Internacional"
+            },
+            {
+              "href": "/fulfillment",
+              "label": "Fulfillment"
+            },
+            {
+              "label": "Implementação de E-commerce",
+              "href": "/implementacao-de-ecommerce"
+            },
+            {
+              "label": "Marketplace IN e Out",
+              "href": "/marketplace"
+            },
+            {
+              "label": "Marketing para APP",
+              "href": "#"
+            },
+            {
+              "label": "SEO para E- commerce",
+              "href": "/seo"
+            },
+            {
+              "label": "Suporte e Evolução",
+              "href": "#"
             }
           ],
-          "title": "Formas de pagamento"
+          "label": "Serviços"
         },
-        "sections": [
-          {
-            "items": [
-              {
-                "href": "/performance",
-                "label": "Branding E Performance"
-              },
-              {
-                "href": "/conteudo-digital",
-                "label": "Conteúdo Digital"
-              },
-              {
-                "href": "/crm",
-                "label": "CRM"
-              },
-              {
-                "href": "#",
-                "label": "CRO"
-              },
-              {
-                "href": "/criacao-e-designer",
-                "label": "Design - UX e UI"
-              },
-              {
-                "href": "/ecommerce-nos-eua",
-                "label": "E-commerce Internacional"
-              },
-              {
-                "href": "/fulfillment",
-                "label": "Fulfillment"
-              },
-              {
-                "label": "Implementação de E-commerce",
-                "href": "/implementacao-de-ecommerce"
-              },
-              {
-                "label": "Marketplace IN e Out",
-                "href": "/marketplace"
-              },
-              {
-                "label": "Marketing para APP",
-                "href": "#"
-              },
-              {
-                "label": "SEO para E- commerce",
-                "href": "/seo"
-              },
-              {
-                "label": "Suporte e Evolução",
-                "href": "#"
-              }
-            ],
-            "label": "Serviços"
-          },
-          {
-            "items": [
-              {
-                "href": "/amazon",
-                "label": "Amazon"
-              },
-              {
-                "href": "/deco-cx",
-                "label": "Deco.cx"
-              },
-              {
-                "href": "/linx",
-                "label": "Linx"
-              },
-              {
-                "href": "/vtex",
-                "label": "VTEX"
-              },
-              {
-                "href": "/shopify",
-                "label": "Shopify"
-              },
-              {
-                "href": "/parceiros",
-                "label": "Ver todos"
-              }
-            ],
-            "label": "Parceiros",
-            "children": [
-              {
-                "href": "/quemsomos",
-                "label": "Quem somos"
-              },
-              {
-                "href": "/privacidadeeseguranca",
-                "label": "Privacidade e segurança"
-              },
-              {
-                "href": "/termosdeuso",
-                "label": "Termos de uso"
-              },
-              {
-                "href": "/trabalheconosco",
-                "label": "Trabalhe conosco"
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "href": "/friopecas",
-                "label": "Friopeças"
-              },
-              {
-                "label": "Grêmio",
-                "href": "/gremio"
-              },
-              {
-                "href": "/cook-eletroraro",
-                "label": "Cook Eletroraro"
-              },
-              {
-                "href": "/sex-shop-atacadao",
-                "label": "Sex Shop Atacadão"
-              },
-              {
-                "href": "/safira",
-                "label": "Safira"
-              },
-              {
-                "label": "Termolar",
-                "href": "/termolar"
-              },
-              {
-                "label": "True Source",
-                "href": "/true-source"
-              },
-              {
-                "label": "ver todos",
-                "href": "/cases"
-              }
-            ],
-            "label": "Cases",
-            "children": [
-              {
-                "href": "/centraldeatendimento",
-                "label": "Central de atendimento"
-              },
-              {
-                "href": "/whatsapp",
-                "label": "Fale conosco pelo WhatsApp"
-              },
-              {
-                "href": "/trocaedevolucao",
-                "label": "Troca e devolução"
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "href": "/blog",
-                "label": "Blog"
-              },
-              {
-                "href": "/contato",
-                "label": "Contato"
-              },
-              {
-                "href": "/quem somos",
-                "label": "Quem somos"
-              },
-              {
-                "href": "/vagas",
-                "label": "Vagas"
-              }
-            ],
-            "label": "Institucional",
-            "children": [
-              {
-                "href": "/loginecadastro",
-                "label": "Login e cadastro"
-              },
-              {
-                "href": "/meuspedidos",
-                "label": "Meus pedidos"
-              }
-            ]
-          }
-        ],
-        "extraLinks": [
-          {
-            "href": "http://www.google.com",
-            "link": "http://www.google.com/",
-            "label": "Política de privacidade"
-          },
-          {
-            "href": "http://www.google.com",
-            "link": "http://www.google.com",
-            "label": "Termos de serviço"
-          }
-        ],
-        "mobileApps": {
-          "apple": "http://www.google.com",
-          "android": "http://www.google.com"
-        },
-        "newsletter": {
-          "form": {
-            "helpText": "<p>Ao se inscrever, você está aceitando nossa <a href=\"/\" class=\"link\">Política de Privacidade</a>.</p>"
-          },
-          "title": "Newsletter",
-          "description": "Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados."
-        },
-        "backToTheTop": {
-          "text": "Voltar ao topo"
-        },
-        "regionOptions": {
-          "currency": [
+        {
+          "items": [
             {
-              "href": "/",
-              "label": "Brasil BRL"
+              "href": "/amazon",
+              "label": "Amazon"
             },
             {
-              "href": "/",
-              "label": "United Stated USD"
+              "href": "/deco-cx",
+              "label": "Deco.cx"
+            },
+            {
+              "href": "/linx",
+              "label": "Linx"
+            },
+            {
+              "href": "/vtex",
+              "label": "VTEX"
+            },
+            {
+              "href": "/shopify",
+              "label": "Shopify"
+            },
+            {
+              "href": "/parceiros",
+              "label": "Ver todos"
             }
           ],
-          "language": [
+          "label": "Parceiros",
+          "children": [
             {
-              "href": "/",
-              "label": "PT"
+              "href": "/quemsomos",
+              "label": "Quem somos"
             },
             {
-              "href": "/",
-              "label": "EN"
+              "href": "/privacidadeeseguranca",
+              "label": "Privacidade e segurança"
+            },
+            {
+              "href": "/termosdeuso",
+              "label": "Termos de uso"
+            },
+            {
+              "href": "/trabalheconosco",
+              "label": "Trabalhe conosco"
+            }
+          ]
+        },
+        {
+          "items": [
+            {
+              "href": "/friopecas",
+              "label": "Friopeças"
+            },
+            {
+              "label": "Grêmio",
+              "href": "/gremio"
+            },
+            {
+              "href": "/cook-eletroraro",
+              "label": "Cook Eletroraro"
+            },
+            {
+              "href": "/sex-shop-atacadao",
+              "label": "Sex Shop Atacadão"
+            },
+            {
+              "href": "/safira",
+              "label": "Safira"
+            },
+            {
+              "label": "Termolar",
+              "href": "/termolar"
+            },
+            {
+              "label": "True Source",
+              "href": "/true-source"
+            },
+            {
+              "label": "ver todos",
+              "href": "/cases"
+            }
+          ],
+          "label": "Cases",
+          "children": [
+            {
+              "href": "/centraldeatendimento",
+              "label": "Central de atendimento"
+            },
+            {
+              "href": "/whatsapp",
+              "label": "Fale conosco pelo WhatsApp"
+            },
+            {
+              "href": "/trocaedevolucao",
+              "label": "Troca e devolução"
+            }
+          ]
+        },
+        {
+          "items": [
+            {
+              "href": "/blog",
+              "label": "Blog"
+            },
+            {
+              "href": "/contato",
+              "label": "Contato"
+            },
+            {
+              "href": "/quem somos",
+              "label": "Quem somos"
+            },
+            {
+              "href": "/vagas",
+              "label": "Vagas"
+            }
+          ],
+          "label": "Institucional",
+          "children": [
+            {
+              "href": "/loginecadastro",
+              "label": "Login e cadastro"
+            },
+            {
+              "href": "/meuspedidos",
+              "label": "Meus pedidos"
             }
           ]
         }
+      ],
+      "extraLinks": [
+        {
+          "href": "http://www.google.com",
+          "link": "http://www.google.com/",
+          "label": "Política de privacidade"
+        },
+        {
+          "href": "http://www.google.com",
+          "link": "http://www.google.com",
+          "label": "Termos de serviço"
+        }
+      ],
+      "mobileApps": {
+        "apple": "http://www.google.com",
+        "android": "http://www.google.com"
+      },
+      "newsletter": {
+        "form": {
+          "helpText": "<p>Ao se inscrever, você está aceitando nossa <a href=\"/\" class=\"link\">Política de Privacidade</a>.</p>"
+        },
+        "title": "Newsletter",
+        "description": "Somos experts em performance digital e, assim como nossos clientes, somos orientados a resultados."
+      },
+      "backToTheTop": {
+        "text": "Voltar ao topo"
+      },
+      "regionOptions": {
+        "currency": [
+          {
+            "href": "/",
+            "label": "Brasil BRL"
+          },
+          {
+            "href": "/",
+            "label": "United Stated USD"
+          }
+        ],
+        "language": [
+          {
+            "href": "/",
+            "label": "PT"
+          },
+          {
+            "href": "/",
+            "label": "EN"
+          }
+        ]
       }
     }
   ],
