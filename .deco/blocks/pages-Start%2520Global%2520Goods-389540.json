@@ -20,11 +20,11 @@
         "title": "Start Global Goods",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/542a87fb-a320-4444-ac1f-98f18dc4e417/desk-startglobalgoods.jpg",
+            "src": "https://decoims.com/site-wave/542a87fb-a320-4444-ac1f-98f18dc4e417/desk-startglobalgoods.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/243c59d1-cea2-4b11-9a3d-a348dfd49e8f/mob-startglobalgoods.jpg",
+            "src": "https://decoims.com/site-wave/243c59d1-cea2-4b11-9a3d-a348dfd49e8f/mob-startglobalgoods.jpg",
             "height": 500
           }
         }

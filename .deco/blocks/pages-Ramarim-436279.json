@@ -20,11 +20,11 @@
         "title": "Ramarim",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/9b268af0-ad55-4749-ae43-a9e3e8474363/desk-ramarim.jpg",
+            "src": "https://decoims.com/site-wave/9b268af0-ad55-4749-ae43-a9e3e8474363/desk-ramarim.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/426cf730-f157-4a15-9fad-3c38a7b48937/mob-ramarim.jpg",
+            "src": "https://decoims.com/site-wave/426cf730-f157-4a15-9fad-3c38a7b48937/mob-ramarim.jpg",
             "height": 500
           }
         }

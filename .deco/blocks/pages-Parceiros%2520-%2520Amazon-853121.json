@@ -17,11 +17,11 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/d8ec8a84-45dc-4c28-8249-c4c72807e65d/desk-amazon.jpg",
+            "src": "https://decoims.com/site-wave/d8ec8a84-45dc-4c28-8249-c4c72807e65d/desk-amazon.jpg",
             "height": 730
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/219c224b-c6c9-41db-81ad-800d400a29f9/mob-amazon.jpg",
+            "src": "https://decoims.com/site-wave/219c224b-c6c9-41db-81ad-800d400a29f9/mob-amazon.jpg",
             "height": 500
           }
         },
@@ -73,7 +73,7 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          "logo": "https://decoims.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
         },
         "services": [
           {
@@ -150,7 +150,7 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          "logo": "https://decoims.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
         },
         "services": [
           {

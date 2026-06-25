@@ -20,11 +20,11 @@
         "title": "Casa e Casa",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/59bf1509-b092-4304-9d21-392b4fe1db43/desk-casaecasa.jpg",
+            "src": "https://decoims.com/site-wave/59bf1509-b092-4304-9d21-392b4fe1db43/desk-casaecasa.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3383833e-ea37-4857-af06-d9e333ff9fef/mob-casaecasa.jpg",
+            "src": "https://decoims.com/site-wave/3383833e-ea37-4857-af06-d9e333ff9fef/mob-casaecasa.jpg",
             "height": 500
           }
         }

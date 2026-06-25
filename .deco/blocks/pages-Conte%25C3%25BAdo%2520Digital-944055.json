@@ -20,12 +20,12 @@
       "title": "Conteúdo Digital",
       "bgImage": {
         "mobile": {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/89f7ca51-0066-4fac-9d68-b19bc8d8e85c/mob-conteudo.jpg",
+          "src": "https://decoims.com/site-wave/89f7ca51-0066-4fac-9d68-b19bc8d8e85c/mob-conteudo.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e059b2f9-5ca5-41ca-8177-5cbe8de31ba8/desk-conteudo.jpg",
+          "src": "https://decoims.com/site-wave/e059b2f9-5ca5-41ca-8177-5cbe8de31ba8/desk-conteudo.jpg",
           "height": 820
         }
       },

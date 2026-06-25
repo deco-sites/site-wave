@@ -20,11 +20,11 @@
         "title": "True Source",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/10d9aa4a-8cc7-4402-a3d5-f4d5aa9f9354/Rectangle-170.png",
+            "src": "https://decoims.com/site-wave/10d9aa4a-8cc7-4402-a3d5-f4d5aa9f9354/Rectangle-170.png",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d8e7205-197c-4dac-b06b-a1d5129faf20/home-2-3-4.jpg",
+            "src": "https://decoims.com/site-wave/8d8e7205-197c-4dac-b06b-a1d5129faf20/home-2-3-4.jpg",
             "height": 700
           }
         }
@@ -51,17 +51,17 @@
                 {
                   "titleColor": "primary",
                   "title": "Desenvolvimento de layout",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://decoims.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
                 },
                 {
                   "titleColor": "primary",
                   "title": "Desenvolvimento de layout",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://decoims.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
                 },
                 {
                   "titleColor": "primary",
                   "title": "Desenvolvimento de layout",
-                  "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
+                  "icon": "https://decoims.com/site-wave/1f99b40e-f8d5-4a1c-abf4-9698eef23ddd/282eed61-21d0-49f4-b74e-0e9a152dba3d.png"
                 }
               ]
             }
@@ -118,17 +118,17 @@
           {
             "titleColor": "primary",
             "title": "usabilidade do site foi aprimorada",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1f17e44a-10d6-401d-ba13-b29c80fcd57e/8129a298-4e21-4079-91f6-9530e9915154.png"
+            "icon": "https://decoims.com/site-wave/1f17e44a-10d6-401d-ba13-b29c80fcd57e/8129a298-4e21-4079-91f6-9530e9915154.png"
           },
           {
             "titleColor": "primary",
             "title": "A velocidade do site aumentou consideravelmente",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a22039eb-3f18-4bb2-940f-07c63cf580d6/dbb57264-6a22-40a0-bb09-0f0527004bb3.png"
+            "icon": "https://decoims.com/site-wave/a22039eb-3f18-4bb2-940f-07c63cf580d6/dbb57264-6a22-40a0-bb09-0f0527004bb3.png"
           },
           {
             "titleColor": "primary",
             "title": "as vitrines inteligentes foram otimizadas, proporcionando uma experiencia de compra mais agradável.",
-            "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/c093d5d2-0d52-460e-a674-28313b8302e8/1af63458-23f3-41d3-bbff-5112678e0c94.png"
+            "icon": "https://decoims.com/site-wave/c093d5d2-0d52-460e-a674-28313b8302e8/1af63458-23f3-41d3-bbff-5112678e0c94.png"
           }
         ]
       }

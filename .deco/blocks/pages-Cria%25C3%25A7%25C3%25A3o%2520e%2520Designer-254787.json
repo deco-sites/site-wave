@@ -20,12 +20,12 @@
       "title": "Design & UX/UI",
       "bgImage": {
         "mobile": {
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/8d4bf755-50c8-4c72-ac29-cc5b64857cd5/mob-design.jpg",
+          "src": "https://decoims.com/site-wave/8d4bf755-50c8-4c72-ac29-cc5b64857cd5/mob-design.jpg",
           "height": 570
         },
         "desktop": {
           "alt": "Tecnologia Wave",
-          "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/db9e9cb8-04da-4cad-bd50-17ee123b5519/desk-design.jpg",
+          "src": "https://decoims.com/site-wave/db9e9cb8-04da-4cad-bd50-17ee123b5519/desk-design.jpg",
           "height": 820
         }
       },

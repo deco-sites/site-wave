@@ -17,11 +17,11 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3a7fbed1-ae12-4954-8817-693994ca7d9c/desk-wake.jpg",
+            "src": "https://decoims.com/site-wave/3a7fbed1-ae12-4954-8817-693994ca7d9c/desk-wake.jpg",
             "height": 730
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a236ee83-c014-48df-ace7-6a9e9ea3453d/mob-wake.jpg",
+            "src": "https://decoims.com/site-wave/a236ee83-c014-48df-ace7-6a9e9ea3453d/mob-wake.jpg",
             "height": 500
           }
         },
@@ -66,7 +66,7 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          "logo": "https://decoims.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
         },
         "services": [
           {
@@ -143,7 +143,7 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          "logo": "https://decoims.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
         },
         "services": [
           {
@@ -182,7 +182,7 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          "logo": "https://decoims.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
         },
         "services": [
           {

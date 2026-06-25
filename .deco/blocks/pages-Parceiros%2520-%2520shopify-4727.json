@@ -17,11 +17,11 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/52a86f9f-5d31-4a78-8d4f-02040489bef7/desk-shopify.jpg",
+            "src": "https://decoims.com/site-wave/52a86f9f-5d31-4a78-8d4f-02040489bef7/desk-shopify.jpg",
             "height": 730
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/bc3f5723-8929-457f-ab89-fc8c7eb6b397/mob-shopify.jpg",
+            "src": "https://decoims.com/site-wave/bc3f5723-8929-457f-ab89-fc8c7eb6b397/mob-shopify.jpg",
             "height": 500
           }
         },
@@ -154,7 +154,7 @@
       "section": {
         "__resolveType": "site/sections/Institutionals/CardBrand.tsx",
         "brand": {
-          "logo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
+          "logo": "https://decoims.com/site-wave/4cf498cc-deab-4f17-bc95-eea6b0a3a524/Vector.svg"
         },
         "services": [
           {

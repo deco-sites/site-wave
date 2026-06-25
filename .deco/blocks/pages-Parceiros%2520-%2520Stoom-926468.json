@@ -19,11 +19,11 @@
         "__resolveType": "site/sections/Institutionals/Hero.tsx",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/cf82a6a1-e218-42ed-955c-e221f35d5471/desk-stoom.jpg",
+            "src": "https://decoims.com/site-wave/cf82a6a1-e218-42ed-955c-e221f35d5471/desk-stoom.jpg",
             "height": 730
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e3fc02eb-3697-4121-bf2c-a38c5c729de7/mov-stoom.jpg",
+            "src": "https://decoims.com/site-wave/e3fc02eb-3697-4121-bf2c-a38c5c729de7/mov-stoom.jpg",
             "height": 500
           }
         },

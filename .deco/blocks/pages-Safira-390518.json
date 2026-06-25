@@ -20,11 +20,11 @@
         "title": "Safira",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/dd0a0852-21f3-41d2-ac44-721c2117964f/desk-safira.jpg",
+            "src": "https://decoims.com/site-wave/dd0a0852-21f3-41d2-ac44-721c2117964f/desk-safira.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/300d2e63-e688-4e52-afaf-3a3daa99f68d/mob-safira.jpg",
+            "src": "https://decoims.com/site-wave/300d2e63-e688-4e52-afaf-3a3daa99f68d/mob-safira.jpg",
             "height": 500
           }
         }

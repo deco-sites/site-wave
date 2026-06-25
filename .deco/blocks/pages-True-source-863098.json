@@ -20,11 +20,11 @@
         "title": "True Source",
         "bgImage": {
           "desktop": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/162c0ec6-ec42-4378-a0ee-79c99b6ab780/desk-truesource.jpg",
+            "src": "https://decoims.com/site-wave/162c0ec6-ec42-4378-a0ee-79c99b6ab780/desk-truesource.jpg",
             "height": 700
           },
           "mobile": {
-            "src": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/216d9436-164c-4e49-b577-620de3abff63/mob-truesource.jpg",
+            "src": "https://decoims.com/site-wave/216d9436-164c-4e49-b577-620de3abff63/mob-truesource.jpg",
             "height": 500
           }
         }

@@ -131,8 +131,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/32f7f8f5-2a19-47d2-92f0-f1326de64a2f/Rectangle-168.png",
+        "imageDesktop": "https://decoims.com/site-wave/98d178e2-acad-4104-b2b1-35952c0a75ca/Rectangle-170.png",
+        "imageMobile": "https://decoims.com/site-wave/32f7f8f5-2a19-47d2-92f0-f1326de64a2f/Rectangle-168.png",
         "button": {
           "link": "/true-source",
           "label": "Saiba mais"
@@ -145,8 +145,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/3febd3ce-2b5a-40de-9222-af424e61b50e/desk-ramarim-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/04719289-cd17-49ed-af64-bd9da0cae17f/mob-ramarim-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/3febd3ce-2b5a-40de-9222-af424e61b50e/desk-ramarim-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/04719289-cd17-49ed-af64-bd9da0cae17f/mob-ramarim-case.jpg",
         "button": {
           "link": "/ramarim",
           "label": "Saiba mais"
@@ -159,8 +159,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/cbb6667f-40c3-475c-a1c2-bdb70764636d/desk-termolar-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/50f4d88c-9905-46ec-bd46-bb2de2f25ab7/mob-termolar-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/cbb6667f-40c3-475c-a1c2-bdb70764636d/desk-termolar-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/50f4d88c-9905-46ec-bd46-bb2de2f25ab7/mob-termolar-case.jpg",
         "button": {
           "link": "/termolar",
           "label": "Saiba mais"
@@ -173,8 +173,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/a5b90107-69e1-43a1-b402-fbbad55a8349/desk-safira-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/846452df-76f6-4091-84b2-6a29cfa5a5c9/mob-safira-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/a5b90107-69e1-43a1-b402-fbbad55a8349/desk-safira-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/846452df-76f6-4091-84b2-6a29cfa5a5c9/mob-safira-case.jpg",
         "button": {
           "label": "Saiba mais",
           "link": "/safira"
@@ -187,8 +187,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/072d5723-faf6-4868-928e-4e0bdb00432d/desk-hocks-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7a3d51a2-d799-47dc-bad9-f1b5cdec17e9/mob-hocks-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/072d5723-faf6-4868-928e-4e0bdb00432d/desk-hocks-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/7a3d51a2-d799-47dc-bad9-f1b5cdec17e9/mob-hocks-case.jpg",
         "button": {
           "link": "/hocks",
           "label": "Saiba mais"
@@ -201,8 +201,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/945a17af-5262-4ff7-99cf-decc32149ca4/desk-cookeletroraro-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/43ae0294-7902-4dab-96b1-f18a06d06d03/mob-cookeletroraro-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/945a17af-5262-4ff7-99cf-decc32149ca4/desk-cookeletroraro-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/43ae0294-7902-4dab-96b1-f18a06d06d03/mob-cookeletroraro-case.jpg",
         "button": {
           "link": "/cook-eletroraro",
           "label": "Saiba mais"
@@ -215,8 +215,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/0b601cb0-d62c-493f-836e-73a8445cddfe/desk-startglobalgoods-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/975942b2-51f5-4c20-ada8-62c59624f1b9/mob-startglobalgoods-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/0b601cb0-d62c-493f-836e-73a8445cddfe/desk-startglobalgoods-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/975942b2-51f5-4c20-ada8-62c59624f1b9/mob-startglobalgoods-case.jpg",
         "button": {
           "link": "/start-global-goods",
           "label": "Saiba mais"
@@ -229,8 +229,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/b3209434-1410-47fd-9cbb-8dd16c01e485/desk-casaecasa-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/e831ae55-869b-4790-bf58-896c6a570957/mob-casaecasa-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/b3209434-1410-47fd-9cbb-8dd16c01e485/desk-casaecasa-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/e831ae55-869b-4790-bf58-896c6a570957/mob-casaecasa-case.jpg",
         "button": {
           "link": "/casa-e-casa",
           "label": "Saiba mais"
@@ -243,8 +243,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/7c715536-021e-4ebc-a848-3741154bfd02/desk-banca43-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/1fdfaede-b8c6-434f-ac02-20f95f410ef7/mob-banca43-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/7c715536-021e-4ebc-a848-3741154bfd02/desk-banca43-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/1fdfaede-b8c6-434f-ac02-20f95f410ef7/mob-banca43-case.jpg",
         "button": {
           "link": "/banca-43",
           "label": "Saiba mais"
@@ -257,8 +257,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Institutionals/InfoCard.tsx",
-        "imageDesktop": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/ef30e968-b74f-42a4-a5a1-ca4b36f9478b/desk-sexshop-case.jpg",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/site-wave/5f76ab9f-0757-440d-aa39-5bac664001fc/mob-sexshop-case.jpg",
+        "imageDesktop": "https://decoims.com/site-wave/ef30e968-b74f-42a4-a5a1-ca4b36f9478b/desk-sexshop-case.jpg",
+        "imageMobile": "https://decoims.com/site-wave/5f76ab9f-0757-440d-aa39-5bac664001fc/mob-sexshop-case.jpg",
         "button": {
           "link": "/sex-shop-atacadao",
           "label": "Saiba mais"
